@@ -10,7 +10,7 @@ from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, HRFlowable
 BASE = os.path.dirname(os.path.abspath(__file__))
 DATE, AMPM = "2026-08-22", "pm"
 EDITION = "Evening Edition"
-DATELINE = "Evening Edition &#183; Saturday 22 August 2026 &#183; 22:40 AEST (Australia/Sydney)"
+DATELINE = "Evening Edition \u00b7 Saturday 22 August 2026 \u00b7 22:40 AEST \u00b7 Sydney, NSW"
 ARTIFACT = "https://claude.ai/code/artifact/843fe9ec-75b9-43fe-b1f1-19454a9716c4"
 OUT = os.path.join(BASE, "public-news-wire-snapshot-%s-%s.pdf" % (DATE, AMPM))
 

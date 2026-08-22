@@ -96,7 +96,7 @@ abcau["items"] = _drop(abcau["items"], "Bloods")
 abcau["items"].append(bf["abc_item"])
 
 EDITION = "Evening Edition"
-DATELINE = "Saturday 22 August 2026 &middot; 22:40 AEST (Australia/Sydney)"
+DATELINE = "Saturday 22 August 2026 \u00b7 22:40 AEST \u00b7 Sydney, NSW"
 GEN_NOTE = "Generated Saturday 22 August 2026 at 22:40 AEST / 12:40 UTC."
 
 def chg_class(c):
@@ -140,7 +140,7 @@ WEATHER = """<div class="wx-strip" id="wx-strip" data-fallback-url="%s">
 <a class="wx-place" id="wx-place" href="%s" target="_blank" rel="noopener">%s</a>
 %s
 </div>
-<p class="caption wx-note" id="wx-note">Current conditions observed %s local time, via <a href="%s" target="_blank" rel="noopener">Open-Meteo</a>, with the outlook link going to the <a href="%s" target="_blank" rel="noopener">%s</a>. Location is taken from this edition's build timezone (%s); allow location access in your browser and the strip switches to your own local conditions.</p>""" % (
+<p class="caption wx-note" id="wx-note">Current conditions observed %s local time, via <a href="%s" target="_blank" rel="noopener">Open-Meteo</a>, with the outlook link going to the <a href="%s" target="_blank" rel="noopener">%s</a>. Location is taken from this edition's build timezone, %s; allow location access in your browser and the strip switches to your own local conditions.</p>""" % (
     E(wx["source_url"]), E(wx["source_url"]), E("%s &middot; %s" % (wx["place"], wx["condition"])).replace("&amp;middot;", "&middot;"),
     "\n".join([
         wx_cell("Now", wx["temp"], wx["obs_url"]),
@@ -150,7 +150,7 @@ WEATHER = """<div class="wx-strip" id="wx-strip" data-fallback-url="%s">
         wx_cell("Humidity", wx["humidity"], wx["obs_url"]),
         wx_cell("Rain", wx["rain_chance"], wx["source_url"]),
     ]),
-    E(wx["observed"]), E(wx["obs_url"]), E(wx["source_url"]), E(wx["source_label"]), E(wx["timezone"]))
+    E(wx["observed"]), E(wx["obs_url"]), E(wx["source_url"]), E(wx["source_label"]), E(wx["place"]))
 
 WEATHER_JS = """<script>
 (function () {
@@ -508,7 +508,7 @@ HTML = """<style>%s</style>
   <div class="dateline">
     <span class="edition-chip">%s</span>
     <span>%s</span>
-    <span>&middot;</span>
+    <span>·</span>
     <span><a href="https://www.boeq.com.au" target="_blank" rel="noopener">boeq.com.au</a></span>
   </div>
 </header>
