@@ -160,6 +160,9 @@ cr_html = '<div class="cr-grid">%s</div>' % "".join(cr_html)
 tech_html = headline_list(tech["items"])
 
 outlets = na["outlets"] + nb["outlets"]
+# ABC News (US) slots in with the US broadcast outlets, after Fox and before the WSJ.
+abcus = load("news-abcus.json")["outlet"]
+outlets.insert([o["key"] for o in outlets].index("fox") + 1, abcus)
 alj = [o for o in outlets if o["key"] == "aljazeera"]
 outlets = [o for o in outlets if o["key"] != "aljazeera"] + alj
 news_html = []
