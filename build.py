@@ -316,6 +316,13 @@ outlets = na["outlets"] + nb["outlets"]
 # ABC News (US) slots in with the US broadcast outlets, after Fox and before the WSJ.
 abcus = load("news-abcus.json")["outlet"]
 outlets.insert([o["key"] for o in outlets].index("fox") + 1, abcus)
+
+# Reorder the US/UK business-heavy outlets so WSJ (market-first) sits ahead of CNN.
+idx = {o["key"]: i for i, o in enumerate(outlets)}
+wsj = outlets.pop(idx["wsj"])
+cnn_idx = idx["cnn"]
+outlets.insert(cnn_idx, wsj)
+
 alj = [o for o in outlets if o["key"] == "aljazeera"]
 outlets = [o for o in outlets if o["key"] != "aljazeera"] + alj
 news_html = []
