@@ -1,0 +1,161 @@
+{
+  "markets": [
+    {
+      "key": "anz",
+      "title": "ANZ Top Performers",
+      "caption": "Source: Market Index ASX scans, at close Friday 21 August 2026 (AEST). Market Index publishes dollar turnover rather than share volume, so volume shown is approximate, derived as turnover divided by last traded price and prefixed with '~'.",
+      "gainer_note": "Pure One Corporation topped the ASX board after a run of newsflow from its spun-out Project Venus gas play in Queensland's Surat Basin. The company began drilling at the Venus-2 well in mid-August, released a Venus Project location map to the ASX, and reported strong gas shows at the Venus-2H appraisal well as it advanced toward a planned intersection. Sub-5c energy micro-caps typically move violently on drilling updates, and turnover stayed modest at roughly $0.84 million.",
+      "gainer_note_sources": [
+        "https://www.theaustralian.com.au/business/stockhead/content/pure-one-reports-strong-gas-shows-in-venus2h-appraisal-well/news-story/039238518ed12e877bc894bf7d6d0d9e",
+        "https://discoveryalert.com.au/venus-project-pure1-corp-asx-location-map-exploration/",
+        "https://www.themercury.com.au/business/stockhead/long-shortz-with-pure-one-drilling-begins-on-project-venus/news-story/a6e027de174ddabc5a8b1cb8232d6eb1"
+      ],
+      "loser_note": "Iron Road was the session's steepest decliner, but no specific company announcement was reported as the cause, consistent with erratic pricing in a one-cent micro-cap where a single tick is a double-digit percentage move. Turnover was only about $22,000. Context matters: the iron ore explorer booked a $96.5 million impairment against its Central Eyre Iron Project earlier in 2026, and the stock has fallen roughly 69 per cent over the past year.",
+      "loser_note_sources": [
+        "https://www.intelligentinvestor.com.au/shares/asx-ird/iron-road-limited/announcements",
+        "https://www.marketindex.com.au/scans/top-losers"
+      ],
+      "gainers": [
+        {"name": "Pure One Corporation Ltd (P1E)", "url": "https://www.marketindex.com.au/asx/p1e", "price": "$0.043", "chg": "+38.71%", "vol": "~19.6M"},
+        {"name": "Peako Ltd (PKO)", "url": "https://www.marketindex.com.au/asx/pko", "price": "$0.011", "chg": "+37.50%", "vol": "~46.4M"},
+        {"name": "C29 Metals Ltd (C29)", "url": "https://www.marketindex.com.au/asx/c29", "price": "$0.016", "chg": "+33.33%", "vol": "~683.8K"},
+        {"name": "Beam Communications Holdings Ltd (BCC)", "url": "https://www.marketindex.com.au/asx/bcc", "price": "$0.05", "chg": "+25.00%", "vol": "~1.2M"},
+        {"name": "Xstate Resources Ltd (XST)", "url": "https://www.marketindex.com.au/asx/xst", "price": "$0.017", "chg": "+21.43%", "vol": "~2.8M"},
+        {"name": "Hamelin Gold Ltd (HMG)", "url": "https://www.marketindex.com.au/asx/hmg", "price": "$0.26", "chg": "+20.93%", "vol": "~2.4M"},
+        {"name": "Diablo Resources Ltd (DBO)", "url": "https://www.marketindex.com.au/asx/dbo", "price": "$0.018", "chg": "+20.00%", "vol": "~4.7M"},
+        {"name": "Heavy Rare Earths Ltd (HRE)", "url": "https://www.marketindex.com.au/asx/hre", "price": "$0.055", "chg": "+19.57%", "vol": "~1.3M"},
+        {"name": "Eastern Gas Corporation Ltd (EGA)", "url": "https://www.marketindex.com.au/asx/ega", "price": "$0.155", "chg": "+19.23%", "vol": "~275.6K"},
+        {"name": "Amaero Inc (3DA)", "url": "https://www.marketindex.com.au/asx/3da", "price": "$0.22", "chg": "+18.92%", "vol": "~3.6M"}
+      ],
+      "losers": [
+        {"name": "Iron Road Ltd (IRD)", "url": "https://www.marketindex.com.au/asx/ird", "price": "$0.011", "chg": "-26.67%", "vol": "~2.0M"},
+        {"name": "Globe Metals & Mining Ltd (GBE)", "url": "https://www.marketindex.com.au/asx/gbe", "price": "$0.064", "chg": "-26.44%", "vol": "~4.9M"},
+        {"name": "Range International Ltd (RAN)", "url": "https://www.marketindex.com.au/asx/ran", "price": "$0.135", "chg": "-22.86%", "vol": "~459"},
+        {"name": "DGL Group Ltd (DGL)", "url": "https://www.marketindex.com.au/asx/dgl", "price": "$0.305", "chg": "-19.74%", "vol": "~621.1K"},
+        {"name": "Genesis Resources Ltd (GES)", "url": "https://www.marketindex.com.au/asx/ges", "price": "$0.013", "chg": "-18.75%", "vol": "~4.6M"},
+        {"name": "Enero Group Ltd (EGG)", "url": "https://www.marketindex.com.au/asx/egg", "price": "$0.24", "chg": "-18.64%", "vol": "~5.4M"},
+        {"name": "EVE Health Group Ltd (EVE)", "url": "https://www.marketindex.com.au/asx/eve", "price": "$0.015", "chg": "-16.67%", "vol": "~3.9M"},
+        {"name": "SCX.Ai Holdings Ltd (SCX)", "url": "https://www.marketindex.com.au/asx/scx", "price": "$0.25", "chg": "-16.67%", "vol": "~9.8M"},
+        {"name": "Zip Co Ltd (ZIP)", "url": "https://www.marketindex.com.au/asx/zip", "price": "$2.57", "chg": "-15.74%", "vol": "~55.0M"},
+        {"name": "Axel Ree Ltd (AXL)", "url": "https://www.marketindex.com.au/asx/axl", "price": "$0.056", "chg": "-13.85%", "vol": "~71.9K"}
+      ]
+    },
+    {
+      "key": "japan",
+      "title": "Japan Top Performers",
+      "caption": "Source: TradingView Japan market movers, session of Friday 21 August 2026 (JST). Share volumes as reported by TradingView.",
+      "gainer_note": "ANAP Holdings led Tokyo as Asian bitcoin-treasury equities rallied hard on a sharp rebound in the bitcoin price. Peer Metaplanet surged more than 20 per cent to a three-month high in the same session, and the move rippled across Japanese crypto-linked names. ANAP, originally a women's and children's fashion retailer, now runs a bitcoin treasury strategy holding roughly 1,100-1,400 BTC, which makes its equity a high-beta proxy for the coin price.",
+      "gainer_note_sources": [
+        "https://www.investing.com/news/stock-market-news/asia-crypto-stocks-rally-as-bitcoin-rebounds-sharply-metaplanet-surges-20-4870837",
+        "https://bitcointreasuries.net/public-companies/anap-holdings-inc"
+      ],
+      "loser_note": "Future Innovation Group fell hardest in Tokyo, but no specific company announcement was reported as the trigger. The decline followed an extended run in the shares, which had climbed to around 1,325 yen in mid-August and were still showing a 12-month total return above 30 per cent, so the session looks like profit-taking rather than a news-driven repricing. Volume was heavy at 9.18 million shares against a small 43 billion yen market capitalisation.",
+      "loser_note_sources": [
+        "https://finance.yahoo.com/quote/4392.T/",
+        "https://www.investing.com/equities/mobile-create"
+      ],
+      "gainers": [
+        {"name": "ANAP Holdings Inc. (3189)", "url": "https://www.tradingview.com/symbols/TSE-3189/", "price": "¥163", "chg": "+44.25%", "vol": "3.4M"},
+        {"name": "TORICO Co., Ltd. (7138)", "url": "https://www.tradingview.com/symbols/TSE-7138/", "price": "¥193", "chg": "+34.97%", "vol": "10.2M"},
+        {"name": "Def consulting, inc. (4833)", "url": "https://www.tradingview.com/symbols/TSE-4833/", "price": "¥70", "chg": "+34.62%", "vol": "28.7M"},
+        {"name": "Beat Holdings Ltd. (9399)", "url": "https://www.tradingview.com/symbols/TSE-9399/", "price": "¥17", "chg": "+30.77%", "vol": "7.6M"},
+        {"name": "WIZE Inc. (3664)", "url": "https://www.tradingview.com/symbols/TSE-3664/", "price": "¥27", "chg": "+22.73%", "vol": "53.1M"},
+        {"name": "Human Made Inc. (456A)", "url": "https://www.tradingview.com/symbols/TSE-456A/", "price": "¥1,662", "chg": "+22.03%", "vol": "2.2M"},
+        {"name": "Architects Studio Japan, Inc. (6085)", "url": "https://www.tradingview.com/symbols/TSE-6085/", "price": "¥122", "chg": "+22.00%", "vol": "22.5M"},
+        {"name": "Metaplanet Inc. (3350)", "url": "https://www.tradingview.com/symbols/TSE-3350/", "price": "¥306", "chg": "+20.95%", "vol": "92.8M"},
+        {"name": "Reiwa Accounting Holdings Co., Ltd. (296A)", "url": "https://www.tradingview.com/symbols/TSE-296A/", "price": "¥1,087", "chg": "+16.01%", "vol": "586.0K"},
+        {"name": "Meiji Shipping Group Co. Ltd. (9115)", "url": "https://www.tradingview.com/symbols/TSE-9115/", "price": "¥1,129", "chg": "+15.32%", "vol": "261.6K"}
+      ],
+      "losers": [
+        {"name": "Future Innovation Group, Inc. (4392)", "url": "https://www.tradingview.com/symbols/TSE-4392/", "price": "¥1,132", "chg": "-12.99%", "vol": "9.2M"},
+        {"name": "Kudan, Inc. (4425)", "url": "https://www.tradingview.com/symbols/TSE-4425/", "price": "¥1,395", "chg": "-12.59%", "vol": "907.1K"},
+        {"name": "Solasia Pharma KK (4597)", "url": "https://www.tradingview.com/symbols/TSE-4597/", "price": "¥32", "chg": "-11.11%", "vol": "48.8M"},
+        {"name": "monoAI technology Co.,Ltd. (5240)", "url": "https://www.tradingview.com/symbols/TSE-5240/", "price": "¥218", "chg": "-10.66%", "vol": "5.2M"},
+        {"name": "SiriusVision Co., Ltd. (6276)", "url": "https://www.tradingview.com/symbols/TSE-6276/", "price": "¥366", "chg": "-9.63%", "vol": "409.9K"},
+        {"name": "Makoto Construction Co., Ltd. (8995)", "url": "https://www.tradingview.com/symbols/TSE-8995/", "price": "¥1,543", "chg": "-9.29%", "vol": "251.4K"},
+        {"name": "Oncolys BioPharma, Inc. (4588)", "url": "https://www.tradingview.com/symbols/TSE-4588/", "price": "¥3,380", "chg": "-9.14%", "vol": "1.7M"},
+        {"name": "BCC Co.,Ltd. (7376)", "url": "https://www.tradingview.com/symbols/TSE-7376/", "price": "¥850", "chg": "-8.31%", "vol": "114.2K"},
+        {"name": "Eole, Inc. (2334)", "url": "https://www.tradingview.com/symbols/TSE-2334/", "price": "¥508", "chg": "-7.47%", "vol": "4.1M"},
+        {"name": "Unitika Ltd. (3103)", "url": "https://www.tradingview.com/symbols/TSE-3103/", "price": "¥1,410", "chg": "-7.24%", "vol": "11.3M"}
+      ]
+    },
+    {
+      "key": "singapore",
+      "title": "Singapore Top Performers",
+      "caption": "Source: TradingView Singapore market movers, session of Friday 21 August 2026 (SGT). Share volumes as reported by TradingView.",
+      "gainer_note": "MSM International jumped the most on the SGX, but no specific company announcement was reported as the driver of the move. The catalyst-free spike is consistent with thin trading in a nano-cap: only about 15,200 shares changed hands against a market capitalisation of roughly S$4.7 million, so a handful of orders can reset the price. The flour and food-manufacturing group had earlier undertaken a share consolidation, leaving very few shares on issue.",
+      "gainer_note_sources": [
+        "https://sginvestors.io/sgx/stock/5qr-msm-intl/company-announcement",
+        "https://links.sgx.com/1.0.0/corporate-announcements/GKHW2ACB299KJMWM/836615_MSM%20Announcement%20-%20Share%20Consolidation.pdf"
+      ],
+      "loser_note": "UltraGreen.ai led Singapore's decliners with no specific reported announcement behind the fall, so the move reads as a sharp unwind in a recently re-rated technology name rather than a news event. Volume was elevated at 1.99 million shares. Note the second-placed loser, Olam Group, is a mechanical move: it traded ex-dividend on 21 August for a 7.0 cent total payout including a special dividend, which accounts for much of that decline.",
+      "loser_note_sources": [
+        "https://growbeansprout.com/quote/VC2.SI/dividend",
+        "https://www.olamgroup.com/news/all-news/PressReleaseFinancial/olam-group-reports-patmi-of-dollar-one-point-nine-billion-up-488-point-7-percentage-year-on-year-for-h1-2026.html"
+      ],
+      "gainers": [
+        {"name": "MSM International Limited (51O)", "url": "https://www.tradingview.com/symbols/SGX-51O/", "price": "S$0.280", "chg": "+40.00%", "vol": "15.2K"},
+        {"name": "Ascent Bridge Limited (AWG)", "url": "https://www.tradingview.com/symbols/SGX-AWG/", "price": "S$0.230", "chg": "+27.78%", "vol": "75.3K"},
+        {"name": "Suntar Eco-City Ltd. (BKZ)", "url": "https://www.tradingview.com/symbols/SGX-BKZ/", "price": "S$0.230", "chg": "+17.95%", "vol": "300"},
+        {"name": "CNMC Goldmine Holdings Limited (5TP)", "url": "https://www.tradingview.com/symbols/SGX-5TP/", "price": "S$1.56", "chg": "+11.43%", "vol": "18.0M"},
+        {"name": "Lincotrade & Associates Holdings Limited (BFT)", "url": "https://www.tradingview.com/symbols/SGX-BFT/", "price": "S$0.390", "chg": "+8.33%", "vol": "31.9K"},
+        {"name": "Tye Soon Limited (BFU)", "url": "https://www.tradingview.com/symbols/SGX-BFU/", "price": "S$0.295", "chg": "+7.27%", "vol": "5.0K"},
+        {"name": "Mewah International Inc. (MV4)", "url": "https://www.tradingview.com/symbols/SGX-MV4/", "price": "S$0.280", "chg": "+5.66%", "vol": "16.1K"},
+        {"name": "InnoTek Limited (M14)", "url": "https://www.tradingview.com/symbols/SGX-M14/", "price": "S$0.435", "chg": "+4.82%", "vol": "1.7M"},
+        {"name": "SHS Holdings Ltd. (566)", "url": "https://www.tradingview.com/symbols/SGX-566/", "price": "S$0.121", "chg": "+4.31%", "vol": "87.1K"},
+        {"name": "All-Link Air & Sea Limited (ALK)", "url": "https://www.tradingview.com/symbols/SGX-ALK/", "price": "S$0.500", "chg": "+4.17%", "vol": "204.8K"}
+      ],
+      "losers": [
+        {"name": "UltraGreen.ai Limited (UGS)", "url": "https://www.tradingview.com/symbols/SGX-UGS/", "price": "S$0.815", "chg": "-14.21%", "vol": "2.0M"},
+        {"name": "Olam Group Limited (VC2)", "url": "https://www.tradingview.com/symbols/SGX-VC2/", "price": "S$1.09", "chg": "-10.66%", "vol": "18.6M"},
+        {"name": "IPC Corporation Ltd (AZA)", "url": "https://www.tradingview.com/symbols/SGX-AZA/", "price": "S$0.138", "chg": "-10.39%", "vol": "100"},
+        {"name": "Kin Global Ltd. (KIN)", "url": "https://www.tradingview.com/symbols/SGX-KIN/", "price": "S$0.150", "chg": "-10.18%", "vol": "58.9K"},
+        {"name": "OneApex Ltd. (5SY)", "url": "https://www.tradingview.com/symbols/SGX-5SY/", "price": "S$0.300", "chg": "-9.09%", "vol": "8.2K"},
+        {"name": "Toku Ltd. (TKU)", "url": "https://www.tradingview.com/symbols/SGX-TKU/", "price": "S$0.157", "chg": "-7.10%", "vol": "2.4M"},
+        {"name": "Sanli Environmental Ltd. (1E3)", "url": "https://www.tradingview.com/symbols/SGX-1E3/", "price": "S$0.131", "chg": "-5.76%", "vol": "1.2M"},
+        {"name": "iWOW Technology Limited (NXR)", "url": "https://www.tradingview.com/symbols/SGX-NXR/", "price": "S$0.270", "chg": "-5.26%", "vol": "1.4M"},
+        {"name": "Tiong Woon Corporation Holding Ltd (BQM)", "url": "https://www.tradingview.com/symbols/SGX-BQM/", "price": "S$0.95", "chg": "-5.00%", "vol": "512.2K"},
+        {"name": "Powermatic Data Systems Ltd. (BCY)", "url": "https://www.tradingview.com/symbols/SGX-BCY/", "price": "S$2.86", "chg": "-4.67%", "vol": "27.1K"}
+      ]
+    },
+    {
+      "key": "hongkong",
+      "title": "Hong Kong Top Performers",
+      "caption": "Source: TradingView Hong Kong market movers, session of Friday 21 August 2026 (HKT). Share volumes as reported by TradingView. Poly Xverse Intelligent Technology (209) screened at roughly -85% but this reflects its 10-into-1 share consolidation adjustment rather than a genuine trading loss, so it is excluded from the losers table.",
+      "gainer_note": "Xi'an Kingfar Property Services was Hong Kong's standout gainer, but no specific company announcement was reported to explain the surge, so it is best read as a speculative move in a small, illiquid state-linked property manager. The stock has been extremely volatile in 2026, falling around 64 per cent over one 90-day stretch to a June low near HK$1.61, which leaves ample room for violent rebounds on modest turnover of about 1.61 million shares.",
+      "gainer_note_sources": [
+        "https://simplywall.st/stocks/hk/commercial-services/hkg-1354/xian-kingfar-property-services-shares",
+        "https://markets.ft.com/data/equities/tearsheet/summary?s=1354:HKG.HS"
+      ],
+      "loser_note": "Rego Interactive was the largest genuine decliner. The marketing and interactive services group had flagged in mid-August that net profit after tax for the six months to 30 June 2026 would be not less than roughly RMB2.3 million, a modest figure for a stock that had run up more than 200 per cent over the prior year and set a 52-week high in early August. That thin profit guidance, ahead of full interim results due late August, drove the de-rating.",
+      "loser_note_sources": [
+        "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN44B0C3:0-rego-interactive-expects-net-profit-after-tax-of-not-less-than-rmb2-3-million-for-six-months/",
+        "https://markets.ft.com/data/equities/tearsheet/summary?s=2422:HKG"
+      ],
+      "gainers": [
+        {"name": "Xi'an Kingfar Property Services Co., Ltd. (1354)", "url": "https://www.tradingview.com/symbols/HKEX-1354/", "price": "HK$3.010", "chg": "+46.83%", "vol": "1.6M"},
+        {"name": "AMCO United Holding Limited (630)", "url": "https://www.tradingview.com/symbols/HKEX-630/", "price": "HK$0.181", "chg": "+34.07%", "vol": "200.6K"},
+        {"name": "Summi (Group) Holdings Limited (756)", "url": "https://www.tradingview.com/symbols/HKEX-756/", "price": "HK$0.550", "chg": "+29.41%", "vol": "16.0K"},
+        {"name": "Wecon Holdings Ltd. (1793)", "url": "https://www.tradingview.com/symbols/HKEX-1793/", "price": "HK$1.050", "chg": "+28.05%", "vol": "17.3M"},
+        {"name": "Chu Kong Petroleum & Natural Gas Steel Pipe Holdings Ltd. (1938)", "url": "https://www.tradingview.com/symbols/HKEX-1938/", "price": "HK$0.290", "chg": "+26.09%", "vol": "964.0K"},
+        {"name": "Allied Sustainability and Environmental Consultants Group Limited (8320)", "url": "https://www.tradingview.com/symbols/HKEX-8320/", "price": "HK$0.126", "chg": "+26.00%", "vol": "1.3M"},
+        {"name": "Hangzhou Diagens Biotechnology Co., Ltd. Class H (2526)", "url": "https://www.tradingview.com/symbols/HKEX-2526/", "price": "HK$526.0", "chg": "+24.70%", "vol": "117.8K"},
+        {"name": "WK Group (Holdings) Limited (2535)", "url": "https://www.tradingview.com/symbols/HKEX-2535/", "price": "HK$0.745", "chg": "+24.17%", "vol": "17.2M"},
+        {"name": "Boyaa Interactive International Ltd. (434)", "url": "https://www.tradingview.com/symbols/HKEX-434/", "price": "HK$3.070", "chg": "+23.79%", "vol": "11.5M"},
+        {"name": "Come Sure Group (Holdings) Ltd. (794)", "url": "https://www.tradingview.com/symbols/HKEX-794/", "price": "HK$0.340", "chg": "+23.64%", "vol": "84.0K"}
+      ],
+      "losers": [
+        {"name": "Rego Interactive Co., Ltd. (2422)", "url": "https://www.tradingview.com/symbols/HKEX-2422/", "price": "HK$1.710", "chg": "-25.65%", "vol": "7.3M"},
+        {"name": "Silkwave Inc (471)", "url": "https://www.tradingview.com/symbols/HKEX-471/", "price": "HK$0.100", "chg": "-24.81%", "vol": "15.4M"},
+        {"name": "New Century Healthcare Holding Co. Ltd. (1518)", "url": "https://www.tradingview.com/symbols/HKEX-1518/", "price": "HK$0.240", "chg": "-21.31%", "vol": "50.0K"},
+        {"name": "Metaspacex Limited (1796)", "url": "https://www.tradingview.com/symbols/HKEX-1796/", "price": "HK$0.425", "chg": "-21.30%", "vol": "11.4M"},
+        {"name": "Vision Synergy Holdings Limited (627)", "url": "https://www.tradingview.com/symbols/HKEX-627/", "price": "HK$0.480", "chg": "-20.00%", "vol": "680.0K"},
+        {"name": "Golden Throat Holdings Group Co Ltd (6896)", "url": "https://www.tradingview.com/symbols/HKEX-6896/", "price": "HK$2.490", "chg": "-19.68%", "vol": "9.6M"},
+        {"name": "Golden Wheel Tiandi Holdings Co. Ltd. (1232)", "url": "https://www.tradingview.com/symbols/HKEX-1232/", "price": "HK$0.405", "chg": "-19.00%", "vol": "24.0K"},
+        {"name": "Parkson Retail Group Limited (3368)", "url": "https://www.tradingview.com/symbols/HKEX-3368/", "price": "HK$0.140", "chg": "-16.17%", "vol": "2.7M"},
+        {"name": "CA Cultural Technology Group Ltd. (1566)", "url": "https://www.tradingview.com/symbols/HKEX-1566/", "price": "HK$3.420", "chg": "-15.56%", "vol": "9.0M"},
+        {"name": "NetEase Cloud Music Inc. (9899)", "url": "https://www.tradingview.com/symbols/HKEX-9899/", "price": "HK$95.10", "chg": "-15.54%", "vol": "4.1M"}
+      ]
+    }
+  ]
+}

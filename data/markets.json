@@ -1,0 +1,255 @@
+{
+  "as_of": "Saturday 22 August 2026, 12:40 UTC (Saturday 22 August 2026, 22:40 AEST Sydney)",
+  "btc": {
+    "price": "$77,247",
+    "chg": "+0.13%",
+    "source": "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd&include_24hr_change=true"
+  },
+  "btc_crosschecks": [
+    {
+      "source": "CoinGecko API",
+      "price": "$77,247",
+      "chg": "+0.13%"
+    },
+    {
+      "source": "Coinbase spot API",
+      "price": "$77,223.58",
+      "chg": null
+    },
+    {
+      "source": "Kraken XXBTZUSD",
+      "price": "$77,231.70",
+      "chg": "-1.40% (vs 24h open 78,327.70)"
+    },
+    {
+      "source": "Binance BTCUSDT 24hr",
+      "price": "$77,251.22",
+      "chg": "+0.01%"
+    },
+    {
+      "source": "CoinDesk (via web_search, 04:48 EDT)",
+      "price": "$77,129.20",
+      "chg": null
+    },
+    {
+      "source": "Yahoo trending ticker BTC-USD (not relied upon)",
+      "price": "$77,251.47",
+      "chg": "+0.07%"
+    }
+  ],
+  "fx": [
+    {
+      "code": "AUD",
+      "rate": "1.3951",
+      "chg": "-0.86%"
+    },
+    {
+      "code": "EUR",
+      "rate": "0.8548",
+      "chg": "-0.15%"
+    },
+    {
+      "code": "GBP",
+      "rate": "0.7323",
+      "chg": "-0.22%"
+    },
+    {
+      "code": "JPY",
+      "rate": "158.70",
+      "chg": "-0.04%"
+    },
+    {
+      "code": "CNY",
+      "rate": "6.7206",
+      "chg": "-0.04%"
+    },
+    {
+      "code": "NZD",
+      "rate": "1.6703",
+      "chg": "-0.74%"
+    },
+    {
+      "code": "CAD",
+      "rate": "1.3740",
+      "chg": "-0.22%"
+    },
+    {
+      "code": "CHF",
+      "rate": "0.7995",
+      "chg": "+0.06%"
+    },
+    {
+      "code": "SGD",
+      "rate": "1.2683",
+      "chg": "-0.31%"
+    },
+    {
+      "code": "HKD",
+      "rate": "7.8405",
+      "chg": "-0.04%"
+    },
+    {
+      "code": "INR",
+      "rate": "95.70",
+      "chg": "-0.01%"
+    },
+    {
+      "code": "KRW",
+      "rate": "1,384.23",
+      "chg": "-0.87%"
+    },
+    {
+      "code": "MXN",
+      "rate": "16.90",
+      "chg": "-0.55%"
+    },
+    {
+      "code": "BRL",
+      "rate": "5.1729",
+      "chg": "-0.40%"
+    },
+    {
+      "code": "ZAR",
+      "rate": "16.00",
+      "chg": "-1.05%"
+    },
+    {
+      "code": "ILS",
+      "rate": "2.9846",
+      "chg": "-0.25%"
+    },
+    {
+      "code": "SEK",
+      "rate": "9.4559",
+      "chg": "-0.38%"
+    },
+    {
+      "code": "NOK",
+      "rate": "9.2893",
+      "chg": "-0.47%"
+    },
+    {
+      "code": "THB",
+      "rate": "32.67",
+      "chg": "-0.73%"
+    },
+    {
+      "code": "MYR",
+      "rate": "4.0385",
+      "chg": "-0.14%"
+    },
+    {
+      "code": "PHP",
+      "rate": "61.66",
+      "chg": "-0.11%"
+    },
+    {
+      "code": "IDR",
+      "rate": "17,659",
+      "chg": "-0.78%"
+    }
+  ],
+  "fx_base_date": "2026-08-21",
+  "fx_prior_date": "2026-08-20",
+  "fx_notes": "All 22 requested currencies were available from Frankfurter (ECB reference rates), so no fallback API was required. Base = USD. Latest Frankfurter publication is 2026-08-21 (Friday); prior business day = 2026-08-20 (Thursday). Change = (2026-08-21 / 2026-08-20 - 1) * 100. Rates are ECB daily reference fixings (approx 16:00 CET), not live spot, so they will differ slightly from real-time quotes. Cross-checked against open.er-api.com (snapshot 22 Aug 2026 00:02 UTC) and all rates agreed within ~0.3%. Formatting: 4dp under 10, 2dp for 10-1000, 0dp for IDR.",
+  "indices": [
+    {
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "value": "7,674.37",
+      "chg": "+0.43%"
+    },
+    {
+      "name": "Dow Jones",
+      "symbol": "^DJI",
+      "value": "53,277.01",
+      "chg": "+0.98%"
+    },
+    {
+      "name": "Nasdaq Composite",
+      "symbol": "^IXIC",
+      "value": "26,180.46",
+      "chg": "+0.43%"
+    },
+    {
+      "name": "Russell 2000",
+      "symbol": "^RUT",
+      "value": "3,017.87",
+      "chg": "+0.85%"
+    },
+    {
+      "name": "S&P/ASX 200",
+      "symbol": "^AXJO",
+      "value": "9,058.90",
+      "chg": "-0.27%"
+    },
+    {
+      "name": "All Ordinaries",
+      "symbol": "^AORD",
+      "value": "9,269.70",
+      "chg": "-0.31%"
+    },
+    {
+      "name": "FTSE 100",
+      "symbol": "^FTSE",
+      "value": "10,816.56",
+      "chg": "+0.64%"
+    },
+    {
+      "name": "DAX",
+      "symbol": "^GDAXI",
+      "value": "26,136.56",
+      "chg": "+0.59%"
+    },
+    {
+      "name": "CAC 40",
+      "symbol": "^FCHI",
+      "value": "8,484.43",
+      "chg": "+0.37%"
+    },
+    {
+      "name": "Hang Seng",
+      "symbol": "^HSI",
+      "value": "26,009.46",
+      "chg": "+1.21%"
+    },
+    {
+      "name": "Nikkei 225",
+      "symbol": "^N225",
+      "value": "66,016.36",
+      "chg": "-0.30%"
+    },
+    {
+      "name": "KOSPI",
+      "symbol": "^KS11",
+      "value": "6,912.95",
+      "chg": "+0.88%"
+    },
+    {
+      "name": "SSE Composite",
+      "symbol": "000001.SS",
+      "value": "3,905.20",
+      "chg": "+0.04%"
+    },
+    {
+      "name": "Ibovespa",
+      "symbol": "^BVSP",
+      "value": "171,031.73",
+      "chg": "+1.85%"
+    },
+    {
+      "name": "Straits Times",
+      "symbol": "^STI",
+      "value": "5,688.96",
+      "chg": "+0.30%"
+    },
+    {
+      "name": "BSE Sensex",
+      "symbol": "^BSESN",
+      "value": "77,540.83",
+      "chg": "+0.00%"
+    }
+  ],
+  "indices_source": "Yahoo Finance world indices page (https://finance.yahoo.com/world-indices); All Ordinaries ^AORD taken from the same table because the individual quote pages returned an error shell. FTSE 100 spot-check attempted at https://finance.yahoo.com/quote/%5EFTSE but that page also returned an error shell, so the world-indices value (10,816.56, +0.64%) stands unverified by a second Yahoo page.",
+  "indices_asof": "Close of Friday 21 August 2026 for all listed markets (most recent completed global session). Values retrieved 22 August 2026 ~12:40 UTC while all these exchanges were closed for the weekend."
+}

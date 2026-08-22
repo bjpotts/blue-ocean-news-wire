@@ -1,0 +1,172 @@
+{
+  "regions": [
+    {
+      "key": "anz",
+      "name": "ANZ",
+      "summary": "ANZ equity capital markets activity this week was dominated by small and mid-cap acquisition funding rather than headline IPOs, with the largest identified deal being Sports Entertainment Group's oversubscribed A$14.6 million placement to part-fund its NZ$130 million MediaWorks purchase. The rest of the flow was classic ASX small-cap housekeeping - modest placements, share purchase plans and entitlement offers in the single-digit millions across media, software and materials names, several of which paired an institutional tranche with a retail SPP to limit dilution complaints. A common thread is that these raises are event-driven, funding either a specific acquisition or a commercialisation push, rather than opportunistic balance sheet top-ups. There were no large new ASX listings priced in the window, and the most significant listings story remains Glencore's earlier-flagged plan for an Australian secondary listing rather than a fresh float.",
+      "items": [
+        {
+          "headline": "Sports Entertainment Group closes oversubscribed placement to bankroll MediaWorks deal",
+          "detail": "The ASX-listed sports media group secured binding commitments for roughly A$14.6 million at A$0.28 per share, of which about A$11.7 million sits within existing placement capacity, to help fund its NZ$130 million acquisition of New Zealand broadcaster MediaWorks.",
+          "outlet": "Listcorp",
+          "url": "https://www.listcorp.com/asx/seg/sports-entertainment-group-limited/news/seg-placement-oversubscribed-3389367.html"
+        },
+        {
+          "headline": "Sports Entertainment Group opens retail share purchase plan at placement price",
+          "detail": "The non-underwritten SPP offers eligible shareholders up to about A$2 million of new stock at A$0.28 per share, matching the institutional placement announced on 12 August 2026, with a A$30,000 cap per holder.",
+          "outlet": "Proactive Investors",
+          "url": "https://www.proactiveinvestors.com/companies/news/1096912/sports-entertainment-group-to-acquire-mediaworks-for-nz-130-million-in-trans-tasman-expansion-1096912.html"
+        },
+        {
+          "headline": "Sparc Technologies lines up placement and SPP for graphene additive rollout",
+          "detail": "The South Australian materials technology company announced a capital raise of up to about A$2.5 million via placement plus a share purchase plan, with a trading halt on 18 August 2026 and settlement of the first placement tranche due 27 August, to accelerate commercialisation of its ecosparc graphene coatings additive and support Sparc Hydrogen.",
+          "outlet": "Market Index",
+          "url": "https://www.marketindex.com.au/data-api/api/v1/announcements/XASX%3ASPN%3A3A699241/pdf/inline/share-purchase-plan-and-placement-to-raise-up-to-25m"
+        },
+        {
+          "headline": "Glencore weighs Australian secondary listing as it reviews its market home",
+          "detail": "The mining and commodities trading giant is examining a secondary stock market listing in Australia, a move that would add an ASX quotation alongside its existing primary listing as it responds to persistent valuation complaints.",
+          "outlet": "This is Money",
+          "url": "https://www.thisismoney.co.uk/money/markets/article-16030053/Mining-giant-Glencore-plots-secondary-stock-market-listing-Australia.html"
+        }
+      ]
+    },
+    {
+      "key": "asia",
+      "name": "Asia (Japan/Singapore/Hong Kong/China)",
+      "summary": "Asia was comfortably the busiest region, and the activity was overwhelmingly a semiconductor and AI capital-raising story centred on mainland China's STAR Market and Hong Kong. The standout was CCSH Corporation, parent of flash-memory maker YMTC, clearing a key hurdle for a 33 billion yuan (about $4.9 billion) Shanghai listing that would rank among the STAR Market's largest ever, following hot on the heels of blockbuster floats by DRAM rival CXMT and robot maker Unitree. Hong Kong provided the other pole of activity, with AI developer MiniMax tapping equity and zero-coupon convertibles for a combined HK$16.04 billion and Shein pushing its long-awaited listing back to a target of 1 September amid cooling investor appetite. The common thread is that Beijing's technological self-reliance push and AI-driven demand are giving chip and AI issuers pricing power that consumer names such as Shein no longer enjoy.",
+      "items": [
+        {
+          "headline": "YMTC's parent clears the way for a $4.9 billion Shanghai float",
+          "detail": "The Shanghai Stock Exchange accepted CCSH Corporation's application to list on the STAR Market in an offering targeting 33 billion yuan (about $4.9 billion), with proceeds earmarked for production line upgrades and next-generation NAND research as AI data centre demand tightens memory supply.",
+          "outlet": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/chinese-flash-memory-chipmaker-ymtc-plans-raise-49-billion-shanghai-ipo-2026-08-21"
+        },
+        {
+          "headline": "Shein pushes its Hong Kong debut into September",
+          "detail": "The fast-fashion retailer is now targeting a 1 September listing after slipping from an earlier 28 August plan, with the delay coming as slower growth and rising costs cool investor appetite for the Singapore-based group.",
+          "outlet": "Reuters (via WSAU)",
+          "url": "https://wsau.com/2026/08/20/shein-postpones-hong-kong-debut-to-september-scmp-reports/"
+        },
+        {
+          "headline": "AI developer MiniMax raises about $2 billion through combined share and bond sale",
+          "detail": "The Chinese large language model company sought HK$16.04 billion (roughly $2.05 billion) by issuing 35.6 million new Class A shares at HK$268 alongside HK$6.5 billion of zero-coupon convertible bonds due 2027, with most proceeds directed at AI infrastructure expansion.",
+          "outlet": "Caixin Global",
+          "url": "https://www.caixinglobal.com/2026-07-10/chinese-ai-developer-minimax-raises-hk16-billion-from-equity-convertible-bond-sale-102462841.html"
+        },
+        {
+          "headline": "Hong Kong exchange chief talks up listings pipeline as bourse rides IPO wave",
+          "detail": "HKEX chief executive Bonnie Chan discussed the exchange's listing momentum and investor demand as Hong Kong absorbs a heavy run of Chinese technology floats and follow-on offerings.",
+          "outlet": "CNBC",
+          "url": "https://www.cnbc.com/2026/08/20/hong-kong-ipo-hkex-bonnie-chan-investors.html"
+        }
+      ]
+    },
+    {
+      "key": "us",
+      "name": "US",
+      "summary": "The US market ran at a typical late-August pace, with a thin but distinctly defence-and-AI flavoured calendar. Lyntris was the week's marquee pricing, raising $297.5 million on the NYSE but only after cutting the deal and pricing below range, then closing about 14 percent underwater on debut - a clear signal that investors are still disciplined on valuation even in a hot sector. Deal sizes elsewhere were modest, with Gravitics setting terms for a $125 million Nasdaq space-infrastructure IPO, ammunition maker First Breach completing a direct listing and a steady drip of new filings including solar developer CoVolt Power and insurer Orion180. The much larger stories are still ahead of the market rather than in it, with Anthropic widely reported to be preparing a filing at a valuation near $2 trillion and UK-based Nscale targeting up to $3 billion in a US listing as soon as September.",
+      "items": [
+        {
+          "headline": "Defence contractor Lyntris trims its NYSE float and prices under the range",
+          "detail": "The Falls Church, Virginia company and selling stockholders raised $297.5 million by pricing 17 million shares at $17.50 each, below the marketed range, with the stock then closing roughly 14 percent below its offer price on debut.",
+          "outlet": "Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/defense-contractor-lyntris-shareholders-raise-about-298-million-downsized-us-ipo-2026-08-19/"
+        },
+        {
+          "headline": "Space systems builder Gravitics sets pricing terms for a $125 million Nasdaq listing",
+          "detail": "The Miami-based developer of orbital structures plans to sell 8.1 million shares at $14 to $17 apiece, targeting gross proceeds of about $125 million.",
+          "outlet": "Renaissance Capital",
+          "url": "https://www.renaissancecapital.com/IPO-Center/News"
+        },
+        {
+          "headline": "Solar developer CoVolt Power joins the autumn IPO queue",
+          "detail": "The solar project developer filed for an estimated $200 million US initial public offering, adding to a pipeline building ahead of the post-Labor Day window.",
+          "outlet": "Renaissance Capital",
+          "url": "https://www.renaissancecapital.com/IPO-Center/News/121255/Solar-project-developer-CoVolt-Power-files-for-an-estimated-$200-million-IP"
+        },
+        {
+          "headline": "Ammunition maker First Breach takes the direct listing route onto Nasdaq",
+          "detail": "The small arms ammunition producer completed a Nasdaq direct listing, capping a defence-heavy week for new US issuers alongside the Lyntris IPO.",
+          "outlet": "Renaissance Capital",
+          "url": "https://www.renaissancecapital.com/IPO-Center/News/121237/Small-ammo-maker-First-Breach-completes-Nasdaq-direct-listing"
+        }
+      ]
+    },
+    {
+      "key": "uk",
+      "name": "UK",
+      "summary": "UK news flow was dominated by a single uncomfortable theme - British companies raising capital, but doing it somewhere else. AI cloud and data centre operator Nscale, the largest UK-linked deal of the week, is seeking as much as $3 billion in a US initial public offering that could come as soon as September, working with Goldman Sachs and JPMorgan and telling investors it holds around $51 billion of contracted revenue. That follows Glencore's separate examination of an Australian secondary listing, reinforcing a pattern of London losing large issuers to deeper pools of capital abroad. Domestic primary activity was quiet, with the London Stock Exchange's regulatory news feed carrying routine trading updates, acquisition notices and administration filings rather than new floats or sizeable rights issues.",
+      "items": [
+        {
+          "headline": "British AI cloud group Nscale targets up to $3 billion in a New York listing",
+          "detail": "The London-based data centre and GPU cloud company is seeking as much as $3 billion in a US IPO that could take place as soon as September, working with Goldman Sachs and JPMorgan and citing about $51 billion of total contracted revenue.",
+          "outlet": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/nscale-seeks-3-billion-us-ipo-amid-ai-data-center-rush-93CH-4871992"
+        },
+        {
+          "headline": "Nscale points to a September window for its AI data centre float",
+          "detail": "The company has told prospective investors it could hold a US market debut as early as September on the back of roughly $51 billion in contracted revenue from its arctic-circle and international data centre buildout.",
+          "outlet": "Silicon UK",
+          "url": "https://www.silicon.co.uk/cloud/datacenter/nscale-ipo-631071"
+        },
+        {
+          "headline": "Glencore examines an Australian secondary listing away from London",
+          "detail": "The FTSE 100 miner and commodities trader is weighing a secondary stock market listing in Australia, in a move that would dilute London's claim on one of its largest listed resource groups.",
+          "outlet": "This is Money",
+          "url": "https://www.thisismoney.co.uk/money/markets/article-16030053/Mining-giant-Glencore-plots-secondary-stock-market-listing-Australia.html"
+        }
+      ]
+    },
+    {
+      "key": "europe",
+      "name": "Europe",
+      "summary": "Continental Europe was genuinely quiet on new equity issuance in this window, and it would be dishonest to dress it up otherwise. The August holiday lull, combined with the run-up to a widely expected September reopening of the listing window, meant no significant IPO pricings, rights issues or large accelerated bookbuilds could be verified on Euronext, Deutsche Boerse, SIX or the Nordic exchanges during the past week. Euronext's own IPO tracker shows its most recent admissions dating from late July, mostly very small Euronext Growth and Access listings in Milan and Dublin rather than main-market deals. The only Europe-relevant capital markets development of scale actually landed in the United States, where London-headquartered Nscale moved toward a multibillion-dollar New York float, underlining the continent's continuing struggle to retain its largest technology issuers.",
+      "items": [
+        {
+          "headline": "Euronext listing tracker shows no new admissions since late July",
+          "detail": "The exchange group's IPO page lists its most recent admissions as small Euronext Growth and Euronext Access debuts in Milan and Dublin dated 27 to 31 July 2026, with no new listings recorded during the week to 22 August.",
+          "outlet": "Euronext",
+          "url": "https://live.euronext.com/en/products/equities/ipos"
+        },
+        {
+          "headline": "European bourses lose another large tech candidate as Nscale looks to New York",
+          "detail": "The London-based AI infrastructure group, which operates renewable-powered data centres inside the arctic circle in Norway, is pursuing a US IPO of up to $3 billion rather than a European venue.",
+          "outlet": "Dealroom",
+          "url": "https://dealroom.co/news/146323-nscale-eyes-3b-us-ipo-in-ai-data-center-listing-rush"
+        }
+      ]
+    },
+    {
+      "key": "rest",
+      "name": "Rest (South America, Middle East, Africa, India etc)",
+      "summary": "Activity outside the core markets was led decisively by Africa, where Nigeria's Dangote Petroleum Refinery locked in a $1 billion underwriting programme covering both its completed private placement and its planned initial public offering. That deal, targeting roughly $5 billion at an October listing on the Nigerian Exchange with a possible Johannesburg secondary leg, would be the largest ever attempted on the continent and is by some distance the biggest transaction in this region. India provided the week's successful pricing story, with Temasek-backed logistics platform Shiprocket jumping about 35 percent on debut after a $170 million offering, a sharp contrast to the muted receptions seen in some developed markets. The common thread is strong domestic and regional investor appetite for infrastructure and logistics assets, with sovereign wealth and development capital playing a visible anchoring role in the African deal.",
+      "items": [
+        {
+          "headline": "Dangote refinery locks in $1 billion of underwriting before Africa's biggest float",
+          "detail": "Advisers Marob Strategies and Lilium Capital confirmed a programme comprising a fully funded $600 million tranche for the refinery's completed private placement plus a $400 million commitment supporting the planned IPO, which is targeting about $5 billion and an October listing to fund expansion to 1.4 million barrels per day.",
+          "outlet": "Reuters",
+          "url": "https://www.reuters.com/world/africa/nigerias-dangote-refinery-ipo-gets-1-billion-underwriting-programme-advisers-say-2026-08-18/"
+        },
+        {
+          "headline": "Shiprocket surges on its first day after a $170 million Indian offering",
+          "detail": "The Temasek-backed logistics and e-commerce enablement platform climbed about 35 percent in debut trade following an initial public offering that raised roughly $170 million.",
+          "outlet": "Reuters",
+          "url": "https://www.reuters.com/world/india/temasek-backed-shiprocket-jumps-35-debut-trade-after-170-million-india-ipo-2026-08-19/"
+        },
+        {
+          "headline": "Johannesburg courts Dangote for a secondary listing after the Nigerian debut",
+          "detail": "The JSE confirmed it has opened discussions with Dangote Group about a potential secondary listing of the refinery in South Africa, with the primary listing to be completed on the Nigerian Exchange first.",
+          "outlet": "Reuters",
+          "url": "https://www.reuters.com/business/energy/dangote-has-strong-intent-south-africa-listing-after-nigeria-ipo-jse-2026-08-05/"
+        },
+        {
+          "headline": "Dangote keeps its refinery IPO retail-focused and rules out a foreign listing for now",
+          "detail": "The company is structuring the offering around Nigerian retail and African institutional investors, saying it wants at least three years of operating and financial results before considering an overseas venue such as London.",
+          "outlet": "Reuters",
+          "url": "https://www.reuters.com/business/energy/nigerias-dangote-refinery-plans-retail-focused-ipo-no-foreign-listing-now-2026-08-14/"
+        }
+      ]
+    }
+  ]
+}

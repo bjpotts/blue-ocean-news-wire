@@ -1,0 +1,408 @@
+{
+  "market_news": {
+    "paragraph": "Global equities closed Friday 21 August 2026 firmer, though most benchmarks still finished the week lower. The Dow Jones Industrial Average rose about 1 per cent, adding more than 500 points, while the S&P 500 and Nasdaq Composite each gained roughly 0.4 per cent; over the week the Dow fell 0.9 per cent, the S&P 500 1.4 per cent and the Nasdaq 2.1 per cent, snapping three-week winning streaks. The Russell 2000 small-cap index was not among the indexes detailed in the reports reviewed. Materials led S&P 500 sectors, up 2.1 per cent, with Freeport-McMoRan ahead 7.7 per cent. In Europe the DAX closed 0.59 per cent higher at 26,136.56, the CAC 40 rose 0.37 per cent to 8,484.43 and the FTSE 100 gained 0.64 per cent to 10,816.56, helped by miners. Across Asia the Nikkei 225 slipped 0.2 per cent to 66,080.25, the Hang Seng added 0.7 per cent to 25,888.36, the KOSPI climbed 0.9 per cent to 6,914.09, the Shanghai Composite was little changed at 3,903.81, India's BSE Sensex eased about 0.1 per cent and Singapore's Straits Times Index rose 0.30 per cent to 5,688.96. Brazil's Ibovespa jumped 1.85 per cent to 171,031.73 ahead of a Datafolha election poll. Australia's S&P/ASX 200 eased 0.27 per cent to 9,058.90 and the All Ordinaries fell 0.31 per cent to 9,269.70. The main driver was the bond market: the 10-year US Treasury yield sat near 4.74 per cent and the 30-year near 5.28 per cent after a nearly two-decade high of 5.34 per cent, with the Treasury's expanded buyback plan only briefly calming trade. The dollar index eased to 98.83 and the euro traded near $1.169; gold futures rose 2.2 per cent to about $4,675, on track for the best month since 1999, and bitcoin surged roughly 20 per cent on the week, topping $79,000 before settling near $77,000. Brent was around $94 on stalled efforts to reopen the Strait of Hormuz. The week from Monday 24 August brings the Kansas City Fed's Jackson Hole symposium on 27-29 August, with Fed Chair Kevin Warsh speaking Friday 28 August. July PCE and core PCE, Q2 GDP and durable goods are due Wednesday 26 August, alongside results from Nvidia, Salesforce, CrowdStrike and Veeva; Autodesk, Dollar Tree, Marvell, Ulta Beauty and Workday follow on 27 August, and Intuit, Zoom and Dick's Sporting Goods report 25 August. Also scheduled are RBA minutes, euro zone Q2 GDP and the German Ifo survey on 25 August, Australian July CPI on 26 August, ECB meeting accounts on 27 August, and Tokyo CPI plus revised University of Michigan sentiment on 28 August.",
+    "sources": [
+      {
+        "title": "Markets News, Aug. 21, 2026: US Indexes Close Higher But Post Weekly Losses; Treasury Yields Edge Upward",
+        "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-08212026-12065035"
+      },
+      {
+        "title": "Wall St rises on the day but falls for the week; bond yields and Iran in focus - Reuters",
+        "url": "https://www.reuters.com/business/us-stock-futures-rise-after-sharp-losses-prior-session-2026-08-21/"
+      },
+      {
+        "title": "European stocks edge higher but remain on track for weekly decline: DAX, CAC, FTSE100 - Yahoo Finance UK",
+        "url": "https://uk.finance.yahoo.com/news/european-stocks-edge-higher-remain-130901525.html"
+      },
+      {
+        "title": "Aktien Frankfurt Schluss: Dax beendet Verlustserie - Rueckkehr ueber 26.000 Punkte - Onvista",
+        "url": "https://www.onvista.de/news/2026/08-21-aktien-frankfurt-schluss-dax-beendet-verlustserie-rueckkehr-ueber-26-000-punkte-0-10-26545349"
+      },
+      {
+        "title": "Euronext live markets - CAC 40 close",
+        "url": "https://live.euronext.com/en"
+      },
+      {
+        "title": "Asian shares are mixed following Wall Street losses as US Treasury's moves fail to calm markets - AP via The New Indian Express",
+        "url": "https://www.newindianexpress.com/business/2026/Aug/21/asian-shares-are-mixed-following-wall-street-losses-as-us-treasurys-moves-fail-to-calm-markets"
+      },
+      {
+        "title": "FTSE Straits Times Index Overview - MarketWatch",
+        "url": "https://www.marketwatch.com/investing/index/sti?countrycode=sg"
+      },
+      {
+        "title": "Ibovespa Jumps Ahead of Datafolha Poll - Trading Economics",
+        "url": "https://tradingeconomics.com/brazil/stock-market/news/577368"
+      },
+      {
+        "title": "S&P/ASX 200 (^AXJO) Historical Data - Yahoo Finance",
+        "url": "https://finance.yahoo.com/quote/%5EAXJO/history/"
+      },
+      {
+        "title": "ALL ORDINARIES (^AORD) - Yahoo Finance",
+        "url": "https://finance.yahoo.com/quote/%5EAORD/"
+      },
+      {
+        "title": "The Week Ahead: US PCE, Tokyo CPI, Nvidia earnings - CMC Markets",
+        "url": "https://www.cmcmarkets.com/en-ie/news-and-analysis/the-week-ahead-us-pce-tokyo-cpi-nvidia-earnings"
+      },
+      {
+        "title": "What to Look Out for in Economic Data This Week (August 24-28) - Kiplinger",
+        "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"
+      },
+      {
+        "title": "Jackson Hole Economic Policy Symposium, August 27-29, 2026 - Federal Reserve Bank of Kansas City",
+        "url": "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/"
+      }
+    ],
+    "asof_caption": "Most global markets are showing their final prints from the Friday 21 August 2026 sessions, with exchanges closed for the weekend and no live trading until Monday 24 August."
+  },
+  "markets": [
+    {
+      "key": "germany",
+      "title": "European Top Performers (Germany / XETR)",
+      "caption": "Top 10 gainers and losers on Deutsche Boerse XETR from the last completed session, Friday 21 August 2026. Prices in euros; share volume as published by TradingView.",
+      "gainer_note": "Salzgitter, the largest liquid gainer at +8.18 per cent, extended a run tied to Europe's tightened steel trade regime. From 1 July 2026 the EU cut annual tariff-free steel import quotas by 47 per cent to 18.3 million tonnes, and Salzgitter has scheduled the restart of blast furnace C for autumn 2026 to coincide with the new rules. Jefferies and Bank of America both flagged the company as a beneficiary during 2026. No company-specific announcement was reported for 21 August itself.",
+      "gainer_note_sources": [
+        {
+          "title": "EU unveils new steel import quotas to protect its industry from overcapacity - Reuters",
+          "url": "https://www.reuters.com/world/china/eu-unveils-new-steel-import-quotas-protect-its-industry-overcapacity-2026-06-30/"
+        },
+        {
+          "title": "EU steel import rules tighten from July 1 - Expometals",
+          "url": "https://www.expometals.net/en/news/eu-steel-safeguard-regulation-july-2026"
+        },
+        {
+          "title": "Salzgitter News - Onvista (Jefferies and Bank of America notes)",
+          "url": "https://www.onvista.de/news/aktien/Salzgitter-News-DE0006202005"
+        }
+      ],
+      "loser_note": "Ludwig Beck was the steepest decliner at -12.73 per cent on a genuine, well-documented catalyst. The Munich department store operator confirmed in a 17 August 2026 ad-hoc release that its delisting from the Frankfurt Stock Exchange regulated market, including Prime Standard, took effect at the end of trading on 21 August 2026, following the mandatory and delisting acquisition offer by Bayerische Gewerbebau AG. The Munich exchange delisting took effect on 19 August. Trading reflected that final regulated-market session.",
+      "loser_note_sources": [
+        {
+          "title": "Ludwig Beck am Rathauseck - Effectiveness of the delisting from the Frankfurt and Munich Stock Exchanges - EQS News",
+          "url": "https://www.eqs-news.com/news/ad-hoc/ludwig-beck-am-rathauseck-textilhaus-feldmeier-aktiengesellschaft-effectiveness-of-the-delisting-of-ludwig-beck-shares-from-the-frankfurt-stock-exchange-and-the-munich-stock-exchange/537f1d97-ceb0-43d3-9d6c-e81f73b36723_en"
+        },
+        {
+          "title": "Ludwig Beck delisting from Frankfurt takes effect Aug. 21 after exchange notice",
+          "url": "https://www.webull.ca/news-detail/15418210625930240"
+        }
+      ],
+      "gainers": [
+        {
+          "name": "A.H.T. Syngas Technology N.V.",
+          "url": "https://www.tradingview.com/symbols/XETR-3SQ1/",
+          "price": "€2.64",
+          "chg": "+16.81%",
+          "vol": "7.0K"
+        },
+        {
+          "name": "Salzgitter AG",
+          "url": "https://www.tradingview.com/symbols/XETR-SZG/",
+          "price": "€52.75",
+          "chg": "+8.18%",
+          "vol": "226.6K"
+        },
+        {
+          "name": "Finexity AG",
+          "url": "https://www.tradingview.com/symbols/XETR-FXT/",
+          "price": "€37.60",
+          "chg": "+6.82%",
+          "vol": "154"
+        },
+        {
+          "name": "thyssenkrupp AG",
+          "url": "https://www.tradingview.com/symbols/XETR-TKA/",
+          "price": "€13.37",
+          "chg": "+5.61%",
+          "vol": "2.0M"
+        },
+        {
+          "name": "K+S AG",
+          "url": "https://www.tradingview.com/symbols/XETR-SDF/",
+          "price": "€16.38",
+          "chg": "+5.41%",
+          "vol": "2.4M"
+        },
+        {
+          "name": "clearvise AG",
+          "url": "https://www.tradingview.com/symbols/XETR-ABO/",
+          "price": "€1.06",
+          "chg": "+4.95%",
+          "vol": "0"
+        },
+        {
+          "name": "KAP AG",
+          "url": "https://www.tradingview.com/symbols/XETR-IUR/",
+          "price": "€1.91",
+          "chg": "+4.95%",
+          "vol": "919"
+        },
+        {
+          "name": "pferdewetten.de AG",
+          "url": "https://www.tradingview.com/symbols/XETR-EMH/",
+          "price": "€2.16",
+          "chg": "+4.85%",
+          "vol": "10.5K"
+        },
+        {
+          "name": "innoscripta SE",
+          "url": "https://www.tradingview.com/symbols/XETR-1INN/",
+          "price": "€86.40",
+          "chg": "+4.85%",
+          "vol": "3.8K"
+        },
+        {
+          "name": "Electrovac AG",
+          "url": "https://www.tradingview.com/symbols/XETR-EVAC/",
+          "price": "€8.80",
+          "chg": "+4.76%",
+          "vol": "26.7K"
+        }
+      ],
+      "losers": [
+        {
+          "name": "LUDWIG BECK am Rathauseck - Textilhaus Feldmeier AG",
+          "url": "https://www.tradingview.com/symbols/XETR-ECK/",
+          "price": "€19.20",
+          "chg": "-12.73%",
+          "vol": "2.6K"
+        },
+        {
+          "name": "swissnet AG",
+          "url": "https://www.tradingview.com/symbols/XETR-81D/",
+          "price": "€1.40",
+          "chg": "-9.97%",
+          "vol": "28.4K"
+        },
+        {
+          "name": "SCP Standard Capital Partners AG",
+          "url": "https://www.tradingview.com/symbols/FWB-CAP/",
+          "price": "€2.18",
+          "chg": "-9.92%",
+          "vol": "952"
+        },
+        {
+          "name": "DF Deutsche Forfait AG",
+          "url": "https://www.tradingview.com/symbols/XETR-DFTK/",
+          "price": "€1.375",
+          "chg": "-9.84%",
+          "vol": "10.1K"
+        },
+        {
+          "name": "NFON AG",
+          "url": "https://www.tradingview.com/symbols/XETR-NFN/",
+          "price": "€3.42",
+          "chg": "-8.31%",
+          "vol": "1.0K"
+        },
+        {
+          "name": "HWA AG",
+          "url": "https://www.tradingview.com/symbols/XETR-H9W/",
+          "price": "€3.28",
+          "chg": "-7.87%",
+          "vol": "12.7K"
+        },
+        {
+          "name": "Fielmann Group AG",
+          "url": "https://www.tradingview.com/symbols/XETR-FIE/",
+          "price": "€39.05",
+          "chg": "-6.58%",
+          "vol": "349.3K"
+        },
+        {
+          "name": "BRAIN Biotech AG",
+          "url": "https://www.tradingview.com/symbols/XETR-BNN/",
+          "price": "€2.65",
+          "chg": "-6.36%",
+          "vol": "18.5K"
+        },
+        {
+          "name": "MAX Automation SE",
+          "url": "https://www.tradingview.com/symbols/XETR-MXHN/",
+          "price": "€3.40",
+          "chg": "-6.08%",
+          "vol": "2.5K"
+        },
+        {
+          "name": "YOC AG",
+          "url": "https://www.tradingview.com/symbols/XETR-YOC/",
+          "price": "€5.30",
+          "chg": "-6.03%",
+          "vol": "155"
+        }
+      ]
+    },
+    {
+      "key": "brazil",
+      "title": "Latin American Top Performers (Brazil / B3)",
+      "caption": "Top 10 gainers and losers on B3 from the last completed session, Friday 21 August 2026, when the Ibovespa rose 1.85 per cent to 171,031.73. Prices in Brazilian reais; share volume as published by TradingView.",
+      "gainer_note": "Azevedo & Travassos led B3 with a +28.11 per cent move to R$8.34 on 1.64 million shares. No specific 21 August 2026 corporate announcement or news report explaining the surge could be located. The most recent verifiable corporate event is a 20-for-1 share consolidation approved in June 2026, which reset the share count without changing capital. The stock is a low-priced, thinly capitalised name at roughly R$355 million market value, so no genuine catalyst is being claimed here.",
+      "gainer_note_sources": [
+        {
+          "title": "Azevedo & Travassos aprova grupamento de acoes de 20 para 1 e ajusta base acionaria, sem alterar capital social - ADVFN",
+          "url": "https://br.advfn.com/jornal/2026/06/azevedo-amp-travassos-aprova-grupamento-de-acoes-de-20-para-1-e-ajusta-base-acionaria-sem-alterar-capital-social"
+        },
+        {
+          "title": "Azevedo & Travassos SA (AZEV3) - TradingView",
+          "url": "https://www.tradingview.com/symbols/BMFBOVESPA-AZEV3/"
+        }
+      ],
+      "loser_note": "Alphaville fell the most, down 15.00 per cent to R$8.50, but on just 1,800 shares traded, so the print reflects an extremely thin market rather than a broad repricing. No news report or company filing dated 21 August 2026 was found explaining the fall. Background context is weak fundamentals: first-quarter 2026 revenue of R$110.5 million was down 11 per cent year on year and the net loss widened 33 per cent to R$36.0 million. No genuine same-day catalyst is being claimed.",
+      "loser_note_sources": [
+        {
+          "title": "Alphaville (BOVESPA:AVLL3) - Stock Analysis - Simply Wall St",
+          "url": "https://simplywall.st/stocks/br/consumer-durables/bovespa-avll3/alphaville-shares"
+        },
+        {
+          "title": "AVLL3 (Alphaville) - Dividendos, Cotacao, Resultados - Dados de Mercado",
+          "url": "https://www.dadosdemercado.com.br/acoes/avll3"
+        }
+      ],
+      "gainers": [
+        {
+          "name": "Azevedo & Travassos SA",
+          "url": "https://www.tradingview.com/symbols/BMFBOVESPA-AZEV3/",
+          "price": "R$8.34",
+          "chg": "+28.11%",
+          "vol": "1.6M"
+        },
+        {
+          "name": "Porto Sudeste VM SA",
+          "url": "https://www.tradingview.com/symbols/BMFBOVESPA-PSVM11/",
+          "price": "R$16.89",
+          "chg": "+20.64%",
+          "vol": "500"
+        },
+        {
+          "name": "Banco ABC Brasil SA TEMP",
+          "url": "https://www.tradingview.com/symbols/BMFBOVESPA-ABCB10/",
+          "price": "R$26.00",
+          "chg": "+19.05%",
+          "vol": "300"
+        },
+        {
+          "name": "Azevedo & Travassos Energia S.A.",
+          "url": "https://www.tradingview.com/symbols/BMFBOVESPA-AZTE3/",
+          "price": "R$1.45",
+          "chg": "+17.89%",
+          "vol": "1.9M"
+        },
+        {
+          "name": "Grupo Toky SA",
+          "url": "https://www.tradingview.com/symbols/BMFBOVESPA-TOKY3/",
+          "price": "R$0.35",
+          "chg": "+16.67%",
+          "vol": "163.2K"
+        },
+        {
+          "name": "PDG Realty SA Empreendimentos e Participacoes",
+          "url": "https://www.tradingview.com/symbols/BMFBOVESPA-PDGR3/",
+          "price": "R$1.38",
+          "chg": "+14.05%",
+          "vol": "74.6K"
+        },
+        {
+          "name": "B100 S.A.",
+          "url": "https://www.tradingview.com/symbols/BMFBOVESPA-B1003/",
+          "price": "R$34.00",
+          "chg": "+13.33%",
+          "vol": "400"
+        },
+        {
+          "name": "Diagnosticos da America S.A.",
+          "url": "https://www.tradingview.com/symbols/BMFBOVESPA-DASA3/",
+          "price": "R$2.58",
+          "chg": "+12.66%",
+          "vol": "1.8M"
+        },
+        {
+          "name": "PBG S.A. (Portobello)",
+          "url": "https://www.tradingview.com/symbols/BMFBOVESPA-PTBL3/",
+          "price": "R$1.56",
+          "chg": "+12.23%",
+          "vol": "724.1K"
+        },
+        {
+          "name": "Oi S.A.",
+          "url": "https://www.tradingview.com/symbols/BMFBOVESPA-OIBR3/",
+          "price": "R$0.10",
+          "chg": "+11.11%",
+          "vol": "261.8K"
+        }
+      ],
+      "losers": [
+        {
+          "name": "Alphaville SA",
+          "url": "https://www.tradingview.com/symbols/BMFBOVESPA-AVLL3/",
+          "price": "R$8.50",
+          "chg": "-15.00%",
+          "vol": "1.8K"
+        },
+        {
+          "name": "Belora RDVC City Desenvolvimento Imobiliario S.A.",
+          "url": "https://www.tradingview.com/symbols/BMFBOVESPA-CCTY3/",
+          "price": "R$5.77",
+          "chg": "-14.64%",
+          "vol": "300"
+        },
+        {
+          "name": "Plascar Participacoes Industriais S.A.",
+          "url": "https://www.tradingview.com/symbols/BMFBOVESPA-PLAS3/",
+          "price": "R$2.40",
+          "chg": "-7.34%",
+          "vol": "800"
+        },
+        {
+          "name": "Paranapanema S.A.",
+          "url": "https://www.tradingview.com/symbols/BMFBOVESPA-PMAM3/",
+          "price": "R$0.13",
+          "chg": "-7.14%",
+          "vol": "6.6M"
+        },
+        {
+          "name": "Atom Educacao e Editora S.A.",
+          "url": "https://www.tradingview.com/symbols/BMFBOVESPA-ATED3/",
+          "price": "R$1.29",
+          "chg": "-4.44%",
+          "vol": "8.9K"
+        },
+        {
+          "name": "Isa Energia Brasil SA",
+          "url": "https://www.tradingview.com/symbols/BMFBOVESPA-ISAE3/",
+          "price": "R$28.78",
+          "chg": "-4.39%",
+          "vol": "24.9K"
+        },
+        {
+          "name": "Aeris Industria e Comercio de Equipamentos para Geracao de Energia S.A.",
+          "url": "https://www.tradingview.com/symbols/BMFBOVESPA-AERI3/",
+          "price": "R$2.13",
+          "chg": "-4.05%",
+          "vol": "130.1K"
+        },
+        {
+          "name": "Azul S.A.",
+          "url": "https://www.tradingview.com/symbols/BMFBOVESPA-AZUL3/",
+          "price": "R$19.31",
+          "chg": "-3.45%",
+          "vol": "96.8K"
+        },
+        {
+          "name": "LPS Brasil-Consultoria de Imoveis SA",
+          "url": "https://www.tradingview.com/symbols/BMFBOVESPA-LPSB3/",
+          "price": "R$1.27",
+          "chg": "-3.05%",
+          "vol": "208.1K"
+        },
+        {
+          "name": "Bioma Educacao SA",
+          "url": "https://www.tradingview.com/symbols/BMFBOVESPA-BIED3/",
+          "price": "R$6.26",
+          "chg": "-2.95%",
+          "vol": "2.1K"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "markets": [
+    {
+      "key": "china",
+      "title": "China (Mainland) Top Performers",
+      "caption": "Source: TradingView Mainland China market movers, close of Friday 21 August 2026. Note the heavy clustering at exactly +20.0% / -10.0%: Shenzhen ChiNext and Shanghai STAR names carry a 20% daily limit while main-board issues are capped at 10%, so many of these prices are limit-up or limit-down rather than free-floating marks. Volumes are exchange share volumes as reported by TradingView.",
+      "gainer_note": "Ningbo Bohui Chemical closed limit-up at CN¥12.47, up 20.02% on turnover of about CN¥226 million and a 6.74% turnover rate, landing it on the Shenzhen exchange's Dragon-Tiger disclosure list for a top-five 15%-plus daily gain. Chinese brokerage data showed roughly CN¥38 million of net main-force buying, with retail brokerage desks net buyers while institutions were net sellers. The move follows the company's plan to invest CN¥280 million via its Qihang New Materials unit in aromatics oil and hydrogenation refining capacity.",
+      "gainer_note_sources": [
+        "https://www.stcn.com/article/detail/4096483.html",
+        "https://stock.stockstar.com/RB2026082100027434.shtml",
+        "https://finance.eastmoney.com/a/202608213849292135.html",
+        "http://www.eeo.com.cn/2026/0804/985744.shtml"
+      ],
+      "loser_note": "Suzhou Lvkon Transmission was the steepest decliner, down 18.13% to CN¥26.60 from a CN¥32.49 prior close. The context is mechanical rather than fundamental: the commercial-vehicle electric-drive maker only listed on the ChiNext board on 20 August 2026 at an CN¥8.50 issue price, so Friday was its second session, when the newly relaxed price limits allow violent give-back after a first-day spike. No company-specific bad news was reported; this reads as post-IPO unwinding of speculative first-day gains.",
+      "loser_note_sources": [
+        "https://www.marketwatch.com/investing/stock/301655/company-profile?countrycode=cn",
+        "https://finance.ifeng.com/c/8vl2VM07T68",
+        "https://www.cfi.net.cn/p20260818002931.html"
+      ],
+      "gainers": [
+        {"name": "Ningbo Bohui Chemical Technology (300839)", "url": "https://www.tradingview.com/symbols/SZSE-300839/", "price": "CN¥12.47", "chg": "+20.02%", "vol": "19.1M"},
+        {"name": "Nanjing Comptech Composites (301591)", "url": "https://www.tradingview.com/symbols/SZSE-301591/", "price": "CN¥37.78", "chg": "+20.01%", "vol": "11.1M"},
+        {"name": "CanSino Biologics (688185)", "url": "https://www.tradingview.com/symbols/SSE-688185/", "price": "CN¥77.32", "chg": "+20.01%", "vol": "25.6M"},
+        {"name": "Suzhou Novoprotein Scientific (688137)", "url": "https://www.tradingview.com/symbols/SSE-688137/", "price": "CN¥80.99", "chg": "+20.00%", "vol": "10.6M"},
+        {"name": "Beijing Beilu Pharmaceutical (300016)", "url": "https://www.tradingview.com/symbols/SZSE-300016/", "price": "CN¥10.44", "chg": "+20.00%", "vol": "127.4M"},
+        {"name": "Shandong Rike Chemical (300214)", "url": "https://www.tradingview.com/symbols/SZSE-300214/", "price": "CN¥12.90", "chg": "+20.00%", "vol": "65.9M"},
+        {"name": "Jenkem Technology (688356)", "url": "https://www.tradingview.com/symbols/SSE-688356/", "price": "CN¥107.34", "chg": "+20.00%", "vol": "3.3M"},
+        {"name": "Shenzhen S-king Intelligent Equipment (688328)", "url": "https://www.tradingview.com/symbols/SSE-688328/", "price": "CN¥91.16", "chg": "+19.99%", "vol": "12.8M"},
+        {"name": "Guangdong Quanwei Technology (300716)", "url": "https://www.tradingview.com/symbols/SZSE-300716/", "price": "CN¥19.03", "chg": "+17.61%", "vol": "5.9M"},
+        {"name": "Academy of Environmental Planning & Design, Nanjing University (300864)", "url": "https://www.tradingview.com/symbols/SZSE-300864/", "price": "CN¥24.10", "chg": "+14.98%", "vol": "10.1M"}
+      ],
+      "losers": [
+        {"name": "Suzhou Lvkon Transmission Technology (301655)", "url": "https://www.tradingview.com/symbols/SZSE-301655/", "price": "CN¥26.60", "chg": "-18.13%", "vol": "28.1M"},
+        {"name": "Jinlihua Electric (300069)", "url": "https://www.tradingview.com/symbols/SZSE-300069/", "price": "CN¥27.00", "chg": "-12.08%", "vol": "24.1M"},
+        {"name": "Hualan Biological Vaccine (301207)", "url": "https://www.tradingview.com/symbols/SZSE-301207/", "price": "CN¥17.85", "chg": "-11.85%", "vol": "22.2M"},
+        {"name": "Hainan Shennong Seed Industry Technology (300189)", "url": "https://www.tradingview.com/symbols/SZSE-300189/", "price": "CN¥5.59", "chg": "-11.83%", "vol": "267.3M"},
+        {"name": "Jiangsu Chinagreen Biological Technology (300970)", "url": "https://www.tradingview.com/symbols/SZSE-300970/", "price": "CN¥19.18", "chg": "-11.78%", "vol": "30.1M"},
+        {"name": "Beijing E-Hualu Information Technology (300212)", "url": "https://www.tradingview.com/symbols/SZSE-300212/", "price": "CN¥7.67", "chg": "-11.74%", "vol": "30.6M"},
+        {"name": "Anhui Anke Biotechnology (300009)", "url": "https://www.tradingview.com/symbols/SZSE-300009/", "price": "CN¥8.97", "chg": "-11.63%", "vol": "152.2M"},
+        {"name": "Chongqing Lummy Pharmaceutical (300006)", "url": "https://www.tradingview.com/symbols/SZSE-300006/", "price": "CN¥5.27", "chg": "-11.28%", "vol": "133.0M"},
+        {"name": "Porton Pharma Solutions (300363)", "url": "https://www.tradingview.com/symbols/SZSE-300363/", "price": "CN¥21.89", "chg": "-10.58%", "vol": "68.2M"},
+        {"name": "Shanghai Universal Biotech (301166)", "url": "https://www.tradingview.com/symbols/SZSE-301166/", "price": "CN¥30.64", "chg": "-10.04%", "vol": "10.7M"}
+      ]
+    },
+    {
+      "key": "us",
+      "title": "US Top Performers",
+      "caption": "Source: StockAnalysis.com US market movers, updated for the close of Friday 21 August 2026 (Yahoo Finance gainers/losers pages returned an error and were unavailable, so the designated fallback source was used). Prices in USD; volumes are reported share volumes. Benchmarks that session: S&P 500 +0.41%, Nasdaq 100 +0.35%, Dow +0.89%, Russell 2000 +0.77%.",
+      "gainer_note": "RF Acquisition Corp II, a Singapore-based SPAC hunting Asian technology and biotech targets, exploded higher after a regulatory filing confirmed shareholder approval of its proposed business combination with Nanyang Biologics Pte. RTTNews reported the stock up roughly 230% intraday on 21 August, opening at $40.00 versus a low-teens base, before closing at $58.00 for a 355.62% session gain. Extreme redemptions typically leave a tiny free float in pre-merger SPACs, which amplifies such moves.",
+      "gainer_note_sources": [
+        "https://www.rttnews.com/3683262/rf-acquisition-corp-ii-shares-explode-230-on-nanyang-biologics-merger-vote-approval.aspx",
+        "https://stockanalysis.com/markets/gainers/"
+      ],
+      "loser_note": "NFT Ltd, the NYSE American-listed online art and collectibles trading platform, collapsed 58.51% to $3.00 after pricing a heavily dilutive registered offering. The company sold 437,957 units at $4.60 each to raise about $2.0 million, with each unit carrying a Class A ordinary share plus an immediately exercisable five-year common warrant struck at $4.60. Maxim Group acted as sole placement agent; the F-1 was declared effective 21 August and closing was set for 24 August.",
+      "loser_note_sources": [
+        "https://www.stocktitan.net/news/MI/nft-ltd-announces-pricing-of-us-2-0-million-public-134r4wfv2bo2.html",
+        "https://www.quiverquant.com/news/NFT%2BLimited%2BPrices%2B%242.0%2BMillion%2BRegistered%2BOffering%2Bof%2BUnits%2Band%2BWarrants",
+        "https://www.marketwatch.com/investing/stock/mi"
+      ],
+      "gainers": [
+        {"name": "RF Acquisition Corp II (RFAI)", "url": "https://finance.yahoo.com/quote/RFAI", "price": "$58.00", "chg": "+355.62%", "vol": "3.2M"},
+        {"name": "Werewolf Therapeutics, Inc. (HOWL)", "url": "https://finance.yahoo.com/quote/HOWL", "price": "$0.874", "chg": "+102.57%", "vol": "296.7M"},
+        {"name": "StablecoinX Inc. (USDE)", "url": "https://finance.yahoo.com/quote/USDE", "price": "$7.41", "chg": "+85.25%", "vol": "99.0M"},
+        {"name": "Knorex Ltd. (KNRX)", "url": "https://finance.yahoo.com/quote/KNRX", "price": "$0.520", "chg": "+57.58%", "vol": "144.3M"},
+        {"name": "Sadot Group Inc. (SDOT)", "url": "https://finance.yahoo.com/quote/SDOT", "price": "$13.18", "chg": "+56.16%", "vol": "19.6M"},
+        {"name": "Exyn Technologies, Inc. (EXYN)", "url": "https://finance.yahoo.com/quote/EXYN", "price": "$2.21", "chg": "+39.87%", "vol": "16.1M"},
+        {"name": "Lisata Therapeutics, Inc. (LSTA)", "url": "https://finance.yahoo.com/quote/LSTA", "price": "$1.55", "chg": "+38.39%", "vol": "7.1M"},
+        {"name": "AMC Robotics Corporation (AMCI)", "url": "https://finance.yahoo.com/quote/AMCI", "price": "$6.50", "chg": "+32.65%", "vol": "223.4K"},
+        {"name": "The9 Limited (NCTY)", "url": "https://finance.yahoo.com/quote/NCTY", "price": "$5.78", "chg": "+32.57%", "vol": "911.1K"},
+        {"name": "Cango Inc. (CANG)", "url": "https://finance.yahoo.com/quote/CANG", "price": "$2.14", "chg": "+32.10%", "vol": "4.1M"}
+      ],
+      "losers": [
+        {"name": "NFT Limited (MI)", "url": "https://finance.yahoo.com/quote/MI", "price": "$3.00", "chg": "-58.51%", "vol": "541.6K"},
+        {"name": "SU Group Holdings Limited (SUGP)", "url": "https://finance.yahoo.com/quote/SUGP", "price": "$1.60", "chg": "-42.34%", "vol": "40.3M"},
+        {"name": "GD Culture Group Limited (GDC)", "url": "https://finance.yahoo.com/quote/GDC", "price": "$1.56", "chg": "-37.35%", "vol": "11.0M"},
+        {"name": "CDT Environmental Technology Investment Holdings (CDTG)", "url": "https://finance.yahoo.com/quote/CDTG", "price": "$1.18", "chg": "-35.52%", "vol": "5.0M"},
+        {"name": "Jianzhi Education Technology Group (JZ)", "url": "https://finance.yahoo.com/quote/JZ", "price": "$2.20", "chg": "-33.73%", "vol": "1.0M"},
+        {"name": "Lucas GC Limited (LGCL)", "url": "https://finance.yahoo.com/quote/LGCL", "price": "$0.057", "chg": "-31.33%", "vol": "123.4M"},
+        {"name": "Profusa, Inc. (PFSA)", "url": "https://finance.yahoo.com/quote/PFSA", "price": "$5.46", "chg": "-27.87%", "vol": "647.7K"},
+        {"name": "Flux Power Holdings, Inc. (FLUX)", "url": "https://finance.yahoo.com/quote/FLUX", "price": "$0.599", "chg": "-26.96%", "vol": "1.7M"},
+        {"name": "Professional Diversity Network, Inc. (IPDN)", "url": "https://finance.yahoo.com/quote/IPDN", "price": "$0.148", "chg": "-26.05%", "vol": "10.8M"},
+        {"name": "iSpecimen Inc. (ISPC)", "url": "https://finance.yahoo.com/quote/ISPC", "price": "$1.69", "chg": "-25.55%", "vol": "1.5M"}
+      ]
+    },
+    {
+      "key": "uk",
+      "title": "UK (London) Top Performers",
+      "caption": "Source: TradingView United Kingdom market movers, close of Friday 21 August 2026. Prices quoted in pence (GBX) as displayed by the exchange; volumes are reported share volumes. Most names here are AIM and small-cap issues, and two constituents trade on AQUIS rather than the LSE main market.",
+      "gainer_note": "GCM Resources led London, jumping 36.55% to 17.0p on 28.5 million shares. The AIM-quoted developer of the Phulbari coal and power project in north-west Bangladesh has been in a sustained re-rating since a Bangladeshi government statement earlier in the week relating to the project; Alliance News reported the shares more than doubling from a 3.90p base to 9.33p on that news, and Friday's advance extended that run. Momentum, not fresh company guidance, drove the latest leg.",
+      "gainer_note_sources": [
+        "https://www.lse.co.uk/news/in-brief-gcm-resources-shares-skyrocket-after-bangladeshi-statement-wc58sr06ehdx34v.html",
+        "https://global.morningstar.com/en-gb/news/alliance-news/1786965365513034100/in-brief-gcm-resources-shares-skyrocket-after-bangladeshi-statement",
+        "https://www.tradingview.com/markets/stocks-united-kingdom/market-movers-gainers/"
+      ],
+      "loser_note": "eEnergy Group fell 20.00% to 2.00p after a Friday RNS disclosing a new loan facility and an extension of existing borrowings. The AIM-listed energy-as-a-service and solar installer said administrative delays had held up roughly £3.2 million of payments tied to its Mace projects, even though all 65 sites are now fully energised, forcing it to shore up short-term liquidity. It compounds a difficult year in which a new interim CEO already cut full-year revenue and EBITDA guidance.",
+      "loser_note_sources": [
+        "https://www.tradingview.com/news/reuters.com,2026-08-21:newsml_RSU5841Ra:0-reg-eenergy-group-plc-new-loan-facility-and-extension/",
+        "https://uk.finance.yahoo.com/news/eenergy-secures-additional-funding-mace-072050019.html",
+        "https://www.proactiveinvestors.co.uk/companies/news/1097398/eenergy-shares-fall-12-in-early-trade-after-new-short-term-loan-disclosed-1097398.html"
+      ],
+      "gainers": [
+        {"name": "GCM Resources plc (GCM)", "url": "https://www.tradingview.com/symbols/LSE-GCM/", "price": "17.0p", "chg": "+36.55%", "vol": "28.5M"},
+        {"name": "First Class Metals Plc (FCM)", "url": "https://www.tradingview.com/symbols/LSE-FCM/", "price": "3.4p", "chg": "+25.93%", "vol": "14.1M"},
+        {"name": "Proservice Building Services Marketplace Plc (PRO)", "url": "https://www.tradingview.com/symbols/LSE-PRO/", "price": "2.4p", "chg": "+20.00%", "vol": "521.6K"},
+        {"name": "London BTC Company Limited (BTC)", "url": "https://www.tradingview.com/symbols/LSE-BTC/", "price": "2.0p", "chg": "+15.94%", "vol": "2.3M"},
+        {"name": "Blue Star Capital Plc (BLU)", "url": "https://www.tradingview.com/symbols/LSE-BLU/", "price": "5.5p", "chg": "+15.79%", "vol": "1.9M"},
+        {"name": "Time To ACT Plc (TTA)", "url": "https://www.tradingview.com/symbols/AQUIS-TTA/", "price": "11.0p", "chg": "+15.79%", "vol": "25.0K"},
+        {"name": "Andrada Mining Limited (ATM)", "url": "https://www.tradingview.com/symbols/LSE-ATM/", "price": "5.66p", "chg": "+13.20%", "vol": "22.7M"},
+        {"name": "Headlam Group plc (HEAD)", "url": "https://www.tradingview.com/symbols/LSE-HEAD/", "price": "8.9p", "chg": "+12.66%", "vol": "2.3M"},
+        {"name": "Gamma Communications PLC (GAMA)", "url": "https://www.tradingview.com/symbols/LSE-GAMA/", "price": "1082.0p", "chg": "+11.60%", "vol": "1.4M"},
+        {"name": "Hydrogen Utopia International PLC (HUI)", "url": "https://www.tradingview.com/symbols/LSE-HUI/", "price": "2.5p", "chg": "+11.11%", "vol": "2.7M"}
+      ],
+      "losers": [
+        {"name": "eEnergy Group PLC (EAAS)", "url": "https://www.tradingview.com/symbols/LSE-EAAS/", "price": "2.0p", "chg": "-20.00%", "vol": "11.7M"},
+        {"name": "Fiinu Plc (BANK)", "url": "https://www.tradingview.com/symbols/LSE-BANK/", "price": "4.0p", "chg": "-20.00%", "vol": "582.3K"},
+        {"name": "Hunting PLC (HTG)", "url": "https://www.tradingview.com/symbols/LSE-HTG/", "price": "405.0p", "chg": "-14.47%", "vol": "2.4M"},
+        {"name": "Quantum Helium Limited (QHE)", "url": "https://www.tradingview.com/symbols/LSE-QHE/", "price": "2.3p", "chg": "-8.00%", "vol": "1.5M"},
+        {"name": "Anglesey Mining plc (AYM)", "url": "https://www.tradingview.com/symbols/LSE-AYM/", "price": "5.75p", "chg": "-8.00%", "vol": "537.0K"},
+        {"name": "Nanoco Group PLC (NANO)", "url": "https://www.tradingview.com/symbols/LSE-NANO/", "price": "2.5p", "chg": "-7.06%", "vol": "226.6K"},
+        {"name": "Atlas Metals Group Plc (AMG)", "url": "https://www.tradingview.com/symbols/LSE-AMG/", "price": "4.75p", "chg": "-6.86%", "vol": "442.0K"},
+        {"name": "HemoGenyx Pharmaceuticals Plc (HEMO)", "url": "https://www.tradingview.com/symbols/LSE-HEMO/", "price": "594.0p", "chg": "-6.60%", "vol": "5.7K"},
+        {"name": "Robert Walters Plc (RWA)", "url": "https://www.tradingview.com/symbols/LSE-RWA/", "price": "147.0p", "chg": "-6.07%", "vol": "35.5K"},
+        {"name": "Ajax Resources PLC (AJAX)", "url": "https://www.tradingview.com/symbols/AQUIS-AJAX/", "price": "6.16p", "chg": "-5.95%", "vol": "268.8K"}
+      ]
+    }
+  ]
+}
