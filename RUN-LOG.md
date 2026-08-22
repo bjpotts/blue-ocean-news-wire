@@ -14,12 +14,12 @@
 | Top Performers (9 regions x 20 rows) | Built - 18 freshly researched mover explainers |
 | Capital Raises & New Listings (6 regions) | Built - 21 items, Europe honestly reported as thin (2) |
 | Tech (10 stories) | Built - 5 US / 3 Asia / 1 Europe / 1 Australia |
-| World News (14 outlets) | Built - 66 headlines, incl. ABC News US (abcnews.go.com) |
+| World News (14 outlets) | Built - 65 headlines, incl. ABC News US (abcnews.go.com) |
 | World Sport (10 codes) | Built - 33 headlines, no code padded or dropped |
 
 ## Link integrity
 
-All 384 unique URLs were HTTP-checked. Zero 404s remain.
+All 383 unique URLs were HTTP-checked. Zero 404s remain.
 Nine dead links were found and repaired before publishing:
 
 - `finance.yahoo.com/quote/%5EAXJO` and `%5EAORD` 404 on the US Yahoo host - repointed to `au.finance.yahoo.com`.
@@ -33,7 +33,7 @@ Reuters and WSJ 401, Time and a few others 403/406, CoinDesk 429 (rate limit).
 
 Rendered through headless Chrome to confirm the baked-in `@media print` block behaves:
 
-- 42 pages total.
+- 41 pages total.
 - Page 1 holds the masthead and the Market News paragraph only - nothing spills over.
 - Page 2 begins with the as-of caption and Exchange Rates & Bitcoin.
 - Commodities (p4), Top Performers (p5), Tech (p20), World News (p22), World Sport (p36) each start fresh.
@@ -53,7 +53,7 @@ that URL is therefore unchanged from the previous run. Delivered as files instea
 
 - `public-news-wire.html` - the self-contained artifact body (style block + content, no doctype/head/body)
 - `preview.html` - the same content wrapped in a minimal document for local viewing and PDF export
-- `public-news-wire-full-print.pdf` - the 42-page print render
+- `public-news-wire-full-print.pdf` - the 41-page print render
 
 **Email: NOT SENT.** The Gmail MCP tool (`mcp__Gmail__send_message`) is not available in this environment
 and no MCP servers are configured (`~/.verdent/mcp.json` does not exist). The snapshot attachment was still
@@ -72,6 +72,37 @@ not carry the news desk), 5 headlines, all URLs curl-checked at HTTP 200 and dat
 RSS pubDates and embedded JSON-LD `datePublished`. It is labelled "ABC News (US)" to keep it clearly
 distinct from the existing ABC News Australia section. Page count moved from 41 to 42; all section page
 breaks re-verified and still correct.
+
+## Amendment - de-duplication pass
+
+A duplication scan across all 130 headline items found and fixed five genuine repeats, plus a rendering bug:
+
+1. The same This is Money article on Glencore's proposed Australian secondary listing was used twice, under
+   both the ANZ and UK capital-raise regions. Dropped from ANZ; UK is the natural home for a London-listing
+   story.
+2. ANZ carried the Sports Entertainment Group placement and its retail share purchase plan as two items -
+   one deal. Consolidated into one, with the SPP terms folded into the surviving item.
+3. UK carried the Nscale New York float twice (Investing.com and Silicon UK). Consolidated into one.
+4. Rest of World carried the Dangote refinery IPO twice. Consolidated, with the retail-focused/no-foreign-
+   listing detail folded into the survivor.
+5. World Golf carried McIlroy's round-one lead and his round-two slide at the same BMW Championship.
+   Kept the later, superseding item.
+6. ABC News Australia carried two items on the same Sydney Swans affair. Kept the news item, dropped the
+   analysis piece.
+
+Four replacement items were freshly researched and verified at HTTP 200 to backfill: Impact Minerals and
+SCX.ai (ANZ), Vast Resources (UK), and a world-first epilepsy treatment story (ABC News Australia). The
+ANZ, UK and Rest region summary paragraphs were rewritten to match their new item sets.
+
+Separately, 34 headlines from the first news batch arrived wrapped in markdown bold markers, which rendered
+as literal asterisks on the page. The builder now strips them.
+
+NOT removed, by design: the US-Canada tariff story appears across seven outlet sections. Each outlet section
+reports what that outlet is actually leading with, and this was the lead story for six of them, so removing
+it would misrepresent the outlets rather than de-duplicate the page.
+
+Post-fix state: 128 headline items, zero duplicate URLs, zero repeated events within any section,
+383 unique URLs with zero 404s, 41 pages with all section page breaks re-verified.
 
 ## Story rotation
 

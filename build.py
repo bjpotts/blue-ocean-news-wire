@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Build the Public News Wire digest page for Blue Ocean Equities Pty Ltd."""
-import json, html, os
+import json, html, os, re
 
 D = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "public-news-wire.html")
@@ -21,6 +21,78 @@ nb = load("news-b.json")
 sp = load("sport.json")
 
 E = lambda s: html.escape(str(s), quote=True)
+
+# Some sources came back with markdown bold wrappers around the headline text.
+# The stylesheet already bolds headlines, so strip the markers or they render as
+# literal asterisks on the page.
+def _strip_md(node):
+    if isinstance(node, dict):
+        for k, v in node.items():
+            if k in ("headline", "detail", "summary") and isinstance(v, str):
+                node[k] = re.sub(r"^\*\*(.*?)\*\*$", r"\1", v.strip()).strip()
+            else:
+                _strip_md(v)
+    elif isinstance(node, list):
+        for v in node:
+            _strip_md(v)
+
+for _doc in (na, nb, sp, tech, cr):
+    _strip_md(_doc)
+
+# ----------------------------------------------------------------- de-duplication
+# Removes items that repeat a story already carried elsewhere on the page: one
+# article used under two regions, and several cases of a single event listed twice
+# inside one section. Facts from a dropped item are folded into the survivor.
+bf = load("backfill.json")
+
+def _region(key):
+    return next(r for r in cr["regions"] if r["key"] == key)
+
+def _drop(items, needle):
+    keep = [i for i in items if needle not in i["headline"]]
+    assert len(keep) == len(items) - 1, "dedup: expected exactly one match for %r" % needle
+    return keep
+
+def _extend(items, needle, clause):
+    hit = [i for i in items if needle in i["headline"]]
+    assert len(hit) == 1, "dedup: expected exactly one match for %r" % needle
+    assert hit[0]["detail"].endswith("."), "dedup: unexpected detail ending"
+    hit[0]["detail"] = hit[0]["detail"][:-1] + clause
+
+# ANZ - the Sports Entertainment Group placement and its retail SPP are one deal;
+# the Glencore article is the same URL used again under UK, which is its natural home.
+anz = _region("anz")
+_extend(anz["items"], "Sports Entertainment Group closes",
+        ", with a non-underwritten retail share purchase plan of up to about A$2 million at the "
+        "same A$0.28 price, capped at A$30,000 per holder, following for eligible shareholders.")
+anz["items"] = _drop(anz["items"], "opens retail share purchase plan")
+anz["items"] = _drop(anz["items"], "Glencore")
+anz["items"] += bf["anz_items"]
+anz["summary"] = bf["summaries"]["anz"]
+
+# UK - both Nscale items describe the same New York float.
+uk = _region("uk")
+uk["items"] = _drop(uk["items"], "Nscale points to a September window")
+uk["items"] += bf["uk_items"]
+uk["summary"] = bf["summaries"]["uk"]
+
+# Rest - two items covered the same Dangote refinery IPO.
+rest = _region("rest")
+_extend(rest["items"], "Dangote refinery locks in",
+        ", with the offer structured around Nigerian retail and African institutional investors and "
+        "no foreign listing until the refinery has at least three years of results.")
+rest["items"] = _drop(rest["items"], "retail-focused and rules out")
+rest["summary"] = bf["summaries"]["rest"]
+
+# World Golf - the round-one leaderboard item is superseded by the round-two item
+# from the same BMW Championship.
+golf = next(c for c in sp["codes"] if c["key"] == "golf")
+golf["items"] = _drop(golf["items"], "grabs a share of the opening lead")
+
+# ABC News Australia - two items covered the same Sydney Swans affair.
+abcau = next(o for o in na["outlets"] if o["key"] == "abc")
+abcau["items"] = _drop(abcau["items"], "Bloods")
+abcau["items"].append(bf["abc_item"])
 
 EDITION = "Evening Edition"
 DATELINE = "Saturday 22 August 2026 &middot; 22:40 AEST (Australia/Sydney)"
