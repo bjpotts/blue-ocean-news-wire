@@ -19,6 +19,7 @@ tech = load("tech.json")
 na = load("news-a.json")
 nb = load("news-b.json")
 sp = load("sport.json")
+wx = load("weather.json")
 
 E = lambda s: html.escape(str(s), quote=True)
 
@@ -124,6 +125,86 @@ for a, b in fixes:
         raise SystemExit("market-news fix string not found: " + a[:60])
 MARKET_NEWS = E(mnp)
 ASOF_CAPTION = E(pc["market_news"]["asof_caption"])
+
+# ---------------------------------------------------------------- local weather
+# Build-time conditions for the run location (from the machine timezone). The
+# script below upgrades this in-browser to the reader's own location if they
+# allow it; if they decline, or scripting is blocked, this static strip stands
+# and is what appears in any PDF export.
+def wx_cell(label, value, url):
+    return ('<a class="wx-cell" href="%s" target="_blank" rel="noopener">'
+            '<span class="wx-label">%s</span><span class="wx-value">%s</span></a>'
+            % (E(url), E(label), value))
+
+WEATHER = """<div class="wx-strip" id="wx-strip" data-fallback-url="%s">
+<a class="wx-place" id="wx-place" href="%s" target="_blank" rel="noopener">%s</a>
+%s
+</div>
+<p class="caption wx-note" id="wx-note">Current conditions observed %s local time, via <a href="%s" target="_blank" rel="noopener">Open-Meteo</a>, with the outlook link going to the <a href="%s" target="_blank" rel="noopener">%s</a>. Location is taken from this edition's build timezone (%s); allow location access in your browser and the strip switches to your own local conditions.</p>""" % (
+    E(wx["source_url"]), E(wx["source_url"]), E("%s &middot; %s" % (wx["place"], wx["condition"])).replace("&amp;middot;", "&middot;"),
+    "\n".join([
+        wx_cell("Now", wx["temp"], wx["obs_url"]),
+        wx_cell("Feels", wx["feels"], wx["obs_url"]),
+        wx_cell("High / Low", "%s / %s" % (wx["high"], wx["low"]), wx["source_url"]),
+        wx_cell("Wind", wx["wind"], wx["obs_url"]),
+        wx_cell("Humidity", wx["humidity"], wx["obs_url"]),
+        wx_cell("Rain", wx["rain_chance"], wx["source_url"]),
+    ]),
+    E(wx["observed"]), E(wx["obs_url"]), E(wx["source_url"]), E(wx["source_label"]), E(wx["timezone"]))
+
+WEATHER_JS = """<script>
+(function () {
+  var strip = document.getElementById('wx-strip');
+  if (!strip || !navigator.geolocation) { return; }
+  var WMO = {0:'Clear',1:'Mainly clear',2:'Partly cloudy',3:'Overcast',45:'Fog',48:'Rime fog',
+    51:'Light drizzle',53:'Drizzle',55:'Heavy drizzle',56:'Freezing drizzle',57:'Freezing drizzle',
+    61:'Light rain',63:'Rain',65:'Heavy rain',66:'Freezing rain',67:'Freezing rain',71:'Light snow',
+    73:'Snow',75:'Heavy snow',77:'Snow grains',80:'Light showers',81:'Showers',82:'Heavy showers',
+    85:'Snow showers',86:'Snow showers',95:'Thunderstorms',96:'Storms with hail',99:'Storms with hail'};
+  var COMPASS = ['N','NNE','NE','ENE','E','ESE','SE','SSE','S','SSW','SW','WSW','W','WNW','NW','NNW'];
+  function t(v) { return v.toFixed(1) + '\\u00B0C'; }
+  navigator.geolocation.getCurrentPosition(function (pos) {
+    var la = pos.coords.latitude, lo = pos.coords.longitude;
+    var api = 'https://api.open-meteo.com/v1/forecast?latitude=' + la + '&longitude=' + lo +
+      '&current=temperature_2m,apparent_temperature,relative_humidity_2m,weather_code,' +
+      'wind_speed_10m,wind_direction_10m&daily=temperature_2m_max,temperature_2m_min,' +
+      'precipitation_probability_max&timezone=auto&forecast_days=1';
+    var link = 'https://weather.com/weather/today/l/' + la.toFixed(2) + ',' + lo.toFixed(2);
+    Promise.all([
+      fetch(api).then(function (r) { return r.json(); }),
+      fetch('https://api.bigdatacloud.net/data/reverse-geocode-client?latitude=' + la +
+            '&longitude=' + lo + '&localityLanguage=en')
+        .then(function (r) { return r.json(); })
+        .catch(function () { return null; })
+    ]).then(function (res) {
+      var d = res[0], g = res[1], c = d.current, day = d.daily;
+      var name = g && (g.city || g.locality || g.principalSubdivision)
+        ? (g.city || g.locality) + (g.principalSubdivision ? ', ' + g.principalSubdivision : '')
+        : la.toFixed(2) + ', ' + lo.toFixed(2);
+      var vals = [t(c.temperature_2m), t(c.apparent_temperature),
+        t(day.temperature_2m_max[0]) + ' / ' + t(day.temperature_2m_min[0]),
+        Math.round(c.wind_speed_10m) + ' km/h ' + COMPASS[Math.round((c.wind_direction_10m % 360) / 22.5) % 16],
+        c.relative_humidity_2m + '%', day.precipitation_probability_max[0] + '%'];
+      var place = document.getElementById('wx-place');
+      place.textContent = name + ' \\u00B7 ' + (WMO[c.weather_code] || 'Code ' + c.weather_code);
+      place.href = link;
+      var cells = strip.querySelectorAll('.wx-cell');
+      for (var i = 0; i < cells.length && i < vals.length; i++) {
+        cells[i].querySelector('.wx-value').textContent = vals[i];
+        cells[i].href = link;
+      }
+      var note = document.getElementById('wx-note');
+      if (note) {
+        note.innerHTML = 'Current conditions for your device location, via ' +
+          '<a href="https://open-meteo.com" target="_blank" rel="noopener">Open-Meteo</a>, ' +
+          'linked through to <a href="' + link + '" target="_blank" rel="noopener">weather.com</a>. ' +
+          'Local time zone ' + (d.timezone || 'unknown') + '.';
+      }
+    }).catch(function () { /* leave the build-time strip in place */ });
+  }, function () { /* permission denied - leave the build-time strip in place */ },
+     { timeout: 8000, maximumAge: 900000 });
+})();
+</script>"""
 
 # ---------------------------------------------------------------- rate grid
 def rate_cell(code, value, chg, url, sub=None):
@@ -310,6 +391,27 @@ CSS = """
 .mover-note{font-family:var(--sans);font-size:.9rem;line-height:1.5;margin:0 0 8px;color:var(--ink);}
 .outlet-summary{font-size:.92rem;line-height:1.5;color:var(--muted);margin:0 0 8px;}
 
+/* local weather strip */
+.wx-strip{display:grid;grid-template-columns:auto repeat(6,1fr);gap:6px;align-items:center;
+  background:var(--surface);border:1px solid var(--rule);border-left:3px solid var(--cerulean);
+  border-radius:4px;padding:8px 10px;margin:0 0 6px;}
+.wx-place{font-family:var(--display);font-weight:700;font-size:1.05rem;color:var(--ink);
+  text-decoration:none!important;padding-right:10px;margin-right:4px;
+  border-right:1px solid var(--rule-strong);}
+.wx-cell{display:flex;flex-direction:column;gap:1px;text-align:center;text-decoration:none!important;
+  min-width:0;}
+.wx-label{font-family:var(--mono);font-size:.58rem;letter-spacing:.08em;text-transform:uppercase;
+  color:var(--muted);}
+.wx-value{font-family:var(--mono);font-size:.9rem;font-weight:500;color:var(--ink);
+  font-variant-numeric:tabular-nums;}
+.wx-note{margin:0 0 18px;}
+
+@media (max-width:820px){
+  .wx-strip{grid-template-columns:1fr 1fr 1fr;}
+  .wx-place{grid-column:1/-1;border-right:none;border-bottom:1px solid var(--rule-strong);
+    padding:0 0 6px;margin:0 0 4px;}
+}
+
 /* rate grid */
 .rate-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin:10px 0 18px;}
 .rate-cell{display:flex;flex-direction:column;gap:3px;background:var(--surface);
@@ -404,7 +506,9 @@ HTML = """<style>%s</style>
   </div>
 </header>
 
-<h2>Market News</h2>
+<h2>Market Wrap Up</h2>
+%s
+%s
 <p class="market-summary">%s</p>
 <p class="section-caption page-break-before">%s</p>
 
@@ -447,7 +551,7 @@ HTML = """<style>%s</style>
 </footer>
 
 </div>
-""" % (CSS, EDITION, DATELINE, MARKET_NEWS, ASOF_CAPTION,
+""" % (CSS, EDITION, DATELINE, WEATHER, WEATHER_JS, MARKET_NEWS, ASOF_CAPTION,
        E(mk["fx_base_date"]), E(mk["fx_prior_date"]),
        grid(fx_cells), grid(idx_cells),
        E(cm["summary"]), grid(com_cells), perf_html,

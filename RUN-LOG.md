@@ -7,7 +7,7 @@
 
 | Section | Status |
 |---|---|
-| Market News summary + as-of caption | Built, freshly researched (13 sources) |
+| Market Wrap Up summary + local weather strip + as-of caption | Built, freshly researched (13 sources) |
 | Exchange Rates & Bitcoin (24 cells) | Built - BTC cross-checked across 5 venues |
 | World Indices (16 cells) | Built - Friday 21 Aug closes |
 | Commodities (16 cells) + summary | Built - 15 via TradingEconomics, rare earths via MP proxy |
@@ -33,8 +33,8 @@ Reuters and WSJ 401, Time and a few others 403/406, CoinDesk 429 (rate limit).
 
 Rendered through headless Chrome to confirm the baked-in `@media print` block behaves:
 
-- 41 pages total.
-- Page 1 holds the masthead and the Market News paragraph only - nothing spills over.
+- 42 pages total.
+- Page 1 holds the masthead, the new local weather strip and the start of the Market Wrap Up summary. Page 2 completes the Market Wrap Up summary and as-of caption; Exchange Rates begins on page 3 because the weather strip has expanded the lead section.
 - Page 2 begins with the as-of caption and Exchange Rates & Bitcoin.
 - Commodities (p4), Top Performers (p5), Tech (p20), World News (p22), World Sport (p36) each start fresh.
 - Top Performers: ANZ sits under its heading on p5; Japan, Singapore, Hong Kong, China, US, UK, Germany
@@ -53,7 +53,7 @@ that URL is therefore unchanged from the previous run. Delivered as files instea
 
 - `public-news-wire.html` - the self-contained artifact body (style block + content, no doctype/head/body)
 - `preview.html` - the same content wrapped in a minimal document for local viewing and PDF export
-- `public-news-wire-full-print.pdf` - the 41-page print render
+- `public-news-wire-full-print.pdf` - the 42-page print render
 
 **Email: NOT SENT.** The Gmail MCP tool (`mcp__Gmail__send_message`) is not available in this environment
 and no MCP servers are configured (`~/.verdent/mcp.json` does not exist). The snapshot attachment was still
@@ -72,6 +72,18 @@ not carry the news desk), 5 headlines, all URLs curl-checked at HTTP 200 and dat
 RSS pubDates and embedded JSON-LD `datePublished`. It is labelled "ABC News (US)" to keep it clearly
 distinct from the existing ABC News Australia section. Page count moved from 41 to 42; all section page
 breaks re-verified and still correct.
+
+## Amendment - heading and local weather
+
+The main section heading has been changed from "Market News" to "Market Wrap Up".
+
+A local weather strip has been added directly under the heading. Build-time conditions are derived from
+Open-Meteo for the run's timezone (Australia/Sydney = Sydney, NSW). The entire strip is clickable: the
+location tile links to the Bureau of Meteorology, and each metric cell links to either Open-Meteo or BoM.
+A small browser script is embedded; if a reader allows location access, the strip updates to their device
+location and switches the link to weather.com. If scripting is blocked, permission is denied, or the page
+is exported to PDF, the build-time Sydney strip remains in place. Because the strip adds vertical depth,
+the Market Wrap Up section now occupies pages 1-2 and Exchange Rates begins on page 3.
 
 ## Amendment - de-duplication pass
 

@@ -58,6 +58,27 @@
 .mover-note{font-family:var(--sans);font-size:.9rem;line-height:1.5;margin:0 0 8px;color:var(--ink);}
 .outlet-summary{font-size:.92rem;line-height:1.5;color:var(--muted);margin:0 0 8px;}
 
+/* local weather strip */
+.wx-strip{display:grid;grid-template-columns:auto repeat(6,1fr);gap:6px;align-items:center;
+  background:var(--surface);border:1px solid var(--rule);border-left:3px solid var(--cerulean);
+  border-radius:4px;padding:8px 10px;margin:0 0 6px;}
+.wx-place{font-family:var(--display);font-weight:700;font-size:1.05rem;color:var(--ink);
+  text-decoration:none!important;padding-right:10px;margin-right:4px;
+  border-right:1px solid var(--rule-strong);}
+.wx-cell{display:flex;flex-direction:column;gap:1px;text-align:center;text-decoration:none!important;
+  min-width:0;}
+.wx-label{font-family:var(--mono);font-size:.58rem;letter-spacing:.08em;text-transform:uppercase;
+  color:var(--muted);}
+.wx-value{font-family:var(--mono);font-size:.9rem;font-weight:500;color:var(--ink);
+  font-variant-numeric:tabular-nums;}
+.wx-note{margin:0 0 18px;}
+
+@media (max-width:820px){
+  .wx-strip{grid-template-columns:1fr 1fr 1fr;}
+  .wx-place{grid-column:1/-1;border-right:none;border-bottom:1px solid var(--rule-strong);
+    padding:0 0 6px;margin:0 0 4px;}
+}
+
 /* rate grid */
 .rate-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin:10px 0 18px;}
 .rate-cell{display:flex;flex-direction:column;gap:3px;background:var(--surface);
@@ -150,7 +171,70 @@ a.hl-src{display:inline-block;font-family:var(--mono);font-size:.66rem;letter-sp
   </div>
 </header>
 
-<h2>Market News</h2>
+<h2>Market Wrap Up</h2>
+<div class="wx-strip" id="wx-strip" data-fallback-url="https://www.bom.gov.au/nsw/forecasts/sydney.shtml">
+<a class="wx-place" id="wx-place" href="https://www.bom.gov.au/nsw/forecasts/sydney.shtml" target="_blank" rel="noopener">Sydney, NSW &middot; Mainly clear</a>
+<a class="wx-cell" href="https://api.open-meteo.com/v1/forecast?latitude=-33.8688&amp;longitude=151.2093&amp;current=temperature_2m,apparent_temperature,relative_humidity_2m,weather_code,wind_speed_10m,wind_direction_10m,precipitation&amp;daily=temperature_2m_max,temperature_2m_min,precipitation_probability_max&amp;timezone=Australia%2FSydney&amp;forecast_days=1" target="_blank" rel="noopener"><span class="wx-label">Now</span><span class="wx-value">11.9&deg;C</span></a>
+<a class="wx-cell" href="https://api.open-meteo.com/v1/forecast?latitude=-33.8688&amp;longitude=151.2093&amp;current=temperature_2m,apparent_temperature,relative_humidity_2m,weather_code,wind_speed_10m,wind_direction_10m,precipitation&amp;daily=temperature_2m_max,temperature_2m_min,precipitation_probability_max&amp;timezone=Australia%2FSydney&amp;forecast_days=1" target="_blank" rel="noopener"><span class="wx-label">Feels</span><span class="wx-value">10.0&deg;C</span></a>
+<a class="wx-cell" href="https://www.bom.gov.au/nsw/forecasts/sydney.shtml" target="_blank" rel="noopener"><span class="wx-label">High / Low</span><span class="wx-value">17.7&deg;C / 10.5&deg;C</span></a>
+<a class="wx-cell" href="https://api.open-meteo.com/v1/forecast?latitude=-33.8688&amp;longitude=151.2093&amp;current=temperature_2m,apparent_temperature,relative_humidity_2m,weather_code,wind_speed_10m,wind_direction_10m,precipitation&amp;daily=temperature_2m_max,temperature_2m_min,precipitation_probability_max&amp;timezone=Australia%2FSydney&amp;forecast_days=1" target="_blank" rel="noopener"><span class="wx-label">Wind</span><span class="wx-value">8 km/h WSW</span></a>
+<a class="wx-cell" href="https://api.open-meteo.com/v1/forecast?latitude=-33.8688&amp;longitude=151.2093&amp;current=temperature_2m,apparent_temperature,relative_humidity_2m,weather_code,wind_speed_10m,wind_direction_10m,precipitation&amp;daily=temperature_2m_max,temperature_2m_min,precipitation_probability_max&amp;timezone=Australia%2FSydney&amp;forecast_days=1" target="_blank" rel="noopener"><span class="wx-label">Humidity</span><span class="wx-value">73%</span></a>
+<a class="wx-cell" href="https://www.bom.gov.au/nsw/forecasts/sydney.shtml" target="_blank" rel="noopener"><span class="wx-label">Rain</span><span class="wx-value">82%</span></a>
+</div>
+<p class="caption wx-note" id="wx-note">Current conditions observed 12:00 AM, Sun 23 August 2026 local time, via <a href="https://api.open-meteo.com/v1/forecast?latitude=-33.8688&amp;longitude=151.2093&amp;current=temperature_2m,apparent_temperature,relative_humidity_2m,weather_code,wind_speed_10m,wind_direction_10m,precipitation&amp;daily=temperature_2m_max,temperature_2m_min,precipitation_probability_max&amp;timezone=Australia%2FSydney&amp;forecast_days=1" target="_blank" rel="noopener">Open-Meteo</a>, with the outlook link going to the <a href="https://www.bom.gov.au/nsw/forecasts/sydney.shtml" target="_blank" rel="noopener">Bureau of Meteorology</a>. Location is taken from this edition's build timezone (Australia/Sydney); allow location access in your browser and the strip switches to your own local conditions.</p>
+<script>
+(function () {
+  var strip = document.getElementById('wx-strip');
+  if (!strip || !navigator.geolocation) { return; }
+  var WMO = {0:'Clear',1:'Mainly clear',2:'Partly cloudy',3:'Overcast',45:'Fog',48:'Rime fog',
+    51:'Light drizzle',53:'Drizzle',55:'Heavy drizzle',56:'Freezing drizzle',57:'Freezing drizzle',
+    61:'Light rain',63:'Rain',65:'Heavy rain',66:'Freezing rain',67:'Freezing rain',71:'Light snow',
+    73:'Snow',75:'Heavy snow',77:'Snow grains',80:'Light showers',81:'Showers',82:'Heavy showers',
+    85:'Snow showers',86:'Snow showers',95:'Thunderstorms',96:'Storms with hail',99:'Storms with hail'};
+  var COMPASS = ['N','NNE','NE','ENE','E','ESE','SE','SSE','S','SSW','SW','WSW','W','WNW','NW','NNW'];
+  function t(v) { return v.toFixed(1) + '\u00B0C'; }
+  navigator.geolocation.getCurrentPosition(function (pos) {
+    var la = pos.coords.latitude, lo = pos.coords.longitude;
+    var api = 'https://api.open-meteo.com/v1/forecast?latitude=' + la + '&longitude=' + lo +
+      '&current=temperature_2m,apparent_temperature,relative_humidity_2m,weather_code,' +
+      'wind_speed_10m,wind_direction_10m&daily=temperature_2m_max,temperature_2m_min,' +
+      'precipitation_probability_max&timezone=auto&forecast_days=1';
+    var link = 'https://weather.com/weather/today/l/' + la.toFixed(2) + ',' + lo.toFixed(2);
+    Promise.all([
+      fetch(api).then(function (r) { return r.json(); }),
+      fetch('https://api.bigdatacloud.net/data/reverse-geocode-client?latitude=' + la +
+            '&longitude=' + lo + '&localityLanguage=en')
+        .then(function (r) { return r.json(); })
+        .catch(function () { return null; })
+    ]).then(function (res) {
+      var d = res[0], g = res[1], c = d.current, day = d.daily;
+      var name = g && (g.city || g.locality || g.principalSubdivision)
+        ? (g.city || g.locality) + (g.principalSubdivision ? ', ' + g.principalSubdivision : '')
+        : la.toFixed(2) + ', ' + lo.toFixed(2);
+      var vals = [t(c.temperature_2m), t(c.apparent_temperature),
+        t(day.temperature_2m_max[0]) + ' / ' + t(day.temperature_2m_min[0]),
+        Math.round(c.wind_speed_10m) + ' km/h ' + COMPASS[Math.round((c.wind_direction_10m % 360) / 22.5) % 16],
+        c.relative_humidity_2m + '%', day.precipitation_probability_max[0] + '%'];
+      var place = document.getElementById('wx-place');
+      place.textContent = name + ' \u00B7 ' + (WMO[c.weather_code] || 'Code ' + c.weather_code);
+      place.href = link;
+      var cells = strip.querySelectorAll('.wx-cell');
+      for (var i = 0; i < cells.length && i < vals.length; i++) {
+        cells[i].querySelector('.wx-value').textContent = vals[i];
+        cells[i].href = link;
+      }
+      var note = document.getElementById('wx-note');
+      if (note) {
+        note.innerHTML = 'Current conditions for your device location, via ' +
+          '<a href="https://open-meteo.com" target="_blank" rel="noopener">Open-Meteo</a>, ' +
+          'linked through to <a href="' + link + '" target="_blank" rel="noopener">weather.com</a>. ' +
+          'Local time zone ' + (d.timezone || 'unknown') + '.';
+      }
+    }).catch(function () { /* leave the build-time strip in place */ });
+  }, function () { /* permission denied - leave the build-time strip in place */ },
+     { timeout: 8000, maximumAge: 900000 });
+})();
+</script>
 <p class="market-summary">Global equities closed Friday 21 August 2026 firmer, though most benchmarks still finished the week lower. The Dow Jones Industrial Average rose about 1 per cent, adding more than 500 points, while the S&amp;P 500 and Nasdaq Composite each gained roughly 0.4 per cent; over the week the Dow fell 0.9 per cent, the S&amp;P 500 1.4 per cent and the Nasdaq 2.1 per cent, snapping three-week winning streaks. The Russell 2000 small-cap index closed at 3,017.87, up 0.85 per cent, outpacing the large-cap benchmarks. Materials led S&amp;P 500 sectors, up 2.1 per cent, with Freeport-McMoRan ahead 7.7 per cent. In Europe the DAX closed 0.59 per cent higher at 26,136.56, the CAC 40 rose 0.37 per cent to 8,484.43 and the FTSE 100 gained 0.64 per cent to 10,816.56, helped by miners. Across Asia the Nikkei 225 slipped 0.30 per cent to 66,016.36, the Hang Seng added 1.21 per cent to 26,009.46, the KOSPI climbed 0.88 per cent to 6,912.95, the Shanghai Composite was little changed at 3,905.20, India&#x27;s BSE Sensex was flat at 77,540.83 and Singapore&#x27;s Straits Times Index rose 0.30 per cent to 5,688.96. Brazil&#x27;s Ibovespa jumped 1.85 per cent to 171,031.73 ahead of a Datafolha election poll. Australia&#x27;s S&amp;P/ASX 200 eased 0.27 per cent to 9,058.90 and the All Ordinaries fell 0.31 per cent to 9,269.70. The main driver was the bond market: the 10-year US Treasury yield sat near 4.74 per cent and the 30-year near 5.28 per cent after a nearly two-decade high of 5.34 per cent, with the Treasury&#x27;s expanded buyback plan only briefly calming trade. The dollar index eased to 98.83 and the euro traded near $1.169; gold futures rose 2.2 per cent to about $4,675, on track for the best month since 1999, and bitcoin surged roughly 20 per cent on the week, topping $79,000 before settling near $77,000. Brent was around $94 on stalled efforts to reopen the Strait of Hormuz. The week from Monday 24 August brings the Kansas City Fed&#x27;s Jackson Hole symposium on 27-29 August, with Fed Chair Kevin Warsh speaking Friday 28 August. July PCE and core PCE, Q2 GDP and durable goods are due Wednesday 26 August, alongside results from Nvidia, Salesforce, CrowdStrike and Veeva; Autodesk, Dollar Tree, Marvell, Ulta Beauty and Workday follow on 27 August, and Intuit, Zoom and Dick&#x27;s Sporting Goods report 25 August. Also scheduled are RBA minutes, euro zone Q2 GDP and the German Ifo survey on 25 August, Australian July CPI on 26 August, ECB meeting accounts on 27 August, and Tokyo CPI plus revised University of Michigan sentiment on 28 August.</p>
 <p class="section-caption page-break-before">Most global markets are showing their final prints from the Friday 21 August 2026 sessions, with exchanges closed for the weekend and no live trading until Monday 24 August.</p>
 
