@@ -325,6 +325,76 @@ outlets.insert(cnn_idx, wsj)
 
 alj = [o for o in outlets if o["key"] == "aljazeera"]
 outlets = [o for o in outlets if o["key"] != "aljazeera"] + alj
+
+# ----------------------------------------------------------------- story ordering
+# Within every World News outlet, business/financial stories lead, followed by
+# national/international general news, then local/entertainment/lifestyle/sport.
+# This applies to the Australian outlets (ABC, SBS) and is kept consistent
+# across all World News sections.
+BUSINESS_KEYWORDS = [
+    "business", "finance", "economy", "economic", "market", "markets",
+    "tariff", "tariffs", "trade", "rba", "reserve bank", "asx", "shares",
+    "stocks", "dollar", "aud/usd", "budget", "inflation", "rates", "gdp",
+    "employment", "unemployment", "wages", "commodities", "mining", "bank",
+    "banks", "banking", "investment", "investor", "investors", "earnings",
+    "profit", "revenue", "loss", "debt", "fiscal", "monetary", "recession",
+    "growth", "oil", "gold", "crypto", "bitcoin", "merger", "acquisition",
+    "ipo", "float", "listing", "capital", "fund", "funds", "funding",
+    "valuation", "shareholder", "dividend"
+]
+
+LOCAL_PATH_PATTERNS = [
+    "/local/", "/state/", "/nsw/", "/vic/", "/qld/", "/wa/", "/sa/",
+    "/tas/", "/act/", "/nt/", "/regional/", "/sydney/", "/melbourne/",
+    "/brisbane/", "/perth/", "/adelaide/", "/hobart/", "/canberra/",
+    "/darwin/"
+]
+
+ENTERTAINMENT_KEYWORDS = [
+    "celebrity", "film", "movie", "movies", "tv", "television", "music",
+    "album", "concert", "festival", "actor", "actress", "director",
+    "hollywood", "bollywood", "showbiz", "entertainment", "fashion",
+    "red carpet", "premiere", "award", "awards", "grammy", "oscar",
+    "emmy", "bafta"
+]
+
+SPORT_KEYWORDS = [
+    "afl", "nrl", "cricket", "rugby", "football", "soccer", "tennis",
+    "golf", "formula 1", "f1", "basketball", "nba", "nfl", "baseball",
+    "mlb", "olympics", "medal", "match", "game", "race", "grand final",
+    "world cup", "tournament", "championship"
+]
+
+
+def story_rank(item):
+    """Return sort rank: 0=business/finance, 1=national/international, 2=local/entertainment/sport."""
+    url = item.get("url", "").lower()
+    text = (item.get("headline", "") + " " + item.get("detail", "")).lower()
+
+    # Business/finance via URL path
+    if any(p in url for p in ["/business", "/money", "/finance", "/market", "/economy", "/companies"]):
+        return 0
+
+    # Business/finance via keywords
+    if any(kw in text for kw in BUSINESS_KEYWORDS):
+        return 0
+
+    # Local via URL path
+    if any(p in url for p in LOCAL_PATH_PATTERNS):
+        return 2
+
+    # Entertainment / sport / lifestyle via keywords
+    if any(kw in text for kw in ENTERTAINMENT_KEYWORDS) or any(kw in text for kw in SPORT_KEYWORDS):
+        return 2
+
+    # Default to national/international general news
+    return 1
+
+
+# Apply the ordering to every World News outlet.
+for o in outlets:
+    o["items"].sort(key=story_rank)
+
 news_html = []
 for o in outlets:
     note = '<p class="caption">%s</p>' % E(o["note"]) if o.get("note") else ""
