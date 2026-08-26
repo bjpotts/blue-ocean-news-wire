@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build the Public News Wire digest page for Blue Ocean Equities Pty Ltd."""
+"""Build the Market Wrap Up digest page for Blue Ocean Equities Pty Ltd."""
 import json, html, os, re
 
 D = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
@@ -416,7 +416,7 @@ HTML = """<div class="pnw">
 
 <header class="masthead">
   <div class="kicker"><span class="wordmark">BOE</span> Blue Ocean Equities Pty Ltd</div>
-  <h1>Public News Wire</h1>
+  <h1>Market Wrap Up</h1>
   <div class="dateline">
     <span class="edition-chip">%s</span>
     <span>%s</span>
@@ -462,7 +462,7 @@ HTML = """<div class="pnw">
 %s
 
 <footer>
-<p><strong>Public News Wire</strong> - a public news digest published by Blue Ocean Equities Pty Ltd, an independent Australian securities and equities advisory firm (<a href="https://www.boeq.com.au" target="_blank" rel="noopener">boeq.com.au</a>). %s Edition: %s.</p>
+<p><strong>Market Wrap Up</strong> - a public news digest published by Blue Ocean Equities Pty Ltd, an independent Australian securities and equities advisory firm (<a href="https://www.boeq.com.au" target="_blank" rel="noopener">boeq.com.au</a>). %s Edition: %s.</p>
 <p><strong>Story rotation policy:</strong> each edition is compared against the previously published version of this page. A headline carried in the prior edition is not repeated verbatim unless it remains the leading, actively developing story on its topic, in which case it is refreshed with the latest angle. Market data, mover tables and all written summary paragraphs are re-gathered and rewritten every run. On this run the previously published artifact could not be retrieved for comparison (the hosted copy returned a sign-in wall and no local prior edition exists in the project), so every item was sourced fresh.</p>
 <p><strong>Sourcing:</strong> every headline, rate, index, commodity, equity and sports result on this page links to its source. Items without a verifiable working URL were dropped rather than published unlinked. Where a source publishes turnover rather than share volume, volumes are derived as turnover divided by last price and prefixed with a tilde, as noted in the relevant caption. Commodity cells marked <span class="rc-sub">stale</span> had not refreshed past the prior day's print; the rare earths cell is an equity <span class="rc-sub">proxy</span> (MP Materials, NYSE: MP) as no reliable daily spot benchmark is published.</p>
 <p><strong>Not investment advice.</strong> This page is a summary of publicly reported information assembled for general information only. It does not take account of any person's objectives, financial situation or needs, and is not a recommendation to buy, hold or sell any security.</p>

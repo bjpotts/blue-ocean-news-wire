@@ -49,12 +49,12 @@ note = ParagraphStyle("note", fontName="Helvetica-Oblique", fontSize=7.6, leadin
 doc = SimpleDocTemplate(OUT, pagesize=A4,
                         leftMargin=18 * mm, rightMargin=18 * mm,
                         topMargin=16 * mm, bottomMargin=14 * mm,
-                        title="Public News Wire - Market Snapshot",
+                        title="Market Wrap Up - Market Snapshot",
                         author="Blue Ocean Equities Pty Ltd", subject="Global Market Update")
 
 story = [
     Paragraph("BLUE OCEAN EQUITIES PTY LTD", kicker),
-    Paragraph("Public News Wire", title),
+    Paragraph("Market Wrap Up", title),
     Paragraph(DATELINE, dateline),
     Spacer(1, 5),
     HRFlowable(width="100%", thickness=1.6, color=TEAL, spaceAfter=2),

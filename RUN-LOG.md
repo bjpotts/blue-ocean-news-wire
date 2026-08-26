@@ -1,4 +1,4 @@
-# Run log - Public News Wire (Blue Ocean Equities Pty Ltd)
+# Run log - Market Wrap Up (Blue Ocean Equities Pty Ltd)
 
 **Run:** Saturday 22 August 2026, 22:40 AEST / 12:40 UTC
 **Edition:** Evening Edition (Sydney local time 22:40 is outside the 4am-4pm morning window)
