@@ -12,7 +12,7 @@ import sys
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TO = "bjpotts@gmail.com"
-SUBJECT = "Global Market Update"
+SUBJECT = "Market Wrap Up Evening Edition"
 BODY = """Global Market Update, with your around the world news.
 
 Regards
