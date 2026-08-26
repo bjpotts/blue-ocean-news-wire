@@ -425,7 +425,6 @@ HTML = """<div class="pnw">
   </div>
 </header>
 
-<h2>Market Wrap Up</h2>
 %s
 %s
 <p class="market-summary">%s</p>
