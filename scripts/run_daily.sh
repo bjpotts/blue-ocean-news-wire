@@ -1,6 +1,6 @@
 #!/bin/bash
 # Daily Market Wrap Up scheduled run - Monday to Friday 18:00 (Australia/Sydney).
-# Rebuilds the digest, produces the snapshot + full PDF, then emails the snapshot.
+# Rebuilds the digest, produces the full PDF, then emails the full PDF.
 set -euo pipefail
 
 PROJ="/Users/brandonpotts/.verdent/verdent-projects/run-the-public-news"
