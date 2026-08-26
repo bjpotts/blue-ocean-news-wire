@@ -6,3 +6,7 @@ dist/
 
 # Generated full PDFs
 market-wrap-up-*.pdf
+
+# Scheduled run logs
+scheduler.log
+scheduler.err.log
