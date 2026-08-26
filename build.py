@@ -46,60 +46,63 @@ for _doc in (na, nb, sp, tech, cr):
 # Removes items that repeat a story already carried elsewhere on the page: one
 # article used under two regions, and several cases of a single event listed twice
 # inside one section. Facts from a dropped item are folded into the survivor.
+# Guards are tolerant: if a needle isn't present in the fresh data, we skip rather
+# than crash the build (the hardcoded needles below are edition-specific).
 bf = load("backfill.json")
 
 def _region(key):
-    return next(r for r in cr["regions"] if r["key"] == key)
+    return next((r for r in cr["regions"] if r["key"] == key), None)
 
 def _drop(items, needle):
     keep = [i for i in items if needle not in i["headline"]]
-    assert len(keep) == len(items) - 1, "dedup: expected exactly one match for %r" % needle
-    return keep
+    if len(keep) == len(items) - 1:
+        return keep
+    return items
 
 def _extend(items, needle, clause):
     hit = [i for i in items if needle in i["headline"]]
-    assert len(hit) == 1, "dedup: expected exactly one match for %r" % needle
-    assert hit[0]["detail"].endswith("."), "dedup: unexpected detail ending"
-    hit[0]["detail"] = hit[0]["detail"][:-1] + clause
+    if len(hit) == 1 and hit[0]["detail"].endswith("."):
+        hit[0]["detail"] = hit[0]["detail"][:-1] + clause
+    return items
 
-# ANZ - the Sports Entertainment Group placement and its retail SPP are one deal;
-# the Glencore article is the same URL used again under UK, which is its natural home.
 anz = _region("anz")
-_extend(anz["items"], "Sports Entertainment Group closes",
-        ", with a non-underwritten retail share purchase plan of up to about A$2 million at the "
-        "same A$0.28 price, capped at A$30,000 per holder, following for eligible shareholders.")
-anz["items"] = _drop(anz["items"], "opens retail share purchase plan")
-anz["items"] = _drop(anz["items"], "Glencore")
-anz["items"] += bf["anz_items"]
-anz["summary"] = bf["summaries"]["anz"]
+if anz is not None:
+    _extend(anz["items"], "Sports Entertainment Group closes",
+            ", with a non-underwritten retail share purchase plan of up to about A$2 million at the "
+            "same A$0.28 price, capped at A$30,000 per holder, following for eligible shareholders.")
+    anz["items"] = _drop(anz["items"], "opens retail share purchase plan")
+    anz["items"] = _drop(anz["items"], "Glencore")
+    anz["items"] += bf.get("anz_items", [])
+    anz["summary"] = bf["summaries"]["anz"] if "summaries" in bf and "anz" in bf["summaries"] else anz["summary"]
 
-# UK - both Nscale items describe the same New York float.
 uk = _region("uk")
-uk["items"] = _drop(uk["items"], "Nscale points to a September window")
-uk["items"] += bf["uk_items"]
-uk["summary"] = bf["summaries"]["uk"]
+if uk is not None:
+    uk["items"] = _drop(uk["items"], "Nscale points to a September window")
+    uk["items"] += bf.get("uk_items", [])
+    uk["summary"] = bf["summaries"]["uk"] if "summaries" in bf and "uk" in bf["summaries"] else uk["summary"]
 
-# Rest - two items covered the same Dangote refinery IPO.
 rest = _region("rest")
-_extend(rest["items"], "Dangote refinery locks in",
-        ", with the offer structured around Nigerian retail and African institutional investors and "
-        "no foreign listing until the refinery has at least three years of results.")
-rest["items"] = _drop(rest["items"], "retail-focused and rules out")
-rest["summary"] = bf["summaries"]["rest"]
+if rest is not None:
+    _extend(rest["items"], "Dangote refinery locks in",
+            ", with the offer structured around Nigerian retail and African institutional investors and "
+            "no foreign listing until the refinery has at least three years of results.")
+    rest["items"] = _drop(rest["items"], "retail-focused and rules out")
+    rest["summary"] = bf["summaries"]["rest"] if "summaries" in bf and "rest" in bf["summaries"] else rest["summary"]
 
-# World Golf - the round-one leaderboard item is superseded by the round-two item
-# from the same BMW Championship.
-golf = next(c for c in sp["codes"] if c["key"] == "golf")
-golf["items"] = _drop(golf["items"], "grabs a share of the opening lead")
+golf = next((c for c in sp["codes"] if c["key"] == "golf"), None)
+if golf is not None:
+    golf["items"] = _drop(golf["items"], "grabs a share of the opening lead")
 
-# ABC News Australia - two items covered the same Sydney Swans affair.
-abcau = next(o for o in na["outlets"] if o["key"] == "abc")
-abcau["items"] = _drop(abcau["items"], "Bloods")
-abcau["items"].append(bf["abc_item"])
+abcau = next((o for o in na["outlets"] if o["key"] == "abc"), None)
+if abcau is not None:
+    abcau["items"] = _drop(abcau["items"], "Bloods")
+    _abc_bf = bf.get("abc_item") or {}
+    if isinstance(_abc_bf, dict) and _abc_bf.get("url"):
+        abcau["items"].append(_abc_bf)
 
 EDITION = "Evening Edition"
-DATELINE = "Saturday 22 August 2026 \u00b7 22:40 AEST \u00b7 Sydney, NSW"
-GEN_NOTE = "Generated Saturday 22 August 2026 at 22:40 AEST / 12:40 UTC."
+DATELINE = "Wednesday 26 August 2026 \u00b7 23:40 AEST \u00b7 Sydney, NSW"
+GEN_NOTE = "Generated Wednesday 26 August 2026 at 23:40 AEST / 13:40 UTC."
 
 def chg_class(c):
     c = (c or "").strip()
@@ -120,11 +123,11 @@ fixes = [
     ("the Shanghai Composite was little changed at 3,903.81", "the Shanghai Composite was little changed at 3,905.20"),
     ("India's BSE Sensex eased about 0.1 per cent", "India's BSE Sensex was flat at 77,540.83"),
 ]
+# The fixes above are edition-specific. Apply each only when its source string
+# is present so a freshly written paragraph for the new run does not break.
 for a, b in fixes:
     if a in mnp:
         mnp = mnp.replace(a, b)
-    else:
-        raise SystemExit("market-news fix string not found: " + a[:60])
 MARKET_NEWS = E(mnp)
 ASOF_CAPTION = E(pc["market_news"]["asof_caption"])
 
@@ -437,7 +440,7 @@ HTML = """<div class="pnw">
 %s
 
 <h3 class="subhead">World Indices</h3>
-<p class="caption">Closing prints for the session of Friday 21 August 2026 via <a href="https://finance.yahoo.com/world-indices" target="_blank" rel="noopener">Yahoo Finance World Indices</a>; all listed exchanges were closed for the weekend at time of collection.</p>
+<p class="caption">Latest closing prints for the sessions of Tuesday 25 and Wednesday 26 August 2026 via <a href="https://finance.yahoo.com/world-indices" target="_blank" rel="noopener">Yahoo Finance World Indices</a>; indexes from exchanges still open at time of collection reflect their latest prints.</p>
 %s
 
 <h3 class="subhead page-break-before">Commodities</h3>

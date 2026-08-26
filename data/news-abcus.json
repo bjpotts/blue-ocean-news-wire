@@ -1,1 +1,36 @@
-{"outlet":{"key":"abcus","name":"ABC News (US)","site":"abcnews.go.com","summary":"ABC News is leading with the collapse of US-Canada trade talks and the 50% tariffs that took effect overnight, alongside Trump administration moves on water, personnel and a run of overseas violence and piracy stories.","note":null,"items":[{"headline":"US slaps 50% duties on Canadian goods as trade negotiations collapse","detail":"The tariffs on roughly $28 billion of Canadian products, from hockey sticks to wine and dairy, took effect at 12:01 a.m. ET Saturday after Prime Minister Mark Carney suspended talks over what he called unfair last-minute changes to the US terms, and he pledged Canada would retaliate dollar for dollar.","url":"https://abcnews.go.com/Business/trumps-proposed-tariffs-canada-hurtle-deadline-amid-trade/story?id=135833861"},{"headline":"Interior Department imposes sharp Colorado River water reductions on three states","detail":"With Lake Powell and Lake Mead at critical levels and the basin states unable to agree among themselves, the US Department of the Interior stepped in on Friday and ordered steep cuts to Colorado River deliveries for Arizona, California and Nevada.","url":"https://abcnews.go.com/US/federal-government-orders-steep-colorado-river-water-cuts/story?id=135856655"},{"headline":"Justice Department pardon attorney Ed Martin exits his post","detail":"Trump announced Friday that Martin, a former US attorney for the District of Columbia, is leaving the department to work on legal fights around the upcoming midterm election and the 2028 presidential race.","url":"https://abcnews.go.com/Politics/trump-ed-martin-pardon-attorney-departing-doj/story?id=135849373"},{"headline":"Swedish police identify teenage girl as the person killed in school sword attack","detail":"An 18-year-old man armed with a sword attacked the Brinell School in Fagersta, northwest of Stockholm, during class on Friday, killing a 17-year-old girl and wounding three others, two of them severely.","url":"https://abcnews.go.com/International/wireStory/victim-sword-attack-swedish-school-17-year-girl-135861734"},{"headline":"Armed Somali hijackers seize oil tanker in waters off Yemen","detail":"Six armed pirates boarded the Eritrean-flagged tanker M.T. Sibu 1 on Thursday about 136 nautical miles east of al-Mukalla, Yemen, and steered it toward Somalia's Puntland coast in what officials describe as part of a broader resurgence of piracy in the region.","url":"https://abcnews.go.com/International/wireStory/somali-pirates-hijack-oil-tanker-off-yemen-latest-135860915"}]}}
+{
+ "outlet": {
+  "key": "abcus",
+  "name": "ABC News (US)",
+  "site": "abcnews.go.com",
+  "summary": "ABC News is leading with the death of Dolly Parton and the Nepal flood disaster, alongside Ukraine drone attacks on Moscow, the Pakistan hospital fire and Darline Graham's GOP primary win.",
+  "note": null,
+  "items": [
+   {
+    "headline": "Country music legend Dolly Parton dies at 80 after a brief battle with cancer",
+    "detail": "The iconic singer-songwriter died surrounded by loved ones, her representatives said, prompting tributes from Taylor Swift, Beyonce and others.",
+    "url": "https://abcnews.go.com/GMA/Culture/dolly-parton-country-music-legend-cultural-icon-dead/story?id=95381474"
+   },
+   {
+    "headline": "Americans reported among hundreds missing in Nepal floods",
+    "detail": "At least three American tourists were reported among a preliminary toll of hundreds missing after flash floods swept through Nepal.",
+    "url": "https://abcnews.go.com/International/americans-reported-missing-nepal-floods-tourism-board/story?id=135964282"
+   },
+   {
+    "headline": "Moscow airports disrupted amid Ukraine drone attacks following the CIA director's visit",
+    "detail": "Ukrainian drone attacks resumed on Moscow hours after CIA Director John Ratcliffe's visit, disrupting airports in the Russian capital.",
+    "url": "https://abcnews.go.com/International/ukrainian-drone-attacks-moscow-resume-hours-after-ratcliffe/story?id=135962437"
+   },
+   {
+    "headline": "14 newborns killed in a fire at a Pakistan hospital",
+    "detail": "A doctor said 14 newborns were killed in a fire at a hospital in Pakistan, one of several deadly blazes reported this week.",
+    "url": "https://abcnews.go.com/International/fire-pakistan-hospital-kills-14-newborns-doctor/story?id=135962435"
+   },
+   {
+    "headline": "Darline Graham wins the GOP runoff to replace her brother on the South Carolina ballot",
+    "detail": "The Trump-backed candidate, whose brother Lindsey Graham died in July, won the runoff to contest the Senate seat, according to the AP.",
+    "url": "https://abcnews.go.com/Politics/darline-graham-ralph-norman-battle-replace-lindsey-graham/story?id=135785522"
+   }
+  ]
+ }
+}

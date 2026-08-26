@@ -1,262 +1,262 @@
 {
-  "codes": [
+ "codes": [
+  {
+   "key": "nrl",
+   "name": "Rugby League (NRL) - Australia",
+   "items": [
     {
-      "key": "nrl",
-      "name": "Rugby League (NRL) - Australia",
-      "items": [
-        {
-          "headline": "Bulldogs bury error-prone Dragons as Warriors and Manly headline Super Saturday",
-          "detail": "Canterbury led 24-0 at the break and ran out 44-14 winners over St George Illawarra at Allianz Stadium, with Matt Burton scoring twice despite a sin-binning.",
-          "url": "https://www.nrl.com/news/2026/08/22/super-saturday-knights-v-sea-eagles-rabbitohs-v-warriors-dragons-v-bulldogs/",
-          "outlet": "NRL.com"
-        },
-        {
-          "headline": "Warriors surge to the top of the ladder with high-scoring win over Souths",
-          "detail": "The Warriors beat South Sydney 45-26 at Accor Stadium for their 16th win, with Taine Tuaupiki kicking eight from eight and Luke Hanson's late field goal edging them one point clear of Penrith on for-and-against.",
-          "url": "https://www.nrl.com/news/2026/08/22/rabbitohs-v-warriors--round-252026/",
-          "outlet": "NRL.com"
-        },
-        {
-          "headline": "Injury toll grows across the NRL with Koula and Tedesco among the casualties",
-          "detail": "The latest casualty ward update lists Sione Katoa Koula with an ankle problem and James Tedesco still hampered as clubs manage bodies heading into the run home.",
-          "url": "https://www.nrl.com/news/2026/01/01/nrl-casualty-ward-how-your-club-is-shaping-heading-into-2026/",
-          "outlet": "NRL.com"
-        }
-      ]
+     "headline": "Teddy and Trell target returns as Round 26 late mail lands",
+     "detail": "James Tedesco and Latrell Mitchell are both in line to return for their clubs in the final round of the regular season, according to the latest NRL team news.",
+     "url": "https://www.nrl.com/news/2026/08/26/nrl-late-mail-round-26/",
+     "outlet": "NRL.com"
     },
     {
-      "key": "afl",
-      "name": "AFL - Australia",
-      "items": [
-        {
-          "headline": "Bulldogs edge Melbourne in a thriller to book a wildcard meeting with Collingwood",
-          "detail": "The Western Bulldogs won a tight round 24 contest at the MCG, sending the Demons into an anxious wait over their own finals path.",
-          "url": "https://www.afl.com.au/news/1590719/brilliant-bulldogs-set-up-wildcard-clash-with-pies-demons-forced-to-wait",
-          "outlet": "AFL.com.au"
-        },
-        {
-          "headline": "Geelong overpower Richmond to lock away a top-six finish and skip wildcard week",
-          "detail": "The Cats thrashed the Tigers at GMHBA Stadium to secure a place inside the top six and earn a week off before finals.",
-          "url": "https://www.afl.com.au/news/1590721/geelong-cats-flex-muscles-against-hapless-richmond-tigers-to-dodge-wildcard-final",
-          "outlet": "AFL.com.au"
-        },
-        {
-          "headline": "Naughton in a race against the clock as Bulldogs sweat on their key forward",
-          "detail": "Aaron Naughton hurt a lateral ligament against Melbourne and is now under an injury cloud for the Wildcard Round.",
-          "url": "https://www.afl.com.au/news/1590720/western-bulldogs-spearhead-aaron-naughton-in-race-against-clock-for-finals",
-          "outlet": "AFL.com.au"
-        }
-      ]
+     "headline": "Hughes boost for Bellamy as Storm prepare to face the Broncos",
+     "detail": "Melbourne are set to welcome back playmaker Jahrome Hughes for their Round 26 clash with Brisbane at Suncorp Stadium.",
+     "url": "https://www.nrl.com/news/2026/08/25/broncos-v-storm-madge-sticks-solid-hughes-boost-for-bellamy/",
+     "outlet": "NRL.com"
     },
     {
-      "key": "rugby-union",
-      "name": "Rugby Union - Australia",
-      "items": [
-        {
-          "headline": "Wallaroos milestone Test spoiled as Black Ferns complete O'Reilly Cup clean sweep",
-          "detail": "Australia's women marked their 100th Test with a defeat in Auckland, handing New Zealand a series sweep of the O'Reilly Cup.",
-          "url": "https://www.rugby.com.au/news/wallaroos-100th-test-ends-in-black-ferns-delight-after-oreilly-cup-sweep-2026822",
-          "outlet": "Rugby.com.au"
-        },
-        {
-          "headline": "Kiss says the heat is on his Wallabies as the Rugby Championship bites",
-          "detail": "Coach Joe Kiss acknowledged the mounting expectation on his squad as Australia prepares for the next stage of its Championship campaign.",
-          "url": "https://www.rugby.com.au/news/wallabies-feeling-pressure-as-kiss-cooks-up-cup-pie-2026820",
-          "outlet": "Rugby.com.au"
-        },
-        {
-          "headline": "Kolisi sidelined for the opening Springboks-All Blacks Test in Johannesburg",
-          "detail": "South Africa will be without their captain Siya Kolisi for the first of four straight Tests against New Zealand.",
-          "url": "https://www.rugby.com.au/news/springboks-captain-kolisi-to-miss-first-all-blacks-test-2026820",
-          "outlet": "Rugby.com.au"
-        }
-      ]
-    },
-    {
-      "key": "golf",
-      "name": "World Golf",
-      "items": [
-        {
-          "headline": "McIlroy drops back at the BMW Championship after a modest second round",
-          "detail": "The Northern Irishman followed his opening 64 with a 69 at Bellerive and headed straight to the range as Wyndham Clark took over the lead.",
-          "url": "https://www.skysports.com/golf/news/12176/13575625/rory-mcilroy-heads-back-to-range-after-slipping-off-bmw-championship-pace-in-second-round-at-bellerive",
-          "outlet": "Sky Sports"
-        },
-        {
-          "headline": "McIlroy grabs a share of the opening lead in St Louis while Scheffler stumbles",
-          "detail": "A six-under 64 put McIlroy top of the FedExCup playoff event as Scottie Scheffler made a nightmare start to round one.",
-          "url": "https://www.skysports.com/golf/news/12176/13575208/bmw-championship-rory-mcilroy-grabs-share-of-opening-round-lead-as-scottie-scheffler-makes-nightmare-start-in-st-louis",
-          "outlet": "Sky Sports"
-        },
-        {
-          "headline": "Westwood fires back at McIlroy over his dismissal of LIV players' worth",
-          "detail": "The Englishman responded at LIV Golf Indianapolis, calling McIlroy's questioning of LIV stars' value to the PGA Tour 'typical'.",
-          "url": "https://www.skysports.com/golf/news/12176/13575381/lee-westwood-hits-back-at-rory-mcilroys-typical-comments-questioning-the-value-of-liv-golf-players-to-pga-tour",
-          "outlet": "Sky Sports"
-        },
-        {
-          "headline": "DeChambeau admits the uncertainty over LIV Golf's future has been hard going",
-          "detail": "The Crushers GC captain said he hopes the league gets one more chance despite acknowledging it has 'a lot against them' in securing funding.",
-          "url": "https://www.skysports.com/golf/news/12176/13575218/bryson-dechambeau-hopes-liv-golf-gets-one-more-chance-as-league-has-a-lot-against-them-in-bid-to-secure-future",
-          "outlet": "Sky Sports"
-        },
-        {
-          "headline": "LIV Golf boss sets a funding deadline while talking up the league's prospects",
-          "detail": "Chief executive Scott O'Neil said he remains optimistic but warned of a compressed timeline to lock in financial backing.",
-          "url": "https://www.skysports.com/golf/news/11071/13574843/liv-golf-chief-executive-scott-oneil-optimistic-over-leagues-future-but-warns-of-compressed-timeline-over-funding",
-          "outlet": "Sky Sports"
-        },
-        {
-          "headline": "Winther holds off compatriot Hojgaard to take the Danish Golf Championship",
-          "detail": "Jeff Winther sealed a three-shot DP World Tour victory over fellow Dane Rasmus Hojgaard in a tense finish.",
-          "url": "https://www.skysports.com/golf/news/12230/13573720/danish-golf-championship-jeff-winther-pips-fellow-dane-rasmus-hojgaard-in-thrilling-finish-to-dp-world-tour-event",
-          "outlet": "Sky Sports"
-        }
-      ]
-    },
-    {
-      "key": "cricket",
-      "name": "Cricket - Worldwide",
-      "items": [
-        {
-          "headline": "Starc and Shoriful share the spoils in an 18-wicket opening day at Mackay",
-          "detail": "Mitchell Starc took six and Shoriful Islam replied with six of his own as Australia bowled Bangladesh out for 64 before slipping to 165 for 8 in the second Test.",
-          "url": "https://www.espncricinfo.com/story/aus-vs-ban-mackay-joins-the-list-of-helter-skelter-days-in-australian-cricket-1551025",
-          "outlet": "ESPNcricinfo"
-        },
-        {
-          "headline": "Ponting says Australia should move on from Labuschagne after another failure",
-          "detail": "The former captain argued it is 'well and truly time to look at somebody else' following Marnus Labuschagne's first-innings duck in Mackay.",
-          "url": "https://www.espncricinfo.com/story/marnus-labuschagne-s-test-future-hangs-in-balance-after-mackay-first-innings-failure-1551035",
-          "outlet": "ESPNcricinfo"
-        },
-        {
-          "headline": "Trescothick fights for his England future after a crushing win over Pakistan",
-          "detail": "England wrapped up the first Test by an innings and 103 runs at Headingley, but the assistant coach knows his role remains under review.",
-          "url": "https://www.espncricinfo.com/story/england-vs-pakistan-1st-test-trescothick-makes-his-pitch-but-knows-his-england-role-is-on-the-brink-1551034",
-          "outlet": "ESPNcricinfo"
-        }
-      ]
-    },
-    {
-      "key": "nfl",
-      "name": "NFL - US",
-      "items": [
-        {
-          "headline": "Bo Nix looks sharp in his first outing since ankle surgery",
-          "detail": "The Broncos quarterback returned in preseason week two after sitting out Denver's opener, as Green Bay went on to win 33-13.",
-          "url": "https://sports.yahoo.com/nfl/article/broncos-qb-bo-nix-plays-first-game-since-ankle-surgery-and-looks-sharp-020306481.html",
-          "outlet": "Yahoo Sports"
-        },
-        {
-          "headline": "Jets shut out the Steelers as Will Howard is picked off twice",
-          "detail": "New York blanked Pittsburgh 17-0, a notable turnaround for a team that failed to record a single interception across the whole of 2025.",
-          "url": "https://sports.yahoo.com/nfl/article/will-howard-throws-2-preseason-picks-in-first-half-as-interception-starved-jets-shut-out-steelers-003958801.html",
-          "outlet": "Yahoo Sports"
-        },
-        {
-          "headline": "Raiders coach refuses to settle the quarterback race after a second preseason game",
-          "detail": "Klint Kubiak said he needs 'another week' before choosing between Kirk Cousins and rookie Fernando Mendoza, who threw a pick six on his opening series.",
-          "url": "https://sports.yahoo.com/nfl/breaking-news/article/raiders-coach-klint-kubiak-not-ready-to-name-starting-quarterback-after-second-preseason-game-we-got-another-week-123338123.html",
-          "outlet": "Yahoo Sports"
-        }
-      ]
-    },
-    {
-      "key": "nba",
-      "name": "NBA - US",
-      "items": [
-        {
-          "headline": "Harden heads back to Cleveland on a reported three-year contract",
-          "detail": "The 11-time All-Star and 2018 MVP is said to have agreed a three-year, 97 million dollar deal with the Cavaliers.",
-          "url": "https://www.nba.com/news/james-harden-cavaliers-free-agency",
-          "outlet": "NBA.com"
-        },
-        {
-          "headline": "Peyton Watson lands at the Cavaliers in a sprawling five-team sign-and-trade",
-          "detail": "Denver picked up a pair of future draft picks in the deal, while veteran Max Strus was routed to the Clippers.",
-          "url": "https://www.nba.com/news/peyton-watson-trade-cavaliers",
-          "outlet": "NBA.com"
-        },
-        {
-          "headline": "LeBron James commits to a record-extending 24th NBA season",
-          "detail": "The league's all-time leading scorer will line up again in 2026-27, having already featured in 23 season openers.",
-          "url": "https://www.nba.com/news/lebron-james-previous-23-season-openers",
-          "outlet": "NBA.com"
-        }
-      ]
-    },
-    {
-      "key": "mlb",
-      "name": "MLB - US",
-      "items": [
-        {
-          "headline": "Misiorowski trims his league-leading ERA as Brewers squeeze past Atlanta",
-          "detail": "Milwaukee won 2-1 in a pitching duel between the Brewers right-hander and Braves veteran Chris Sale, with both defences producing highlight plays.",
-          "url": "https://sports.yahoo.com/mlb/article/jacob-misiorowski-lowers-mlb-best-era-in-duel-vs-chris-sale-as-brewers-outlast-braves-in-defensive-showdown-224325056.html",
-          "outlet": "Yahoo Sports"
-        },
-        {
-          "headline": "Devers answers the Fenway boos with a home run on his return to Boston",
-          "detail": "The Giants slugger was jeered by Red Sox fans in his first game back at Fenway Park since the trade, then went deep.",
-          "url": "https://sports.yahoo.com/mlb/article/rafael-devers-booed-by-red-sox-fans-hits-home-run-in-first-game-at-fenway-park-since-trade-to-giants-232549580.html",
-          "outlet": "Yahoo Sports"
-        },
-        {
-          "headline": "deGrom reaches 2,000 career strikeouts as Texas blanks Washington",
-          "detail": "The Rangers ace hit the milestone in a 2-0 shutout win over the Nationals.",
-          "url": "https://sports.yahoo.com/mlb/breaking-news/article/jacob-degrom-notches-2000th-career-strikeout-in-rangers-2-0-win-vs-nationals-002039720.html",
-          "outlet": "Yahoo Sports"
-        }
-      ]
-    },
-    {
-      "key": "f1",
-      "name": "Formula 1 - Europe",
-      "items": [
-        {
-          "headline": "Russell takes the Dutch GP Sprint to close on championship leader Antonelli",
-          "detail": "The Mercedes driver converted Sprint pole into victory at Zandvoort ahead of Charles Leclerc, cutting his deficit to team-mate Kimi Antonelli.",
-          "url": "https://www.skysports.com/f1/news/12433/13575695/dutch-gp-sprint-george-russell-wins-from-charles-leclerc-to-trim-f1-world-championship-deficit-to-kimi-antonelli-at-zandvoort",
-          "outlet": "Sky Sports"
-        },
-        {
-          "headline": "Antonelli set for a grid penalty on home soil at Monza",
-          "detail": "Toto Wolff confirmed the championship leader will take an engine change penalty at the Italian Grand Prix.",
-          "url": "https://www.skysports.com/f1/news/12433/13575701/kimi-antonelli-to-take-grid-penalty-at-italian-gp-in-monza-for-engine-change-mercedes-boss-toto-wolff-confirms",
-          "outlet": "Sky Sports"
-        },
-        {
-          "headline": "Verstappen says retirement was a likelier option than switching teams",
-          "detail": "The Dutchman explained his new Red Bull deal, which runs to 2030, by saying he was closer to quitting the sport than moving elsewhere.",
-          "url": "https://www.skysports.com/f1/news/12433/13574965/max-verstappen-red-bull-driver-says-he-was-closer-to-retiring-than-switching-f1-teams-before-contract-extended",
-          "outlet": "Sky Sports"
-        }
-      ]
-    },
-    {
-      "key": "tennis",
-      "name": "Tennis - Rest of World",
-      "items": [
-        {
-          "headline": "Sinner pulls out of the US Open with a knee problem",
-          "detail": "The world No 1 said he was 'very sad and disappointed' to miss the season's final Grand Slam.",
-          "url": "https://www.skysports.com/tennis/news/32833/13575443/jannik-sinner-world-no-1-withdraws-from-us-open-with-knee-injury-and-misses-out-on-final-grand-slam-of-the-season",
-          "outlet": "Sky Sports"
-        },
-        {
-          "headline": "Gauff powers into the Cincinnati semi-finals in straight sets",
-          "detail": "The American saw off Marta Kostyuk to reach the last four, keeping US hopes alive in both the men's and women's draws.",
-          "url": "https://www.skysports.com/tennis/news/12110/13575700/cincinnati-open-coco-gauff-races-into-semi-finals-as-usa-eye-titles-in-mens-and-womens-tournament",
-          "outlet": "Sky Sports"
-        },
-        {
-          "headline": "Draper's injury lay-off rules him out of Flushing Meadows",
-          "detail": "The British No 1 will miss the US Open as his ongoing fitness problems continue.",
-          "url": "https://www.skysports.com/tennis/news/12110/13575532/jack-draper-british-star-ruled-out-of-the-us-open-due-to-ongoing-injury-woes",
-          "outlet": "Sky Sports"
-        }
-      ]
+     "headline": "Bulldogs back Galvin to keep the dream alive in the run home",
+     "detail": "Canterbury have thrown their support behind young playmaker Lachlan Galvin as they push for a finals berth.",
+     "url": "https://www.nrl.com/news/2026/08/26/lach-us-in-bulldogs-back-galvin-to-keep-the-dream-alive/",
+     "outlet": "NRL.com"
     }
-  ]
+   ]
+  },
+  {
+   "key": "afl",
+   "name": "AFL - Australia",
+   "items": [
+    {
+     "headline": "Eagles star Harley Reid learns his fate at the AFL Tribunal",
+     "detail": "West Coast's Harley Reid was fighting a two-match ban at the AFL Tribunal over an incident in the round 24 clash with Hawthorn.",
+     "url": "https://www.afl.com.au/news/1595502/the-verdict-is-in-eagles-star-learns-his-fate-at-tribunal",
+     "outlet": "AFL.com.au"
+    },
+    {
+     "headline": "Bombers open to 'aggressively' pursuing Toby Greene as Giants star meets Cats",
+     "detail": "New Essendon coach Mark McVeigh says the club wants to attract more senior players, with GWS captain Toby Greene set to meet Geelong.",
+     "url": "https://www.afl.com.au/news/1595666/essendon-bombers-to-aggressively-pursue-toby-greene-as-greater-western-sydney-giants-star-meets-with-geelong-cats",
+     "outlet": "AFL.com.au"
+    },
+    {
+     "headline": "Daicos' stunning season could end with the Magpies' captaincy nod",
+     "detail": "Superstar Nick Daicos is tracking to become Collingwood's full-time captain as soon as next season after another award-laden campaign.",
+     "url": "https://www.afl.com.au/news/1595657/collingwood-magpies-captaincy-call-looms-as-nick-daicos-stars-on-and-off-the-field",
+     "outlet": "AFL.com.au"
+    }
+   ]
+  },
+  {
+   "key": "rugby-union",
+   "name": "Rugby Union - Australia",
+   "items": [
+    {
+     "headline": "Segner out of the South Africa tour as New Zealand injuries pile up",
+     "detail": "Flanker Anton Segner is the latest All Black to head home injured ahead of the tour of South Africa.",
+     "url": "https://www.rugby.com.au/news/segner-out-of-south-africa-tour-as-new-zealand-injuries-pile-up-2026826",
+     "outlet": "Rugby.com.au"
+    },
+    {
+     "headline": "All Blacks need a late surge to maul the Lions in South Africa",
+     "detail": "New Zealand required a late rally to overcome the British and Irish Lions in their tour match in South Africa.",
+     "url": "https://www.rugby.com.au/news/all-blacks-need-late-surge-to-maul-lions-in-south-africa-2026825",
+     "outlet": "Rugby.com.au"
+    },
+    {
+     "headline": "Erasmus wants the Boks to turn anger and hurt on the All Blacks",
+     "detail": "South Africa coach Rassie Erasmus wants his side to channel the frustration of their weekend defeat by New Zealand into the next Test.",
+     "url": "https://www.rugby.com.au/news/eramus-wants-boks-to-turn-anger-and-hurt-on-all-blacks-2026825",
+     "outlet": "Rugby.com.au"
+    }
+   ]
+  },
+  {
+   "key": "golf",
+   "name": "World Golf",
+   "items": [
+    {
+     "headline": "Solheim Cup captain Nordqvist announces a shock mid-season retirement",
+     "detail": "Team Europe captain Anna Nordqvist has announced she will retire from playing professional golf mid-season, with the FM Championship to be her final LPGA Tour event.",
+     "url": "https://www.skysports.com/golf/news/12176/13577373/anna-nordqvist-team-europes-solheim-cup-captain-announces-shock-mid-season-retirement-from-playing-professional-golf",
+     "outlet": "Sky Sports"
+    },
+    {
+     "headline": "Tour Championship to become matchplay from 2028 as McIlroy welcomes the 'big swing'",
+     "detail": "The PGA Tour's season-ending Tour Championship will be played in a matchplay format from 2028, a change Rory McIlroy has welcomed.",
+     "url": "https://www.skysports.com/golf/news/12176/13576998/pga-tour-tour-championship-to-be-played-in-a-match-play-format-from-2028-amid-huge-shake-up-to-season-ending-schedule",
+     "outlet": "Sky Sports"
+    },
+    {
+     "headline": "Late Clark magic holds off McIlroy and Cantlay in a PGA Tour thriller",
+     "detail": "Wyndham Clark blew a big lead before closing out the BMW Championship, holding off Rory McIlroy and Patrick Cantlay for victory.",
+     "url": "https://www.skysports.com/golf/news/12176/13576414/bmw-championship-rory-mcilroy-third-as-wyndham-clark-blows-big-lead-before-closing-out-pga-tour-victory",
+     "outlet": "Sky Sports"
+    },
+    {
+     "headline": "Yamashita equals an LPGA Tour record in a dominant CPKC Women's Open win",
+     "detail": "Miyu Yamashita matched the LPGA Tour's 72-hole scoring record with a dominant victory at the CPKC Women's Open in Edmonton.",
+     "url": "https://www.skysports.com/golf/news/12176/13576501/cpkc-womens-open-miyu-yamashita-matches-lpga-tour-72-hole-scoring-record-in-dominant-win-in-edmonton",
+     "outlet": "Sky Sports"
+    },
+    {
+     "headline": "Jamieson claims a first win in 14 years as Norris stumbles after penalty drama",
+     "detail": "Scott Jamieson won the DP World Tour's Nexo Championship on home soil as overnight leader Shaun Norris fell short after a two-shot penalty.",
+     "url": "https://www.skysports.com/golf/news/12176/13576323/dp-world-tour-scott-jamieson-wins-nexo-championship-as-overnight-leader-shaun-norris-falls-short-after-penalty-drama",
+     "outlet": "Sky Sports"
+    },
+    {
+     "headline": "Poulter undecided about his LIV Golf future amid financial concerns",
+     "detail": "Ian Poulter says he is undecided on whether to stay and play on LIV Golf, while hoping the league can continue despite its financial worries.",
+     "url": "https://www.skysports.com/golf/news/12176/13576833/ian-poulter-undecided-about-his-future-with-liv-golf-but-hopes-the-league-can-continue-amid-financial-concerns",
+     "outlet": "Sky Sports"
+    }
+   ]
+  },
+  {
+   "key": "cricket",
+   "name": "Cricket - Worldwide",
+   "items": [
+    {
+     "headline": "Starc goes past Bumrah to top the Test bowling rankings for the first time",
+     "detail": "Mitchell Starc moved to No. 1 in the ICC men's Test bowling rankings after his match haul helped Australia square the series against Bangladesh.",
+     "url": "https://www.espncricinfo.com/story/icc-men-s-test-rankings-mitchell-starc-dethrones-jasprit-bumrah-to-top-test-bowling-charts-for-the-first-time-1551487",
+     "outlet": "ESPNcricinfo"
+    },
+    {
+     "headline": "India close in on victory despite Sooriyabandara and Kamindu fifties",
+     "detail": "Sri Lanka ended day four just 16 runs ahead after being asked to follow on in the second Test against India in Galle.",
+     "url": "https://www.espncricinfo.com/series/india-in-sri-lanka-2026-1543999/sri-lanka-vs-india-2nd-test-1544002/match-report-4",
+     "outlet": "ESPNcricinfo"
+    },
+    {
+     "headline": "Babar set to return for Pakistan at Lord's after a positive training session",
+     "detail": "Pakistan captain Babar Azam is set to return to the side for the second Test against England after a positive training session two days out.",
+     "url": "https://www.espncricinfo.com/story/babar-azam-set-return-pakistan-second-test-england-1551419",
+     "outlet": "ESPNcricinfo"
+    }
+   ]
+  },
+  {
+   "key": "nfl",
+   "name": "NFL - US",
+   "items": [
+    {
+     "headline": "Mayfield says the Bucs will 'shock' the world in 2026",
+     "detail": "Baker Mayfield declared that 'everybody' is picking the Tampa Bay Buccaneers to lose, but he believes they will surprise people this season.",
+     "url": "https://www.nfl.com/news/baker-mayfield-buccaneers-shock-a-lot-of-people-2026",
+     "outlet": "NFL.com"
+    },
+    {
+     "headline": "Cowboys coach on brawls during Saints joint practice: 'I'm in charge of fight club'",
+     "detail": "Brian Schottenheimer joked about the scuffles that broke out during the Dallas Cowboys' joint practice with the New Orleans Saints.",
+     "url": "https://www.nfl.com/news/brian-schottenheimer-brawls-cowboys-saints-joint-practice-fight-club",
+     "outlet": "NFL.com"
+    },
+    {
+     "headline": "Cousins barks at a defender because 'my elbow got hit'",
+     "detail": "Las Vegas Raiders quarterback Kirk Cousins explained a practice dust-up by saying his elbow was hit while wearing a red non-contact jersey.",
+     "url": "https://www.nfl.com/news/las-vegas-raiders-qb-kirk-cousins-explains-practice-dustup-my-elbow-got-hit",
+     "outlet": "NFL.com"
+    }
+   ]
+  },
+  {
+   "key": "nba",
+   "name": "NBA - US",
+   "items": [
+    {
+     "headline": "Klay joins the Heat with winning on his mind",
+     "detail": "Veteran Klay Thompson signed with Miami, saying the opportunity to win again at a very high level was 'so attractive' to him.",
+     "url": "https://www.nba.com/news/klay-thompson-heat-winning",
+     "outlet": "NBA.com"
+    },
+    {
+     "headline": "Warriors add Niang and Williams in a series of reported signings",
+     "detail": "Golden State reportedly agreed one-year deals with veteran forward Georges Niang and guard Brandon Williams on Tuesday.",
+     "url": "https://www.nba.com/news/brandon-williams-georges-niang-free-agency-2026",
+     "outlet": "NBA.com"
+    },
+    {
+     "headline": "DeRozan to sign with the Nuggets on a one-year deal",
+     "detail": "The six-time All-Star, who ranks 16th all-time in points scored, reportedly agreed to a one-year contract with Denver.",
+     "url": "https://www.nba.com/news/demar-derozan-denver-nuggets-2026-free-agency",
+     "outlet": "NBA.com"
+    }
+   ]
+  },
+  {
+   "key": "mlb",
+   "name": "MLB - US",
+   "items": [
+    {
+     "headline": "Glasnow stung by bloop hits early but Ks 7 in return from back injury",
+     "detail": "Tyler Glasnow shook off the rust to strike out seven in his return from a back injury, giving the Dodgers another high-octane arm in their rotation.",
+     "url": "https://sports.yahoo.com/mlb/article/tyler-glasnow-stung-by-bloop-hits-early-but-ks-7-in-return-from-back-injury-012017022.html",
+     "outlet": "Yahoo Sports"
+    },
+    {
+     "headline": "Brewers rookie Cooper Pratt benched for a lack of hustle",
+     "detail": "Milwaukee sat rookie Cooper Pratt after a missed bunt attempt, with the club stressing players 'gotta be locked in'.",
+     "url": "https://sports.yahoo.com/mlb/article/brewers-rookie-cooper-pratt-benched-for-lack-of-hustle-missed-bunt-attempt-youve-gotta-be-locked-in-124224476.html",
+     "outlet": "Yahoo Sports"
+    },
+    {
+     "headline": "Raleigh busts out of a slump with a first career three-homer game",
+     "detail": "Cal Raleigh posted his first career three-home-run game to power the Seattle Mariners past the Philadelphia Phillies.",
+     "url": "https://sports.yahoo.com/mlb/article/cal-raleigh-busts-out-of-slump-posts-first-career-3-homer-game-to-power-mariners-past-phillies-043829555.html",
+     "outlet": "Yahoo Sports"
+    }
+   ]
+  },
+  {
+   "key": "f1",
+   "name": "Formula 1 - Europe",
+   "items": [
+    {
+     "headline": "Norris beats Antonelli to victory in the Dutch GP for a second straight win",
+     "detail": "Lando Norris claimed his second successive race victory at Zandvoort, beating Kimi Antonelli to the top step of the podium.",
+     "url": "https://www.skysports.com/f1/news/12433/13576206/dutch-gp-lando-norris-beats-kimi-antonelli-to-victory-in-zandvoort-to-claim-second-successive-race-win",
+     "outlet": "Sky Sports"
+    },
+    {
+     "headline": "Wolff 'not at all' disappointed by Verstappen's new Red Bull deal",
+     "detail": "Mercedes boss Toto Wolff said he is not at all disappointed that Max Verstappen has signed a new contract with Red Bull.",
+     "url": "https://www.skysports.com/f1/news/12433/13577061/max-verstappen-mercedes-boss-toto-wolff-says-he-is-not-at-all-disappointed-by-dutchmans-new-red-bull-contract",
+     "outlet": "Sky Sports"
+    },
+    {
+     "headline": "Hamilton regrets his frustrated Dutch GP comments",
+     "detail": "Lewis Hamilton took responsibility for his frustrated radio and media comments at the Dutch Grand Prix, admitting it was 'not the best version' of him.",
+     "url": "https://www.skysports.com/f1/news/12433/13576896/lewis-hamilton-ferrari-driver-takes-responsibility-for-frustrated-radio-and-media-comments-at-dutch-gp",
+     "outlet": "Sky Sports"
+    }
+   ]
+  },
+  {
+   "key": "tennis",
+   "name": "Tennis - Rest of World",
+   "items": [
+    {
+     "headline": "Federer rolls back the years in US Open exhibition victories",
+     "detail": "Roger Federer made a victorious return to the US Open courts with two exhibition wins on Tuesday, including against Andy Roddick.",
+     "url": "https://www.skysports.com/tennis/news/12040/13577249/roger-federer-rolls-back-years-to-beat-andy-roddick-in-exhibition-at-us-open",
+     "outlet": "Sky Sports"
+    },
+    {
+     "headline": "Serena and Alcaraz dazzle in mixed doubles before their US Open exit",
+     "detail": "Serena Williams and Carlos Alcaraz thrilled the New York crowd before bowing out of the US Open mixed doubles in the quarter-finals.",
+     "url": "https://www.skysports.com/tennis/news/12110/13577085/serena-williams-and-carlos-alcaraz-exit-us-open-mixed-doubles-in-quarter-finals-top-seeds-novak-djokovic-and-aryna-sabalenka-out-in-first-round",
+     "outlet": "Sky Sports"
+    },
+    {
+     "headline": "Fils beats Tiafoe to win Cincinnati and stake a claim as US Open favourite",
+     "detail": "Arthur Fils defeated Frances Tiafoe in a historic all-Black ATP Masters 1000 final to claim the biggest title of his career in Cincinnati.",
+     "url": "https://www.skysports.com/tennis/news/12110/13576338/cincinnati-open-arthur-fils-defeats-frances-tiafoe-in-historic-atp-masters-1000-final-between-two-black-players",
+     "outlet": "Sky Sports"
+    }
+   ]
+  }
+ ]
 }

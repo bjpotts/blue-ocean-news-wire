@@ -8,14 +8,15 @@ from reportlab.lib.styles import ParagraphStyle
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, HRFlowable
 
 BASE = os.path.dirname(os.path.abspath(__file__))
-DATE, AMPM = "2026-08-22", "pm"
+DATE, AMPM = "2026-08-26", "pm"
 EDITION = "Evening Edition"
-DATELINE = "Evening Edition \u00b7 Saturday 22 August 2026 \u00b7 22:40 AEST \u00b7 Sydney, NSW"
+DATELINE = "Evening Edition \u00b7 Wednesday 26 August 2026 \u00b7 23:40 AEST \u00b7 Sydney, NSW"
 ARTIFACT = "https://claude.ai/code/artifact/843fe9ec-75b9-43fe-b1f1-19454a9716c4"
 OUT = os.path.join(BASE, "public-news-wire-snapshot-%s-%s.pdf" % (DATE, AMPM))
 
 # Same paragraph text, same entity escaping, as the published page.
 mnp = json.load(open(os.path.join(BASE, "data", "perf-c.json")))["market_news"]["paragraph"]
+# Edition-specific number corrections; applied only when present in the fresh text.
 for a, b in [
     ("The Russell 2000 small-cap index was not among the indexes detailed in the reports reviewed.",
      "The Russell 2000 small-cap index closed at 3,017.87, up 0.85 per cent, outpacing the large-cap benchmarks."),

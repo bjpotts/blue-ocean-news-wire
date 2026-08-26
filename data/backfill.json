@@ -1,36 +1,10 @@
 {
-  "anz_items": [
-    {
-      "headline": "Impact Minerals goes to shareholders for A$4.1 million to push its high purity alumina plans along",
-      "detail": "The Perth-based explorer launched a one-for-four renounceable rights issue priced at A$0.032 per share - a 22 per cent discount to its last close of A$0.041 - partially underwritten to A$1.5 million by Mahe Capital, with two free attaching options for every three new shares and proceeds directed at the Lake Hope High Purity Alumina Project plus its Broken Hill and Lake Irwin ground.",
-      "outlet": "Small Caps",
-      "url": "https://smallcaps.com.au/article/impact-minerals-launches-renounceable-rights-issue-to-fund-hpa-growth-strategy"
-    },
-    {
-      "headline": "Sovereign AI infrastructure play SCX.ai lands on the ASX boards with A$40 million in fresh capital",
-      "detail": "SCX.ai Holdings began trading on 21 August 2026 under the ticker SCX after completing a A$40 million initial public offering at A$0.30 per share, with the company reporting contracted annual recurring revenue up 21 per cent as demand for domestic AI cloud capacity accelerates.",
-      "outlet": "Proactive Investors",
-      "url": "https://www.proactiveinvestors.com/companies/news/1097385/scx-ai-makes-asx-debut-after-40-million-ipo-as-ai-demand-accelerates-1097385.html"
-    }
-  ],
-  "uk_items": [
-    {
-      "headline": "Vast Resources returns to AIM with a GBP 7.8 million raise behind a Tajik gold reverse takeover",
-      "detail": "The mining company completed its reverse takeover of Gulf International Minerals and was readmitted to AIM at 8:00am on 19 August 2026 after raising roughly GBP 7.85 million through a placing, subscription and oversubscribed retail offer, giving it a 49 per cent interest in a Tajik joint venture holding four gold mines.",
-      "outlet": "London Stock Exchange RNS",
-      "url": "https://www.londonstockexchange.com/news-article/VAST/completion-of-rto-re-admission-to-trading-on-aim/17745408"
-    }
-  ],
-  "abc_item": {
-    "headline": "Central Coast baby becomes the first person anywhere to get a precision drug for a lethal genetic epilepsy",
-    "detail": "Eight-month-old Bohdi Higginson, who has KCNT1-related catastrophic epilepsy and recorded 74 seizures on his worst day, received his first dose at the Children's Hospital at Westmead on 21 April and had his last seizure three days later, in a world first delivered through the Sydney Children's Hospitals Network's new innovative therapies pathway.",
-    "url": "https://www.abc.net.au/news/2026-08-22/baby-gets-world-first-epilepsy-treatment-at-sydney-hospital/107050908"
-  },
-  "summaries": {
-    "anz": "Australasian issuance this week was dominated by small caps topping up the tank rather than blue chips raising serious money, with Sports Entertainment Group's A$14.6 million placement the largest deal on the board and the only one tied to a genuine acquisition - the NZ$130 million purchase of MediaWorks. Everything else sat well under A$5 million and leaned heavily on materials and deep tech, with Impact Minerals going renounceable for A$4.1 million on high purity alumina and Sparc Technologies pairing a placement with a share purchase plan to commercialise its graphene coatings additive. The one genuinely new listing, SCX.ai's A$40 million IPO at 30 cents, was the standout for scale and showed that sovereign AI infrastructure can still clear a bookbuild when mining juniors are grinding for a couple of million. A common thread across the smaller raises was the retail sweetener - share purchase plans and free attaching options used to keep existing holders from being diluted out quietly."
-    ,
-    "uk": "The UK column is thin this week and skewed toward companies deciding that London is not where they want to price themselves. Nscale is chasing up to about US$3 billion in New York with a September window flagged, and Glencore is openly weighing an Australian secondary listing while it reconsiders whether its primary home still makes sense - both stories are really about valuation frustration rather than growth capital. Against those, the only actual money raised on a UK venue was Vast Resources' roughly GBP 7.8 million placing, subscription and retail offer, a modest sum that funded a reverse takeover into Tajik gold and got the company readmitted to AIM on 19 August."
-    ,
-    "rest": "The rest of the world was carried almost entirely by Dangote, whose refinery locked in about US$1 billion of underwriting ahead of what would rank as Africa's biggest float - and notably kept it retail-focused on the Nigerian Exchange with no foreign listing for now. That decision has already drawn competitive interest, with the Johannesburg Stock Exchange courting Dangote for a secondary listing once the Nigerian debut is done, a reminder that African exchanges are now actively competing for the continent's marquee issuers. The only completed deal was Indian logistics group Shiprocket, which surged on debut after a roughly US$170 million offering, leaving the region as a story of one enormous pending float and one successful mid-sized one."
-  }
+ "anz_items": [],
+ "uk_items": [],
+ "abc_item": {},
+ "summaries": {
+  "anz": "ANZ equity capital markets activity in the window to 26 August was led by a single large institutional placement - GR Engineering Services locking in a $100 million raise at $6.10 a share to strengthen its balance sheet against a contracted and near-term workload - while the listing calendar stayed busy with small-cap floats. Powerhaus Uranium began trading on 25 August after a $9 million IPO at 20 cents, and Almasar Minerals is set to debut on 31 August after raising $27 million for Saudi gold and copper exploration, with sovereign AI infrastructure play SCX.ai's $40 million float from the prior week still the standout new listing by scale. The common thread is a market where the biggest money is going to established engineering and services names via placements, while the IPO queue remains dominated by exploration and thematic small caps rather than large new floats.",
+  "uk": "UK news flow was again dominated by British companies raising capital somewhere other than London, with Glasgow-based Aggreko filing for a US IPO of up to an estimated $1.5 billion on the back of the AI data centre boom - the latest in a pattern of large UK issuers heading to New York for deeper pools of capital. Against that, the domestic primary market showed signs of life, with Malibu Life Holdings completing a landmark $125 million placing and open offer - the first fully pre-emptive Main Market raise under the UK's new prospectus regime - and EY-Parthenon data pointing to a gradual reopening of the London listing window. The common thread is a market where regulatory reform is beginning to unlock domestic issuance even as the largest UK-linked deals continue to migrate to the US.",
+  "rest": "Activity outside the core markets was led decisively by India, where the primary market is running hot. Gaja Alternative Asset Management, India's first listed alternative asset manager, closed 5.4% higher in its debut on 26 August at a valuation of about $251.5 million after a $57.5 million IPO, while Sunshine Pictures listed on 25 August at a 10% premium despite weak market sentiment. The pipeline is building fast, with 10 companies looking to raise over Rs 3,300 crore in the week to 31 August, spanning logistics, engineering, pharmaceuticals and power transmission. The common thread is strong domestic retail and institutional appetite for new listings, with India's primary market becoming steadily busier even as developed-market calendars stay thin."
+ }
 }

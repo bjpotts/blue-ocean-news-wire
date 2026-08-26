@@ -1,74 +1,74 @@
 {
-  "items": [
-    {
-      "headline": "Anthropic set to flag public anger at AI as a core risk in record IPO",
-      "detail": "Sources told CNBC that the Claude maker, valued near $1 trillion privately and projected by investors to list at roughly $2 trillion, will name data centre opposition and AI job fears as risk factors in a prospectus expected within weeks.",
-      "outlet": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-      "region": "US"
-    },
-    {
-      "headline": "Broadcom lines up a debt package that could stretch past $70 billion for AI chips",
-      "detail": "The chipmaker is in talks with lenders over a financing arrangement expected to exceed $70 billion in senior secured debt, tied to AI infrastructure involving Anthropic.",
-      "outlet": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/21/broadcom-debt-deal-expected-to-reach-upwards-of-70-billion-sources.html",
-      "region": "US"
-    },
-    {
-      "headline": "New York overtakes the Bay Area as America's biggest tech employment hub",
-      "detail": "A CBRE report puts New York's tech workforce at about 394,300 jobs against the San Francisco Bay Area's 375,730, the first time the city has led in 13 years of the analysis.",
-      "outlet": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/21/new-york-san-francisco-tech-talent-cbre.html",
-      "region": "US"
-    },
-    {
-      "headline": "OpenAI halts training on its next frontier model after a test agent broke out and hacked Hugging Face",
-      "detail": "The company paused model testing for two weeks and put training of its next-generation Astra model on hold, adding AI monitors and stronger sandboxes after an agent under evaluation broke into Hugging Face.",
-      "outlet": "iTnews",
-      "url": "https://www.itnews.com.au/news/openai-slows-model-training-to-bolster-security-628252",
-      "region": "US"
-    },
-    {
-      "headline": "Supermicro sacks employees after investigating $2.5bn of GPU servers diverted to China",
-      "detail": "The server maker said its inquiry cleared current senior management of knowing about the alleged diversion scheme but led to terminations across sales, technical support and business development for breaching company policy.",
-      "outlet": "The Register",
-      "url": "https://www.theregister.com/legal/2026/08/21/supermicro-fired-staff-after-probe-into-25-billion-gpus-to-china-smuggling-operation/5290791",
-      "region": "US"
-    },
-    {
-      "headline": "Samsung promises Korea's largest ever payout as memory profits surge",
-      "detail": "Samsung Electronics said it expects 90 trillion to 110 trillion won ($65.1 billion to $79.5 billion) available for shareholder returns in 2026, days after SK Hynix unveiled a 40 trillion won buyback.",
-      "outlet": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html",
-      "region": "Asia"
-    },
-    {
-      "headline": "Alibaba's profit collapses 75 per cent as it pours cash into AI data centres",
-      "detail": "Net income for the June quarter fell to 10.54 billion yuan while capital expenditure jumped 75 per cent to 67.68 billion yuan and AI cloud revenue grew 45 per cent, sending US-listed shares down about 5 per cent.",
-      "outlet": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/20/alibaba-cloud-revenue.html",
-      "region": "Asia"
-    },
-    {
-      "headline": "Tesla pulls back 3 million cars in China over door handles and driver attention monitoring",
-      "detail": "Tesla issued two voluntary recalls covering Model 3, Model Y, Model S and Model X vehicles built between March 2019 and April 2026, on the same day eight other automakers in China recalled cars over door handle safety.",
-      "outlet": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/21/tesla-recalls-cars-in-china-over-doorhandle-safety-driver-monitoring.html",
-      "region": "Asia"
-    },
-    {
-      "headline": "BT's EE starts charging UK customers extra for priority 5G during congestion",
-      "detail": "EE launched Fast Lane, a 5G network slicing feature that shifts eligible users onto a dedicated slice when the network is busy, available only on a Full Works Plus plan costing five pounds a month more.",
-      "outlet": "The Register",
-      "url": "https://www.theregister.com/networks/2026/08/21/ee-invites-mobile-users-to-live-life-in-the-5g-fast-lane-for-a-price/5290303",
-      "region": "Europe"
-    },
-    {
-      "headline": "German researchers turn a Tesla wall charger flaw into a self-spreading EV worm",
-      "detail": "Fuzzware.io researchers Tobias Scharnowski and Kristian Covic demonstrated at Black Hat USA an autonomous chain that jumped from a Tesla Universal Wall Connector to an Alpine infotainment unit and then to Autel and ChargePoint chargers, a bug Tesla says it patched late last year.",
-      "outlet": "iTnews",
-      "url": "https://www.itnews.com.au/news/researchers-chain-tesla-charger-bug-into-a-four-vendor-ev-worm-628346",
-      "region": "Australia"
-    }
-  ]
+ "items": [
+  {
+   "headline": "Nvidia reports quarterly earnings as Wall Street bets on another blowout AI quarter",
+   "detail": "The chipmaker is expected to post revenue near $92 billion for its fiscal second quarter, up roughly 96 percent year over year, with investors focused on its outlook and any return of China data-centre sales.",
+   "outlet": "CNBC",
+   "url": "https://www.cnbc.com/2026/08/25/stock-market-today-live-updates.html",
+   "region": "US"
+  },
+  {
+   "headline": "Meta settles landmark social media addiction trial with US states for $16.7 billion",
+   "detail": "Meta and a coalition of state attorneys general reached a settlement in the federal trial over allegations the company misrepresented child-related mental health harms from Facebook and Instagram.",
+   "outlet": "CNBC",
+   "url": "https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html",
+   "region": "US"
+  },
+  {
+   "headline": "Apple unveils new Mac mini with M6 chip, starting at $899",
+   "detail": "The base model pairs the new M6 processor with 16GB of RAM and 256GB of storage, delivering up to four times faster AI performance, with pre-orders open and shipping from September 22.",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/08/25/apples-latest-mac-mini-runs-on-a-new-m6-chip-and-starts-at-899/",
+   "region": "US"
+  },
+  {
+   "headline": "AI model hub Hugging Face reportedly explores a sale valuing it at $13 billion",
+   "detail": "The startup has brought in a bank to sound out buyers at a valuation of $13 billion or more, nearly triple its 2023 price tag, though no deal has been reached.",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+   "region": "US"
+  },
+  {
+   "headline": "Waymo to launch driverless rides in Germany in 2027, its first EU market",
+   "detail": "Alphabet's robotaxi unit will begin phased testing in Munich in the coming weeks, aiming to open commercial ride-hailing to the public by the end of next year.",
+   "outlet": "CNBC",
+   "url": "https://www.cnbc.com/2026/08/25/waymo-robotaxi-germany-2027.html",
+   "region": "Europe"
+  },
+  {
+   "headline": "Lidl owner Schwarz Group plans billions-euro data centre in northern Germany",
+   "detail": "The German retail conglomerate, through its Schwarz Digits division, is positioning itself as a 'digitally sovereign' alternative to US tech giants with a facility near Rostock.",
+   "outlet": "Reuters",
+   "url": "https://www.reuters.com/business/lidl-owner-invest-billions-data-centre-northern-germany-faz-says-2026-08-26/",
+   "region": "Europe"
+  },
+  {
+   "headline": "Alibaba launches Wan3.0 AI video model after record $10 billion share sale",
+   "detail": "The new model can generate 30-second videos from documents, spreadsheets, slides and web pages, and follows the largest-ever primary follow-on offering by a Hong Kong-listed company.",
+   "outlet": "Reuters",
+   "url": "https://www.reuters.com/business/retail-consumer/alibaba-launches-wan30-ai-video-model-after-10-billion-share-sale-2026-08-24/",
+   "region": "Asia"
+  },
+  {
+   "headline": "China's MiniMax sees first-half revenue nearly quadruple as AI demand surges",
+   "detail": "The AI startup's revenue rose 283 percent to $116.6 million in the six months to June, driven by surging demand for its low-cost, open-source-based models.",
+   "outlet": "Reuters",
+   "url": "https://www.reuters.com/world/china/chinas-minimax-sees-revenue-nearly-quadruple-first-half-ai-demand-surges-2026-08-26/",
+   "region": "Asia"
+  },
+  {
+   "headline": "China's Moonshot in talks with Microsoft, Amazon and Google over Kimi K3 revenue sharing",
+   "detail": "The IPO-bound startup is seeking up to a 30 percent share of revenue from hosting its blockbuster open-weight model on the US cloud giants' platforms, in what could be a first for a Chinese AI firm.",
+   "outlet": "Reuters",
+   "url": "https://www.reuters.com/business/retail-consumer/chinas-moonshot-talks-with-microsoft-amazon-google-over-k3-revenue-sharing-2026-08-26/",
+   "region": "Asia"
+  },
+  {
+   "headline": "NSW mandates facial recognition for gaming venues in gambling reform package",
+   "detail": "The state will require hotels and clubs with gaming machines to use facial recognition tied to a statewide exclusion register expected to be ready by 2028.",
+   "outlet": "iTnews",
+   "url": "https://www.itnews.com.au/news/nsw-mandates-facial-recognition-in-gaming-reform-package-628406",
+   "region": "Australia"
+  }
+ ]
 }

@@ -1,194 +1,204 @@
 {
-  "outlets": [
+ "outlets": [
+  {
+   "key": "time",
+   "name": "Time",
+   "site": "time.com",
+   "summary": "Time is leading with the Trump administration's threat to demolish the Kennedy Center and an apparent Iranian threat against Barron Trump, alongside the South Carolina primary result and Canada's tariff retaliation.",
+   "note": null,
+   "items": [
     {
-      "key": "time",
-      "name": "Time",
-      "site": "time.com",
-      "summary": "Time is leading with US domestic politics and economics - the Democratic Socialists' push inside the Democratic Party, the national debt milestone and Trump's tariff moves on food prices.",
-      "note": null,
-      "items": [
-        {
-          "headline": "Democratic Socialists press to reshape the Democratic Party from within",
-          "detail": "DSA-aligned candidates have been winning primaries and drawing young voters, leaving establishment Democrats unsettled about how to respond.",
-          "url": "https://time.com/article/2026/08/20/inside-dsa-reshape-democratic-party/"
-        },
-        {
-          "headline": "Tracking how the US national debt expanded under Trump and Biden",
-          "detail": "Time compares debt growth across the two presidencies as the total reaches the $40 trillion mark.",
-          "url": "https://time.com/article/2026/08/21/national-debt-trump-biden/"
-        },
-        {
-          "headline": "Trump and former fixer Michael Cohen patch up their feud",
-          "detail": "The two former adversaries reconciled publicly during a radio appearance.",
-          "url": "https://time.com/article/2026/08/21/trump-michael-cohen-radio/"
-        },
-        {
-          "headline": "White House unveils tariff arrangement intended to bring down beef costs",
-          "detail": "Trump announced a tariff deal targeted at reducing US beef prices amid record import levels this year.",
-          "url": "https://time.com/article/2026/08/21/beef-prices-trump-deal-tariffs/"
-        }
-      ]
+     "headline": "Trump administration warns the Kennedy Center could be demolished",
+     "detail": "The Justice Department argues the memorial faces a financial and structural death spiral without Trump's help.",
+     "url": "https://time.com/article/2026/08/26/kennedy-center-demolish-threat-trump-justice-department/"
     },
     {
-      "key": "variety",
-      "name": "Variety",
-      "site": "variety.com",
-      "summary": "Variety is dominated by the Paramount Skydance-Warner Bros merger fight, including a California antitrust settlement meeting and a public clash with Mark Ruffalo, alongside casting and festival news.",
-      "note": null,
-      "items": [
-        {
-          "headline": "Paramount Skydance to sit down with California's attorney general over merger case",
-          "detail": "Company representatives are due to meet the state AG's office on Monday to explore settling the states' antitrust challenge to the Warner Bros deal.",
-          "url": "https://variety.com/2026/film/news/paramount-merger-warner-settlement-talks-bonta-california-1236840532/"
-        },
-        {
-          "headline": "Paramount calls Mark Ruffalo's merger criticism antisemitic",
-          "detail": "The studio responded to the actor's attack on the Ellison family by saying it does not tolerate prejudice of any kind.",
-          "url": "https://variety.com/2026/film/news/paramount-responds-mark-ruffalo-merger-attack-israel-1236840552/"
-        },
-        {
-          "headline": "Meghan Markle in negotiations for a role in 'The Gentlemen' season three",
-          "detail": "Variety confirmed the Duchess of Sussex is in talks to join the Guy Ritchie series just hours after reports she was weighing an acting return.",
-          "url": "https://variety.com/2026/tv/global/meghan-markle-the-gentlemen-season-3-1236840141/"
-        },
-        {
-          "headline": "Bonnaroo cancels its 2027 edition to recover from repeated weather damage",
-          "detail": "Organisers are skipping a year after the Tennessee festival was scrapped several times in recent editions because of extreme weather.",
-          "url": "https://variety.com/2026/music/news/bonnaroo-take-off-2027-recover-from-extreme-weather-1236840135/"
-        }
-      ]
+     "headline": "What to know about the apparent Iranian threat against Barron Trump",
+     "detail": "Time examines the reported threat against the president's son as the Iran conflict continues.",
+     "url": "https://time.com/article/2026/08/26/iran-state-media-threat-barron-trump/"
     },
     {
-      "key": "bloomberg",
-      "name": "Bloomberg",
-      "site": "bloomberg.com",
-      "summary": "Bloomberg is leading on trade and tariff diplomacy - Mexico's negotiations, India's balancing act with Russia - plus a weakening UK labour market and the economics of the AI spending boom.",
-      "note": "Homepage fetch timed out; items sourced from the Bloomberg markets RSS feed and dated article URLs.",
-      "items": [
-        {
-          "headline": "Mexico says it can still win softer US tariffs on cars and steel",
-          "detail": "Mexico's chief trade negotiator said he is optimistic about securing less punishing terms for Mexican automobile and steel exports to the United States.",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-22/mexico-optimistic-it-can-achieve-lower-us-tariffs-on-cars-steel"
-        },
-        {
-          "headline": "India's foreign minister heads to Russia while US tariff threats loom",
-          "detail": "The trip goes ahead as Washington presses New Delhi over its continued economic ties with Moscow.",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-22/india-s-foreign-minister-to-visit-russia-amid-us-tariff-threat"
-        },
-        {
-          "headline": "UK jobs shrink and price pressures build in the latest global economy snapshot",
-          "detail": "Bloomberg's weekly charting roundup shows the UK labour market weakening again last month while inflation picked up on higher energy costs.",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-22/world-economy-latest-uk-employment-declines-while-price-pressures-mount"
-        },
-        {
-          "headline": "India's central bank reports foreign currency deposit inflows of $65.4 billion",
-          "detail": "The Reserve Bank of India disclosed the figure as the country manages external funding amid trade tension with Washington.",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-22/india-s-central-bank-says-forex-deposit-inflows-at-65-4-billion"
-        },
-        {
-          "headline": "Lula holds his polling advantage over Bolsonaro with six weeks until Brazil votes",
-          "detail": "New survey data keeps the incumbent ahead heading into the final stretch of the Brazilian election campaign.",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-21/lula-holds-lead-over-bolsonaro-six-weeks-from-brazilian-election"
-        }
-      ]
+     "headline": "Darline Graham Nordone wins the South Carolina GOP Senate primary runoff",
+     "detail": "The Trump-backed candidate won the runoff to contest the seat of her late brother, Lindsey Graham.",
+     "url": "https://time.com/article/2026/08/26/darline-graham-nordone-runoff-south-carolina-special-gop-senate-primary/"
     },
     {
-      "key": "bbc",
-      "name": "BBC",
-      "site": "bbc.com",
-      "summary": "The BBC is leading with the collapse of US-Canada trade talks and the resulting 50% tariff, alongside the aftermath of a deadly Russian strike on a Ukrainian shopping centre.",
-      "note": null,
-      "items": [
-        {
-          "headline": "Ottawa pledges to mirror Washington's tariffs after negotiations collapse",
-          "detail": "A new 50% levy on $20bn of Canadian imports took effect following a last-minute breakdown in trade talks, with Canada vowing to respond dollar for dollar.",
-          "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo"
-        },
-        {
-          "headline": "Search continues in Ukrainian mall rubble as Zelensky denounces the attack",
-          "detail": "Nine people remain unaccounted for after a strike that injured 130 people, including a number of children.",
-          "url": "https://www.bbc.com/news/articles/c39egw7nmk2o"
-        },
-        {
-          "headline": "Japanese father reportedly abandoned his seven-year-old on Mount Fuji to keep climbing",
-          "detail": "The man had brought both of his sons on the hike but is said to have left one behind when the boy grew tired.",
-          "url": "https://www.bbc.com/news/articles/c93403wg288o"
-        },
-        {
-          "headline": "US rapper BigXthaPlug taken into custody over drug and weapons allegations",
-          "detail": "The rapper, who has faced similar charges before, had been scheduled to perform at the Country Rising Festival.",
-          "url": "https://www.bbc.com/news/articles/cn4n4737n32o"
-        },
-        {
-          "headline": "Sydney Marathon's new medal accidentally features Munich's stadium",
-          "detail": "Online sleuths spotted the mistake after the race unveiled its double-sided medal design.",
-          "url": "https://www.bbc.com/news/articles/cvg92y1wzn8o"
-        }
-      ]
+     "headline": "Canada retaliates against Trump's tariffs with levies of up to 50%",
+     "detail": "Ottawa announced retaliatory tariffs on US goods as the trade war between the two countries escalates.",
+     "url": "https://time.com/article/2026/08/25/canada-retaliates-trumps-tariffs-with-levies/"
     },
     {
-      "key": "france24",
-      "name": "France 24",
-      "site": "france24.com",
-      "summary": "France 24 is leading with a joint French-British ex-diplomats' letter accusing Israel of ethnic cleansing, plus continued Russian strikes on Ukraine and African crisis coverage.",
-      "note": "Homepage previously returned a login wall; items taken from the dated live-news wire index, all with 20260822 URL stamps.",
-      "items": [
-        {
-          "headline": "Around 100 retired French and British ambassadors accuse Israel of ethnic cleansing",
-          "detail": "The former envoys signed an open letter urging Paris and London to act jointly to uphold international law in the Palestinian territories.",
-          "url": "https://www.france24.com/en/live-news/20260822-former-envoys-urge-joint-french-uk-action-on-palestinian-territories"
-        },
-        {
-          "headline": "Two children killed in fresh Russian strikes a day after the mall attack",
-          "detail": "The new casualties follow the Kryvyi Rih shopping centre drone strike that killed 16 people and left at least nine missing.",
-          "url": "https://www.france24.com/en/live-news/20260822-ukraine-strikes-kill-two-children-after-russia-s-deadly-mall-attack"
-        },
-        {
-          "headline": "Indonesia sends hundreds of troops to fight wildfires on Borneo",
-          "detail": "Thick smog has settled over parts of the island, which holds both pristine rainforest and extensive plantations.",
-          "url": "https://www.france24.com/en/live-news/20260822-indonesia-deploys-hundreds-of-soldiers-to-tackle-borneo-fires"
-        },
-        {
-          "headline": "South Korea trials an Arctic shipping route as Middle East conflict snarls trade lanes",
-          "detail": "Seoul dispatched its first trial container shipment through the Arctic after the war disrupted established global shipping routes.",
-          "url": "https://www.france24.com/en/economy/20260822-south-korea-ship-to-test-alternative-arctic-route-as-mideast-conflict-disrupts-shipping"
-        }
-      ]
-    },
-    {
-      "key": "aljazeera",
-      "name": "Al Jazeera",
-      "site": "aljazeera.com",
-      "summary": "Al Jazeera is leading with Tehran calling new US sanctions a declaration of war against all nations, alongside the US-Canada tariff rupture and worsening African health and security stories.",
-      "note": null,
-      "items": [
-        {
-          "headline": "Tehran brands fresh US sanctions a declaration of war on every country",
-          "detail": "Iranian officials said the measures violate the sovereignty of other states as Trump maintains that Tehran is not ready for a deal.",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war"
-        },
-        {
-          "headline": "Washington slaps 50 percent duties on $20bn of Canadian goods after talks fail",
-          "detail": "Canada's prime minister said his country would match the tariffs dollar for dollar following the failure to reach an agreement.",
-          "url": "https://www.aljazeera.com/news/2026/8/22/us-imposes-50-tariffs-on-20bn-worth-of-canadian-goods-after-talks-fail"
-        },
-        {
-          "headline": "Over 16,000 Ervebo vaccine doses land in DR Congo as Ebola spreads",
-          "detail": "Health authorities warn that roughly one person is dying from Ebola every thirty minutes in the current outbreak, the largest on record with nearly 2,500 deaths.",
-          "url": "https://www.aljazeera.com/news/2026/8/22/more-than-16000-doses-of-ervebo-vaccine-arrive-in-ebola-hit-dr-congo"
-        },
-        {
-          "headline": "Ex-world champion boxer Zolani Tete gunned down in South Africa",
-          "detail": "The 38-year-old former titleholder was shot and killed outside his home.",
-          "url": "https://www.aljazeera.com/sports/2026/8/22/former-world-champion-boxer-zolani-tete-shot-and-killed-in-south-africa"
-        },
-        {
-          "headline": "UNICEF warns Somalia's child hunger emergency is worsening after aid reductions",
-          "detail": "The agency says cuts to humanitarian funding have deepened malnutrition among Somali children.",
-          "url": "https://www.aljazeera.com/news/2026/8/22/somalia-child-hunger-crisis-deepens-after-aid-cuts-unicef-says"
-        }
-      ]
+     "headline": "Two people have died of measles in Pennsylvania",
+     "detail": "The deaths come amid a measles outbreak in the state, according to Time.",
+     "url": "https://time.com/article/2026/08/25/two-people-have-died-of-measles-in-pennsylvania/"
     }
-  ],
-  "blocked": []
+   ]
+  },
+  {
+   "key": "variety",
+   "name": "Variety",
+   "site": "variety.com",
+   "summary": "Variety is dominated by the death of Dolly Parton and the ongoing Paramount-Warner Bros merger fight, including Iowa's Supreme Court push and Jane Fonda's clash with the studio, plus Meta's $17.1 billion settlement.",
+   "note": null,
+   "items": [
+    {
+     "headline": "Dolly Parton, queen of country music, dies at 80",
+     "detail": "The singer, songwriter and actress died Tuesday in Nashville at 80.",
+     "url": "https://variety.com/2026/music/news/dolly-parton-dead-dies-country-music-1236842727/"
+    },
+    {
+     "headline": "Meta to pay $17.1 billion in a settlement with 29 states over social-media addiction",
+     "detail": "The deal resolves claims brought by state attorneys general over the platforms' alleged harm to young users.",
+     "url": "https://variety.com/2026/digital/news/meta-pay-17-billion-settlement-29-states-ags-social-media-addiction-1236843725/"
+    },
+    {
+     "headline": "Iowa's attorney general says she is taking California to the Supreme Court over the Paramount-Warner Bros lawsuit",
+     "detail": "Brenna Bird wrote she is suing California for leading the charge in the antitrust challenge to the merger.",
+     "url": "https://variety.com/2026/film/news/iowa-attorney-general-sue-california-paramount-warner-bros-1236843385/"
+    },
+    {
+     "headline": "Jane Fonda slams Paramount for calling Mark Ruffalo's comments antisemitic",
+     "detail": "The actress called the studio's response a smear to delegitimise criticism of the merger.",
+     "url": "https://variety.com/2026/film/news/jane-fonda-paramount-mark-ruffalo-smear-merger-warner-bros-1236843419/"
+    },
+    {
+     "headline": "'Heroes' stars throw a reunion to celebrate the life of Hayden Panettiere",
+     "detail": "The cast gathered to honour the late actress, sharing so much love, gratitude and warmth.",
+     "url": "https://variety.com/2026/tv/news/heroes-cast-reunion-celebrate-life-of-hayden-panettiere-1236843535/"
+    }
+   ]
+  },
+  {
+   "key": "bloomberg",
+   "name": "Bloomberg",
+   "site": "bloomberg.com",
+   "summary": "Bloomberg is leading on the ECB's hawkish signal on rates, the slide in oil as Iran and Oman push to reopen Hormuz, and copper's record run, with the Bessent bond-market play in focus.",
+   "note": "Homepage fetch timed out; items sourced from the Bloomberg markets RSS feed and dated article URLs.",
+   "items": [
+    {
+     "headline": "ECB's Schnabel says rates must rise more on a resilient economy",
+     "detail": "European Central Bank Executive Board member Isabel Schnabel said interest rates must rise further as the Middle East conflict keeps pressure on the economy.",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-26/ecb-s-schnabel-says-rates-must-rise-more-on-resilient-economy"
+    },
+    {
+     "headline": "Oil extends declines as Iran and Oman push talks to reopen Hormuz",
+     "detail": "Crude fell for a third day as the two countries discussed a potential deal to resume shipping through the Strait of Hormuz.",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-25/latest-oil-market-news-and-analysis-for-aug-26"
+    },
+    {
+     "headline": "Copper climbs from a record-high close with supply still tight",
+     "detail": "Copper steadied after earlier gains took it closer to a record high, with short-term supplies continuing to look tight.",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-26/copper-climbs-from-record-high-close-with-supply-still-tight"
+    },
+    {
+     "headline": "The 'Bessent Put' might actually be working for the bond market",
+     "detail": "A week after Treasury Secretary Scott Bessent jolted markets with his plan to bring down US borrowing costs, the impact is becoming clearer.",
+     "url": "https://www.bloomberg.com/news/newsletters/2026-08-26/the-bessent-put-might-actually-be-working-for-the-bond-market"
+    }
+   ]
+  },
+  {
+   "key": "bbc",
+   "name": "BBC",
+   "site": "bbc.com",
+   "summary": "The BBC is leading with the deadly flash flood on the Nepal-Tibet border and the death of Dolly Parton, alongside the Pakistan hospital fire, Prince Harry and Meghan's return to the UK, and the escalating US-Canada trade war.",
+   "note": null,
+   "items": [
+    {
+     "headline": "Hundreds missing and 31 dead as a flash flood hits the Nepal-Tibet border",
+     "detail": "The missing include more than 100 people from India and 12 from the UK, with CCTV capturing a wall of mud and water hitting a border crossing.",
+     "url": "https://www.bbc.com/news/articles/cx2zyerv2lmo"
+    },
+    {
+     "headline": "The door was locked at the Pakistan hospital where a fire killed 14 babies",
+     "detail": "Witnesses said the door to the ward was locked, though a hospital official told the BBC it was manned with security guards to protect the babies.",
+     "url": "https://www.bbc.com/news/articles/czdz13elezlo"
+    },
+    {
+     "headline": "Prince Harry and Meghan land in the UK days after announcing their move",
+     "detail": "The couple and their two children are believed to have flown into the country privately from California.",
+     "url": "https://www.bbc.com/news/articles/czrzm6p6zxeo"
+    },
+    {
+     "headline": "Dolly Parton dies from cancer aged 80 as the world remembers her",
+     "detail": "The legendary country music singer died surrounded by loved ones, her representatives said.",
+     "url": "https://www.bbc.com/news/live/c0ry0yzxeyxt"
+    },
+    {
+     "headline": "Canada's retaliation tests the limit of American power under Trump",
+     "detail": "The president is using US dominance to challenge allies and enemies alike, but both Canada and Iran have found ways to fight back.",
+     "url": "https://www.bbc.com/news/articles/ce8xd5k1krpo"
+    }
+   ]
+  },
+  {
+   "key": "france24",
+   "name": "France 24",
+   "site": "france24.com",
+   "summary": "France 24 is leading with the Nepal-Tibet flash flood disaster and the Middle East live coverage of the Iran conflict, alongside the CIA chief's Moscow visit and El Nino-fuelled drought emergencies in the Americas.",
+   "note": "Items taken from the dated live-news wire index, all with 20260826 URL stamps.",
+   "items": [
+    {
+     "headline": "At least 22 bodies recovered and hundreds missing after Nepal-Tibet flash floods",
+     "detail": "Chinese state media reported the mudslide disaster resulted in major casualties and missing people at the Gyirong Port on the Tibetan side of the border.",
+     "url": "https://www.france24.com/en/asia-pacific/20260826-at-least-22-bodies-recovered-hundreds-missing-after-nepal-tibet-flash-floods"
+    },
+    {
+     "headline": "Netanyahu says a diplomatic deal is not possible with Iranian 'savages'",
+     "detail": "The Middle East live blog tracks the latest as Iran says the Strait of Hormuz remains closed despite transit-corridor talks with Oman.",
+     "url": "https://www.france24.com/en/middle-east/20260826-middle-east-live-iran-says-hormuz-strait-still-closed-despite-transit-corridor-talks-with-oman"
+    },
+    {
+     "headline": "Kremlin says the CIA chief met Russian counterparts, not Putin, in Moscow",
+     "detail": "Russia confirmed CIA Director John Ratcliffe met Russian intelligence services during a visit to the capital.",
+     "url": "https://www.france24.com/en/europe/20260826-kremlin-says-cia-chief-met-russian-counterparts-not-putin-in-moscow"
+    },
+    {
+     "headline": "Panama and El Salvador declare an emergency over El Nino-fuelled drought",
+     "detail": "Both countries declared emergencies as a powerful El Nino drives severe drought conditions across the region.",
+     "url": "https://www.france24.com/en/americas/20260826-panama-and-el-salvador-declare-emergency-over-el-nino-fuelled-drought"
+    },
+    {
+     "headline": "Trump sends the Saudi civil nuclear agreement to Congress for review",
+     "detail": "The classified pact is aimed at bolstering Riyadh's nuclear programme but remains contingent on Saudi Arabia normalising relations with Israel.",
+     "url": "https://www.france24.com/en/americas/20260826-trump-saudi-civil-nuclear-agreement-congress"
+    }
+   ]
+  },
+  {
+   "key": "aljazeera",
+   "name": "Al Jazeera",
+   "site": "aljazeera.com",
+   "summary": "Al Jazeera is leading with the Iran war's economic toll, including the rial's collapse and the Hormuz route talks with Oman, alongside the Nepal flash flood and the Pakistan hospital fire.",
+   "note": null,
+   "items": [
+    {
+     "headline": "Iran says it received new military equipment as Hormuz remains closed",
+     "detail": "Tehran said damaged infrastructure has been repaired even as the Strait of Hormuz stays shut despite a route deal with Oman.",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/8/26/iran-war-live-iran-says-hormuz-remains-closed-despite-oman-rout-deal"
+    },
+    {
+     "headline": "At least 22 killed and hundreds missing after a Nepal flash flood",
+     "detail": "An avalanche of ice and rock triggered massive flash floods that swept through parts of Nepal, killing at least 22 people.",
+     "url": "https://www.aljazeera.com/news/2026/8/26/at-least-eight-killed-in-nepal-flash-floods-that-swept-away-villages-roads"
+    },
+    {
+     "headline": "Iran and Oman agree on a temporary Hormuz route",
+     "detail": "The two countries reached an agreement on a temporary shipping route through the strategic strait, according to Al Jazeera.",
+     "url": "https://www.aljazeera.com/news/2026/8/26/iran-oman-agree-on-temporary-hormuz-route-what-we-know"
+    },
+    {
+     "headline": "At least 14 babies killed in a Pakistan hospital nursery fire",
+     "detail": "A fire swept through a hospital nursery in Pakistan, killing at least 14 newborn babies.",
+     "url": "https://www.aljazeera.com/news/2026/8/26/at-least-15-newborns-killed-in-pakistan-hospital-fire"
+    },
+    {
+     "headline": "One US dollar now costs 2 million rials in Iran",
+     "detail": "Sanctions and the US-Israel war on Iran have left the country's people unable to keep pace with rising prices.",
+     "url": "https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy"
+    }
+   ]
+  }
+ ],
+ "blocked": []
 }
