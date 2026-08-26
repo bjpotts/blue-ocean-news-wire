@@ -3,3 +3,6 @@ dist/
 .env.local
 .env
 .DS_Store
+
+# Generated full PDFs
+market-wrap-up-*.pdf

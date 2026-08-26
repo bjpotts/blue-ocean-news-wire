@@ -4,6 +4,8 @@ import json, html, os, re
 
 D = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "public", "digest.html")
+PREVIEW = os.path.join(os.path.dirname(os.path.abspath(__file__)), "preview.html")
+CSS_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "src", "style.css")
 
 def load(n):
     with open(os.path.join(D, n)) as f:
@@ -479,7 +481,22 @@ HTML = """<div class="pnw">
 with open(OUT, "w") as f:
     f.write(HTML)
 
+# Self-contained preview.html for local viewing and PDF export.
+css = open(CSS_PATH).read() if os.path.exists(CSS_PATH) else ""
+preview_doc = """<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Market Wrap Up</title></head>
+<body style="margin:0">
+<style>
+%s
+</style>
+%s
+</body></html>
+""" % (css, HTML)
+with open(PREVIEW, "w") as f:
+    f.write(preview_doc)
+
 print("wrote", OUT, len(HTML), "bytes")
+print("wrote", PREVIEW, len(preview_doc), "bytes")
 print("market-news words:", len(mnp.split()))
 print("rate cells:", len(fx_cells), "indices:", len(idx_cells), "commodities:", len(com_cells))
 print("perf blocks:", len(seq), "outlets:", len(outlets), "sport codes:", len(sp["codes"]))
