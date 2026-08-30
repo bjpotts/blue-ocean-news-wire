@@ -56,15 +56,31 @@ def _pct(prev, curr):
 
 
 def fetch_fx():
-    today = datetime.now(UTC).strftime("%Y-%m-%d")
-    # Find the most recent business day for the prior close comparison.
-    d = datetime.now(UTC) - timedelta(days=1)
-    while d.weekday() >= 5:
-        d -= timedelta(days=1)
-    prior = d.strftime("%Y-%m-%d")
-
     latest = requests.get("https://api.frankfurter.dev/v1/latest?from=USD", timeout=30).json()
-    prior_data = requests.get(f"https://api.frankfurter.dev/v1/{prior}?from=USD", timeout=30).json()
+    # Frankfurter publishes ECB business-day fixings, so "latest" on a weekend
+    # or holiday returns an earlier date. Anchor the comparison on the date the
+    # API actually returned, then walk back until we get a genuinely different
+    # fixing, otherwise every cell reports a 0.00% change.
+    base = latest.get("date") or datetime.now(UTC).strftime("%Y-%m-%d")
+    base_dt = datetime.strptime(base, "%Y-%m-%d")
+
+    prior_data, prior = None, None
+    probe = base_dt - timedelta(days=1)
+    for _ in range(7):
+        while probe.weekday() >= 5:
+            probe -= timedelta(days=1)
+        candidate = requests.get(
+            f"https://api.frankfurter.dev/v1/{probe:%Y-%m-%d}?from=USD", timeout=30).json()
+        got = candidate.get("date")
+        if got and got != base:
+            prior_data, prior = candidate, got
+            break
+        probe -= timedelta(days=1)
+
+    if prior_data is None:
+        print("WARN: could not resolve a prior FX fixing date; changes will be zero",
+              file=sys.stderr)
+        prior_data, prior = latest, base
 
     rows = []
     for code in CURRENCY_CODES:
@@ -72,9 +88,8 @@ def fetch_fx():
         prev = prior_data["rates"].get(code)
         if rate is None:
             continue
-        chg = _pct(prev, rate)
-        rows.append({"code": code, "rate": f"{rate:.4f}", "chg": chg})
-    return rows, today, prior
+        rows.append({"code": code, "rate": f"{rate:.4f}", "chg": _pct(prev, rate)})
+    return rows, base, prior
 
 
 def fetch_btc():
@@ -130,6 +145,7 @@ def main():
         "indices": indices,
         "indices_source": "https://finance.yahoo.com/world-indices",
         "indices_asof": now.astimezone(UTC).strftime("%A %d %B %Y, %H:%M %Z"),
+        "indices_asof_label": now.strftime("%A %d %B %Y"),
     }
 
     path = os.path.join(D, "markets.json")

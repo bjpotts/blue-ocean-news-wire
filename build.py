@@ -36,6 +36,12 @@ def _check_freshness():
         "sport.json": "World sport",
         "weather.json": "Weather",
     }
+    if MAX_AGE_HOURS <= 0:
+        # Documented escape hatch for manual/forced runs: a non-positive limit
+        # disables the guard entirely rather than treating every file as stale.
+        print("NOTE: data freshness guard disabled via MAX_DATA_AGE_HOURS.",
+              file=sys.stderr)
+        return
     stale = []
     for filename, description in required.items():
         age = _data_age_hours(os.path.join(D, filename))
@@ -45,7 +51,7 @@ def _check_freshness():
         print("ERROR: stale data detected; refusing to build.", file=sys.stderr)
         for filename, description, age in stale:
             print(f"  - {filename} ({description}): {age:.1f} hours old (limit {MAX_AGE_HOURS}h)", file=sys.stderr)
-        print("Run the data fetch scripts before building, or set MAX_DATA_AGE_HOURS=0 to bypass.", file=sys.stderr)
+        print("Run the data fetch scripts before building, or set MAX_DATA_AGE_HOURS=0 to disable this guard for a forced run.", file=sys.stderr)
         sys.exit(1)
 
 _check_freshness()
@@ -506,7 +512,7 @@ HTML = """<div class="pnw">
     E(ASOF_CAPTION),
     E(secs["exchange_rates"]["heading"]), secs["exchange_rates"]["caption"] % (E(mk["fx_base_date"]), E(mk["fx_prior_date"])), grid(fx_cells),
     "page-break-before" if secs["world_indices"].get("page_break_before") else "",
-    E(secs["world_indices"]["heading"]), secs["world_indices"]["caption"] % "Tuesday 25 and Wednesday 26 August 2026", grid(idx_cells),
+    E(secs["world_indices"]["heading"]), secs["world_indices"]["caption"] % E(mk.get("indices_asof_label") or mk.get("indices_asof") or "the latest completed session"), grid(idx_cells),
     "page-break-before" if secs["commodities"].get("page_break_before") else "",
     E(secs["commodities"]["heading"]), E(cm["summary"]), grid(com_cells),
     "page-break-before" if secs["top_performers"].get("page_break_before") else "",

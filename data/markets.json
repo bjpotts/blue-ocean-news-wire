@@ -1,57 +1,57 @@
 {
- "as_of": "Sunday 30 August 2026, 23:53 AEST",
+ "as_of": "Monday 31 August 2026, 00:47 AEST",
  "btc": {
-  "price": "$78,942",
-  "chg": "+1.61%",
+  "price": "$78,733",
+  "chg": "+0.97%",
   "source": "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd&include_24hr_change=true"
  },
  "btc_crosschecks": [
   {
    "source": "CoinGecko API",
-   "price": "$78,942",
-   "chg": "+1.61%"
+   "price": "$78,733",
+   "chg": "+0.97%"
   }
  ],
  "fx": [
   {
    "code": "AUD",
    "rate": "1.3899",
-   "chg": "+0.00%"
+   "chg": "-0.06%"
   },
   {
    "code": "EUR",
    "rate": "0.8589",
-   "chg": "+0.00%"
+   "chg": "+0.02%"
   },
   {
    "code": "GBP",
    "rate": "0.7362",
-   "chg": "+0.00%"
+   "chg": "-0.01%"
   },
   {
    "code": "JPY",
    "rate": "159.6800",
-   "chg": "+0.00%"
+   "chg": "+0.18%"
   },
   {
    "code": "CNY",
    "rate": "6.7209",
-   "chg": "+0.00%"
+   "chg": "+0.01%"
   },
   {
    "code": "NZD",
    "rate": "1.6821",
-   "chg": "+0.00%"
+   "chg": "+0.11%"
   },
   {
    "code": "CAD",
    "rate": "1.3854",
-   "chg": "+0.00%"
+   "chg": "-0.11%"
   },
   {
    "code": "CHF",
    "rate": "0.8043",
-   "chg": "+0.00%"
+   "chg": "-0.11%"
   },
   {
    "code": "SGD",
@@ -61,71 +61,71 @@
   {
    "code": "HKD",
    "rate": "7.8396",
-   "chg": "+0.00%"
+   "chg": "+0.01%"
   },
   {
    "code": "INR",
    "rate": "95.3900",
-   "chg": "+0.00%"
+   "chg": "-0.16%"
   },
   {
    "code": "KRW",
    "rate": "1374.5500",
-   "chg": "+0.00%"
+   "chg": "-0.42%"
   },
   {
    "code": "MXN",
    "rate": "16.9481",
-   "chg": "+0.00%"
+   "chg": "-0.15%"
   },
   {
    "code": "BRL",
    "rate": "5.1641",
-   "chg": "+0.00%"
+   "chg": "+0.43%"
   },
   {
    "code": "ZAR",
    "rate": "16.0018",
-   "chg": "+0.00%"
+   "chg": "+0.10%"
   },
   {
    "code": "ILS",
    "rate": "2.9728",
-   "chg": "+0.00%"
+   "chg": "-0.05%"
   },
   {
    "code": "SEK",
    "rate": "9.5237",
-   "chg": "+0.00%"
+   "chg": "+0.06%"
   },
   {
    "code": "NOK",
    "rate": "9.3271",
-   "chg": "+0.00%"
+   "chg": "-0.14%"
   },
   {
    "code": "THB",
    "rate": "32.9550",
-   "chg": "+0.00%"
+   "chg": "+0.30%"
   },
   {
    "code": "MYR",
    "rate": "4.0260",
-   "chg": "+0.00%"
+   "chg": "-0.17%"
   },
   {
    "code": "PHP",
    "rate": "62.2540",
-   "chg": "+0.00%"
+   "chg": "+0.57%"
   },
   {
    "code": "IDR",
    "rate": "17717.0000",
-   "chg": "+0.00%"
+   "chg": "-0.11%"
   }
  ],
- "fx_base_date": "2026-08-30",
- "fx_prior_date": "2026-08-28",
+ "fx_base_date": "2026-08-28",
+ "fx_prior_date": "2026-08-27",
  "fx_source": "https://api.frankfurter.dev/v1/latest?from=USD",
  "indices": [
   {
@@ -226,5 +226,6 @@
   }
  ],
  "indices_source": "https://finance.yahoo.com/world-indices",
- "indices_asof": "Sunday 30 August 2026, 13:53 UTC"
+ "indices_asof": "Sunday 30 August 2026, 14:47 UTC",
+ "indices_asof_label": "Monday 31 August 2026"
 }
