@@ -1,15 +1,15 @@
 {
- "as_of": "Monday 31 August 2026, 09:01 AEST",
+ "as_of": "Monday 31 August 2026, 09:22 AEST",
  "btc": {
-  "price": "$78,427",
-  "chg": "+0.26%",
+  "price": "$78,313",
+  "chg": "+0.10%",
   "source": "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd&include_24hr_change=true"
  },
  "btc_crosschecks": [
   {
    "source": "CoinGecko API",
-   "price": "$78,427",
-   "chg": "+0.26%"
+   "price": "$78,313",
+   "chg": "+0.10%"
   }
  ],
  "fx": [
@@ -141,22 +141,22 @@
    "chg": "+1.04%"
   },
   {
+   "name": "TSX Composite",
+   "symbol": "^GSPTSE",
+   "value": "36,554",
+   "chg": "-0.71%"
+  },
+  {
+   "name": "Ibovespa",
+   "symbol": "^BVSP",
+   "value": "175,665",
+   "chg": "+0.62%"
+  },
+  {
    "name": "FTSE 100",
    "symbol": "^FTSE",
    "value": "10,824",
    "chg": "-0.49%"
-  },
-  {
-   "name": "Nikkei 225",
-   "symbol": "^N225",
-   "value": "66,406",
-   "chg": "+0.22%"
-  },
-  {
-   "name": "Shanghai Composite",
-   "symbol": "000001.SS",
-   "value": "3,952.18",
-   "chg": "+1.01%"
   },
   {
    "name": "DAX",
@@ -171,10 +171,58 @@
    "chg": "-0.72%"
   },
   {
+   "name": "FTSE MIB",
+   "symbol": "FTSEMIB.MI",
+   "value": "52,616",
+   "chg": "-0.50%"
+  },
+  {
+   "name": "EURO STOXX 50",
+   "symbol": "^STOXX50E",
+   "value": "6,485.67",
+   "chg": "+0.23%"
+  },
+  {
+   "name": "DFM General (Dubai)",
+   "symbol": "DFMGI.AE",
+   "value": "5,882.63",
+   "chg": "+0.27%"
+  },
+  {
+   "name": "Nikkei 225",
+   "symbol": "^N225",
+   "value": "66,406",
+   "chg": "+0.22%"
+  },
+  {
    "name": "Hang Seng",
    "symbol": "^HSI",
    "value": "25,585",
    "chg": "-0.27%"
+  },
+  {
+   "name": "Shanghai Composite",
+   "symbol": "000001.SS",
+   "value": "3,952.18",
+   "chg": "+1.01%"
+  },
+  {
+   "name": "KOSPI",
+   "symbol": "^KS11",
+   "value": "6,788.88",
+   "chg": "-0.28%"
+  },
+  {
+   "name": "TAIEX",
+   "symbol": "^TWII",
+   "value": "46,331",
+   "chg": "+1.09%"
+  },
+  {
+   "name": "SET Index",
+   "symbol": "^SET.BK",
+   "value": "1,588.22",
+   "chg": "-0.78%"
   },
   {
    "name": "BSE Sensex",
@@ -189,88 +237,16 @@
    "chg": "-0.39%"
   },
   {
-   "name": "TSX Composite",
-   "symbol": "^GSPTSE",
-   "value": "36,554",
-   "chg": "-0.71%"
-  },
-  {
-   "name": "KOSPI",
-   "symbol": "^KS11",
-   "value": "6,788.88",
-   "chg": "-0.28%"
-  },
-  {
-   "name": "IBEX 35",
-   "symbol": "^IBEX",
-   "value": "20,042",
-   "chg": "-0.13%"
-  },
-  {
-   "name": "FTSE MIB",
-   "symbol": "FTSEMIB.MI",
-   "value": "52,616",
-   "chg": "-0.50%"
-  },
-  {
-   "name": "Ibovespa",
-   "symbol": "^BVSP",
-   "value": "175,665",
-   "chg": "+0.62%"
-  },
-  {
-   "name": "EURO STOXX 50",
-   "symbol": "^STOXX50E",
-   "value": "6,485.67",
-   "chg": "+0.23%"
-  },
-  {
-   "name": "OMX Stockholm 30",
-   "symbol": "^OMX",
-   "value": "3,331.26",
-   "chg": "+0.15%"
-  },
-  {
-   "name": "MOEX Russia",
-   "symbol": "IMOEX",
-   "value": "2,114.93",
-   "chg": "+1.03%"
-  },
-  {
-   "name": "TAIEX",
-   "symbol": "^TWII",
-   "value": "46,331",
-   "chg": "+1.09%"
-  },
-  {
-   "name": "PSI 20",
-   "symbol": "PSI20.LS",
-   "value": "9,430.91",
-   "chg": "-0.16%"
-  },
-  {
-   "name": "ATX",
-   "symbol": "^ATX",
-   "value": "6,786.58",
-   "chg": "+0.42%"
-  },
-  {
-   "name": "SET Index",
-   "symbol": "^SET.BK",
-   "value": "1,588.22",
-   "chg": "-0.78%"
-  },
-  {
-   "name": "IPC Mexico",
-   "symbol": "^MXX",
-   "value": "65,484",
-   "chg": "-1.07%"
+   "name": "All Ordinaries",
+   "symbol": "^AORD",
+   "value": "9,294.30",
+   "chg": "-0.48%"
   },
   {
    "name": "NZX 50",
    "symbol": "^NZ50",
-   "value": "13,808",
-   "chg": "-0.52%"
+   "value": "13,800",
+   "chg": "-0.57%"
   }
  ],
  "narrative_indices": [
@@ -287,12 +263,6 @@
    "chg": "-1.12%"
   },
   {
-   "name": "All Ordinaries",
-   "symbol": "^AORD",
-   "value": "9,294.30",
-   "chg": "-0.48%"
-  },
-  {
    "name": "Straits Times",
    "symbol": "^STI",
    "value": "5,699.93",
@@ -300,6 +270,6 @@
   }
  ],
  "indices_source": "https://finance.yahoo.com/world-indices",
- "indices_asof": "Sunday 30 August 2026, 23:01 UTC",
+ "indices_asof": "Sunday 30 August 2026, 23:22 UTC",
  "indices_asof_label": "Monday 31 August 2026"
 }
