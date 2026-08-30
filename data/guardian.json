@@ -29,14 +29,14 @@
      "url": "https://www.theguardian.com/world/2026/aug/30/iceland-eu-accession-talks-referendum-result"
     },
     {
+     "headline": "Six dead after ferry carrying nearly 270 capsizes off northern Cyprus",
+     "detail": "Six dead after ferry carrying nearly 270 capsizes off northern Cyprus",
+     "url": "https://www.theguardian.com/world/2026/aug/30/ferry-capsizes-northern-cyprus"
+    },
+    {
      "headline": "One person killed and five wounded in shooting at rave party in Switzerland, police say",
      "detail": "One person killed and five wounded in shooting at rave party in Switzerland, police say",
      "url": "https://www.theguardian.com/world/2026/aug/30/shooting-rave-party-switzerland"
-    },
-    {
-     "headline": "Arms and the £5m man: Farage megadonor Christopher Harborne’s military empire",
-     "detail": "Arms and the £5m man: Farage megadonor Christopher Harborne’s military empire",
-     "url": "https://www.theguardian.com/business/2026/aug/30/arms-and-the-5m-man-farage-megadonor-christopher-harbornes-military-empire"
     }
    ]
   },
@@ -64,9 +64,9 @@
      "url": "https://www.theguardian.com/science/2026/aug/29/nasa-telescope-launch-nancy-grace-roman"
     },
     {
-     "headline": "Train drivers secure 3.6% pay rise after threat of strikes on busy UK routes",
-     "detail": "Train drivers secure 3.6% pay rise after threat of strikes on busy UK routes",
-     "url": "https://www.theguardian.com/uk-news/2026/aug/30/train-drivers-pay-rise-avanti-aslef-uk"
+     "headline": "Man arrested over fatal stabbing of British woman in Germany",
+     "detail": "Man arrested over fatal stabbing of British woman in Germany",
+     "url": "https://www.theguardian.com/world/2026/aug/30/man-arrested-fatal-stabbing-british-woman-germany-rosenheim-train-station"
     },
     {
      "headline": "Researchers find Britain’s 11th-century ‘Conquest Man’ was Scandinavian – but did he land with the Norman army?",
@@ -89,6 +89,16 @@
    "note": null,
    "items": [
     {
+     "headline": "Abdul El-Sayed apologizes for comment about Michigan synagogue attack",
+     "detail": "Abdul El-Sayed apologizes for comment about Michigan synagogue attack",
+     "url": "https://www.theguardian.com/us-news/2026/aug/30/abdul-el-sayed-apology-michigan-synagogue-attack-comment"
+    },
+    {
+     "headline": "The datacenter fight could permanently transform US politics. Which party will seize advantage?",
+     "detail": "The datacenter fight could permanently transform US politics. Which party will seize advantage?",
+     "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/30/data-center-politics-democrats-republicans"
+    },
+    {
      "headline": "Flooding devastated swathes of Indiana but response is hampered by politics",
      "detail": "Flooding devastated swathes of Indiana but response is hampered by politics",
      "url": "https://www.theguardian.com/us-news/2026/aug/30/indiana-flooding-emergency-response"
@@ -107,16 +117,6 @@
      "headline": "‘Grassroots will beat big money every day’: can a DSA member flip a Republican Senate seat?",
      "detail": "‘Grassroots will beat big money every day’: can a DSA member flip a Republican Senate seat?",
      "url": "https://www.theguardian.com/us-news/2026/aug/30/angie-nixon-florida-senate-candidate"
-    },
-    {
-     "headline": "Fire in California’s Big Sur region doubles in size overnight, forcing evacuations",
-     "detail": "Fire in California’s Big Sur region doubles in size overnight, forcing evacuations",
-     "url": "https://www.theguardian.com/us-news/2026/aug/29/californias-wildfire-big-sur"
-    },
-    {
-     "headline": "LAPD releases footage of death of man whom police handcuffed and beat",
-     "detail": "LAPD releases footage of death of man whom police handcuffed and beat",
-     "url": "https://www.theguardian.com/us-news/2026/aug/29/jose-carlos-hoyoz-munoz-los-angeles-police-death"
     }
    ]
   },
@@ -174,11 +174,6 @@
      "url": "https://www.theguardian.com/world/2026/aug/30/president-penthouse-madrid-government-63m-euros-temporary-office-isabel-diaz-ayuso"
     },
     {
-     "headline": "Statins can reduce dementia risk by up to 15%, long-term study suggests",
-     "detail": "Statins can reduce dementia risk by up to 15%, long-term study suggests",
-     "url": "https://www.theguardian.com/society/2026/aug/30/statins-reduce-dementia-alzheimers-risk-study"
-    },
-    {
      "headline": "A lone Black woman’s defiance of Swedish neo-Nazis, 10 years on",
      "detail": "A lone Black woman’s defiance of Swedish neo-Nazis, 10 years on",
      "url": "https://www.theguardian.com/world/2026/aug/30/sweden-neo-nazi-resistance-2016-tess-asplund-far-right"
@@ -197,6 +192,11 @@
      "headline": "Nurture not nature? How young women can learn to better wield economic power",
      "detail": "Nurture not nature? How young women can learn to better wield economic power | Heather Stewart",
      "url": "https://www.theguardian.com/business/2026/aug/30/nurture-not-nature-how-young-women-can-learn-to-better-wield-economic-power"
+    },
+    {
+     "headline": "Statins can reduce dementia risk by up to 15%, long-term study suggests",
+     "detail": "Statins can reduce dementia risk by up to 15%, long-term study suggests",
+     "url": "https://www.theguardian.com/society/2026/aug/30/statins-reduce-dementia-alzheimers-risk-study"
     }
    ]
   }
