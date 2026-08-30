@@ -3,23 +3,23 @@
   "key": "abcus",
   "name": "ABC News (US)",
   "site": "abcnews.go.com",
-  "summary": "ABC News in the United States, the network's national and world file is leading with 'Approximately' 85 Americans remain missing in Nepal floods: State Dept. spokesperson; Police search for suspect after deadly shooting at Swiss rave; Deaths reported after ferry carrying nearly 270 passengers capsizes off Cyprus.",
+  "summary": "ABC News in the United States, the network's national and world file is leading with Ontario's premier says trade war would be 'devastating' for US and Canada; Nepal-Tibet flood death toll rises to 750, officials say, more than 3,000 missing; Tropical Storm Karina strengthens into a hurricane in the Pacific.",
   "note": null,
   "items": [
    {
-    "headline": "'Approximately' 85 Americans remain missing in Nepal floods: State Dept. spokesperson",
-    "detail": "State Department Spokesperson Tommy Pigott said approximately 85 Americans remain missing in Nepal on \"This Week.\"",
-    "url": "https://abcnews.go.com/Politics/approximately-85-americans-remain-missing-nepal-floods-state/story?id=136069352"
+    "headline": "Ontario's premier says trade war would be 'devastating' for US and Canada",
+    "detail": "Ford also called Trump's renaming of Lake Ontario \"disappointing.\"",
+    "url": "https://abcnews.go.com/Politics/ontarios-premier-trade-war-devastating-us-canada/story?id=136068676"
    },
    {
-    "headline": "Police search for suspect after deadly shooting at Swiss rave",
-    "detail": "A manhunt was underway early on Sunday, police in Switerland said.",
-    "url": "https://abcnews.go.com/International/1-killed-5-injured-swiss-shooting-police/story?id=136067305"
+    "headline": "Nepal-Tibet flood death toll rises to 750, officials say, more than 3,000 missing",
+    "detail": "The death toll in last week's flash flooding disaster in the Nepal-Tibet border region rose to at least 750 people as of Sunday.",
+    "url": "https://abcnews.go.com/International/nepal-tibet-flood-death-toll-rises-750-officials/story?id=136067514"
    },
    {
-    "headline": "Deaths reported after ferry carrying nearly 270 passengers capsizes off Cyprus",
-    "detail": "More than 172 people have been rescued, Northern Cyprus PM says.",
-    "url": "https://abcnews.go.com/International/wireStory/ferry-carrying-260-passengers-capsizes-off-northern-cyprus-136067969"
+    "headline": "Tropical Storm Karina strengthens into a hurricane in the Pacific",
+    "detail": "It could become a major storm this week, forecasters say.",
+    "url": "https://abcnews.go.com/Technology/wireStory/tropical-storm-karina-strengthens-hurricane-pacific-major-storm-136067970"
    },
    {
     "headline": "WATCH: Divers save the day for bride-to-be",
