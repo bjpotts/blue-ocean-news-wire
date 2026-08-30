@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Build the Market Wrap Up digest page for Blue Ocean Equities Pty Ltd."""
-import json, html, os, re
+import json, html, os, re, sys
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
@@ -9,9 +9,46 @@ OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "public", "digest
 PREVIEW = os.path.join(os.path.dirname(os.path.abspath(__file__)), "preview.html")
 CSS_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "src", "style.css")
 
+MAX_AGE_HOURS = int(os.environ.get("MAX_DATA_AGE_HOURS", "36"))
+
 def load(n):
     with open(os.path.join(D, n)) as f:
         return json.load(f)
+
+def _data_age_hours(path):
+    if not os.path.exists(path):
+        return float("inf")
+    mtime = datetime.fromtimestamp(os.path.getmtime(path), tz=ZoneInfo("Australia/Sydney"))
+    now = datetime.now(ZoneInfo("Australia/Sydney"))
+    return (now - mtime).total_seconds() / 3600.0
+
+def _check_freshness():
+    required = {
+        "markets.json": "Exchange rates, Bitcoin and world indices",
+        "commodities.json": "Commodity prices",
+        "perf-a.json": "Top performers (region set A)",
+        "perf-b.json": "Top performers (region set B)",
+        "perf-c.json": "Top performers (region set C) and market news summary",
+        "capraises.json": "Capital raises and new listings",
+        "tech.json": "Technology news",
+        "news-a.json": "World news (set A)",
+        "news-b.json": "World news (set B)",
+        "sport.json": "World sport",
+        "weather.json": "Weather",
+    }
+    stale = []
+    for filename, description in required.items():
+        age = _data_age_hours(os.path.join(D, filename))
+        if age > MAX_AGE_HOURS:
+            stale.append((filename, description, age))
+    if stale:
+        print("ERROR: stale data detected; refusing to build.", file=sys.stderr)
+        for filename, description, age in stale:
+            print(f"  - {filename} ({description}): {age:.1f} hours old (limit {MAX_AGE_HOURS}h)", file=sys.stderr)
+        print("Run the data fetch scripts before building, or set MAX_DATA_AGE_HOURS=0 to bypass.", file=sys.stderr)
+        sys.exit(1)
+
+_check_freshness()
 
 mk = load("markets.json")
 cm = load("commodities.json")
