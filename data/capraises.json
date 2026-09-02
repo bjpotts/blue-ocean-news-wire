@@ -3,7 +3,7 @@
   {
    "key": "anz",
    "name": "ANZ",
-   "summary": "ANZ equity capital markets activity captured this run runs to 3 items, led by Jameson raising $5m to push Crown Mountain coking coal project towards approvals. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "summary": "ANZ equity capital markets activity captured this run runs to 3 items, led by Jameson raising $5m to push Crown Mountain coking coal project towards approvals. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources. No newer capital markets item has been reported for ANZ since the last edition, so the same verified item(s) are carried forward.",
    "items": [
     {
      "headline": "Jameson raising $5m to push Crown Mountain coking coal project towards approvals",
@@ -12,7 +12,7 @@
      "outlet": "Stockhead",
      "source_url": "https://stockhead.com.au/feed/",
      "published": "2026-09-02T05:19:32+00:00",
-     "fetched": "2026-09-02T14:04:24+00:00"
+     "fetched": "2026-09-02T15:17:01+00:00"
     },
     {
      "headline": "Alterity secures at least $4.2m from options ahead of key Phase III MSA trial",
@@ -21,7 +21,7 @@
      "outlet": "Stockhead",
      "source_url": "https://stockhead.com.au/feed/",
      "published": "2026-09-01T23:42:56+00:00",
-     "fetched": "2026-09-02T14:04:24+00:00"
+     "fetched": "2026-09-02T15:17:01+00:00"
     },
     {
      "headline": "Titomic Raises A$16.5m to Accelerate US Manufacturing Push Ahead of Relocation",
@@ -30,7 +30,7 @@
      "outlet": "Small Caps",
      "source_url": "https://smallcaps.com.au/feed",
      "published": "2026-09-02T01:56:07+00:00",
-     "fetched": "2026-09-02T14:04:26+00:00"
+     "fetched": "2026-09-02T15:17:02+00:00"
     }
    ]
   },
@@ -46,7 +46,7 @@
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
      "published": "2026-09-02T07:03:43+00:00",
-     "fetched": "2026-09-02T14:04:31+00:00"
+     "fetched": "2026-09-02T15:17:11+00:00"
     },
     {
      "headline": "Shein slips on Hong Kong debut amid fast-fashion challenges",
@@ -55,7 +55,7 @@
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
      "published": "2026-09-01T09:11:19+00:00",
-     "fetched": "2026-09-02T14:04:31+00:00"
+     "fetched": "2026-09-02T15:17:11+00:00"
     },
     {
      "headline": "Shein shares recover after 10% drop on Hong Kong debut",
@@ -64,7 +64,7 @@
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
      "published": "2026-09-01T00:00:15+00:00",
-     "fetched": "2026-09-02T14:04:31+00:00"
+     "fetched": "2026-09-02T15:17:11+00:00"
     },
     {
      "headline": "China’s CXMT posts massive 870% revenue surge as ‘aggressive expansion’ pays off",
@@ -73,33 +73,15 @@
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
      "published": "2026-08-28T11:06:12+00:00",
-     "fetched": "2026-09-02T14:04:31+00:00"
+     "fetched": "2026-09-02T15:17:11+00:00"
     }
    ]
   },
   {
    "key": "us",
    "name": "US",
-   "summary": "US equity capital markets activity captured this run runs to 4 items, led by The IPO Buzz: SoftBank-Backed SB Energy (SBE) Files Plans for Huge IPO. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "summary": "US equity capital markets activity captured this run runs to 4 items, led by The SPAC IPO Buzz: Inflection Point Acquisition VIII Raises $250 Million. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
    "items": [
-    {
-     "headline": "The IPO Buzz: SoftBank-Backed SB Energy (SBE) Files Plans for Huge IPO",
-     "detail": "SB Energy (SBE Proposed), a data center and power infrastructure company backed by SoftBank of Japan, has filed to go public in what could be a multibillion-dollar deal. No terms were disclosed in the S-1 filing, which was dated Aug.",
-     "url": "https://www.iposcoop.com/the-ipo-buzz-softbank-backed-sb-energy-sbe-files-ipo-plans-for-huge-ipo/",
-     "outlet": "IPOScoop",
-     "source_url": "https://www.iposcoop.com/feed/",
-     "published": "2026-09-01T16:39:45+00:00",
-     "fetched": "2026-09-02T14:04:34+00:00"
-    },
-    {
-     "headline": "The IPO Buzz: Anthropic & Aggreko Stir Anticipation – After Labor Day",
-     "detail": "Anticipation is the word in the IPO market. Anthropic is likely to unveil its first public SEC filing for the Claude AI maker’s blockbuster IPO next week – possibly on Tuesday, Sept.",
-     "url": "https://www.iposcoop.com/the-ipo-buzz-anthropic-aggreko-stir-anticipation-after-labor-day/",
-     "outlet": "IPOScoop",
-     "source_url": "https://www.iposcoop.com/feed/",
-     "published": "2026-08-31T18:41:23+00:00",
-     "fetched": "2026-09-02T14:04:34+00:00"
-    },
     {
      "headline": "The SPAC IPO Buzz: Inflection Point Acquisition VIII Raises $250 Million",
      "detail": "Inflection Point Acquisition Corp. VIII (IPHXU) – part of Michael Blitzer’s SPAC franchise – raised $250 million – pricing 25 million units at $10.00 each – in its SPAC IPO on Thursday night, Aug. 27, 2026.",
@@ -107,7 +89,7 @@
      "outlet": "IPOScoop",
      "source_url": "https://www.iposcoop.com/feed/",
      "published": "2026-08-28T11:28:37+00:00",
-     "fetched": "2026-09-02T14:04:34+00:00"
+     "fetched": "2026-09-02T15:17:18+00:00"
     },
     {
      "headline": "The SPAC IPO Buzz: JATT III Acquisition (JTTT) Jumps 15 Percent in its NASDAQ Debut",
@@ -116,14 +98,32 @@
      "outlet": "IPOScoop",
      "source_url": "https://www.iposcoop.com/feed/",
      "published": "2026-08-26T20:02:22+00:00",
-     "fetched": "2026-09-02T14:04:34+00:00"
+     "fetched": "2026-09-02T15:17:18+00:00"
+    },
+    {
+     "headline": "The IPO Buzz: SoftBank-Backed SB Energy (SBE) Files Plans for Huge IPO",
+     "detail": "SB Energy (SBE Proposed), a data center and power infrastructure company backed by SoftBank of Japan, has filed to go public in what could be a multibillion-dollar deal. No terms were disclosed in the S-1 filing, which was dated Aug.",
+     "url": "https://www.iposcoop.com/the-ipo-buzz-softbank-backed-sb-energy-sbe-files-ipo-plans-for-huge-ipo/",
+     "outlet": "IPOScoop",
+     "source_url": "https://www.iposcoop.com/feed/",
+     "published": "2026-09-01T16:39:45+00:00",
+     "fetched": "2026-09-02T15:17:18+00:00"
+    },
+    {
+     "headline": "The IPO Buzz: Anthropic & Aggreko Stir Anticipation – After Labor Day",
+     "detail": "Anticipation is the word in the IPO market. Anthropic is likely to unveil its first public SEC filing for the Claude AI maker’s blockbuster IPO next week – possibly on Tuesday, Sept.",
+     "url": "https://www.iposcoop.com/the-ipo-buzz-anthropic-aggreko-stir-anticipation-after-labor-day/",
+     "outlet": "IPOScoop",
+     "source_url": "https://www.iposcoop.com/feed/",
+     "published": "2026-08-31T18:41:23+00:00",
+     "fetched": "2026-09-02T15:17:18+00:00"
     }
    ]
   },
   {
    "key": "uk",
    "name": "UK",
-   "summary": "UK equity capital markets activity captured this run runs to 3 items, led by SpaceX float ‘could kickstart mega IPO access for British retail investors’. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "summary": "UK equity capital markets activity captured this run runs to 3 items, led by SpaceX float ‘could kickstart mega IPO access for British retail investors’. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources. No newer capital markets item has been reported for UK since the last edition, so the same verified item(s) are carried forward.",
    "items": [
     {
      "headline": "SpaceX float ‘could kickstart mega IPO access for British retail investors’",
@@ -132,7 +132,7 @@
      "outlet": "City A.M.",
      "source_url": "https://www.cityam.com/category/markets/feed/",
      "published": "2026-09-01T06:00:00+00:00",
-     "fetched": "2026-09-02T14:04:38+00:00"
+     "fetched": "2026-09-02T15:17:28+00:00"
     },
     {
      "headline": "Burnham refuses to rule out more borrowing and blames Tories for debt crisis",
@@ -141,7 +141,7 @@
      "outlet": "City A.M.",
      "source_url": "https://www.cityam.com/feed/",
      "published": "2026-09-02T13:06:21+00:00",
-     "fetched": "2026-09-02T14:04:40+00:00"
+     "fetched": "2026-09-02T15:17:34+00:00"
     },
     {
      "headline": "Jim O’Neill: Capital gains tax hike ‘looms’ as top option for Burnham",
@@ -150,14 +150,14 @@
      "outlet": "City A.M.",
      "source_url": "https://www.cityam.com/feed/",
      "published": "2026-09-02T07:44:30+00:00",
-     "fetched": "2026-09-02T14:04:40+00:00"
+     "fetched": "2026-09-02T15:17:34+00:00"
     }
    ]
   },
   {
    "key": "europe",
    "name": "Europe",
-   "summary": "Europe equity capital markets activity captured this run runs to 2 items, led by Norwegian Hydro Stocks Hit Record Low, Raising Power Price Risks. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "summary": "A single verifiable equity capital markets item was found for Europe this run: Norwegian Hydro Stocks Hit Record Low, Raising Power Price Risks. No newer capital markets item has been reported for Europe since the last edition, so the same verified item(s) are carried forward.",
    "items": [
     {
      "headline": "Norwegian Hydro Stocks Hit Record Low, Raising Power Price Risks",
@@ -166,34 +166,15 @@
      "outlet": "Bloomberg",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
      "published": "2026-09-02T12:34:21+00:00",
-     "fetched": "2026-09-02T14:04:44+00:00"
-    },
-    {
-     "headline": "India’s Zerodha Gets Merchant Banking Permit as IPO Market Booms",
-     "detail": "A unit of Zerodha Broking Ltd., India’s second-largest broker founded by billionaire Nithin Kamath, secured a merchant banking license as the nation’s booming equity capital market draws new entrants seeking a share of record fees.",
-     "url": "https://www.bloomberg.com/news/articles/2026-09-02/india-s-zerodha-gets-merchant-banking-permit-as-ipo-market-booms",
-     "outlet": "Bloomberg",
-     "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-09-02T12:31:55+00:00",
-     "fetched": "2026-09-02T14:04:44+00:00"
+     "fetched": "2026-09-02T15:17:38+00:00"
     }
    ]
   },
   {
    "key": "rest",
    "name": "Rest (South America, Middle East, Africa, India etc)",
-   "summary": "A single verifiable equity capital markets item was found for Rest (South America, Middle East, Africa, India etc) this run: Fed's Hammack says 'now is the time to act' on raising interest rates",
-   "items": [
-    {
-     "headline": "Fed's Hammack says 'now is the time to act' on raising interest rates",
-     "detail": "She still thinks the Fed needs to take action against inflation that is straining household budgets.",
-     "url": "https://www.cnbc.com/2026/08/27/feds-hammack-says-now-is-the-time-to-act-on-raising-interest-rates.html",
-     "outlet": "CNBC Markets",
-     "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258",
-     "published": "2026-08-27T17:31:09+00:00",
-     "fetched": "2026-09-02T14:04:49+00:00"
-    }
-   ]
+   "summary": "No capital raising or new listing activity could be verified from a linked source for Rest (South America, Middle East, Africa, India etc) this run, so nothing is listed rather than publishing an item without a working URL.",
+   "items": []
   }
  ]
 }

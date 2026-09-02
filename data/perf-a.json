@@ -3,8 +3,8 @@
   {
    "key": "anz",
    "title": "ANZ Top Performers",
-   "caption": "Source: TradingView Australia market movers, captured Thursday 03 September 2026 at 00:30 AEST, covering the AEST session most recently published at that time. Covers all ASX-listed stocks rather than the ASX 200 alone. Ticker links go to Market Index. New Zealand (NZX) top performers are not available from a reliable linked source.",
-   "fetched": "2026-09-03T00:30:08+10:00",
+   "caption": "Source: TradingView Australia market movers, captured Thursday 03 September 2026 at 00:54 AEST, covering the AEST session most recently published at that time. Covers all ASX-listed stocks rather than the ASX 200 alone. Ticker links go to Market Index. New Zealand (NZX) top performers are not available from a reliable linked source.",
+   "fetched": "2026-09-03T00:54:08+10:00",
    "stale": false,
    "gainer_note": "Kaoko Metals Limited led the ANZ board for the session, up 151.70 per cent to $1.850 on reported volume of 5.06M shares. Reported alongside the move, Stockhead on 02 September 2026:",
    "gainer_note_sources": [
@@ -172,8 +172,8 @@
   {
    "key": "japan",
    "title": "Japan Top Performers",
-   "caption": "Source: TradingView Japan market movers, captured Thursday 03 September 2026 at 00:30 AEST, covering the JST session most recently published at that time. Share volumes as reported by TradingView.",
-   "fetched": "2026-09-03T00:30:08+10:00",
+   "caption": "Source: TradingView Japan market movers, captured Thursday 03 September 2026 at 00:54 AEST, covering the JST session most recently published at that time. Share volumes as reported by TradingView.",
+   "fetched": "2026-09-03T00:54:08+10:00",
    "stale": false,
    "gainer_note": "Unbanked, Inc. led the Japan board for the session, up 30.93 per cent to \u00a5127 on reported volume of 1.78M shares. The move is reported here as captured from TradingView Japan market movers at the time of this build. No company announcement covering it could be found in the local press, so no catalyst is asserted - a common outcome for a thinly traded stock.",
    "gainer_note_sources": [],
@@ -327,8 +327,8 @@
   {
    "key": "singapore",
    "title": "Singapore Top Performers",
-   "caption": "Source: TradingView Singapore market movers, captured Thursday 03 September 2026 at 00:30 AEST, covering the SGT session most recently published at that time. Share volumes as reported by TradingView.",
-   "fetched": "2026-09-03T00:30:08+10:00",
+   "caption": "Source: TradingView Singapore market movers, captured Thursday 03 September 2026 at 00:54 AEST, covering the SGT session most recently published at that time. Share volumes as reported by TradingView.",
+   "fetched": "2026-09-03T00:54:08+10:00",
    "stale": false,
    "gainer_note": "Accrelist Ltd. led the Singapore board for the session, up 8.33 per cent to S$0.143 on reported volume of 6.61M shares. The move is reported here as captured from TradingView Singapore market movers at the time of this build. No company announcement covering it could be found in the local press, so no catalyst is asserted - a common outcome for a thinly traded stock.",
    "gainer_note_sources": [],
@@ -482,8 +482,8 @@
   {
    "key": "hongkong",
    "title": "Hong Kong Top Performers",
-   "caption": "Source: TradingView Hong Kong market movers, captured Thursday 03 September 2026 at 00:30 AEST, covering the HKT session most recently published at that time. Share volumes as reported by TradingView.",
-   "fetched": "2026-09-03T00:30:08+10:00",
+   "caption": "Source: TradingView Hong Kong market movers, captured Thursday 03 September 2026 at 00:54 AEST, covering the HKT session most recently published at that time. Share volumes as reported by TradingView.",
+   "fetched": "2026-09-03T00:54:08+10:00",
    "stale": false,
    "gainer_note": "China Environmental Technology Holdings Limited led the Hong Kong board for the session, up 56.78 per cent to HK$0.185 on reported volume of 12.85M shares. The move is reported here as captured from TradingView Hong Kong market movers at the time of this build. No company announcement covering it could be found in the local press, so no catalyst is asserted - a common outcome for a thinly traded stock.",
    "gainer_note_sources": [],

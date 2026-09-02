@@ -8,7 +8,7 @@
    "region": "US",
    "source_url": "https://techcrunch.com/feed/",
    "published": "2026-09-02T14:03:57+00:00",
-   "fetched": "2026-09-02T14:04:51+00:00"
+   "fetched": "2026-09-02T14:56:41+00:00"
   },
   {
    "headline": "Norway considers ban on camera-enabled wearable ‘pervert glasses’",
@@ -18,27 +18,37 @@
    "region": "US",
    "source_url": "https://techcrunch.com/feed/",
    "published": "2026-09-02T13:11:47+00:00",
-   "fetched": "2026-09-02T14:04:51+00:00"
+   "fetched": "2026-09-02T14:56:41+00:00"
   },
   {
-   "headline": "‘Wordle in 1’ is the NYT’s new puzzle just for subscribers",
-   "detail": "The New York Times has prepared some exclusive goodies for its subscribers: a weekly drop of bonus puzzles based on the publication's popular games.",
+   "headline": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
+   "detail": "OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encouragement\" to the suspect in Canada's Tumbler Ridge school shooting, as reported earlier by TechCrunch.",
    "outlet": "The Verge",
-   "url": "https://www.theverge.com/games/988099/nyt-bonus-puzzle-games-weekly-wordle",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
    "region": "US",
    "source_url": "https://www.theverge.com/rss/index.xml",
-   "published": "2026-09-02T09:00:00-04:00",
-   "fetched": "2026-09-02T14:04:53+00:00"
+   "published": "2026-09-02T10:35:03-04:00",
+   "fetched": "2026-09-02T14:56:44+00:00"
   },
   {
-   "headline": "Elon Musk’s heterodox robotaxi philosophy gets put to the test",
-   "detail": "Believe it or not, the Tesla Cybercab is coming. Nearly two years after Elon Musk first unveiled the gold-tinted, gull-wing-door sporting, steering-wheel-free, two-seaters as the future of Tesla's autonomy efforts, the company is finally…",
+   "headline": "NYC bans AI use for students until they reach high school",
+   "detail": "New York City mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms.",
    "outlet": "The Verge",
-   "url": "https://www.theverge.com/transportation/987901/tesla-cybercab-launch-elon-musk-robotaxi-camera-lidar",
+   "url": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
    "region": "US",
    "source_url": "https://www.theverge.com/rss/index.xml",
-   "published": "2026-09-02T08:00:00-04:00",
-   "fetched": "2026-09-02T14:04:53+00:00"
+   "published": "2026-09-02T10:30:00-04:00",
+   "fetched": "2026-09-02T14:56:44+00:00"
+  },
+  {
+   "headline": "Dell is now the most important stock in the market. Here's why",
+   "detail": "The market reaction to Dell's incredible quarter offers a critical temperature check on the AI trade.",
+   "outlet": "CNBC Technology",
+   "url": "https://www.cnbc.com/2026/09/02/dell-is-now-the-most-important-stock-in-the-market-heres-why-.html",
+   "region": "US",
+   "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910",
+   "published": "2026-09-02T14:33:21+00:00",
+   "fetched": "2026-09-02T14:56:46+00:00"
   },
   {
    "headline": "Uber to cut 10% of workforce in bid to move 'simpler and faster'",
@@ -47,18 +57,8 @@
    "url": "https://www.cnbc.com/2026/09/02/uber-to-cut-10percent-of-workforce-in-bid-to-move-simpler-and-faster.html",
    "region": "US",
    "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910",
-   "published": "2026-09-02T13:53:45+00:00",
-   "fetched": "2026-09-02T14:04:55+00:00"
-  },
-  {
-   "headline": "Stocks' losing streak, Iran strikes, Dell earnings and more in Morning Squawk",
-   "detail": "Here are five key things investors need to know to start the trading day.",
-   "outlet": "CNBC Technology",
-   "url": "https://www.cnbc.com/2026/09/02/5-things-to-know-before-the-stock-market-opens.html",
-   "region": "US",
-   "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910",
-   "published": "2026-09-02T12:43:59+00:00",
-   "fetched": "2026-09-02T14:04:55+00:00"
+   "published": "2026-09-02T14:47:58+00:00",
+   "fetched": "2026-09-02T14:56:46+00:00"
   },
   {
    "headline": "Is Russia's rival to Starlink failing? Here's what we know.",
@@ -68,7 +68,17 @@
    "region": "US",
    "source_url": "https://feeds.arstechnica.com/arstechnica/index",
    "published": "2026-09-02T11:15:23+00:00",
-   "fetched": "2026-09-02T14:04:57+00:00"
+   "fetched": "2026-09-02T14:56:48+00:00"
+  },
+  {
+   "headline": "Lords call for AI 'kill switch' powers in UK",
+   "detail": "Its backers say it would provide a \"vital safety net\" against runaway AI systems such as those from OpenAI and Anthropic.",
+   "outlet": "BBC Technology",
+   "url": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o?at_medium=RSS&at_campaign=rss",
+   "region": "Europe",
+   "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+   "published": "2026-09-02T14:41:52+00:00",
+   "fetched": "2026-09-02T14:56:50+00:00"
   },
   {
    "headline": "Criminals publish data of 8.7m people after airports hack",
@@ -78,17 +88,7 @@
    "region": "Europe",
    "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
    "published": "2026-09-02T11:00:59+00:00",
-   "fetched": "2026-09-02T14:04:59+00:00"
-  },
-  {
-   "headline": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
-   "detail": "Booking.com said the \"limited test\" was \"not a true reflection of the experience of millions of listings or reviews\".",
-   "outlet": "BBC Technology",
-   "url": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss",
-   "region": "Europe",
-   "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-   "published": "2026-09-02T01:27:34+00:00",
-   "fetched": "2026-09-02T14:04:59+00:00"
+   "fetched": "2026-09-02T14:56:50+00:00"
   },
   {
    "headline": "China urges global AI cooperation, not rivalry, ahead of Xi-Trump summit",
@@ -98,7 +98,7 @@
    "region": "Asia",
    "source_url": "https://www.scmp.com/rss/36/feed",
    "published": "2026-09-02T13:30:10+00:00",
-   "fetched": "2026-09-02T14:05:03+00:00"
+   "fetched": "2026-09-02T14:56:55+00:00"
   }
  ]
 }
