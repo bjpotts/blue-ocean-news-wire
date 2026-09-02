@@ -4,48 +4,48 @@
    "key": "abc",
    "name": "ABC News Australia",
    "site": "abc.net.au/news",
-   "summary": "The ABC's Australian and international news file is leading with Hundreds lost in Nepal mourned in vigils across Australia; At least 7 killed with more missing after boat capsizes off northern Cyprus; Manhunt underway for rave shooter in Switzerland.",
+   "summary": "The ABC's Australian and international news file is leading with Special school sexual abuse allegations with authorities, premier says; WA government pushes merger of state's only two coal mines; AFL boss backflips by scrapping controversial 'Opening Round' experiment.",
    "note": null,
    "items": [
     {
-     "headline": "Hundreds lost in Nepal mourned in vigils across Australia",
-     "detail": "Hundreds lost in Nepal mourned in vigils across Australia",
-     "url": "https://www.abc.net.au/news/2026-08-31/hundreds-attend-vigils-for-nepal/107095694",
+     "headline": "Special school sexual abuse allegations with authorities, premier says",
+     "detail": "Special school sexual abuse allegations with authorities, premier says",
+     "url": "https://www.abc.net.au/news/2026-09-02/latrobe-sds-premier-response-allegations/107107104",
      "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
-     "published": "2026-08-30T14:47:41+00:00",
-     "fetched": "2026-08-30T16:04:32+00:00"
+     "published": "2026-09-02T07:34:58+00:00",
+     "fetched": "2026-09-02T08:01:22+00:00"
     },
     {
-     "headline": "At least 7 killed with more missing after boat capsizes off northern Cyprus",
-     "detail": "At least 7 killed with more missing after boat capsizes off northern Cyprus",
-     "url": "https://www.abc.net.au/news/2026-08-31/north-cyprus-boat-capsizes/107095814",
+     "headline": "WA government pushes merger of state's only two coal mines",
+     "detail": "WA government pushes merger of state's only two coal mines",
+     "url": "https://www.abc.net.au/news/2026-09-02/collie-coal-mine-consolidation-griffin-premier-coal/107099322",
      "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
-     "published": "2026-08-30T14:43:32+00:00",
-     "fetched": "2026-08-30T16:04:32+00:00"
+     "published": "2026-09-02T07:28:00+00:00",
+     "fetched": "2026-09-02T08:01:22+00:00"
     },
     {
-     "headline": "Manhunt underway for rave shooter in Switzerland",
-     "detail": "Manhunt underway for rave shooter in Switzerland",
-     "url": "https://www.abc.net.au/news/2026-08-31/swiss-police-search-for-person-behind-deadly-rave-shooting/107095672",
+     "headline": "AFL boss backflips by scrapping controversial 'Opening Round' experiment",
+     "detail": "AFL boss backflips by scrapping controversial 'Opening Round' experiment",
+     "url": "https://www.abc.net.au/news/2026-09-02/afl-scraps-opening-round-after-three-seasons-for-2027/107108814",
      "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
-     "published": "2026-08-30T14:42:18+00:00",
-     "fetched": "2026-08-30T16:04:32+00:00"
+     "published": "2026-09-02T07:27:50+00:00",
+     "fetched": "2026-09-02T08:01:22+00:00"
     },
     {
-     "headline": "'There's only one Tony Mundine': Legendary boxer dies aged 75",
-     "detail": "'There's only one Tony Mundine': Legendary boxer dies aged 75",
-     "url": "https://www.abc.net.au/news/2026-08-30/tony-mundine-boxer-dies-aged-75/107095836",
+     "headline": "WA police drop hundreds of AI seatbelt fines to avoid wasting court time",
+     "detail": "WA police drop hundreds of AI seatbelt fines to avoid wasting court time",
+     "url": "https://www.abc.net.au/news/2026-09-02/wa-ai-camera-fines-dropped-police/107106878",
      "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
-     "published": "2026-08-30T12:58:59+00:00",
-     "fetched": "2026-08-30T16:04:32+00:00"
+     "published": "2026-09-02T07:11:24+00:00",
+     "fetched": "2026-09-02T08:01:22+00:00"
     },
     {
-     "headline": "Iceland rejects EU-accession talks in close-fought referendum",
-     "detail": "Iceland rejects EU-accession talks in close-fought referendum",
-     "url": "https://www.abc.net.au/news/2026-08-30/iceland-eu-referendum-result/107095748",
+     "headline": "Brown and foul tasting. This town's water may be the tipping point of a crisis",
+     "detail": "Brown and foul tasting. This town's water may be the tipping point of a crisis",
+     "url": "https://www.abc.net.au/news/2026-09-02/hughenden-queensland-undrinkable-tap-water-infrastructure/107079666",
      "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
-     "published": "2026-08-30T11:29:41+00:00",
-     "fetched": "2026-08-30T16:04:32+00:00"
+     "published": "2026-09-02T07:01:02+00:00",
+     "fetched": "2026-09-02T08:01:22+00:00"
     }
    ]
   },
@@ -53,48 +53,48 @@
    "key": "sbs",
    "name": "SBS News Australia",
    "site": "sbs.com.au/news",
-   "summary": "SBS News, covering Australian affairs with a strong multicultural and world focus is leading with 'Unsafe': Barnaby Joyce invokes disaster-hit Nepal to explain One Nation's refugee policy; Australia should look 'very seriously' at UK-style ban on strangulation porn: minister; 'Massive changes': What you might find missing in Aussie supermarkets.",
+   "summary": "SBS News, covering Australian affairs with a strong multicultural and world focus is leading with The shifting ties in Australia's backyard as 'deep pockets' beckon; US warship arrives in Thailand after record 286 days at sea; 'Didn’t think twice': The routine activity that sent Robert to the emergency department.",
    "note": null,
    "items": [
     {
-     "headline": "'Unsafe': Barnaby Joyce invokes disaster-hit Nepal to explain One Nation's refugee policy",
-     "detail": "The One Nation MP suggested that refugees should not come from \"countries which are dangerous\".",
-     "url": "https://www.sbs.com.au/news/article/barnaby-joyce-one-nation-nepal-refugee-intake/e5kk4odry",
+     "headline": "The shifting ties in Australia's backyard as 'deep pockets' beckon",
+     "detail": "While China stirs tensions over Taiwan in Palau, island leaders are urging Canberra to focus on climate and drug crime.",
+     "url": "https://www.sbs.com.au/news/article/pacific-islands-forum-taiwan-china-australia-security-crisis/bdj0zowyg",
      "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
-     "published": "2026-08-30T07:58:14+00:00",
-     "fetched": "2026-08-30T16:04:33+00:00"
+     "published": "2026-09-02T07:56:09+00:00",
+     "fetched": "2026-09-02T08:01:22+00:00"
     },
     {
-     "headline": "Australia should look 'very seriously' at UK-style ban on strangulation porn: minister",
-     "detail": "Tanya Plibersek has also flagged the government is considering a crackdown on 'smart glasses'.",
-     "url": "https://www.sbs.com.au/news/article/tanya-plibersek-uk-porn-ban-strangulation/83g6exomj",
+     "headline": "US warship arrives in Thailand after record 286 days at sea",
+     "detail": "Thailand is the United States' only treaty ally in mainland Southeast Asia.",
+     "url": "https://www.sbs.com.au/news/article/us-carrier-arrives-in-thailand-after-record-286-days-at-sea/2netynjuc",
      "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
-     "published": "2026-08-30T03:02:34+00:00",
-     "fetched": "2026-08-30T16:04:33+00:00"
+     "published": "2026-09-02T06:03:07+00:00",
+     "fetched": "2026-09-02T08:01:22+00:00"
     },
     {
-     "headline": "'Massive changes': What you might find missing in Aussie supermarkets",
-     "detail": "'Sardinemaxxing' has emptied supermarket shelves — but the real risk might not be the one you think.",
-     "url": "https://www.sbs.com.au/news/article/sardinemaxxing-tiktok-latest-obsession-is-there-a-catch/nta3qx3to",
+     "headline": "'Didn’t think twice': The routine activity that sent Robert to the emergency department",
+     "detail": "Many people have no issue, but the consequences can be severe for people who are more vulnerable.",
+     "url": "https://www.sbs.com.au/news/article/didnt-think-twice-the-routine-activity-that-sent-robert-to-the-emergency-department/dapkm7izt",
      "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
-     "published": "2026-08-30T02:01:07+00:00",
-     "fetched": "2026-08-30T16:04:33+00:00"
+     "published": "2026-09-02T05:58:07+00:00",
+     "fetched": "2026-09-02T08:01:22+00:00"
     },
     {
-     "headline": "US news team attacked in occupied West Bank amid fresh settler violence",
-     "detail": "Residents said masked settlers attacked Palestinian homes, trapping families and leaving several people injured.",
-     "url": "https://www.sbs.com.au/news/article/us-news-team-attacked-in-occupied-west-bank-amid-fresh-settler-violence/ytrmezfd7",
+     "headline": "The possible cost of Australia's stronger-than-expected growth",
+     "detail": "Australia's stronger GDP figures could complicate the Reserve Bank's next interest rate decision.",
+     "url": "https://www.sbs.com.au/news/article/australia-gdp-growth-economy-rba-interest-rates-pressure/61iypio6x",
      "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
-     "published": "2026-08-30T00:40:20+00:00",
-     "fetched": "2026-08-30T16:04:33+00:00"
+     "published": "2026-09-02T04:41:57+00:00",
+     "fetched": "2026-09-02T08:01:22+00:00"
     },
     {
-     "headline": "Labor vows to listen to voters after One Nation's historic WA upset",
-     "detail": "The WA state by-election in the previously safe Labor seat of Secret Harbour was seen as a test of One Nation's popularity.",
-     "url": "https://www.sbs.com.au/news/article/one-nation-secret-harbour-by-election-win/ypln12qea",
+     "headline": "Revealed: The failures behind Telstra's major network outage",
+     "detail": "Telstra has been in the regulatory microscope since a major outage in July created chaos across the country.",
+     "url": "https://www.sbs.com.au/news/article/revealed-the-failures-behind-telstras-major-network-outage/n9y4ezgvh",
      "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
-     "published": "2026-08-29T23:28:45+00:00",
-     "fetched": "2026-08-30T16:04:33+00:00"
+     "published": "2026-09-02T02:25:55+00:00",
+     "fetched": "2026-09-02T08:01:22+00:00"
     }
    ]
   },
@@ -102,48 +102,48 @@
    "key": "rnz",
    "name": "RNZ New Zealand",
    "site": "rnz.co.nz",
-   "summary": "Radio New Zealand's national news file is leading with Garage blaze spreads to two homes on Kapiti Coast; SH2 north of Wellington closed by serious crash; Taiarahia documentary captures kotahitanga in action.",
+   "summary": "Radio New Zealand's national news file is leading with Earthquakes hit near Milford Sound; Cattle farmers hoof it to Auckland's first inner-city bull auction; Floating rates rise after official cash rate increase.",
    "note": null,
    "items": [
     {
-     "headline": "Garage blaze spreads to two homes on Kapiti Coast",
-     "detail": "Garage blaze spreads to two homes on Kapiti Coast",
-     "url": "https://www.rnz.co.nz/news/emergencies_local/1189669/garage-blaze-spreads-to-two-homes-on-kapiti-coast",
+     "headline": "Earthquakes hit near Milford Sound",
+     "detail": "Earthquakes hit near Milford Sound",
+     "url": "https://www.rnz.co.nz/news/emergencies_local/1231056/earthquakes-hit-near-milford-sound",
      "source_url": "https://www.rnz.co.nz/rss/national.xml",
-     "published": "2026-08-30T22:09:50+12:00",
-     "fetched": "2026-08-30T16:04:33+00:00"
+     "published": "2026-09-02T19:54:46+12:00",
+     "fetched": "2026-09-02T08:01:23+00:00"
     },
     {
-     "headline": "SH2 north of Wellington closed by serious crash",
-     "detail": "SH2 north of Wellington closed by serious crash",
-     "url": "https://www.rnz.co.nz/news/emergencies_local/1189616/sh2-north-of-wellington-closed-by-serious-crash",
+     "headline": "Cattle farmers hoof it to Auckland's first inner-city bull auction",
+     "detail": "Cattle farmers hoof it to Auckland's first inner-city bull auction",
+     "url": "https://www.rnz.co.nz/news/regional/1230158/cattle-farmers-hoof-it-to-auckland-s-first-inner-city-bull-auction",
      "source_url": "https://www.rnz.co.nz/rss/national.xml",
-     "published": "2026-08-30T22:07:20+12:00",
-     "fetched": "2026-08-30T16:04:33+00:00"
+     "published": "2026-09-02T19:22:54+12:00",
+     "fetched": "2026-09-02T08:01:23+00:00"
     },
     {
-     "headline": "Taiarahia documentary captures kotahitanga in action",
-     "detail": "Taiarahia documentary captures kotahitanga in action",
-     "url": "https://www.rnz.co.nz/news/te-manu-korihi/1184422/taiarahia-documentary-captures-kotahitanga-in-action",
+     "headline": "Floating rates rise after official cash rate increase",
+     "detail": "Floating rates rise after official cash rate increase",
+     "url": "https://www.rnz.co.nz/news/business/1230981/floating-rates-rise-after-official-cash-rate-increase",
      "source_url": "https://www.rnz.co.nz/rss/national.xml",
-     "published": "2026-08-30T21:29:06+12:00",
-     "fetched": "2026-08-30T16:04:33+00:00"
+     "published": "2026-09-02T19:03:51+12:00",
+     "fetched": "2026-09-02T08:01:23+00:00"
     },
     {
-     "headline": "Person critically injured after fight in Lower Hutt",
-     "detail": "Person critically injured after fight in Lower Hutt",
-     "url": "https://www.rnz.co.nz/news/emergencies_local/1175720/person-critically-injured-after-fight-in-lower-hutt",
+     "headline": "Auckland's Dairy Flat is plagued by seagulls",
+     "detail": "Auckland's Dairy Flat is plagued by seagulls",
+     "url": "https://www.rnz.co.nz/news/regional/1230174/auckland-s-dairy-flat-is-plagued-by-seagulls",
      "source_url": "https://www.rnz.co.nz/rss/national.xml",
-     "published": "2026-08-30T21:20:53+12:00",
-     "fetched": "2026-08-30T16:04:33+00:00"
+     "published": "2026-09-02T18:43:27+12:00",
+     "fetched": "2026-09-02T08:01:23+00:00"
     },
     {
-     "headline": "Auckland and Canterbury university enrolments rise as trades training struggles",
-     "detail": "Auckland and Canterbury university enrolments rise as trades training struggles",
-     "url": "https://www.rnz.co.nz/news/education/1187278/auckland-and-canterbury-university-enrolments-rise-as-trades-training-struggles",
+     "headline": "Almost 50 jobs could go at National Library and Archives, PSA warns",
+     "detail": "Almost 50 jobs could go at National Library and Archives, PSA warns",
+     "url": "https://www.rnz.co.nz/news/political/1230984/almost-50-jobs-could-go-at-national-library-and-archives-psa-warns",
      "source_url": "https://www.rnz.co.nz/rss/national.xml",
-     "published": "2026-08-30T20:27:39+12:00",
-     "fetched": "2026-08-30T16:04:33+00:00"
+     "published": "2026-09-02T18:13:15+12:00",
+     "fetched": "2026-09-02T08:01:23+00:00"
     }
    ]
   },
@@ -151,48 +151,48 @@
    "key": "scmp",
    "name": "South China Morning Post",
    "site": "scmp.com",
-   "summary": "The South China Morning Post, reporting from Hong Kong across Greater China and Asia is leading with Pioneering Care After Crisis: It All Starts with the People; Social Transformation in the Sands; Data to Direction: How Vietnam is Reinventing the Strategic State.",
+   "summary": "The South China Morning Post, reporting from Hong Kong across Greater China and Asia is leading with South China Sea island build-up heightens Vietnam’s security concerns; Malaysian under fire for competing at transgender beauty pageant in Thailand; Former Malaysian minister arrested in state haj fund corruption probe.",
    "note": null,
    "items": [
     {
-     "headline": "Pioneering Care After Crisis: It All Starts with the People",
-     "detail": "[The content of this article has been produced by our advertising partner.] When the devastating fire broke out at Wang Fuk Court in Tai Po on 26 November, the response from City University of Hong Kong (CityUHK) did not begin with a…",
-     "url": "https://www.scmp.com/presented/news/hong-kong/education/topics/innovating-advance-humanity/article/3365146/pioneering-care-after-crisis-it-all-starts-people?utm_source=rss_feed",
+     "headline": "South China Sea island build-up heightens Vietnam’s security concerns",
+     "detail": "Vietnam faces heightened security in the South China Sea amid reports of construction works in the Paracels archipelago – which Beijing calls Xisha Islands – with analysts saying that the latest developments could alter the strategic…",
+     "url": "https://www.scmp.com/week-asia/politics/article/3366080/south-china-sea-island-build-heightens-vietnams-security-concerns?utm_source=rss_feed",
      "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-08-30T16:00:23+00:00",
-     "fetched": "2026-08-30T16:04:34+00:00"
+     "published": "2026-09-02T08:00:07+00:00",
+     "fetched": "2026-09-02T08:01:23+00:00"
     },
     {
-     "headline": "Social Transformation in the Sands",
-     "detail": "[The content of this article has been produced by our advertising partner.] On the southeastern rim of the Tengger Desert, where dunes can rise 30 metres high and advance significant metres a year, a private afforestation effort is…",
-     "url": "https://www.scmp.com/presented/news/hong-kong/education/topics/innovating-advance-humanity/article/3365144/social-transformation-sands?utm_source=rss_feed",
+     "headline": "Malaysian under fire for competing at transgender beauty pageant in Thailand",
+     "detail": "The Malaysian Islamic Development Department (Jakim) will summon a Malaysian participant in the Miss Equality World 2026 pageant in Thailand for questioning, following the circulation of social media posts.",
+     "url": "https://www.scmp.com/news/asia/southeast-asia/article/3366087/malaysian-under-fire-cross-dressing-beauty-pageant-thailand?utm_source=rss_feed",
      "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-08-30T16:00:21+00:00",
-     "fetched": "2026-08-30T16:04:34+00:00"
+     "published": "2026-09-02T07:43:44+00:00",
+     "fetched": "2026-09-02T08:01:23+00:00"
     },
     {
-     "headline": "Data to Direction: How Vietnam is Reinventing the Strategic State",
-     "detail": "[The content of this article has been produced by our advertising partner.] For more than a decade, Vietnam has built one of Southeast Asia’s most data-driven public administrations. Ministries track performance indicators.",
-     "url": "https://www.scmp.com/presented/news/hong-kong/education/topics/innovating-advance-humanity/article/3365130/data-direction-how-vietnam-reinventing-strategic-state?utm_source=rss_feed",
+     "headline": "Former Malaysian minister arrested in state haj fund corruption probe",
+     "detail": "A former Malaysian minister has been remanded for five days as part of an anti-corruption inquiry into the management of the country’s state haj fund.",
+     "url": "https://www.scmp.com/week-asia/people/article/3366086/former-malaysian-minister-arrested-state-haj-fund-corruption-probe?utm_source=rss_feed",
      "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-08-30T16:00:19+00:00",
-     "fetched": "2026-08-30T16:04:34+00:00"
+     "published": "2026-09-02T07:37:05+00:00",
+     "fetched": "2026-09-02T08:01:23+00:00"
     },
     {
-     "headline": "CLASSy World: Reimagining Blended Learning in the Metaverse",
-     "detail": "[The content of this article has been produced by our advertising partner.] As universities worldwide explore how technology can reshape teaching and learning, the CLASSy World Project is preparing to launch a bold experiment in immersive…",
-     "url": "https://www.scmp.com/presented/news/hong-kong/education/topics/innovating-advance-humanity/article/3365126/classy-world-reimagining-blended-learning-metaverse?utm_source=rss_feed",
+     "headline": "Chinese carmakers eye full hybrid market; BYD posts US$1.2 billion profit: 7 EV reads",
+     "detail": "We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1.",
+     "url": "https://www.scmp.com/business/china-evs/article/3366071/chinese-carmakers-eye-full-hybrid-market-byd-posts-us12-billion-profit-7-ev-reads?utm_source=rss_feed",
      "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-08-30T16:00:19+00:00",
-     "fetched": "2026-08-30T16:04:34+00:00"
+     "published": "2026-09-02T07:30:06+00:00",
+     "fetched": "2026-09-02T08:01:23+00:00"
     },
     {
-     "headline": "FROM PATIENTS TO CITIZENS: RETHINKING SCHIZOPHRENIA CARE IN HONG KONG",
-     "detail": "[The content of this article has been produced by our advertising partner.] In Hong Kong, around 40,000 people live with schizophrenia.",
-     "url": "https://www.scmp.com/presented/news/hong-kong/education/topics/innovating-advance-humanity/article/3365123/patients-citizens-rethinking-schizophrenia-care-hong-kong?utm_source=rss_feed",
+     "headline": "9 children, 5 others injured after 2 buses collide at Hong Kong primary school",
+     "detail": "Fourteen people, including nine children, have been injured in a collision involving two school buses at a Hong Kong girls’ primary school.",
+     "url": "https://www.scmp.com/news/hong-kong/transport/article/3366084/least-14-injured-after-2-buses-collide-hong-kong-primary-school?utm_source=rss_feed",
      "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-08-30T16:00:18+00:00",
-     "fetched": "2026-08-30T16:04:34+00:00"
+     "published": "2026-09-02T07:21:12+00:00",
+     "fetched": "2026-09-02T08:01:23+00:00"
     }
    ]
   },
@@ -200,48 +200,48 @@
    "key": "cnn",
    "name": "CNN",
    "site": "cnn.com",
-   "summary": "CNN's international edition is leading with British far-right provocateur Milo Yiannopoulos has been deported from the US, DHS says; ‘Decades in Sports’: How Colin Kaepernick taking a knee in 2016 revived athlete activism in sports; ‘It feels like early COVID’: The messy scramble to regulate AI.",
+   "summary": "CNN's international edition is leading with Aircraft carrier USS Abraham Lincoln arrives in Thailand after months of combat in Middle East; Flood threat persists in Texas as Edouard weakens to a tropical depression; White House adds new renovation project: The bowling alley.",
    "note": null,
    "items": [
     {
-     "headline": "British far-right provocateur Milo Yiannopoulos has been deported from the US, DHS says",
-     "detail": "British far-right provocateur Milo Yiannopoulos has been deported from the US, DHS says",
-     "url": "https://www.cnn.com/2026/08/29/us/milo-yiannopoulos-ice-deportation-what-to-know",
+     "headline": "Aircraft carrier USS Abraham Lincoln arrives in Thailand after months of combat in Middle East",
+     "detail": "Aircraft carrier USS Abraham Lincoln arrives in Thailand after months of combat in Middle East",
+     "url": "https://www.cnn.com/2026/09/01/asia/aircraft-carrier-lincoln-thailand-port-call-intl-hnk-ml",
      "source_url": "https://www.cnn.com/sitemap/news.xml",
-     "published": "2026-08-29T09:00:29+00:00",
-     "fetched": "2026-08-30T16:04:34+00:00"
+     "published": "2026-09-02T01:02:11+00:00",
+     "fetched": "2026-09-02T08:01:24+00:00"
     },
     {
-     "headline": "‘Decades in Sports’: How Colin Kaepernick taking a knee in 2016 revived athlete activism in sports",
-     "detail": "‘Decades in Sports’: How Colin Kaepernick taking a knee in 2016 revived athlete activism in sports",
-     "url": "https://www.cnn.com/2026/08/30/sport/colin-kaepernick-activism-decades-in-sports",
+     "headline": "Flood threat persists in Texas as Edouard weakens to a tropical depression",
+     "detail": "Flood threat persists in Texas as Edouard weakens to a tropical depression",
+     "url": "https://www.cnn.com/2026/08/31/weather/tropical-storm-edouard-texas-louisiana-path-climate",
      "source_url": "https://www.cnn.com/sitemap/news.xml",
-     "published": "2026-08-30T16:01:57+00:00",
-     "fetched": "2026-08-30T16:04:34+00:00"
+     "published": "2026-08-31T10:15:35+00:00",
+     "fetched": "2026-09-02T08:01:24+00:00"
     },
     {
-     "headline": "‘It feels like early COVID’: The messy scramble to regulate AI",
-     "detail": "‘It feels like early COVID’: The messy scramble to regulate AI",
-     "url": "https://www.cnn.com/2026/08/30/business/the-scramble-us-government-to-regulate-ai",
+     "headline": "White House adds new renovation project: The bowling alley",
+     "detail": "White House adds new renovation project: The bowling alley",
+     "url": "https://www.cnn.com/2026/09/02/world/video/trump-wh-bowling-alley-foreman-pkg-090202aseg2-cnni-us-fast",
      "source_url": "https://www.cnn.com/sitemap/news.xml",
-     "published": "2026-08-30T16:00:30+00:00",
-     "fetched": "2026-08-30T16:04:34+00:00"
+     "published": "2026-09-02T07:41:37+00:00",
+     "fetched": "2026-09-02T08:01:24+00:00"
     },
     {
-     "headline": "His daughter’s body was found in the ‘Texas Killing Fields’ decades ago. Now he’ll face a man charged in her death",
-     "detail": "His daughter’s body was found in the ‘Texas Killing Fields’ decades ago. Now he’ll face a man charged in her death",
-     "url": "https://www.cnn.com/2026/08/30/us/texas-killing-fields-james-elmore-trial",
+     "headline": "Warning signs were visible ahead of Nepal-China floods, report says",
+     "detail": "Warning signs were visible ahead of Nepal-China floods, report says",
+     "url": "https://www.cnn.com/2026/09/01/world/live-news/nepal-china-flood",
      "source_url": "https://www.cnn.com/sitemap/news.xml",
-     "published": "2026-08-30T16:00:29+00:00",
-     "fetched": "2026-08-30T16:04:34+00:00"
+     "published": "2026-09-01T08:51:21+00:00",
+     "fetched": "2026-09-02T08:01:24+00:00"
     },
     {
-     "headline": "At least seven dead and more missing after boat carrying hundreds capsizes off Cyprus",
-     "detail": "At least seven dead and more missing after boat carrying hundreds capsizes off Cyprus",
-     "url": "https://www.cnn.com/2026/08/30/europe/cyprus-boat-capsizes-turkey-intl",
+     "headline": "The Chinese mavericks looking to buck the trends in American college basketball",
+     "detail": "The Chinese mavericks looking to buck the trends in American college basketball",
+     "url": "https://www.cnn.com/2026/09/02/sport/chinese-basketball-players-ncaa",
      "source_url": "https://www.cnn.com/sitemap/news.xml",
-     "published": "2026-08-30T11:27:37+00:00",
-     "fetched": "2026-08-30T16:04:34+00:00"
+     "published": "2026-09-02T07:00:29+00:00",
+     "fetched": "2026-09-02T08:01:24+00:00"
     }
    ]
   },
@@ -249,48 +249,48 @@
    "key": "fox",
    "name": "Fox News",
    "site": "foxnews.com",
-   "summary": "Fox News, covering US politics and national affairs is leading with Son realizes missing American dad was in path of Nepal disaster after watching viral video; Major US vacation destination could get more expensive as officials eye new fees; 'Hercules' star Kevin Sorbo says California can keep its taxes, traffic and 'negativity': 'I'm done'.",
+   "summary": "Fox News, covering US politics and national affairs is leading with Ohio Supreme Court denies Mackenzie Shirilla's latest appeal bid in double murder case; Haitian college student in Ohio dies by apparent suicide after losing TPS status, family says; Hasan Piker cheerleads progressives as 80-year-old senator wins six more years.",
    "note": null,
    "items": [
     {
-     "headline": "Son realizes missing American dad was in path of Nepal disaster after watching viral video",
-     "detail": "Sunny Patel saw viral flood footage from Nepal and Tibet and realized his father, Jitendra Patel, was in that exact area on a spiritual pilgrimage.",
-     "url": "https://www.foxnews.com/media/son-realizes-missing-american-dad-path-nepal-disaster-after-watching-viral-video",
+     "headline": "Ohio Supreme Court denies Mackenzie Shirilla's latest appeal bid in double murder case",
+     "detail": "Mackenzie Shirilla suffered another setback after the Ohio Supreme Court refused to reconsider its decision not to review her latest appeal.",
+     "url": "https://www.foxnews.com/us/ohio-supreme-court-denies-mackenzie-shirilla-latest-appeal-bid-double-murder-case",
      "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
-     "published": "2026-08-30T11:36:01-04:00",
-     "fetched": "2026-08-30T16:04:35+00:00"
+     "published": "2026-09-02T03:04:41-04:00",
+     "fetched": "2026-09-02T08:01:24+00:00"
     },
     {
-     "headline": "Major US vacation destination could get more expensive as officials eye new fees",
-     "detail": "The new U.S. Forest Service proposal would impose fees at Kiva Beach, Taylor Creek Visitor Center and other Lake Tahoe sites that are currently free for visitors.",
-     "url": "https://www.foxnews.com/travel/major-us-vacation-destination-could-get-more-expensive-officials-eye-new-fees",
+     "headline": "Haitian college student in Ohio dies by apparent suicide after losing TPS status, family says",
+     "detail": "A Haitian-born college student in Ohio died in what his family believes to be a suicide after he was stripped of his temporary protected status.",
+     "url": "https://www.foxnews.com/us/haitian-college-student-ohio-dies-apparent-suicide-losing-tps-status-family-says",
      "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
-     "published": "2026-08-30T11:00:56-04:00",
-     "fetched": "2026-08-30T16:04:35+00:00"
+     "published": "2026-09-02T00:48:37-04:00",
+     "fetched": "2026-09-02T08:01:24+00:00"
     },
     {
-     "headline": "'Hercules' star Kevin Sorbo says California can keep its taxes, traffic and 'negativity': 'I'm done'",
-     "detail": "\"Elijah Peel\" actor Kevin Sorbo says California can keep its taxes, traffic, and \"negativity\" after moving to Florida nearly seven years ago for his family and career.",
-     "url": "https://www.foxnews.com/entertainment/hercules-star-kevin-sorbo-says-california-keep-taxes-traffic-negativity-im-done",
+     "headline": "Hasan Piker cheerleads progressives as 80-year-old senator wins six more years",
+     "detail": "Hasan Piker celebrated Ed Markey's Massachusetts primary win over Seth Moulton, calling it proof that progressive policies and trans rights are winning.",
+     "url": "https://www.foxnews.com/politics/hasan-piker-cheerleads-progressives-80-year-old-senator-wins-six-more-years",
      "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
-     "published": "2026-08-30T11:00:49-04:00",
-     "fetched": "2026-08-30T16:04:35+00:00"
+     "published": "2026-09-02T00:09:58-04:00",
+     "fetched": "2026-09-02T08:01:24+00:00"
     },
     {
-     "headline": "Logan Gilbert's dominant road numbers give Mariners hope in must-win series against Blue Jays",
-     "detail": "Logan Gilbert's dominant road numbers give the Seattle Mariners hope against Max Scherzer and the Toronto Blue Jays in a crucial AL West chase.",
-     "url": "https://www.foxnews.com/outkick-sports/logan-gilbert-dominant-road-numbers-give-mariners-hope-must-win-series-blue-jays",
+     "headline": "Lindsay Clancy verdict still within reach – retired Massachusetts judge pushes back on hung-jury predictions",
+     "detail": "Lindsay Clancy murder trial jury reported a deadlock Tuesday, but a retired Massachusetts judge said a unanimous verdict remains very possible.",
+     "url": "https://www.foxnews.com/us/lindsay-clancy-verdict-within-reach-retired-massachusetts-judge-pushes-back-hung-jury-predictions",
      "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
-     "published": "2026-08-30T10:44:32-04:00",
-     "fetched": "2026-08-30T16:04:35+00:00"
+     "published": "2026-09-02T00:00:52-04:00",
+     "fetched": "2026-09-02T08:01:24+00:00"
     },
     {
-     "headline": "Chiefs face critical 2026 season with Patrick Mahomes returning from ACL tear",
-     "detail": "Patrick Mahomes faces a critical recovery from his ACL tear as the Kansas City Chiefs try to bounce back from a disastrous 6-11 season in 2025.",
-     "url": "https://www.foxnews.com/outkick-sports/chiefs-face-critical-2026-season-patrick-mahomes-returning-acl-tear",
+     "headline": "Progressive push hits wall against conservative Democrat in deep-blue district",
+     "detail": "Stephen Lynch defeated progressive challenger Patrick Roath in the Massachusetts 8th Congressional District Democratic primary despite clashes over ICE.",
+     "url": "https://www.foxnews.com/politics/progressive-push-hits-wall-against-conservative-democrat-deep-blue-district",
      "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
-     "published": "2026-08-30T10:39:00-04:00",
-     "fetched": "2026-08-30T16:04:35+00:00"
+     "published": "2026-09-01T23:44:45-04:00",
+     "fetched": "2026-09-02T08:01:24+00:00"
     }
    ]
   },
@@ -298,48 +298,48 @@
    "key": "wsj",
    "name": "The Wall Street Journal",
    "site": "wsj.com",
-   "summary": "The Wall Street Journal's world news wire is leading with Young Women Bear the Brunt of India’s Anti-Protester Vitriol; Icelanders Reject EU-Membership Talks; Putin Turns Again to China’s Xi as Russia’s Clout Crumbles.",
+   "summary": "The Wall Street Journal's world news wire is leading with The Island Paradise That Is a Secret Hub for Russian Sanctions Evasion; G-20 Squabbling Overshadows Summit as Global Bond Markets Strain; U.S. and Iran Trade Strikes in Latest Fight for Control of Hormuz.",
    "note": null,
    "items": [
     {
-     "headline": "Young Women Bear the Brunt of India’s Anti-Protester Vitriol",
-     "detail": "After a summer of Gen Z discontent, political workers and members of the public chastised women for violating social norms.",
-     "url": "https://www.wsj.com/world/india/young-women-bear-the-brunt-of-indias-anti-protester-vitriol-4b056b60?mod=rss_worldnews",
+     "headline": "The Island Paradise That Is a Secret Hub for Russian Sanctions Evasion",
+     "detail": "The Maldives has become a pipeline for hundreds of millions of dollars in Western goods heading to Moscow.",
+     "url": "https://www.wsj.com/world/the-island-paradise-that-is-a-secret-hub-for-russian-sanctions-evasion-c2c103ed?mod=rss_worldnews",
      "source_url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
-     "published": "2026-08-30T14:56:00+00:00",
-     "fetched": "2026-08-30T16:04:35+00:00"
+     "published": "2026-09-02T01:00:00+00:00",
+     "fetched": "2026-09-02T08:01:25+00:00"
     },
     {
-     "headline": "Icelanders Reject EU-Membership Talks",
-     "detail": "Voters weighed the nation’s security in the wake of President Trump saying he would like the U.S. to acquire Greenland.",
-     "url": "https://www.wsj.com/world/europe/icelanders-reject-eu-membership-talks-national-broadcaster-projects-05a2c74d?mod=rss_worldnews",
+     "headline": "G-20 Squabbling Overshadows Summit as Global Bond Markets Strain",
+     "detail": "The finance ministers’ gathering comes to a close amid a global bond-market selloff, spats over tariffs and public insults.",
+     "url": "https://www.wsj.com/world/g-20-squabbling-overshadows-summit-as-global-bond-markets-strain-dd61e2ef?mod=rss_worldnews",
      "source_url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
-     "published": "2026-08-30T14:25:00+00:00",
-     "fetched": "2026-08-30T16:04:35+00:00"
+     "published": "2026-09-02T01:00:00+00:00",
+     "fetched": "2026-09-02T08:01:25+00:00"
     },
     {
-     "headline": "Putin Turns Again to China’s Xi as Russia’s Clout Crumbles",
-     "detail": "The shifting power status of the two leaders will be front and center on Monday, when they are set to meet in Kyrgyzstan.",
-     "url": "https://www.wsj.com/world/russia/putin-turns-again-to-chinas-xi-as-russias-clout-crumbles-125c56be?mod=rss_worldnews",
+     "headline": "U.S. and Iran Trade Strikes in Latest Fight for Control of Hormuz",
+     "detail": "President Trump said the operation was a response to Iran’s attempts to mine the strait and target American servicemembers in the Middle East.",
+     "url": "https://www.wsj.com/world/middle-east/iran-strikes-us-1d263f3f?mod=rss_worldnews",
      "source_url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
-     "published": "2026-08-30T11:00:00+00:00",
-     "fetched": "2026-08-30T16:04:35+00:00"
+     "published": "2026-09-02T00:20:00+00:00",
+     "fetched": "2026-09-02T08:01:25+00:00"
     },
     {
-     "headline": "Nearly 770 Dead in Devastating Nepal, Tibet Floods",
-     "detail": "More than 3,000 people are missing after a partial detachment of a glacier on a Nepalese mountain sparked the disaster.",
-     "url": "https://www.wsj.com/world/asia/nearly-770-dead-in-devastating-nepal-tibet-floods-1bd43215?mod=rss_worldnews",
+     "headline": "The Thai Town Hosting the USS Abraham Lincoln After a Grueling Deployment",
+     "detail": "About 5,000 sailors flush with cash and looking for R&R will pour into the seaside resort.",
+     "url": "https://www.wsj.com/world/the-thai-town-hosting-the-uss-abraham-lincoln-after-a-grueling-deployment-f66e1962?mod=rss_worldnews",
      "source_url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
-     "published": "2026-08-30T10:32:00+00:00",
-     "fetched": "2026-08-30T16:04:35+00:00"
+     "published": "2026-09-01T18:19:00+00:00",
+     "fetched": "2026-09-02T08:01:25+00:00"
     },
     {
-     "headline": "One of Asia’s Most Liveable Cities Tackles a New Threat: Cicadas",
-     "detail": "Singapore is famous for its ruthless efficiency. But the government met its match in the form of tens of thousands of loud, clumsy bugs.",
-     "url": "https://www.wsj.com/world/asia/singapore-cicada-swarms-ebddd127?mod=rss_worldnews",
+     "headline": "Germany Blames Russia for Explosive Drones Sent to Leipzig Airport",
+     "detail": "In a rare move, Berlin said it would retaliate for the incident last month.",
+     "url": "https://www.wsj.com/world/europe/germany-blames-russia-for-explosive-drones-sent-to-leipzig-airport-03599b93?mod=rss_worldnews",
      "source_url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
-     "published": "2026-08-30T09:30:00+00:00",
-     "fetched": "2026-08-30T16:04:35+00:00"
+     "published": "2026-09-01T18:05:00+00:00",
+     "fetched": "2026-09-02T08:01:25+00:00"
     }
    ]
   }

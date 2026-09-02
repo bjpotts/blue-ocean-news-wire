@@ -3,24 +3,69 @@
   {
    "key": "anz",
    "name": "ANZ",
-   "summary": "A single verifiable equity capital markets item was found for ANZ this run: Black Bear wins $12.5m backing for Shafter restart push",
+   "summary": "ANZ equity capital markets activity captured this run runs to 3 items, led by Jameson raising $5m to push Crown Mountain coking coal project towards approvals. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
    "items": [
     {
-     "headline": "Black Bear wins $12.5m backing for Shafter restart push",
-     "detail": "Black Bear’s placement at 55c a share attracted new and existing domestic and international institutions and sophisticated investors. ... Read More",
-     "url": "https://stockhead.com.au/resources/black-bear-wins-12-5m-backing-for-shafter-restart-push/",
+     "headline": "Jameson raising $5m to push Crown Mountain coking coal project towards approvals",
+     "detail": "Strong backing from coal and natural resources investors will help Jameson Resources raise up to $5m. ... Read More",
+     "url": "https://stockhead.com.au/resources/jameson-raising-5m-to-push-crown-mountain-coking-coal-project-towards-approvals/",
      "outlet": "Stockhead",
      "source_url": "https://stockhead.com.au/feed/",
-     "published": "2026-08-28T03:40:58+00:00",
-     "fetched": "2026-08-30T16:02:41+00:00"
+     "published": "2026-09-02T05:19:32+00:00",
+     "fetched": "2026-09-02T08:01:06+00:00"
+    },
+    {
+     "headline": "Alterity secures at least $4.2m from options ahead of key Phase III MSA trial",
+     "detail": "Alterity will boost funds by approximately $4.2 million in an options underwriting deal ... Read More",
+     "url": "https://stockhead.com.au/health/alterity-secures-at-least-4-2m-from-options-ahead-of-key-phase-iii-msa-trial/",
+     "outlet": "Stockhead",
+     "source_url": "https://stockhead.com.au/feed/",
+     "published": "2026-09-01T23:42:56+00:00",
+     "fetched": "2026-09-02T08:01:06+00:00"
+    },
+    {
+     "headline": "Titomic Raises A$16.5m to Accelerate US Manufacturing Push Ahead of Relocation",
+     "detail": "Titomic raises A$16.5m via placement to fast-track US manufacturing in Huntsville; adds four US orders and Boeing veteran Jim Chilton to the board.",
+     "url": "https://smallcaps.com.au/article/titomic-raises-adollar165m-to-accelerate-us-manufacturing-push-ahead-of-relocation",
+     "outlet": "Small Caps",
+     "source_url": "https://smallcaps.com.au/feed",
+     "published": "2026-09-02T01:56:07+00:00",
+     "fetched": "2026-09-02T08:01:06+00:00"
     }
    ]
   },
   {
    "key": "asia",
    "name": "Asia (Japan/Singapore/Hong Kong/China)",
-   "summary": "Asia (Japan/Singapore/Hong Kong/China) equity capital markets activity captured this run runs to 4 items, led by China’s CXMT posts massive 870% revenue surge as ‘aggressive expansion’ pays off. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "summary": "Asia (Japan/Singapore/Hong Kong/China) equity capital markets activity captured this run runs to 4 items, led by Philippine fast-food giant Jollibee picks Hong Kong over New York for spin-off’s listing. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
    "items": [
+    {
+     "headline": "Philippine fast-food giant Jollibee picks Hong Kong over New York for spin-off’s listing",
+     "detail": "The parent company of Philippine fast-food giant Jollibee plans to spin off and list its international operations in Hong Kong instead of New York in a strong endorsement of the city’s initial public offering (IPO) diversification efforts.",
+     "url": "https://www.scmp.com/business/banking-finance/article/3366078/philippine-fast-food-giant-jollibee-picks-hong-kong-over-new-york-spin-listing?utm_source=rss_feed",
+     "outlet": "South China Morning Post",
+     "source_url": "https://www.scmp.com/rss/92/feed",
+     "published": "2026-09-02T07:03:43+00:00",
+     "fetched": "2026-09-02T08:01:07+00:00"
+    },
+    {
+     "headline": "Shein slips on Hong Kong debut amid fast-fashion challenges",
+     "detail": "Fast-fashion retailer Shein fell on its Hong Kong trading debut as the unprofitable company contends with rising competition and the loss of tax breaks in key markets.",
+     "url": "https://www.scmp.com/plus/business/banking-finance/article/3365973/shein-slips-hong-kong-debut-amid-fast-fashion-challenges?utm_source=rss_feed",
+     "outlet": "South China Morning Post",
+     "source_url": "https://www.scmp.com/rss/92/feed",
+     "published": "2026-09-01T09:11:19+00:00",
+     "fetched": "2026-09-02T08:01:07+00:00"
+    },
+    {
+     "headline": "Shein shares recover after 10% drop on Hong Kong debut",
+     "detail": "Shein Global Holdings plunged as much as 10 per cent in its Hong Kong trading debut on Tuesday after raising HK$13.6 billion (US$1.7 billion), further shaking market confidence in the company’s valuation.",
+     "url": "https://www.scmp.com/business/banking-finance/article/3365886/shein-shares-plunge-28-grey-market-ahead-hong-kong-debut?utm_source=rss_feed",
+     "outlet": "South China Morning Post",
+     "source_url": "https://www.scmp.com/rss/92/feed",
+     "published": "2026-09-01T00:00:15+00:00",
+     "fetched": "2026-09-02T08:01:07+00:00"
+    },
     {
      "headline": "China’s CXMT posts massive 870% revenue surge as ‘aggressive expansion’ pays off",
      "detail": "Chinese chipmaker ChangXin Memory Technologies (CXMT) reported a sharp surge in first-half revenue on Friday, as the firm released its first financial results since becoming China’s most valuable publicly traded company in a blockbuster…",
@@ -28,42 +73,33 @@
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
      "published": "2026-08-28T11:06:12+00:00",
-     "fetched": "2026-08-30T16:02:42+00:00"
-    },
-    {
-     "headline": "Macau tycoon Lawrence Ho’s family office expands into space sector in de-SPAC deal",
-     "detail": "Black Spade Capital, the family office of Macau casino billionaire Lawrence Ho Yau-lung, has announced its third “de-SPAC” deal through a merger with a satellite communications firm, a move granting it access to the space technology…",
-     "url": "https://www.scmp.com/business/companies/article/3365579/macau-tycoon-lawrence-hos-family-office-expands-space-sector-de-spac-deal?utm_source=rss_feed",
-     "outlet": "South China Morning Post",
-     "source_url": "https://www.scmp.com/rss/92/feed",
-     "published": "2026-08-28T08:01:07+00:00",
-     "fetched": "2026-08-30T16:02:42+00:00"
-    },
-    {
-     "headline": "Bitcoin rally and Alibaba share purchases: the numbers moving markets",
-     "detail": "Bitcoin and gold rallied this week as the size of America’s sovereign debt continued to haunt global financial markets.",
-     "url": "https://www.scmp.com/business/china-business/article/3365540/bitcoin-rally-and-alibaba-share-purchases-numbers-moving-markets?utm_source=rss_feed",
-     "outlet": "South China Morning Post",
-     "source_url": "https://www.scmp.com/rss/92/feed",
-     "published": "2026-08-28T07:00:13+00:00",
-     "fetched": "2026-08-30T16:02:42+00:00"
-    },
-    {
-     "headline": "US surgical robotics firm eyes Hong Kong listing to power push into mainland China",
-     "detail": "SoftBank-backed surgical robotics company Noah Medical has begun preparations for a Hong Kong initial public offering, joining a wave of cutting-edge technology firms tapping the city’s international fundraising pool.",
-     "url": "https://www.scmp.com/business/companies/article/3365539/softbank-backed-surgical-robotics-firm-eyes-hong-kong-listing-power-mainland-china-push?utm_source=rss_feed",
-     "outlet": "South China Morning Post",
-     "source_url": "https://www.scmp.com/rss/92/feed",
-     "published": "2026-08-28T05:00:12+00:00",
-     "fetched": "2026-08-30T16:02:42+00:00"
+     "fetched": "2026-09-02T08:01:07+00:00"
     }
    ]
   },
   {
    "key": "us",
    "name": "US",
-   "summary": "US equity capital markets activity captured this run runs to 4 items, led by The SPAC IPO Buzz: Inflection Point Acquisition VIII Raises $250 Million. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "summary": "US equity capital markets activity captured this run runs to 4 items, led by The IPO Buzz: SoftBank-Backed SB Energy (SBE) Files Plans for Huge IPO. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
    "items": [
+    {
+     "headline": "The IPO Buzz: SoftBank-Backed SB Energy (SBE) Files Plans for Huge IPO",
+     "detail": "SB Energy (SBE Proposed), a data center and power infrastructure company backed by SoftBank of Japan, has filed to go public in what could be a multibillion-dollar deal. No terms were disclosed in the S-1 filing, which was dated Aug.",
+     "url": "https://www.iposcoop.com/the-ipo-buzz-softbank-backed-sb-energy-sbe-files-ipo-plans-for-huge-ipo/",
+     "outlet": "IPOScoop",
+     "source_url": "https://www.iposcoop.com/feed/",
+     "published": "2026-09-01T16:39:45+00:00",
+     "fetched": "2026-09-02T08:01:09+00:00"
+    },
+    {
+     "headline": "The IPO Buzz: Anthropic & Aggreko Stir Anticipation – After Labor Day",
+     "detail": "Anticipation is the word in the IPO market. Anthropic is likely to unveil its first public SEC filing for the Claude AI maker’s blockbuster IPO next week – possibly on Tuesday, Sept.",
+     "url": "https://www.iposcoop.com/the-ipo-buzz-anthropic-aggreko-stir-anticipation-after-labor-day/",
+     "outlet": "IPOScoop",
+     "source_url": "https://www.iposcoop.com/feed/",
+     "published": "2026-08-31T18:41:23+00:00",
+     "fetched": "2026-09-02T08:01:09+00:00"
+    },
     {
      "headline": "The SPAC IPO Buzz: Inflection Point Acquisition VIII Raises $250 Million",
      "detail": "Inflection Point Acquisition Corp. VIII (IPHXU) – part of Michael Blitzer’s SPAC franchise – raised $250 million – pricing 25 million units at $10.00 each – in its SPAC IPO on Thursday night, Aug. 27, 2026.",
@@ -71,7 +107,7 @@
      "outlet": "IPOScoop",
      "source_url": "https://www.iposcoop.com/feed/",
      "published": "2026-08-28T11:28:37+00:00",
-     "fetched": "2026-08-30T16:02:45+00:00"
+     "fetched": "2026-09-02T08:01:09+00:00"
     },
     {
      "headline": "The SPAC IPO Buzz: JATT III Acquisition (JTTT) Jumps 15 Percent in its NASDAQ Debut",
@@ -80,57 +116,57 @@
      "outlet": "IPOScoop",
      "source_url": "https://www.iposcoop.com/feed/",
      "published": "2026-08-26T20:02:22+00:00",
-     "fetched": "2026-08-30T16:02:45+00:00"
-    },
-    {
-     "headline": "The SPAC IPO Buzz: Southern Cross Acquisition II (SCATU) Raises $75 Million",
-     "detail": "Southern Cross Acquisition II (SCATU), a New York-based SPAC with ties to China, raised $75 million with the pricing of its SPAC IPO – 7.5 million units at $10.00 each – on Tuesday night, Aug. 25, 2026. On Wednesday, Aug.",
-     "url": "https://www.iposcoop.com/the-spac-ipo-buzz-southern-cross-acquisition-ii-scatu-raises-75-million/",
-     "outlet": "IPOScoop",
-     "source_url": "https://www.iposcoop.com/feed/",
-     "published": "2026-08-25T22:15:49+00:00",
-     "fetched": "2026-08-30T16:02:45+00:00"
-    },
-    {
-     "headline": "The IPO Buzz: CoVolt Power (KVLT Proposed) of Texas Files to Go Public",
-     "detail": "Friday night lights with solar power and battery storage: CoVolt Power (KVLT Proposed) of Houston filed to go public after the closing bell tonight.",
-     "url": "https://www.iposcoop.com/the-ipo-buzz-covolt-power-kvlt-proposed-of-texas-files-to-go-public/",
-     "outlet": "IPOScoop",
-     "source_url": "https://www.iposcoop.com/feed/",
-     "published": "2026-08-21T23:31:05+00:00",
-     "fetched": "2026-08-30T16:02:45+00:00"
+     "fetched": "2026-09-02T08:01:09+00:00"
     }
    ]
   },
   {
    "key": "uk",
    "name": "UK",
-   "summary": "A single verifiable equity capital markets item was found for UK this run: Xenom: Hyrox and CrossFit mash-up backed by tech moguls set for London bow",
+   "summary": "UK equity capital markets activity captured this run runs to 2 items, led by SpaceX float ‘could kickstart mega IPO access for British retail investors’. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
    "items": [
     {
-     "headline": "Xenom: Hyrox and CrossFit mash-up backed by tech moguls set for London bow",
-     "detail": "Fresh from providing the backdrop to elite padel’s London debut, Kensington Olympia is playing host this weekend to another sport with a rising participation base: Xenom.",
-     "url": "https://www.cityam.com/xenom-hyrox-and-crossfit-mash-up-backed-by-tech-moguls-set-for-london-bow/",
+     "headline": "SpaceX float ‘could kickstart mega IPO access for British retail investors’",
+     "detail": "SpaceX’s use of the UK’s new public offer platform to raise hundreds of millions of pounds from British retail investors could encourage a wave of large US companies to follow suit, according to one of the brokers that orchestrated the…",
+     "url": "https://www.cityam.com/spacex-deal-could-kickstart-mega-ipo-access-for-british-retail-investors-broker-says/",
+     "outlet": "City A.M.",
+     "source_url": "https://www.cityam.com/category/markets/feed/",
+     "published": "2026-09-01T06:00:00+00:00",
+     "fetched": "2026-09-02T08:01:12+00:00"
+    },
+    {
+     "headline": "Jim O’Neill: Capital gains tax hike ‘looms’ as top option for Burnham",
+     "detail": "Lord Jim O’Neill has warned a hike to capital gains tax “looms out” as one of the easiest revenue-raising options for Andy Burnham and his chancellor, John Healey, as the pair draw up plans for their first Budget in October.",
+     "url": "https://www.cityam.com/jim-oneill-capital-gains-tax-hike-looms-as-top-option-for-burnham/",
      "outlet": "City A.M.",
      "source_url": "https://www.cityam.com/feed/",
-     "published": "2026-08-28T14:55:14+00:00",
-     "fetched": "2026-08-30T16:02:46+00:00"
+     "published": "2026-09-02T07:44:30+00:00",
+     "fetched": "2026-09-02T08:01:16+00:00"
     }
    ]
   },
   {
    "key": "europe",
    "name": "Europe",
-   "summary": "A single verifiable equity capital markets item was found for Europe this run: Shein’s $100 Billion Valuation Falls to $26 Billion",
+   "summary": "Europe equity capital markets activity captured this run runs to 2 items, led by Vietnam’s Vingroup Plans Debut Won Bond After Shares Hit Record. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
    "items": [
     {
-     "headline": "Shein’s $100 Billion Valuation Falls to $26 Billion",
-     "detail": "Shein is heading toward a Hong Kong listing at a valuation of about $26.5 billion, roughly a quarter of its 2022 peak, after earlier efforts to list in New York and London ran into regulatory hurdles.",
-     "url": "https://www.bloomberg.com/news/videos/2026-08-30/shein-s-100-billion-valuation-falls-to-26-billion-video",
+     "headline": "Vietnam’s Vingroup Plans Debut Won Bond After Shares Hit Record",
+     "detail": "Vietnamese conglomerate Vingroup JSC is in discussions with brokerages about selling its first bond denominated in the Korean won, according to people familiar with the matter, as the company seeks to broaden its investor base after its…",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-02/vietnam-s-vingroup-plans-debut-won-bond-after-shares-hit-record",
      "outlet": "Bloomberg",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-08-30T14:04:51+00:00",
-     "fetched": "2026-08-30T16:02:48+00:00"
+     "published": "2026-09-02T06:12:18+00:00",
+     "fetched": "2026-09-02T08:01:17+00:00"
+    },
+    {
+     "headline": "DeepZero Chairwoman on Earnings Outlook",
+     "detail": "Grace Huang, Chairwoman at Chinese martech firm DeepZero, discusses the company's first set of half-year results since its listing in Hong Kong. (Source: Bloomberg)",
+     "url": "https://www.bloomberg.com/news/videos/2026-09-02/deepzero-chairwoman-on-earnings-outlook-video",
+     "outlet": "Bloomberg",
+     "source_url": "https://feeds.bloomberg.com/markets/news.rss",
+     "published": "2026-09-02T06:04:10+00:00",
+     "fetched": "2026-09-02T08:01:17+00:00"
     }
    ]
   },
@@ -146,7 +182,7 @@
      "outlet": "CNBC Markets",
      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258",
      "published": "2026-08-27T17:31:09+00:00",
-     "fetched": "2026-08-30T16:02:51+00:00"
+     "fetched": "2026-09-02T08:01:18+00:00"
     }
    ]
   }
