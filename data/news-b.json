@@ -4,7 +4,7 @@
    "key": "nbc",
    "name": "NBC News",
    "site": "nbcnews.com",
-   "summary": "NBC News, covering US national news and politics is leading with Markey, Neal, and Lynch projected winners in Massachusetts Democratic primaries; Healthcare tops the Democrats’ to-do list if they win control of the House in 2026; Democratic Rep. Stephen Lynch defeats a younger challenger in Massachusetts primary.",
+   "summary": "NBC News, covering US national news and politics is leading with Markey, Neal, and Lynch projected winners in Massachusetts Democratic primaries; Alaska finalizes Senate race: 3 Republicans, 2 Dan Sullivans and 1 Democrat; Key Texas county votes to cut polling sites ahead of the midterms.",
    "note": null,
    "items": [
     {
@@ -13,23 +13,7 @@
      "url": "https://www.nbcnews.com/now/video/markey-neal-and-lynch-projected-winners-in-massachusetts-democratic-primaries-269195333680",
      "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
      "published": "2026-09-02T04:18:24+00:00",
-     "fetched": "2026-09-02T13:43:05+00:00"
-    },
-    {
-     "headline": "Healthcare tops the Democrats’ to-do list if they win control of the House in 2026",
-     "detail": "Democratic leader Hakeem Jeffries said his party would unify around undoing Trump’s Medicaid cuts and reviving ACA funds that the GOP ended. Some Democrats want to go bigger.",
-     "url": "https://www.nbcnews.com/politics/congress/healthcare-tops-democrats-list-win-control-house-2026-rcna595354",
-     "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
-     "published": "2026-09-02T09:00:00+00:00",
-     "fetched": "2026-09-02T13:43:05+00:00"
-    },
-    {
-     "headline": "Democratic Rep. Stephen Lynch defeats a younger challenger in Massachusetts primary",
-     "detail": "Lynch won against Patrick Roath, NBC News projects, who is more than three decades younger and came at him from the left.",
-     "url": "https://www.nbcnews.com/politics/2026-election/democratic-rep-stephen-lynch-defeats-younger-challenger-massachusetts-rcna594726",
-     "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
-     "published": "2026-09-02T03:11:57+00:00",
-     "fetched": "2026-09-02T13:43:05+00:00"
+     "fetched": "2026-09-02T14:05:33+00:00"
     },
     {
      "headline": "Alaska finalizes Senate race: 3 Republicans, 2 Dan Sullivans and 1 Democrat",
@@ -37,7 +21,7 @@
      "url": "https://www.nbcnews.com/politics/2026-election/alaska-finalizes-senate-race-3-republicans-2-dan-sullivan-1-democrat-rcna595617",
      "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
      "published": "2026-09-01T22:48:00+00:00",
-     "fetched": "2026-09-02T13:43:05+00:00"
+     "fetched": "2026-09-02T14:05:33+00:00"
     },
     {
      "headline": "Key Texas county votes to cut polling sites ahead of the midterms",
@@ -45,7 +29,23 @@
      "url": "https://www.nbcnews.com/politics/2026-election/tarrant-county-texas-votes-slash-polling-sites-midterms-rcna595338",
      "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
      "published": "2026-09-01T23:09:45+00:00",
-     "fetched": "2026-09-02T13:43:05+00:00"
+     "fetched": "2026-09-02T14:05:33+00:00"
+    },
+    {
+     "headline": "No plans for ICE to be at polls for midterms, DHS says",
+     "detail": "A senior DHS official said ICE will do its regular duties on the day of midterm elections, though Secretary Markwayne Mullin said agents would enter a polling place to serve a warrant.",
+     "url": "https://www.nbcnews.com/news/us-news/dhs-no-plans-ice-polls-midterm-elections-rcna595594",
+     "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
+     "published": "2026-09-01T20:18:58+00:00",
+     "fetched": "2026-09-02T14:05:33+00:00"
+    },
+    {
+     "headline": "Tiger Woods pleads ‘no contest’ in DUI case",
+     "detail": "Tiger Woods reached a plea deal with prosecutors Wednesday in connection with DUI charges against him following a crash near his Florida home earlier this year.",
+     "url": "https://www.nbcnews.com/news/us-news/tiger-woods-reaches-plea-deal-reckless-driving-case-rcna595681",
+     "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
+     "published": "2026-09-02T13:33:27+00:00",
+     "fetched": "2026-09-02T14:05:33+00:00"
     }
    ]
   },
@@ -62,7 +62,7 @@
      "url": "https://thehill.com/policy/transportation/6065507-apple-maps-lake-ontario-donald-trump-rename-request/",
      "source_url": "https://thehill.com/news/feed/",
      "published": "2026-09-02T13:38:56+00:00",
-     "fetched": "2026-09-02T13:43:07+00:00"
+     "fetched": "2026-09-02T14:05:35+00:00"
     },
     {
      "headline": "Odd that Lake Ontario would be what finally turns the public against Trump",
@@ -70,7 +70,7 @@
      "url": "https://thehill.com/opinion/white-house/6063562-executive-order-lake-america/",
      "source_url": "https://thehill.com/news/feed/",
      "published": "2026-09-02T13:30:00+00:00",
-     "fetched": "2026-09-02T13:43:07+00:00"
+     "fetched": "2026-09-02T14:05:35+00:00"
     },
     {
      "headline": "Trump: 'When are the Iranian people going to rise up and fight?'",
@@ -78,7 +78,7 @@
      "url": "https://thehill.com/homenews/administration/6065514-donald-trump-iranian-people-middle-east-conflict/",
      "source_url": "https://thehill.com/news/feed/",
      "published": "2026-09-02T13:12:41+00:00",
-     "fetched": "2026-09-02T13:43:07+00:00"
+     "fetched": "2026-09-02T14:05:35+00:00"
     },
     {
      "headline": "Live updates: US, Iran ramp up strikes; incumbents hold on in Massachusetts",
@@ -86,7 +86,7 @@
      "url": "https://thehill.com/homenews/administration/6065183-live-updates-trump-iran-hegseth-house/",
      "source_url": "https://thehill.com/news/feed/",
      "published": "2026-09-02T13:10:28+00:00",
-     "fetched": "2026-09-02T13:43:07+00:00"
+     "fetched": "2026-09-02T14:05:35+00:00"
     },
     {
      "headline": "Prediction market profits are corrupting America, one public figure at a time",
@@ -94,7 +94,7 @@
      "url": "https://thehill.com/opinion/finance/6063911-prediction-market-corruption/",
      "source_url": "https://thehill.com/news/feed/",
      "published": "2026-09-02T13:00:00+00:00",
-     "fetched": "2026-09-02T13:43:07+00:00"
+     "fetched": "2026-09-02T14:05:35+00:00"
     }
    ]
   },
@@ -102,16 +102,24 @@
    "key": "time",
    "name": "Time",
    "site": "time.com",
-   "summary": "Time magazine, covering US and world affairs is leading with Kaushik Kappagantulu’s Greenhouse in a Box Is Aiding India’s Farmers; Introducing TIME Trailblazers: Designing and Making the Future; Why Erika Woolsey Sees Virtual Reality Tech as an Ocean Conservation Tool.",
+   "summary": "Time magazine, covering US and world affairs is leading with The Danger of Ignoring Nepal; Kaushik Kappagantulu’s Greenhouse in a Box Is Aiding India’s Farmers; Introducing TIME Trailblazers: Designing and Making the Future.",
    "note": null,
    "items": [
+    {
+     "headline": "The Danger of Ignoring Nepal",
+     "detail": "The climate disasters in Nepal are the essence of climate injustice.",
+     "url": "https://time.com/article/2026/09/02/climate-change-melting-glaciers-himalayas-floods-nepal-danger-/",
+     "source_url": "https://time.com/feed/",
+     "published": "2026-09-02T13:55:00+00:00",
+     "fetched": "2026-09-02T14:05:37+00:00"
+    },
     {
      "headline": "Kaushik Kappagantulu’s Greenhouse in a Box Is Aiding India’s Farmers",
      "detail": "Farmers using Kheyti’s structures have significantly reduced their crop losses while using two-thirds less water and fertilizer.",
      "url": "https://time.com/collection/time-trailblazers/2026/kaushik-kappagantulu/",
      "source_url": "https://time.com/feed/",
      "published": "2026-09-02T13:30:37+00:00",
-     "fetched": "2026-09-02T13:43:09+00:00"
+     "fetched": "2026-09-02T14:05:37+00:00"
     },
     {
      "headline": "Introducing TIME Trailblazers: Designing and Making the Future",
@@ -119,7 +127,7 @@
      "url": "https://time.com/article/2026/09/02/introducing-time-trailblazers/",
      "source_url": "https://time.com/feed/",
      "published": "2026-09-02T13:30:37+00:00",
-     "fetched": "2026-09-02T13:43:09+00:00"
+     "fetched": "2026-09-02T14:05:37+00:00"
     },
     {
      "headline": "Why Erika Woolsey Sees Virtual Reality Tech as an Ocean Conservation Tool",
@@ -127,7 +135,7 @@
      "url": "https://time.com/collection/time-trailblazers/2026/erika-woolsey/",
      "source_url": "https://time.com/feed/",
      "published": "2026-09-02T13:30:36+00:00",
-     "fetched": "2026-09-02T13:43:09+00:00"
+     "fetched": "2026-09-02T14:05:37+00:00"
     },
     {
      "headline": "Zoox’s Aicha Evans Is Reimagining Urban Mobility",
@@ -135,15 +143,7 @@
      "url": "https://time.com/collection/time-trailblazers/2026/aicha-evans/",
      "source_url": "https://time.com/feed/",
      "published": "2026-09-02T13:30:36+00:00",
-     "fetched": "2026-09-02T13:43:09+00:00"
-    },
-    {
-     "headline": "How Eloy van Hal’s ‘Dementia Village’ Is Transforming Patient Care",
-     "detail": "At Hogeweyk, residents with dementia live in small groups in separate homes where they cook together and share meals, go grocery shopping with aides, among other activities.",
-     "url": "https://time.com/collection/time-trailblazers/2026/eloy-van-hal/",
-     "source_url": "https://time.com/feed/",
-     "published": "2026-09-02T13:30:36+00:00",
-     "fetched": "2026-09-02T13:43:09+00:00"
+     "fetched": "2026-09-02T14:05:37+00:00"
     }
    ]
   },
@@ -151,48 +151,48 @@
    "key": "variety",
    "name": "Variety",
    "site": "variety.com",
-   "summary": "Variety, on the business of entertainment is leading with Blackpink and ‘White Lotus’ Star Lisa Documentary ‘Always Lalisa’ Sets Global Release; New Regency Takes International Rights to Ferran Adrià Series ‘Genesis’ (EXCLUSIVE); Travis Kelce Breaks Down Wedding to Taylor Swift and Says Adam Sandler Officiating Was ‘Absolutely Insane’: ‘He’s the F—ing Best Person on This Planet’.",
+   "summary": "Variety, on the business of entertainment is leading with ‘The Girl With The Leica’ Review: An Impressionistic Portrait of Gerda Taro, the Woman Who Shared the Artistic Identity of Robert Capa; ‘Fall 2: Deadpoint’ Review: A Mostly Successful Sequel to the Dizzy Word-of-Mouth Sensation; Wrongful Terrorism Case of Sri Lankan Student Set as Feature Doc ‘Framed’ by Australia’s Anupam Sharma, First-Look Poster Unveiled Ahead of Toronto Market (EXCLUSIVE).",
    "note": null,
    "items": [
+    {
+     "headline": "‘The Girl With The Leica’ Review: An Impressionistic Portrait of Gerda Taro, the Woman Who Shared the Artistic Identity of Robert Capa",
+     "detail": "For many people, the name Robert Capa evokes a mysterious, jet-setting American photographer responsible for some of the mid-20th century’s most iconic images from the frontlines of war.",
+     "url": "https://variety.com/2026/film/reviews/the-girl-with-the-leica-review-1236848286/",
+     "source_url": "https://variety.com/feed/",
+     "published": "2026-09-02T14:00:00+00:00",
+     "fetched": "2026-09-02T14:05:39+00:00"
+    },
+    {
+     "headline": "‘Fall 2: Deadpoint’ Review: A Mostly Successful Sequel to the Dizzy Word-of-Mouth Sensation",
+     "detail": "A sequel should be similar to the film that preceded it, but not the same. That’s the conventional wisdom that, for better or worse, not all filmmakers observe when picking up the mantle of a series or franchise.",
+     "url": "https://variety.com/2026/film/reviews/fall-2-deadpoint-review-1236848979/",
+     "source_url": "https://variety.com/feed/",
+     "published": "2026-09-02T14:00:00+00:00",
+     "fetched": "2026-09-02T14:05:39+00:00"
+    },
+    {
+     "headline": "Wrongful Terrorism Case of Sri Lankan Student Set as Feature Doc ‘Framed’ by Australia’s Anupam Sharma, First-Look Poster Unveiled Ahead of Toronto Market (EXCLUSIVE)",
+     "detail": "The wrongful terrorism case of a Sri Lankan student in Sydney has been set as a feature documentary by Australian filmmaker Anupam Sharma, with the first-look poster for “Framed” unveiled ahead of the Toronto Film Festival’s inaugural…",
+     "url": "https://variety.com/2026/film/news/wrongful-terrorism-case-sri-lankan-student-doc-framed-first-look-poster-1236849059/",
+     "source_url": "https://variety.com/feed/",
+     "published": "2026-09-02T14:00:00+00:00",
+     "fetched": "2026-09-02T14:05:39+00:00"
+    },
+    {
+     "headline": "Jordan Firstman, Matteo Lane Lead U.S. Voice Cast of Cannes Breakout Comedy ‘Jim Queen’ (EXCLUSIVE)",
+     "detail": "Jordan Firstman, fresh off Cannes buzz for his feature directorial debut “Club Kid,” leads the English-language voice cast of “Jim Queen,” alongside comedian, actor and singer Matteo Lane (“Chicago”).",
+     "url": "https://variety.com/2026/film/global/jordan-firstman-matteo-lane-jim-queen-1236849136/",
+     "source_url": "https://variety.com/feed/",
+     "published": "2026-09-02T14:00:00+00:00",
+     "fetched": "2026-09-02T14:05:39+00:00"
+    },
     {
      "headline": "Blackpink and ‘White Lotus’ Star Lisa Documentary ‘Always Lalisa’ Sets Global Release",
      "detail": "“Always Lalisa,” a feature documentary following Blackpink member Lisa, will open in Imax and cinemas worldwide for a limited engagement beginning Oct. 12, Sony Music Vision has revealed.",
      "url": "https://variety.com/2026/music/news/blackpink-white-lotus-lisa-doc-always-lalisa-release-1236849246/",
      "source_url": "https://variety.com/feed/",
      "published": "2026-09-02T13:39:40+00:00",
-     "fetched": "2026-09-02T13:43:11+00:00"
-    },
-    {
-     "headline": "New Regency Takes International Rights to Ferran Adrià Series ‘Genesis’ (EXCLUSIVE)",
-     "detail": "New Regency has taken international distribution rights outside Spain to “Genesis” (“Gènesi”), the six-part 3Cat drama about Ferran Adrià, the chef behind the groundbreaking El Bulli.",
-     "url": "https://variety.com/2026/tv/markets-festivals/new-regency-genesis-ferran-adria-genesis-3cat-1236845356/",
-     "source_url": "https://variety.com/feed/",
-     "published": "2026-09-02T13:39:32+00:00",
-     "fetched": "2026-09-02T13:43:11+00:00"
-    },
-    {
-     "headline": "Travis Kelce Breaks Down Wedding to Taylor Swift and Says Adam Sandler Officiating Was ‘Absolutely Insane’: ‘He’s the F—ing Best Person on This Planet’",
-     "detail": "Travis Kelce has opened up more than ever about his wedding to Taylor Swift, which took place at Madison Square Garden in July. The pro athlete took to the Sept.",
-     "url": "https://variety.com/2026/music/news/travis-kelce-taylor-swift-wedding-sandler-officiating-1236849216/",
-     "source_url": "https://variety.com/feed/",
-     "published": "2026-09-02T13:30:53+00:00",
-     "fetched": "2026-09-02T13:43:11+00:00"
-    },
-    {
-     "headline": "Chilean Alfredo Castro-Led Dark Comedy ‘After Elena’ World Premieres at Toronto Film Fest, Bows Trailer (EXCLUSIVE)",
-     "detail": "Chile’s everyman actor Alfredo Castro (“The Count”) plays against type in “After Elena” (“Después de Elena”) by Shawn Garry, which world premieres at the Toronto Film Festival (TIFF) on Sept.11.",
-     "url": "https://variety.com/2026/film/global/alfredo-castro-dark-comedy-after-elena-premieres-toronto-1236848837/",
-     "source_url": "https://variety.com/feed/",
-     "published": "2026-09-02T13:24:57+00:00",
-     "fetched": "2026-09-02T13:43:11+00:00"
-    },
-    {
-     "headline": "Rupert Murdoch ‘Is Very Happy’ Guy Pearce Is Playing Him in ‘Ink’; Actor Says Mogul’s Daughter Shared Praise",
-     "detail": "Rupert Murdoch is apparently “very happy” that he’s being played by Guy Pearce in Danny Boyle’s “Ink.” During the movie’s press conference at the Venice Film Festival on Wednesday, Pearce was asked along with Boyle and screenwriter James…",
-     "url": "https://variety.com/2026/film/festivals/rupert-murdoch-very-happy-guy-pearce-playing-him-ink-1236848762/",
-     "source_url": "https://variety.com/feed/",
-     "published": "2026-09-02T13:00:36+00:00",
-     "fetched": "2026-09-02T13:43:11+00:00"
+     "fetched": "2026-09-02T14:05:39+00:00"
     }
    ]
   },
@@ -200,48 +200,48 @@
    "key": "bloomberg",
    "name": "Bloomberg",
    "site": "bloomberg.com",
-   "summary": "Bloomberg's markets and business file is leading with Stocks, Bonds Steady as Oil Halts War-Fueled Rally: Markets Wrap; Latest Oil Market News and Analysis for Sept. 2; College M&A Tool Helps Schools Connect in Grim Higher Ed Era.",
+   "summary": "Bloomberg's markets and business file is leading with Stocks, Bonds Bounce as Oil Halts War-Fueled Rally: Markets Wrap; US’s Wright on Venezuela Oil Production, SPR, Strait of Hormuz; Carne de Brasil enfrenta nuevas restricciones de Unión Europea.",
    "note": null,
    "items": [
     {
-     "headline": "Stocks, Bonds Steady as Oil Halts War-Fueled Rally: Markets Wrap",
-     "detail": "A pullback in oil prices brought some relief to Wall Street traders worried about inflation, with stocks and bonds stabilizing after recent losses.",
+     "headline": "Stocks, Bonds Bounce as Oil Halts War-Fueled Rally: Markets Wrap",
+     "detail": "A pullback in oil prices brought some relief to traders worried about inflation, with stocks and bonds bouncing after recent losses.",
      "url": "https://www.bloomberg.com/news/articles/2026-09-01/stock-market-today-dow-s-p-live-updates",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
      "published": "2026-09-01T22:07:33+00:00",
-     "fetched": "2026-09-02T13:43:14+00:00"
+     "fetched": "2026-09-02T14:05:42+00:00"
     },
     {
-     "headline": "Latest Oil Market News and Analysis for Sept. 2",
-     "detail": "Oil steadied near the highest closing level in five weeks as hostilities broke out again between the US and Iran, renewing the threat to energy exports from the Middle East.",
-     "url": "https://www.bloomberg.com/news/articles/2026-09-01/latest-oil-market-news-and-analysis-for-sept-2",
+     "headline": "US’s Wright on Venezuela Oil Production, SPR, Strait of Hormuz",
+     "detail": "US Energy Secretary Chris Wright discusses details of Venezuelan oil production and exports, deals signed with Chevron, ENI, and GE Vernova, and offers an update on the Strait of Hormuz. He speaks with Tyler Kendall in Caracas, Venezuela.",
+     "url": "https://www.bloomberg.com/news/videos/2026-09-02/us-s-wright-on-venezuela-oil-production-spr-hormuz-video",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-09-01T22:04:01+00:00",
-     "fetched": "2026-09-02T13:43:14+00:00"
+     "published": "2026-09-02T13:55:14+00:00",
+     "fetched": "2026-09-02T14:05:42+00:00"
     },
     {
-     "headline": "College M&A Tool Helps Schools Connect in Grim Higher Ed Era",
-     "detail": "A new tool is trying to connect colleges with potential partners as higher education institutions face a shrinking pipeline of students.",
-     "url": "https://www.bloomberg.com/news/articles/2026-09-02/college-m-a-tool-helps-schools-connect-in-brutal-higher-ed-era",
+     "headline": "Carne de Brasil enfrenta nuevas restricciones de Unión Europea",
+     "detail": "Nuevas exigencias de trazabilidad amenazan las exportaciones brasileñas de carne vacuna a Europa y ponen en riesgo un mercado de precios más altos.",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-02/carne-de-brasil-enfrenta-nuevas-restricciones-de-union-europea",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-09-02T12:45:00+00:00",
-     "fetched": "2026-09-02T13:43:14+00:00"
+     "published": "2026-09-02T13:52:45+00:00",
+     "fetched": "2026-09-02T14:05:42+00:00"
     },
     {
-     "headline": "Corn Drops Most in Three Weeks as Profit-Taking Hits Grain Rally",
-     "detail": "Corn futures fell the most in around three weeks as traders took profits after an extended rally driven by geopolitical and weather risks.",
-     "url": "https://www.bloomberg.com/news/articles/2026-09-02/corn-drops-most-in-three-weeks-as-profit-taking-hits-grain-rally",
+     "headline": "Yen Surges With Traders on High Alert for Further Intervention",
+     "detail": "The yen strengthened sharply against the US currency, leaving traders on high alert for the potential that authorities may once again intervene in the foreign-exchange market.",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-02/yen-surges-with-traders-on-high-alert-for-further-intervention",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-09-02T04:08:15+00:00",
-     "fetched": "2026-09-02T13:43:14+00:00"
+     "published": "2026-09-02T13:47:16+00:00",
+     "fetched": "2026-09-02T14:05:42+00:00"
     },
     {
-     "headline": "India Raises Record $127 Billion in Forex Deposits From Diaspora",
-     "detail": "India garnered a record of about $127 billion in foreign-currency inflows from its 35-million-strong diaspora since June through a special dollar-swap window, giving policymakers a bigger cushion to support the rupee if external pressures…",
-     "url": "https://www.bloomberg.com/news/articles/2026-09-02/india-raises-record-127-billion-in-forex-deposits-from-diaspora",
+     "headline": "Broadcom Needs Nvidia-Like Earnings to Stop $520 Billion Skid",
+     "detail": "Broadcom Inc. has had a difficult summer in the stock market, as a disappointing outlook sent the shares on a roughly $520 billion tailspin since hitting a high in early June.",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-02/broadcom-needs-nvidia-like-earnings-to-stop-520-billion-skid",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-09-02T12:50:21+00:00",
-     "fetched": "2026-09-02T13:43:14+00:00"
+     "published": "2026-09-02T10:45:01+00:00",
+     "fetched": "2026-09-02T14:05:42+00:00"
     }
    ]
   },
@@ -258,7 +258,7 @@
      "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
      "published": "2026-09-02T13:04:47+00:00",
-     "fetched": "2026-09-02T13:43:16+00:00"
+     "fetched": "2026-09-02T14:05:44+00:00"
     },
     {
      "headline": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
@@ -266,7 +266,7 @@
      "url": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
      "published": "2026-09-02T11:47:11+00:00",
-     "fetched": "2026-09-02T13:43:16+00:00"
+     "fetched": "2026-09-02T14:05:44+00:00"
     },
     {
      "headline": "US sailors arrive in Thailand's Pattaya after record 250 days at sea",
@@ -274,7 +274,7 @@
      "url": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
      "published": "2026-09-02T10:04:28+00:00",
-     "fetched": "2026-09-02T13:43:16+00:00"
+     "fetched": "2026-09-02T14:05:44+00:00"
     },
     {
      "headline": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
@@ -282,7 +282,7 @@
      "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
      "published": "2026-09-02T13:16:26+00:00",
-     "fetched": "2026-09-02T13:43:16+00:00"
+     "fetched": "2026-09-02T14:05:44+00:00"
     },
     {
      "headline": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
@@ -290,7 +290,7 @@
      "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
      "published": "2026-09-02T11:51:46+00:00",
-     "fetched": "2026-09-02T13:43:16+00:00"
+     "fetched": "2026-09-02T14:05:44+00:00"
     }
    ]
   },
@@ -298,16 +298,40 @@
    "key": "france24",
    "name": "France 24",
    "site": "france24.com",
-   "summary": "France 24's English service, reporting from Paris on Europe, Africa and the Middle East is leading with Nepal floods: Hundreds of unidentified bodies; Germany investigates suspected power substation sabotage, Russia summons German envoy; World's only female tetraplegic racing driver on 'making the most' of what she's got.",
+   "summary": "France 24's English service, reporting from Paris on Europe, Africa and the Middle East is leading with 'Dangerous consequences': Iran warns US after alleged strike on wedding; French-Saudi ‘Dragon Ball’ theme park puzzles Japanese manga fans; Macron set to unveil Bayeux Tapestry in 'once in a generation' UK loan.",
    "note": null,
    "items": [
+    {
+     "headline": "'Dangerous consequences': Iran warns US after alleged strike on wedding",
+     "detail": "Iran has launched strikes towards US allies in the Gulf this Wednesday after US bombardment that Tehran said hit a wedding party, killing five people and wounding dozens.",
+     "url": "https://www.france24.com/en/video/20260902-dangerous-consequences-iran-warns-us-after-alleged-strike-on-wedding",
+     "source_url": "https://www.france24.com/en/rss",
+     "published": "2026-09-02T13:43:13+00:00",
+     "fetched": "2026-09-02T14:05:46+00:00"
+    },
+    {
+     "headline": "French-Saudi ‘Dragon Ball’ theme park puzzles Japanese manga fans",
+     "detail": "Plans to build a manga-themed park outside Paris have sparked excitement in France, one of the first Western countries to fall in love with Akira Toriyama’s iconic “Dragon Ball” franchise.",
+     "url": "https://www.france24.com/en/france/20260902-french-saudi-dragon-ball-theme-park-puzzles-japan-manga-fans",
+     "source_url": "https://www.france24.com/en/rss",
+     "published": "2026-09-02T13:42:19+00:00",
+     "fetched": "2026-09-02T14:05:46+00:00"
+    },
+    {
+     "headline": "Macron set to unveil Bayeux Tapestry in 'once in a generation' UK loan",
+     "detail": "French President Emmanuel Macron is set to assist in the unveiling of the Bayeux Tapestry as it goes on show in the UK as part of a historic loan to the British Museum on Wednesday.",
+     "url": "https://www.france24.com/en/video/20260902-macron-set-to-unveil-bayeux-tapestry-in-once-in-a-generation-uk-loan",
+     "source_url": "https://www.france24.com/en/rss",
+     "published": "2026-09-02T13:39:00+00:00",
+     "fetched": "2026-09-02T14:05:46+00:00"
+    },
     {
      "headline": "Nepal floods: Hundreds of unidentified bodies",
      "detail": "France 24's Shahzaib Wahlah reports from Kathmandu, Nepal, after visiting hospitals and morgues in the city struggling to cope with the influx of dead from the devastating floods that hit the country a week ago.",
      "url": "https://www.france24.com/en/video/20260902-nepal-floods-hundreds-of-unidentified-bodies",
      "source_url": "https://www.france24.com/en/rss",
      "published": "2026-09-02T13:36:19+00:00",
-     "fetched": "2026-09-02T13:43:18+00:00"
+     "fetched": "2026-09-02T14:05:46+00:00"
     },
     {
      "headline": "Germany investigates suspected power substation sabotage, Russia summons German envoy",
@@ -315,31 +339,7 @@
      "url": "https://www.france24.com/en/europe/20260902-germany-ivestigates-suspected-power-substation-sabotage-russia-summons-german-envoy",
      "source_url": "https://www.france24.com/en/rss",
      "published": "2026-09-02T13:15:48+00:00",
-     "fetched": "2026-09-02T13:43:18+00:00"
-    },
-    {
-     "headline": "World's only female tetraplegic racing driver on 'making the most' of what she's got",
-     "detail": "A pioneering British sportswoman who broke her neck in a car crash when she was 16 says that after the accident, she decided to make the most of what she'd got.",
-     "url": "https://www.france24.com/en/tv-shows/perspective/20260902-world-s-only-female-tetraplegic-racing-driver-on-making-the-most-of-what-she-s-got",
-     "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-09-02T13:10:08+00:00",
-     "fetched": "2026-09-02T13:43:18+00:00"
-    },
-    {
-     "headline": "IMF reaches historical loan agreement with Senegal",
-     "detail": "The IMF and Senegal have agreed on a new 2.2 billion-dollar loan programme to support financial reforms, a relief for the country after a huge amount of unreported debt recently came to light.",
-     "url": "https://www.france24.com/en/imf-reaches-historical-loan-agreement-with-senegal",
-     "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-09-02T12:51:27+00:00",
-     "fetched": "2026-09-02T13:43:18+00:00"
-    },
-    {
-     "headline": "UNIFIL peacekeepers patrol south Lebanon, caught between Israel and Hezbollah",
-     "detail": "Since this spring, about 6 percent of Lebanon has been occupied by the Israeli army. On the ground, around 600 French soldiers from the United Nations Interim Force in Lebanon (UNIFIL) continue to patrol the zone.",
-     "url": "https://www.france24.com/en/tv-shows/focus/20260902-unifil-peacekeepers-patrol-south-lebanon-caught-between-israel-and-hezbollah",
-     "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-09-02T12:41:09+00:00",
-     "fetched": "2026-09-02T13:43:18+00:00"
+     "fetched": "2026-09-02T14:05:46+00:00"
     }
    ]
   },
@@ -347,16 +347,24 @@
    "key": "aljazeera",
    "name": "Al Jazeera",
    "site": "aljazeera.com",
-   "summary": "Al Jazeera English, with strong Middle East and Africa coverage is leading with In Yemen, dates provide lifeline for farmers with few economic options; Charlie Kirk murder suspect pleads not guilty to murder charge; Putin and Zelenskyy issue threats as strikes rock Ukraine, Russia.",
+   "summary": "Al Jazeera English, with strong Middle East and Africa coverage is leading with EU or Eurasia: Why Putin sparred with Armenia’s PM; In Yemen, dates provide lifeline for farmers with few economic options; Charlie Kirk murder suspect pleads not guilty to murder charge.",
    "note": null,
    "items": [
+    {
+     "headline": "EU or Eurasia: Why Putin sparred with Armenia’s PM",
+     "detail": "Relations between Russia and Armenia have reached historic lows as Yerevan pivots toward the West.",
+     "url": "https://www.aljazeera.com/news/2026/9/2/eu-or-eurasia-why-putin-sparred-with-armenias-pm?traffic_source=rss",
+     "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
+     "published": "2026-09-02T13:36:36+00:00",
+     "fetched": "2026-09-02T14:05:47+00:00"
+    },
     {
      "headline": "In Yemen, dates provide lifeline for farmers with few economic options",
      "detail": "Hindered by poor infrastructure and climate challenges, farmers in Yemen cling to traditional methods to harvest dates.",
      "url": "https://www.aljazeera.com/features/2026/9/2/in-yemen-dates-provide-lifeline-for-farmers-with-few-economic-options?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
      "published": "2026-09-02T13:29:51+00:00",
-     "fetched": "2026-09-02T13:43:19+00:00"
+     "fetched": "2026-09-02T14:05:47+00:00"
     },
     {
      "headline": "Charlie Kirk murder suspect pleads not guilty to murder charge",
@@ -364,7 +372,7 @@
      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/charlie-kirk-murder-suspect-pleads-not-guilty-to-murder-charge?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
      "published": "2026-09-02T12:57:45+00:00",
-     "fetched": "2026-09-02T13:43:19+00:00"
+     "fetched": "2026-09-02T14:05:47+00:00"
     },
     {
      "headline": "Putin and Zelenskyy issue threats as strikes rock Ukraine, Russia",
@@ -372,7 +380,7 @@
      "url": "https://www.aljazeera.com/news/2026/9/2/putin-and-zelenskyy-issue-threats-as-strikes-rock-ukraine-russia?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
      "published": "2026-09-02T12:55:42+00:00",
-     "fetched": "2026-09-02T13:43:19+00:00"
+     "fetched": "2026-09-02T14:05:47+00:00"
     },
     {
      "headline": "Bodies excavated from worst flood-hit district near Nepal-China border",
@@ -380,15 +388,7 @@
      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/bodies-excavated-from-worst-flood-hit-district-near-nepal-china-border?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
      "published": "2026-09-02T12:53:27+00:00",
-     "fetched": "2026-09-02T13:43:19+00:00"
-    },
-    {
-     "headline": "What is Iran’s Castle Breaker missile, used against US bases?",
-     "detail": "Kheibar Shekan, Iran's medium-range missile, is said to play a pivotal role in escalating US-Israel tensions.",
-     "url": "https://www.aljazeera.com/news/2026/9/2/what-is-irans-castle-breaker-missile-used-against-us-bases?traffic_source=rss",
-     "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
-     "published": "2026-09-02T12:38:39+00:00",
-     "fetched": "2026-09-02T13:43:19+00:00"
+     "fetched": "2026-09-02T14:05:47+00:00"
     }
    ]
   }
