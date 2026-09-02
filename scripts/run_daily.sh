@@ -6,6 +6,12 @@ set -euo pipefail
 PROJ="/Users/brandonpotts/.verdent/verdent-projects/run-the-public-news"
 LOG="$PROJ/scheduler.log"
 export PATH="/usr/local/bin:/opt/homebrew/bin:/usr/bin:/bin"
+# This project's identity is the Evening Edition regardless of what the wall
+# clock says. build.py otherwise falls back to auto-detecting am/pm from the
+# Sydney clock, which is only correct if this script happens to run inside
+# its scheduled 18:00 window -- a manual/out-of-window run would mislabel
+# the masthead and PDF filename as the Morning Edition instead.
+export EDITION_OVERRIDE="Evening Edition"
 
 cd "$PROJ"
 {

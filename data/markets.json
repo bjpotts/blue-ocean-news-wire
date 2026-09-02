@@ -1,15 +1,15 @@
 {
- "as_of": "Wednesday 02 September 2026, 18:00 AEST",
+ "as_of": "Wednesday 02 September 2026, 23:37 AEST",
  "btc": {
-  "price": "$77,466",
-  "chg": "-1.46%",
+  "price": "$76,700",
+  "chg": "-1.21%",
   "source": "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd&include_24hr_change=true"
  },
  "btc_crosschecks": [
   {
    "source": "CoinGecko API",
-   "price": "$77,466",
-   "chg": "-1.46%"
+   "price": "$76,700",
+   "chg": "-1.21%"
   }
  ],
  "fx": [
@@ -131,20 +131,20 @@
   {
    "name": "S&P 500",
    "symbol": "^GSPC",
-   "value": "7,631.47",
-   "chg": "-0.71%"
+   "value": "7,637.16",
+   "chg": "+0.07%"
   },
   {
    "name": "Nasdaq Composite",
    "symbol": "^IXIC",
-   "value": "26,100",
-   "chg": "-1.03%"
+   "value": "26,070",
+   "chg": "-0.12%"
   },
   {
    "name": "TSX Composite",
    "symbol": "^GSPTSE",
-   "value": "35,826",
-   "chg": "-1.23%"
+   "value": "36,049",
+   "chg": "+0.62%"
   },
   {
    "name": "IPC Mexico",
@@ -155,62 +155,62 @@
   {
    "name": "Ibovespa",
    "symbol": "^BVSP",
-   "value": "179,722",
-   "chg": "+1.30%"
+   "value": "180,886",
+   "chg": "+0.65%"
   },
   {
    "name": "FTSE 100",
    "symbol": "^FTSE",
-   "value": "10,763",
-   "chg": "-0.24%"
+   "value": "10,760",
+   "chg": "-0.27%"
   },
   {
    "name": "DAX",
    "symbol": "^GDAXI",
-   "value": "25,884",
-   "chg": "-0.33%"
+   "value": "25,876",
+   "chg": "-0.36%"
   },
   {
    "name": "CAC 40",
    "symbol": "^FCHI",
-   "value": "8,285.13",
-   "chg": "-0.20%"
+   "value": "8,299.74",
+   "chg": "-0.03%"
   },
   {
    "name": "FTSE MIB",
    "symbol": "FTSEMIB.MI",
-   "value": "51,839",
-   "chg": "-0.15%"
+   "value": "51,816",
+   "chg": "-0.19%"
   },
   {
    "name": "IBEX 35",
    "symbol": "^IBEX",
-   "value": "19,873",
-   "chg": "+0.25%"
+   "value": "19,858",
+   "chg": "+0.17%"
   },
   {
    "name": "EURO STOXX 50",
    "symbol": "^STOXX50E",
-   "value": "6,365.34",
-   "chg": "-0.06%"
+   "value": "6,369.02",
+   "chg": "+0.00%"
   },
   {
    "name": "OMX Stockholm 30",
    "symbol": "^OMX",
-   "value": "3,245.85",
-   "chg": "-0.63%"
+   "value": "3,243.42",
+   "chg": "-0.70%"
   },
   {
    "name": "MOEX Russia",
    "symbol": "IMOEX",
-   "value": "2,169.56",
-   "chg": "-0.81%"
+   "value": "2,173.17",
+   "chg": "-0.65%"
   },
   {
    "name": "DFM General (Dubai)",
    "symbol": "DFMGI.AE",
-   "value": "5,799.18",
-   "chg": "-0.60%"
+   "value": "5,814.94",
+   "chg": "-0.33%"
   },
   {
    "name": "Nikkei 225",
@@ -221,8 +221,8 @@
   {
    "name": "Hang Seng",
    "symbol": "^HSI",
-   "value": "25,270",
-   "chg": "-0.23%"
+   "value": "25,311",
+   "chg": "-0.07%"
   },
   {
    "name": "Shanghai Composite",
@@ -245,14 +245,14 @@
   {
    "name": "SET Index",
    "symbol": "^SET.BK",
-   "value": "1,576.58",
-   "chg": "-0.76%"
+   "value": "1,575.07",
+   "chg": "-0.86%"
   },
   {
    "name": "BSE Sensex",
    "symbol": "^BSESN",
-   "value": "76,452",
-   "chg": "-0.64%"
+   "value": "76,570",
+   "chg": "-0.49%"
   },
   {
    "name": "S&P/ASX 200",
@@ -277,8 +277,8 @@
   {
    "name": "Dow Jones",
    "symbol": "^DJI",
-   "value": "52,767",
-   "chg": "-0.79%"
+   "value": "53,019",
+   "chg": "+0.48%"
   },
   {
    "name": "Russell 2000",
@@ -289,11 +289,11 @@
   {
    "name": "Straits Times",
    "symbol": "^STI",
-   "value": "5,734.45",
-   "chg": "+0.42%"
+   "value": "5,744.11",
+   "chg": "+0.59%"
   }
  ],
  "indices_source": "https://finance.yahoo.com/world-indices",
- "indices_asof": "Wednesday 02 September 2026, 08:00 UTC",
+ "indices_asof": "Wednesday 02 September 2026, 13:37 UTC",
  "indices_asof_label": "Wednesday 02 September 2026"
 }

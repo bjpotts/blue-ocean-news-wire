@@ -12,7 +12,7 @@
      "outlet": "Stockhead",
      "source_url": "https://stockhead.com.au/feed/",
      "published": "2026-09-02T05:19:32+00:00",
-     "fetched": "2026-09-02T08:01:06+00:00"
+     "fetched": "2026-09-02T13:41:54+00:00"
     },
     {
      "headline": "Alterity secures at least $4.2m from options ahead of key Phase III MSA trial",
@@ -21,7 +21,7 @@
      "outlet": "Stockhead",
      "source_url": "https://stockhead.com.au/feed/",
      "published": "2026-09-01T23:42:56+00:00",
-     "fetched": "2026-09-02T08:01:06+00:00"
+     "fetched": "2026-09-02T13:41:54+00:00"
     },
     {
      "headline": "Titomic Raises A$16.5m to Accelerate US Manufacturing Push Ahead of Relocation",
@@ -30,7 +30,7 @@
      "outlet": "Small Caps",
      "source_url": "https://smallcaps.com.au/feed",
      "published": "2026-09-02T01:56:07+00:00",
-     "fetched": "2026-09-02T08:01:06+00:00"
+     "fetched": "2026-09-02T13:41:55+00:00"
     }
    ]
   },
@@ -46,7 +46,7 @@
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
      "published": "2026-09-02T07:03:43+00:00",
-     "fetched": "2026-09-02T08:01:07+00:00"
+     "fetched": "2026-09-02T13:42:00+00:00"
     },
     {
      "headline": "Shein slips on Hong Kong debut amid fast-fashion challenges",
@@ -55,7 +55,7 @@
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
      "published": "2026-09-01T09:11:19+00:00",
-     "fetched": "2026-09-02T08:01:07+00:00"
+     "fetched": "2026-09-02T13:42:00+00:00"
     },
     {
      "headline": "Shein shares recover after 10% drop on Hong Kong debut",
@@ -64,7 +64,7 @@
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
      "published": "2026-09-01T00:00:15+00:00",
-     "fetched": "2026-09-02T08:01:07+00:00"
+     "fetched": "2026-09-02T13:42:00+00:00"
     },
     {
      "headline": "China’s CXMT posts massive 870% revenue surge as ‘aggressive expansion’ pays off",
@@ -73,7 +73,7 @@
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
      "published": "2026-08-28T11:06:12+00:00",
-     "fetched": "2026-09-02T08:01:07+00:00"
+     "fetched": "2026-09-02T13:42:00+00:00"
     }
    ]
   },
@@ -89,7 +89,7 @@
      "outlet": "IPOScoop",
      "source_url": "https://www.iposcoop.com/feed/",
      "published": "2026-09-01T16:39:45+00:00",
-     "fetched": "2026-09-02T08:01:09+00:00"
+     "fetched": "2026-09-02T13:42:04+00:00"
     },
     {
      "headline": "The IPO Buzz: Anthropic & Aggreko Stir Anticipation – After Labor Day",
@@ -98,7 +98,7 @@
      "outlet": "IPOScoop",
      "source_url": "https://www.iposcoop.com/feed/",
      "published": "2026-08-31T18:41:23+00:00",
-     "fetched": "2026-09-02T08:01:09+00:00"
+     "fetched": "2026-09-02T13:42:04+00:00"
     },
     {
      "headline": "The SPAC IPO Buzz: Inflection Point Acquisition VIII Raises $250 Million",
@@ -107,7 +107,7 @@
      "outlet": "IPOScoop",
      "source_url": "https://www.iposcoop.com/feed/",
      "published": "2026-08-28T11:28:37+00:00",
-     "fetched": "2026-09-02T08:01:09+00:00"
+     "fetched": "2026-09-02T13:42:04+00:00"
     },
     {
      "headline": "The SPAC IPO Buzz: JATT III Acquisition (JTTT) Jumps 15 Percent in its NASDAQ Debut",
@@ -116,14 +116,14 @@
      "outlet": "IPOScoop",
      "source_url": "https://www.iposcoop.com/feed/",
      "published": "2026-08-26T20:02:22+00:00",
-     "fetched": "2026-09-02T08:01:09+00:00"
+     "fetched": "2026-09-02T13:42:04+00:00"
     }
    ]
   },
   {
    "key": "uk",
    "name": "UK",
-   "summary": "UK equity capital markets activity captured this run runs to 2 items, led by SpaceX float ‘could kickstart mega IPO access for British retail investors’. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "summary": "UK equity capital markets activity captured this run runs to 3 items, led by SpaceX float ‘could kickstart mega IPO access for British retail investors’. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
    "items": [
     {
      "headline": "SpaceX float ‘could kickstart mega IPO access for British retail investors’",
@@ -132,7 +132,16 @@
      "outlet": "City A.M.",
      "source_url": "https://www.cityam.com/category/markets/feed/",
      "published": "2026-09-01T06:00:00+00:00",
-     "fetched": "2026-09-02T08:01:12+00:00"
+     "fetched": "2026-09-02T13:42:08+00:00"
+    },
+    {
+     "headline": "Burnham refuses to rule out more borrowing and blames Tories for debt crisis",
+     "detail": "Andy Burnham has refused to rule out borrowing more and raising taxes to fund his government’s spending plans, as he blamed the UK’s vulnerability to the ongoing global bond rout on the Conservatives.",
+     "url": "https://www.cityam.com/burnham-refuses-to-rule-out-more-borrowing-and-blames-tories-for-debt-crisis/",
+     "outlet": "City A.M.",
+     "source_url": "https://www.cityam.com/feed/",
+     "published": "2026-09-02T13:06:21+00:00",
+     "fetched": "2026-09-02T13:42:10+00:00"
     },
     {
      "headline": "Jim O’Neill: Capital gains tax hike ‘looms’ as top option for Burnham",
@@ -141,32 +150,32 @@
      "outlet": "City A.M.",
      "source_url": "https://www.cityam.com/feed/",
      "published": "2026-09-02T07:44:30+00:00",
-     "fetched": "2026-09-02T08:01:16+00:00"
+     "fetched": "2026-09-02T13:42:10+00:00"
     }
    ]
   },
   {
    "key": "europe",
    "name": "Europe",
-   "summary": "Europe equity capital markets activity captured this run runs to 2 items, led by Vietnam’s Vingroup Plans Debut Won Bond After Shares Hit Record. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "summary": "Europe equity capital markets activity captured this run runs to 2 items, led by Norwegian Hydro Stocks Hit Record Low, Raising Power Price Risks. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
    "items": [
     {
-     "headline": "Vietnam’s Vingroup Plans Debut Won Bond After Shares Hit Record",
-     "detail": "Vietnamese conglomerate Vingroup JSC is in discussions with brokerages about selling its first bond denominated in the Korean won, according to people familiar with the matter, as the company seeks to broaden its investor base after its…",
-     "url": "https://www.bloomberg.com/news/articles/2026-09-02/vietnam-s-vingroup-plans-debut-won-bond-after-shares-hit-record",
+     "headline": "Norwegian Hydro Stocks Hit Record Low, Raising Power Price Risks",
+     "detail": "Reservoirs that supply southern Norway with electricity fell to a record low for this time of year, raising the risk of higher power prices and greater reliance on natural gas across Europe this winter.",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-02/norwegian-hydro-stocks-hit-record-low-raising-power-price-risks",
      "outlet": "Bloomberg",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-09-02T06:12:18+00:00",
-     "fetched": "2026-09-02T08:01:17+00:00"
+     "published": "2026-09-02T12:34:21+00:00",
+     "fetched": "2026-09-02T13:42:15+00:00"
     },
     {
-     "headline": "DeepZero Chairwoman on Earnings Outlook",
-     "detail": "Grace Huang, Chairwoman at Chinese martech firm DeepZero, discusses the company's first set of half-year results since its listing in Hong Kong. (Source: Bloomberg)",
-     "url": "https://www.bloomberg.com/news/videos/2026-09-02/deepzero-chairwoman-on-earnings-outlook-video",
+     "headline": "India’s Zerodha Gets Merchant Banking Permit as IPO Market Booms",
+     "detail": "A unit of Zerodha Broking Ltd., India’s second-largest broker founded by billionaire Nithin Kamath, secured a merchant banking license as the nation’s booming equity capital market draws new entrants seeking a share of record fees.",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-02/india-s-zerodha-gets-merchant-banking-permit-as-ipo-market-booms",
      "outlet": "Bloomberg",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-09-02T06:04:10+00:00",
-     "fetched": "2026-09-02T08:01:17+00:00"
+     "published": "2026-09-02T12:31:55+00:00",
+     "fetched": "2026-09-02T13:42:15+00:00"
     }
    ]
   },
@@ -182,7 +191,7 @@
      "outlet": "CNBC Markets",
      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258",
      "published": "2026-08-27T17:31:09+00:00",
-     "fetched": "2026-09-02T08:01:18+00:00"
+     "fetched": "2026-09-02T13:42:20+00:00"
     }
    ]
   }

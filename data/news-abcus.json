@@ -3,16 +3,16 @@
   "key": "abcus",
   "name": "ABC News (US)",
   "site": "abcnews.go.com",
-  "summary": "ABC News in the United States, the network's national and world file is leading with New York City Public Schools banning AI use through middle school this year; LIVE: ABC News Live; Trump says he is nominating Hung Cao to be Navy secretary.",
+  "summary": "ABC News in the United States, the network's national and world file is leading with Tiger Woods changes plea in DUI case, driver's license suspended for 5 years; LIVE: ABC News Live; 'Dancing with the Stars' season 35: Meet the celebrity cast.",
   "note": null,
   "items": [
    {
-    "headline": "New York City Public Schools banning AI use through middle school this year",
-    "detail": "Students in the nation's largest school district return to classrooms next week.",
-    "url": "https://abcnews.go.com/Technology/new-york-city-public-schools-banning-ai-middle/story?id=136134872",
+    "headline": "Tiger Woods changes plea in DUI case, driver's license suspended for 5 years",
+    "detail": "Tiger Woods appeared in court in Florida Wednesday to change his plea in his driving under the influence case.",
+    "url": "https://abcnews.go.com/US/tiger-woods-plea-dui-case-drivers-license-suspended/story?id=136125302",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-09-02T01:03:57-04:00",
-    "fetched": "2026-09-02T08:01:26+00:00"
+    "published": "2026-09-02T09:21:40-04:00",
+    "fetched": "2026-09-02T13:43:03+00:00"
    },
    {
     "headline": "LIVE: ABC News Live",
@@ -20,31 +20,31 @@
     "url": "https://abcnews.go.com/video/41463246/",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
     "published": "2026-09-01T10:18:43-04:00",
-    "fetched": "2026-09-02T08:01:26+00:00"
+    "fetched": "2026-09-02T13:43:03+00:00"
    },
    {
-    "headline": "Trump says he is nominating Hung Cao to be Navy secretary",
-    "detail": "The announcement comes one day after Army Secretary Dan Driscoll resigned",
-    "url": "https://abcnews.go.com/Politics/trump-nominating-hung-cao-navy-secretary/story?id=136128320",
+    "headline": "'Dancing with the Stars' season 35: Meet the celebrity cast",
+    "detail": "The season 35 celebrity cast of \"Dancing with the Stars\" was unveiled Wednesday on \"Good Morning America.\"",
+    "url": "https://abcnews.go.com/GMA/Culture/dancing-with-the-stars-season-35-celebrity-cast/story?id=136095657",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-09-01T23:21:14-04:00",
-    "fetched": "2026-09-02T08:01:26+00:00"
+    "published": "2026-09-02T08:51:44-04:00",
+    "fetched": "2026-09-02T13:43:03+00:00"
    },
    {
-    "headline": "Beloved dad of 4 who was killed by lightning stopped to help boater, cousin says",
-    "detail": "A beloved father of four died from a lightning strike while jet-skiing in Florida, according to officials and his family.",
-    "url": "https://abcnews.go.com/US/beloved-dad-4-killed-lightning-jet-skiing-florida/story?id=136114904",
+    "headline": "Bank of America worker killed in 'unprovoked' Times Square stabbing identified",
+    "detail": "The stabbings occurred at 42nd Street and Seventh Avenue. The woman allegedly fled north toward the NYPD substation, where police confronted her, authorities said.",
+    "url": "https://abcnews.go.com/US/2-stabbed-times-square-suspect-shot-police-authorities/story?id=136100086",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-09-01T17:46:41-04:00",
-    "fetched": "2026-09-02T08:01:26+00:00"
+    "published": "2026-09-02T06:00:34-04:00",
+    "fetched": "2026-09-02T13:43:03+00:00"
    },
    {
-    "headline": "WATCH: Los Angeles Zoo celebrates milestone after their great ape baby boom",
-    "detail": "David Muir reports on how much the great apes have grown over the past year – and what their births mean for the endangered species.",
-    "url": "https://abcnews.go.com/video/136128536/",
+    "headline": "WATCH: Taylor Swift and Travis Kelce debut their new dog",
+    "detail": "The newlyweds reveal their new dog, Wendy, for the first time in a new Tommy Hilfiger Fall 2026 campaign.",
+    "url": "https://abcnews.go.com/video/136139038/",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-09-02T01:53:03-04:00",
-    "fetched": "2026-09-02T08:01:26+00:00"
+    "published": "2026-09-02T08:18:06-04:00",
+    "fetched": "2026-09-02T13:43:03+00:00"
    }
   ]
  }
