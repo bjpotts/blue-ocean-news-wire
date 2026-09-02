@@ -12,7 +12,7 @@
      "outlet": "Stockhead",
      "source_url": "https://stockhead.com.au/feed/",
      "published": "2026-09-02T05:19:32+00:00",
-     "fetched": "2026-09-02T15:17:01+00:00"
+     "fetched": "2026-09-02T16:04:27+00:00"
     },
     {
      "headline": "Alterity secures at least $4.2m from options ahead of key Phase III MSA trial",
@@ -21,7 +21,7 @@
      "outlet": "Stockhead",
      "source_url": "https://stockhead.com.au/feed/",
      "published": "2026-09-01T23:42:56+00:00",
-     "fetched": "2026-09-02T15:17:01+00:00"
+     "fetched": "2026-09-02T16:04:27+00:00"
     },
     {
      "headline": "Titomic Raises A$16.5m to Accelerate US Manufacturing Push Ahead of Relocation",
@@ -30,75 +30,75 @@
      "outlet": "Small Caps",
      "source_url": "https://smallcaps.com.au/feed",
      "published": "2026-09-02T01:56:07+00:00",
-     "fetched": "2026-09-02T15:17:02+00:00"
+     "fetched": "2026-09-02T16:04:28+00:00"
     }
    ]
   },
   {
    "key": "asia",
    "name": "Asia (Japan/Singapore/Hong Kong/China)",
-   "summary": "Asia (Japan/Singapore/Hong Kong/China) equity capital markets activity captured this run runs to 4 items, led by Philippine fast-food giant Jollibee picks Hong Kong over New York for spin-off’s listing. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "summary": "Asia (Japan/Singapore/Hong Kong/China) equity capital markets activity captured this run runs to 4 items, led by Macau tycoon Lawrence Ho’s family office expands into space sector in de-SPAC deal. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
    "items": [
     {
-     "headline": "Philippine fast-food giant Jollibee picks Hong Kong over New York for spin-off’s listing",
-     "detail": "The parent company of Philippine fast-food giant Jollibee plans to spin off and list its international operations in Hong Kong instead of New York in a strong endorsement of the city’s initial public offering (IPO) diversification efforts.",
-     "url": "https://www.scmp.com/business/banking-finance/article/3366078/philippine-fast-food-giant-jollibee-picks-hong-kong-over-new-york-spin-listing?utm_source=rss_feed",
+     "headline": "Macau tycoon Lawrence Ho’s family office expands into space sector in de-SPAC deal",
+     "detail": "Black Spade Capital, the family office of Macau casino billionaire Lawrence Ho Yau-lung, has announced its third “de-SPAC” deal through a merger with a satellite communications firm, a move granting it access to the space technology…",
+     "url": "https://www.scmp.com/business/companies/article/3365579/macau-tycoon-lawrence-hos-family-office-expands-space-sector-de-spac-deal?utm_source=rss_feed",
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
-     "published": "2026-09-02T07:03:43+00:00",
-     "fetched": "2026-09-02T15:17:11+00:00"
+     "published": "2026-08-28T08:01:07+00:00",
+     "fetched": "2026-09-02T16:04:37+00:00"
     },
     {
-     "headline": "Shein slips on Hong Kong debut amid fast-fashion challenges",
-     "detail": "Fast-fashion retailer Shein fell on its Hong Kong trading debut as the unprofitable company contends with rising competition and the loss of tax breaks in key markets.",
-     "url": "https://www.scmp.com/plus/business/banking-finance/article/3365973/shein-slips-hong-kong-debut-amid-fast-fashion-challenges?utm_source=rss_feed",
+     "headline": "Bitcoin rally and Alibaba share purchases: the numbers moving markets",
+     "detail": "Bitcoin and gold rallied this week as the size of America’s sovereign debt continued to haunt global financial markets.",
+     "url": "https://www.scmp.com/business/china-business/article/3365540/bitcoin-rally-and-alibaba-share-purchases-numbers-moving-markets?utm_source=rss_feed",
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
-     "published": "2026-09-01T09:11:19+00:00",
-     "fetched": "2026-09-02T15:17:11+00:00"
+     "published": "2026-08-28T07:00:13+00:00",
+     "fetched": "2026-09-02T16:04:37+00:00"
     },
     {
-     "headline": "Shein shares recover after 10% drop on Hong Kong debut",
-     "detail": "Shein Global Holdings plunged as much as 10 per cent in its Hong Kong trading debut on Tuesday after raising HK$13.6 billion (US$1.7 billion), further shaking market confidence in the company’s valuation.",
-     "url": "https://www.scmp.com/business/banking-finance/article/3365886/shein-shares-plunge-28-grey-market-ahead-hong-kong-debut?utm_source=rss_feed",
+     "headline": "US surgical robotics firm eyes Hong Kong listing to power push into mainland China",
+     "detail": "SoftBank-backed surgical robotics company Noah Medical has begun preparations for a Hong Kong initial public offering, joining a wave of cutting-edge technology firms tapping the city’s international fundraising pool.",
+     "url": "https://www.scmp.com/business/companies/article/3365539/softbank-backed-surgical-robotics-firm-eyes-hong-kong-listing-power-mainland-china-push?utm_source=rss_feed",
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
-     "published": "2026-09-01T00:00:15+00:00",
-     "fetched": "2026-09-02T15:17:11+00:00"
+     "published": "2026-08-28T05:00:12+00:00",
+     "fetched": "2026-09-02T16:04:37+00:00"
     },
     {
-     "headline": "China’s CXMT posts massive 870% revenue surge as ‘aggressive expansion’ pays off",
-     "detail": "Chinese chipmaker ChangXin Memory Technologies (CXMT) reported a sharp surge in first-half revenue on Friday, as the firm released its first financial results since becoming China’s most valuable publicly traded company in a blockbuster…",
-     "url": "https://www.scmp.com/tech/big-tech/article/3365623/chinas-cxmt-posts-massive-870-revenue-surge-aggressive-expansion-pays?utm_source=rss_feed",
+     "headline": "Hong Kong to mark National Day with 23-minute fireworks show featuring sunflowers",
+     "detail": "Hong Kong will stage a 23-minute fireworks display over Victoria Harbour on National Day on October 1 under the theme “Eternal Radiance”.",
+     "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366127/hong-kong-mark-national-day-23-minute-fireworks-show-featuring-sunflowers?utm_source=rss_feed",
      "outlet": "South China Morning Post",
-     "source_url": "https://www.scmp.com/rss/92/feed",
-     "published": "2026-08-28T11:06:12+00:00",
-     "fetched": "2026-09-02T15:17:11+00:00"
+     "source_url": "https://www.scmp.com/rss/91/feed",
+     "published": "2026-09-02T11:18:08+00:00",
+     "fetched": "2026-09-02T16:04:41+00:00"
     }
    ]
   },
   {
    "key": "us",
    "name": "US",
-   "summary": "US equity capital markets activity captured this run runs to 4 items, led by The SPAC IPO Buzz: Inflection Point Acquisition VIII Raises $250 Million. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "summary": "US equity capital markets activity captured this run runs to 4 items, led by The SPAC IPO Buzz: Southern Cross Acquisition II (SCATU) Raises $75 Million. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
    "items": [
     {
-     "headline": "The SPAC IPO Buzz: Inflection Point Acquisition VIII Raises $250 Million",
-     "detail": "Inflection Point Acquisition Corp. VIII (IPHXU) – part of Michael Blitzer’s SPAC franchise – raised $250 million – pricing 25 million units at $10.00 each – in its SPAC IPO on Thursday night, Aug. 27, 2026.",
-     "url": "https://www.iposcoop.com/the-spac-ipo-buzz-inflection-point-acquisition-viii-raises-250-million/",
+     "headline": "The SPAC IPO Buzz: Southern Cross Acquisition II (SCATU) Raises $75 Million",
+     "detail": "Southern Cross Acquisition II (SCATU), a New York-based SPAC with ties to China, raised $75 million with the pricing of its SPAC IPO – 7.5 million units at $10.00 each – on Tuesday night, Aug. 25, 2026. On Wednesday, Aug.",
+     "url": "https://www.iposcoop.com/the-spac-ipo-buzz-southern-cross-acquisition-ii-scatu-raises-75-million/",
      "outlet": "IPOScoop",
      "source_url": "https://www.iposcoop.com/feed/",
-     "published": "2026-08-28T11:28:37+00:00",
-     "fetched": "2026-09-02T15:17:18+00:00"
+     "published": "2026-08-25T22:15:49+00:00",
+     "fetched": "2026-09-02T16:04:44+00:00"
     },
     {
-     "headline": "The SPAC IPO Buzz: JATT III Acquisition (JTTT) Jumps 15 Percent in its NASDAQ Debut",
-     "detail": "JATT III Acquisition, a newly minted healthcare SPAC, soared in its NASDAQ debut – up 14.5 percent to close at $11.45 on Wednesday (Aug. 26, 2026).",
-     "url": "https://www.iposcoop.com/the-ipo-buzz-jatt-iii-acquisition-jttt-jumps-15-percent-in-its-nasdaq-debut/",
-     "outlet": "IPOScoop",
-     "source_url": "https://www.iposcoop.com/feed/",
-     "published": "2026-08-26T20:02:22+00:00",
-     "fetched": "2026-09-02T15:17:18+00:00"
+     "headline": "Fed's Hammack says 'now is the time to act' on raising interest rates",
+     "detail": "She still thinks the Fed needs to take action against inflation that is straining household budgets.",
+     "url": "https://www.cnbc.com/2026/08/27/feds-hammack-says-now-is-the-time-to-act-on-raising-interest-rates.html",
+     "outlet": "CNBC Markets",
+     "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258",
+     "published": "2026-08-27T17:31:09+00:00",
+     "fetched": "2026-09-02T16:04:49+00:00"
     },
     {
      "headline": "The IPO Buzz: SoftBank-Backed SB Energy (SBE) Files Plans for Huge IPO",
@@ -107,7 +107,7 @@
      "outlet": "IPOScoop",
      "source_url": "https://www.iposcoop.com/feed/",
      "published": "2026-09-01T16:39:45+00:00",
-     "fetched": "2026-09-02T15:17:18+00:00"
+     "fetched": "2026-09-02T16:04:44+00:00"
     },
     {
      "headline": "The IPO Buzz: Anthropic & Aggreko Stir Anticipation – After Labor Day",
@@ -116,7 +116,7 @@
      "outlet": "IPOScoop",
      "source_url": "https://www.iposcoop.com/feed/",
      "published": "2026-08-31T18:41:23+00:00",
-     "fetched": "2026-09-02T15:17:18+00:00"
+     "fetched": "2026-09-02T16:04:44+00:00"
     }
    ]
   },
@@ -132,7 +132,7 @@
      "outlet": "City A.M.",
      "source_url": "https://www.cityam.com/category/markets/feed/",
      "published": "2026-09-01T06:00:00+00:00",
-     "fetched": "2026-09-02T15:17:28+00:00"
+     "fetched": "2026-09-02T16:04:53+00:00"
     },
     {
      "headline": "Burnham refuses to rule out more borrowing and blames Tories for debt crisis",
@@ -141,7 +141,7 @@
      "outlet": "City A.M.",
      "source_url": "https://www.cityam.com/feed/",
      "published": "2026-09-02T13:06:21+00:00",
-     "fetched": "2026-09-02T15:17:34+00:00"
+     "fetched": "2026-09-02T16:04:56+00:00"
     },
     {
      "headline": "Jim O’Neill: Capital gains tax hike ‘looms’ as top option for Burnham",
@@ -150,25 +150,15 @@
      "outlet": "City A.M.",
      "source_url": "https://www.cityam.com/feed/",
      "published": "2026-09-02T07:44:30+00:00",
-     "fetched": "2026-09-02T15:17:34+00:00"
+     "fetched": "2026-09-02T16:04:56+00:00"
     }
    ]
   },
   {
    "key": "europe",
    "name": "Europe",
-   "summary": "A single verifiable equity capital markets item was found for Europe this run: Norwegian Hydro Stocks Hit Record Low, Raising Power Price Risks. No newer capital markets item has been reported for Europe since the last edition, so the same verified item(s) are carried forward.",
-   "items": [
-    {
-     "headline": "Norwegian Hydro Stocks Hit Record Low, Raising Power Price Risks",
-     "detail": "Reservoirs that supply southern Norway with electricity fell to a record low for this time of year, raising the risk of higher power prices and greater reliance on natural gas across Europe this winter.",
-     "url": "https://www.bloomberg.com/news/articles/2026-09-02/norwegian-hydro-stocks-hit-record-low-raising-power-price-risks",
-     "outlet": "Bloomberg",
-     "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-09-02T12:34:21+00:00",
-     "fetched": "2026-09-02T15:17:38+00:00"
-    }
-   ]
+   "summary": "No capital raising or new listing activity could be verified from a linked source for Europe this run, so nothing is listed rather than publishing an item without a working URL.",
+   "items": []
   },
   {
    "key": "rest",
