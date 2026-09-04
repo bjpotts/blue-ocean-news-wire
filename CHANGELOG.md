@@ -9,11 +9,10 @@ Australia/Sydney, matching the digest's own schedule. Entries begin 2026-08-31.
 
 ### Changed
 
-- Market Earnings Reporting moved from a standalone section after all nine
-  Top Performers regions to sit directly below the ANZ Top Performers block,
-  before the Japan (Asian) Top Performers block continues. The section's own
-  heading, caption, and all six region blocks are unchanged - only its
-  position in the page moved.
+- Market Earnings Reporting is now distributed through Top Performers instead
+  of placing all six earnings regions below ANZ. ANZ earnings follow ANZ Top
+  Performers, Asia earnings follow the four Asian markets, and the US, UK,
+  Europe and Rest earnings blocks each follow their matching market region.
 
 - Market Earnings Reporting now shows the top 5 reports per region (up from 3-4
   depending on region), and an empty region's summary paragraph is now the exact

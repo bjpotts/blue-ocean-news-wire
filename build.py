@@ -418,10 +418,6 @@ if us_rewrite.get("enabled"):
 
 seq = cfg["performers_sequence"]
 _perf_blocks = [perf_block(order[k], first=(i == 0)) for i, k in enumerate(seq)]
-# ANZ (index 0) sits above Market Earnings Reporting; every other region's
-# block continues below it, so the ANZ block is split out on its own.
-perf_html_anz = _perf_blocks[0]
-perf_html_rest = "\n".join(_perf_blocks[1:])
 
 # ---------------------------------------------------------------- lists
 def headline_list(items, outlet_key=None):
@@ -442,14 +438,31 @@ for r in cr["regions"]:
                    '<p class="mover-note">%s</p>%s</div>' % (E(r["name"]), E(r["summary"]), body))
 cr_html = '<div class="cr-grid">%s</div>' % "".join(cr_html)
 
-eg_html = []
+earnings_by_region = {}
 for r in eg["regions"]:
-    # summary() already states plainly when nothing verifiable was found,
-    # so no separate fallback paragraph is needed for the empty case.
     body = headline_list(r["items"]) if r["items"] else ""
-    eg_html.append('<div class="cr-region"><h3 class="subhead">%s</h3>'
-                   '<p class="mover-note">%s</p>%s</div>' % (E(r["name"]), E(r["summary"]), body))
-eg_html = '<div class="cr-grid">%s</div>' % "".join(eg_html)
+    earnings_by_region[r["key"]] = (
+        '<div class="cr-region market-earnings-block page-break-before" '
+        'data-earnings-region="%s"><h3 class="subhead">%s — %s</h3>'
+        '<p class="caption">%s</p><p class="mover-note">%s</p>%s</div>'
+        % (E(r["key"]), E(secs["market_earnings"]["heading"]), E(r["name"]),
+           E(secs["market_earnings"]["caption"]), E(r["summary"]), body))
+
+earnings_after_performer = {
+    "anz": "anz",
+    "china": "asia",
+    "us": "us",
+    "uk": "uk",
+    "germany": "europe",
+    "brazil": "rest",
+}
+perf_earnings_html = []
+for key, block in zip(seq, _perf_blocks):
+    perf_earnings_html.append(block)
+    earnings_key = earnings_after_performer.get(key)
+    if earnings_key:
+        perf_earnings_html.append(earnings_by_region[earnings_key])
+perf_earnings_html = "\n".join(perf_earnings_html)
 
 tech_html = headline_list(tech["items"])
 
@@ -571,12 +584,6 @@ HTML = """<div class="pnw">
 <p class="caption">%s</p>
 %s
 
-<h3 class="subhead page-break-before">%s</h3>
-<p class="caption">%s</p>
-%s
-
-%s
-
 <h2>%s</h2>
 <p class="section-caption">%s</p>
 %s
@@ -612,9 +619,7 @@ HTML = """<div class="pnw">
     "page-break-before" if secs["commodities"].get("page_break_before") else "",
     E(secs["commodities"]["heading"]), sourced_para(cm["summary"], cm.get("summary_sources")), grid(com_cells),
     "page-break-before" if secs["top_performers"].get("page_break_before") else "",
-    E(secs["top_performers"]["heading"]), secs["top_performers"]["caption"], perf_html_anz,
-    E(secs["market_earnings"]["heading"]), secs["market_earnings"]["caption"], eg_html,
-    perf_html_rest,
+    E(secs["top_performers"]["heading"]), secs["top_performers"]["caption"], perf_earnings_html,
     E(secs["capital_raises"]["heading"]), secs["capital_raises"]["caption"], cr_html,
     E(secs["tech"]["heading"]), secs["tech"]["caption"], tech_html,
     E(secs["world_news"]["heading"]), news_html,
