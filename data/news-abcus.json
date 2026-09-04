@@ -3,48 +3,48 @@
   "key": "abcus",
   "name": "ABC News (US)",
   "site": "abcnews.go.com",
-  "summary": "ABC News in the United States, the network's national and world file is leading with Lindsay Clancy trial: Jury returns for 5th day of deliberations; LIVE: ABC News Live; Tiger Woods changes plea in DUI case, driver's license suspended for 5 years.",
+  "summary": "ABC News in the United States, the network's national and world file is leading with Hiring blew past expectations in August, jobs report shows; LIVE: ABC News Live; 2 people rescued alive from tunnel after deadly Nepal-Tibet flash flood.",
   "note": null,
   "items": [
    {
-    "headline": "Lindsay Clancy trial: Jury returns for 5th day of deliberations",
-    "detail": "The trial of Lindsay Clancy, the Massachusetts mom who killed her three young children in January 2023, has reached its final stages.",
-    "url": "https://abcnews.go.com/GMA/News/live-updates/lindsay-clancy-trial-jurors-resume-deliberations/?id=136086599",
+    "headline": "Hiring blew past expectations in August, jobs report shows",
+    "detail": "A jobs report on Friday provided a key gauge of the U.S. economy as shoppers weather elevated inflation and central bankers weigh a possible interest rate hike.",
+    "url": "https://abcnews.go.com/Business/jobs-report-show-hiring-bounced-back-unexpected-job/story?id=136168560",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-09-02T10:49:49-04:00",
-    "fetched": "2026-09-02T16:05:47+00:00"
+    "published": "2026-09-04T08:46:59-04:00",
+    "fetched": "2026-09-04T13:16:01+00:00"
    },
    {
     "headline": "LIVE: ABC News Live",
     "detail": "24/7 coverage of breaking news and live events",
     "url": "https://abcnews.go.com/video/41463246/",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-09-01T10:18:43-04:00",
-    "fetched": "2026-09-02T16:05:47+00:00"
+    "published": "2026-09-03T16:27:27-04:00",
+    "fetched": "2026-09-04T13:16:01+00:00"
    },
    {
-    "headline": "Tiger Woods changes plea in DUI case, driver's license suspended for 5 years",
-    "detail": "Tiger Woods appeared in court in Florida Wednesday to change his plea in his driving under the influence case.",
-    "url": "https://abcnews.go.com/US/tiger-woods-plea-dui-case-drivers-license-suspended/story?id=136125302",
+    "headline": "2 people rescued alive from tunnel after deadly Nepal-Tibet flash flood",
+    "detail": "Two people have been rescued from a hydropower tunnel at the Trishuli 3A construction site, Nepal's Army confirmed Friday after posting images of the scene on Facebook.",
+    "url": "https://abcnews.go.com/International/2-people-rescued-alive-tunnel-after-deadly-nepal/story?id=136195555",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-09-02T11:01:48-04:00",
-    "fetched": "2026-09-02T16:05:47+00:00"
+    "published": "2026-09-04T08:20:26-04:00",
+    "fetched": "2026-09-04T13:16:01+00:00"
    },
    {
-    "headline": "Labor Day travel forecast: Gas prices may reach record high",
-    "detail": "Labor Day weekend is almost here and travelers across the country are gearing up to head to the airport or hit the highway for the last vacation of the summer.",
-    "url": "https://abcnews.go.com/US/labor-day-traffic-travel-busiest-times-drive-fly/story?id=135903760",
+    "headline": "Russia shifts tactics with round-the-clock attacks on Kyiv, disrupting daily life",
+    "detail": "Russian drone and missile attacks in Kyiv have intensified, disrupting daily life with constant air-raid sirens",
+    "url": "https://abcnews.go.com/International/wireStory/russia-shifts-tactics-round-clock-attacks-kyiv-disrupting-136194285",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-09-02T10:05:21-04:00",
-    "fetched": "2026-09-02T16:05:47+00:00"
+    "published": "2026-09-04T02:38:41-04:00",
+    "fetched": "2026-09-04T13:16:01+00:00"
    },
    {
-    "headline": "WATCH: Survivor speaks out after lightning strike",
-    "detail": "ABC News' Hanna Battah speaks to the victim, who is now sharing his story after a dramatic lightning strike was caught on camera.",
-    "url": "https://abcnews.go.com/video/136139979/",
+    "headline": "WATCH: Top tennis stars battle for position at US Open",
+    "detail": "ESPN’s Jeff Darlington breaks down Taylor Fritz’s strong start, Coco Gauff’s title hopes and Alexander Zverev’s run at the U.S. Open.",
+    "url": "https://abcnews.go.com/video/136185645/",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-09-02T11:38:15-04:00",
-    "fetched": "2026-09-02T16:05:47+00:00"
+    "published": "2026-09-03T18:14:55-04:00",
+    "fetched": "2026-09-04T13:16:01+00:00"
    }
   ]
  }

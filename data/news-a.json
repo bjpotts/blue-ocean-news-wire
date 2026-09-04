@@ -4,48 +4,48 @@
    "key": "abc",
    "name": "ABC News Australia",
    "site": "abc.net.au/news",
-   "summary": "The ABC's Australian and international news file is leading with Tiger Woods loses driving licence for five years after plea deal; Iran accuses US of a 'war crime' after strikes kill people at wedding party; Armed gang raids security cars of gold in one of PNG's biggest robberies.",
+   "summary": "The ABC's Australian and international news file is leading with Argentina's Milei vows Falklands oil sanctions in sovereignty push; Man jailed for recruiting underage girls for sex; Romanian prosecutors indict Tate brothers for trafficking minors, laundering charges.",
    "note": null,
    "items": [
     {
-     "headline": "Tiger Woods loses driving licence for five years after plea deal",
-     "detail": "Tiger Woods loses driving licence for five years after plea deal",
-     "url": "https://www.abc.net.au/news/2026-09-03/tiger-woods-no-contest-crash/107109462",
+     "headline": "Argentina's Milei vows Falklands oil sanctions in sovereignty push",
+     "detail": "Argentina's Milei vows Falklands oil sanctions in sovereignty push",
+     "url": "https://www.abc.net.au/news/2026-09-04/argentina-s-milei-escalates-falklands-dispute-trump-comments/107118452",
      "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
-     "published": "2026-09-02T15:46:31+00:00",
-     "fetched": "2026-09-02T16:05:25+00:00"
+     "published": "2026-09-04T11:21:28+00:00",
+     "fetched": "2026-09-04T13:15:56+00:00"
     },
     {
-     "headline": "Iran accuses US of a 'war crime' after strikes kill people at wedding party",
-     "detail": "Iran accuses US of a 'war crime' after strikes kill people at wedding party",
-     "url": "https://www.abc.net.au/news/2026-09-03/iran-us-wedding-war-crime-allegation/107109332",
+     "headline": "Man jailed for recruiting underage girls for sex",
+     "detail": "Man jailed for recruiting underage girls for sex",
+     "url": "https://www.abc.net.au/news/2026-09-04/man-sentenced-for-rape-assault-recruitment-of-underage-girls/107117638",
      "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
-     "published": "2026-09-02T15:13:24+00:00",
-     "fetched": "2026-09-02T16:05:25+00:00"
+     "published": "2026-09-04T10:03:43+00:00",
+     "fetched": "2026-09-04T13:15:56+00:00"
     },
     {
-     "headline": "Armed gang raids security cars of gold in one of PNG's biggest robberies",
-     "detail": "Armed gang raids security cars of gold in one of PNG's biggest robberies",
-     "url": "https://www.abc.net.au/news/2026-09-02/armed-robbers-steal-gold-and-cash-port-moresby/107109218",
+     "headline": "Romanian prosecutors indict Tate brothers for trafficking minors, laundering charges",
+     "detail": "Romanian prosecutors indict Tate brothers for trafficking minors, laundering charges",
+     "url": "https://www.abc.net.au/news/2026-09-04/romanian-prosecutors-indict-andrew-tristan-tate/107118732",
      "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
-     "published": "2026-09-02T11:25:08+00:00",
-     "fetched": "2026-09-02T16:05:25+00:00"
+     "published": "2026-09-04T10:01:54+00:00",
+     "fetched": "2026-09-04T13:15:56+00:00"
     },
     {
-     "headline": "Queensland Police receive safety notices over watch house conditions",
-     "detail": "Queensland Police receive safety notices over watch house conditions",
-     "url": "https://www.abc.net.au/news/2026-09-02/workplace-health-safey-notices-qld-police-watch-house-conditions/107105992",
+     "headline": "Jai Arrow makes emotional 100th Souths appearance, Souths thrash Roosters",
+     "detail": "Jai Arrow makes emotional 100th Souths appearance, Souths thrash Roosters",
+     "url": "https://www.abc.net.au/news/2026-09-04/nrl-live-rabbitohs-roosters-jai-arrow/107111896",
      "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
-     "published": "2026-09-02T08:50:15+00:00",
-     "fetched": "2026-09-02T16:05:25+00:00"
+     "published": "2026-09-04T09:15:40+00:00",
+     "fetched": "2026-09-04T13:15:56+00:00"
     },
     {
-     "headline": "Albanese bristles at pre-COP questions as UN delivers sobering report",
-     "detail": "Albanese bristles at pre-COP questions as UN delivers sobering report",
-     "url": "https://www.abc.net.au/news/2026-09-02/global-warming-breach-likely-as-albanese-defends-pre-cop-meeting/107108178",
+     "headline": "Woman charged with murder after body found in creek on NSW north coast",
+     "detail": "Woman charged with murder after body found in creek on NSW north coast",
+     "url": "https://www.abc.net.au/news/2026-09-04/woman-charged-with-murder-of-man-teven-creek-nsw/107114980",
      "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
-     "published": "2026-09-02T08:47:38+00:00",
-     "fetched": "2026-09-02T16:05:25+00:00"
+     "published": "2026-09-04T08:56:32+00:00",
+     "fetched": "2026-09-04T13:15:56+00:00"
     }
    ]
   },
@@ -53,48 +53,48 @@
    "key": "sbs",
    "name": "SBS News Australia",
    "site": "sbs.com.au/news",
-   "summary": "SBS News, covering Australian affairs with a strong multicultural and world focus is leading with The shifting ties in Australia's backyard as 'deep pockets' beckon; US warship arrives in Thailand after record 286 days at sea; 'Didn’t think twice': The routine activity that sent Robert to the emergency department.",
+   "summary": "SBS News, covering Australian affairs with a strong multicultural and world focus is leading with El Niño is already wreaking havoc around the world — and it's only getting started; 'Back in miracle country': Two trapped workers rescued from Nepal hydropower tunnel; This virus has evolved. Australia doesn't have a new vaccine.",
    "note": null,
    "items": [
     {
-     "headline": "The shifting ties in Australia's backyard as 'deep pockets' beckon",
-     "detail": "While China stirs tensions over Taiwan in Palau, island leaders are urging Canberra to focus on climate and drug crime.",
-     "url": "https://www.sbs.com.au/news/article/pacific-islands-forum-taiwan-china-australia-security-crisis/bdj0zowyg",
+     "headline": "El Niño is already wreaking havoc around the world — and it's only getting started",
+     "detail": "From fires and drought to preemptive emergency declarations, El Niño is already driving \"disruption and devastation\".",
+     "url": "https://www.sbs.com.au/news/article/el-nino-effects-around-the-world/f7vvh8wdp",
      "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
-     "published": "2026-09-02T07:56:09+00:00",
-     "fetched": "2026-09-02T16:05:28+00:00"
+     "published": "2026-09-04T06:10:15+00:00",
+     "fetched": "2026-09-04T13:15:57+00:00"
     },
     {
-     "headline": "US warship arrives in Thailand after record 286 days at sea",
-     "detail": "Thailand is the United States' only treaty ally in mainland Southeast Asia.",
-     "url": "https://www.sbs.com.au/news/article/us-carrier-arrives-in-thailand-after-record-286-days-at-sea/2netynjuc",
+     "headline": "'Back in miracle country': Two trapped workers rescued from Nepal hydropower tunnel",
+     "detail": "Officials estimate that at least 900 people are trapped in hydropower tunnels after the devastating flood in Nepal.",
+     "url": "https://www.sbs.com.au/news/article/nepal-hydropower-tunnel-trapped-worker-rescue/0fxiv206k",
      "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
-     "published": "2026-09-02T06:03:07+00:00",
-     "fetched": "2026-09-02T16:05:28+00:00"
+     "published": "2026-09-04T06:04:23+00:00",
+     "fetched": "2026-09-04T13:15:57+00:00"
     },
     {
-     "headline": "'Didn’t think twice': The routine activity that sent Robert to the emergency department",
-     "detail": "Many people have no issue, but the consequences can be severe for people who are more vulnerable.",
-     "url": "https://www.sbs.com.au/news/article/didnt-think-twice-the-routine-activity-that-sent-robert-to-the-emergency-department/dapkm7izt",
+     "headline": "This virus has evolved. Australia doesn't have a new vaccine",
+     "detail": "Australia is lagging behind the latest formulations being developed overseas.",
+     "url": "https://www.sbs.com.au/news/article/this-virus-has-evolved-australia-doesnt-have-a-new-vaccine/o6ppugxrq",
      "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
-     "published": "2026-09-02T05:58:07+00:00",
-     "fetched": "2026-09-02T16:05:28+00:00"
+     "published": "2026-09-04T05:55:36+00:00",
+     "fetched": "2026-09-04T13:15:57+00:00"
     },
     {
-     "headline": "The possible cost of Australia's stronger-than-expected growth",
-     "detail": "Australia's stronger GDP figures could complicate the Reserve Bank's next interest rate decision.",
-     "url": "https://www.sbs.com.au/news/article/australia-gdp-growth-economy-rba-interest-rates-pressure/61iypio6x",
+     "headline": "'Beneath their office': Why the US-Canada dispute has turned so nasty",
+     "detail": "A trade dispute between the US and Canada has spiralled into a bitter fight over tariffs, sovereignty and Donald Trump's threats.",
+     "url": "https://www.sbs.com.au/news/article/from-tariffs-to-taunts-why-the-us-canada-dispute-has-turned-so-nasty/ys0ep77hi",
      "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
-     "published": "2026-09-02T04:41:57+00:00",
-     "fetched": "2026-09-02T16:05:28+00:00"
+     "published": "2026-09-04T03:22:02+00:00",
+     "fetched": "2026-09-04T13:15:57+00:00"
     },
     {
-     "headline": "Revealed: The failures behind Telstra's major network outage",
-     "detail": "Telstra has been in the regulatory microscope since a major outage in July created chaos across the country.",
-     "url": "https://www.sbs.com.au/news/article/revealed-the-failures-behind-telstras-major-network-outage/n9y4ezgvh",
+     "headline": "Argentine president reignites Falklands dispute after Trump questions UK sovereignty",
+     "detail": "Javier Milei praised Donald Trump after he said he was reviewing the US' stance on the long-running dispute.",
+     "url": "https://www.sbs.com.au/news/article/argentine-president-revives-falklands-dispute-after-trump-questions-uk-sovereignty/wccpnwe3i",
      "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
-     "published": "2026-09-02T02:25:55+00:00",
-     "fetched": "2026-09-02T16:05:28+00:00"
+     "published": "2026-09-04T02:49:49+00:00",
+     "fetched": "2026-09-04T13:15:57+00:00"
     }
    ]
   },
@@ -102,48 +102,48 @@
    "key": "rnz",
    "name": "RNZ New Zealand",
    "site": "rnz.co.nz",
-   "summary": "Radio New Zealand's national news file is leading with Fewer Kiwis contracting sexually transmitted diseases; Earthquakes hit near Milford Sound; Australian police search for Below Deck star.",
+   "summary": "Radio New Zealand's national news file is leading with Four injured after car crashes into Dunsandel pub in Canterbury; UN human rights commissioner visit to West Papua on track, says Indonesia; New Zealand Transport Agency cuts road funding for some councils.",
    "note": null,
    "items": [
     {
-     "headline": "Fewer Kiwis contracting sexually transmitted diseases",
-     "detail": "Fewer Kiwis contracting sexually transmitted diseases",
-     "url": "https://www.rnz.co.nz/news/health/1227084/fewer-kiwis-contracting-sexually-transmitted-diseases",
+     "headline": "Four injured after car crashes into Dunsandel pub in Canterbury",
+     "detail": "Four injured after car crashes into Dunsandel pub in Canterbury",
+     "url": "https://www.rnz.co.nz/news/emergencies_local/1262854/four-injured-after-car-crashes-into-dunsandel-pub-in-canterbury",
      "source_url": "https://www.rnz.co.nz/rss/national.xml",
-     "published": "2026-09-02T22:27:18+12:00",
-     "fetched": "2026-09-02T16:05:30+00:00"
+     "published": "2026-09-04T21:53:23+12:00",
+     "fetched": "2026-09-04T13:15:57+00:00"
     },
     {
-     "headline": "Earthquakes hit near Milford Sound",
-     "detail": "Earthquakes hit near Milford Sound",
-     "url": "https://www.rnz.co.nz/news/emergencies_local/1231056/earthquakes-hit-near-milford-sound",
+     "headline": "UN human rights commissioner visit to West Papua on track, says Indonesia",
+     "detail": "UN human rights commissioner visit to West Papua on track, says Indonesia",
+     "url": "https://www.rnz.co.nz/news/pacific/1259212/un-human-rights-commissioner-visit-to-west-papua-on-track-says-indonesia",
      "source_url": "https://www.rnz.co.nz/rss/national.xml",
-     "published": "2026-09-02T21:09:50+12:00",
-     "fetched": "2026-09-02T16:05:30+00:00"
+     "published": "2026-09-04T21:09:24+12:00",
+     "fetched": "2026-09-04T13:15:57+00:00"
     },
     {
-     "headline": "Australian police search for Below Deck star",
-     "detail": "Australian police search for Below Deck star",
-     "url": "https://www.rnz.co.nz/life/people/celebrity/below-deck-star-nathan-gallagher-wanted-by-australian-police",
+     "headline": "New Zealand Transport Agency cuts road funding for some councils",
+     "detail": "New Zealand Transport Agency cuts road funding for some councils",
+     "url": "https://www.rnz.co.nz/news/community/1260671/new-zealand-transport-agency-cuts-road-funding-for-some-councils",
      "source_url": "https://www.rnz.co.nz/rss/national.xml",
-     "published": "2026-09-02T21:09:07+12:00",
-     "fetched": "2026-09-02T16:05:30+00:00"
+     "published": "2026-09-04T18:56:33+12:00",
+     "fetched": "2026-09-04T13:15:57+00:00"
     },
     {
-     "headline": "Reserve Bank hikes official cash rate to 2.75%",
-     "detail": "Reserve Bank hikes official cash rate to 2.75%",
-     "url": "https://www.rnz.co.nz/news/business/1228031/reserve-bank-hikes-official-cash-rate-to-2-point-75-percent",
+     "headline": "Man and woman dead after shooting in Nelson",
+     "detail": "Man and woman dead after shooting in Nelson",
+     "url": "https://www.rnz.co.nz/news/emergencies_local/1257609/man-and-woman-dead-after-shooting-in-nelson",
      "source_url": "https://www.rnz.co.nz/rss/national.xml",
-     "published": "2026-09-02T20:28:43+12:00",
-     "fetched": "2026-09-02T16:05:30+00:00"
+     "published": "2026-09-04T18:56:22+12:00",
+     "fetched": "2026-09-04T13:15:57+00:00"
     },
     {
-     "headline": "Family of young woman killed by truck driver fight for law change",
-     "detail": "Family of young woman killed by truck driver fight for law change",
-     "url": "https://www.rnz.co.nz/news/community/1230540/family-of-young-woman-killed-by-truck-driver-fight-for-law-change",
+     "headline": "Rotorua Curtainbank's supply runs dry",
+     "detail": "Rotorua Curtainbank's supply runs dry",
+     "url": "https://www.rnz.co.nz/news/community/1260766/rotorua-curtainbank-s-supply-runs-dry",
      "source_url": "https://www.rnz.co.nz/rss/national.xml",
-     "published": "2026-09-02T20:26:14+12:00",
-     "fetched": "2026-09-02T16:05:30+00:00"
+     "published": "2026-09-04T18:01:41+12:00",
+     "fetched": "2026-09-04T13:15:57+00:00"
     }
    ]
   },
@@ -151,48 +151,48 @@
    "key": "scmp",
    "name": "South China Morning Post",
    "site": "scmp.com",
-   "summary": "The South China Morning Post, reporting from Hong Kong across Greater China and Asia is leading with Vietnam arrests deputy minister over probe into huge bribes; 2 Filipino sailors killed in Iran’s attack on vessel, Saudi Arabia says; SCO takes landmark stand on nuclear security as Iran comes under renewed attack.",
+   "summary": "The South China Morning Post, reporting from Hong Kong across Greater China and Asia is leading with Why are fuel and petrochemical prices outpacing crude – and how long will it last?; The US’ dangerous reversion to imperialism in Latin America; In Burkina Faso, Sky Dragon 30 missiles point to China’s military export inroads.",
    "note": null,
    "items": [
     {
-     "headline": "Vietnam arrests deputy minister over probe into huge bribes",
-     "detail": "Vietnamese police arrested a deputy health minister on Wednesday for allegedly accepting huge bribes, part of an investigation into a company accused of smuggling medical equipment, authorities said.",
-     "url": "https://www.scmp.com/news/asia/southeast-asia/article/3366153/vietnam-arrests-deputy-minister-over-probe-huge-bribes?utm_source=rss_feed",
+     "headline": "Why are fuel and petrochemical prices outpacing crude – and how long will it last?",
+     "detail": "This summer, David Chen, a Chinese national living in Japan, got an unexpected lesson in global industrial supply chains – delivered through a bag of potato chips.",
+     "url": "https://www.scmp.com/economy/global-economy/article/3366432/why-are-fuel-and-petrochemical-prices-outpacing-crude-and-how-long-will-it-last?utm_source=rss_feed",
      "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-09-02T15:24:40+00:00",
-     "fetched": "2026-09-02T16:05:34+00:00"
+     "published": "2026-09-04T13:00:08+00:00",
+     "fetched": "2026-09-04T13:15:58+00:00"
     },
     {
-     "headline": "2 Filipino sailors killed in Iran’s attack on vessel, Saudi Arabia says",
-     "detail": "Saudi Arabia, the world’s biggest crude exporter, said on Wednesday that an Iranian ‌attack on an oil tanker owned by its national shipping company had killed two Filipino seafarers.",
-     "url": "https://www.scmp.com/news/world/middle-east/article/3366151/2-filipino-sailors-killed-irans-attack-vessel-saudi-arabia-says?utm_source=rss_feed",
+     "headline": "The US’ dangerous reversion to imperialism in Latin America",
+     "detail": "When China’s trade with Latin America reached a record US$518.4 billion in 2024, it marked a fundamental shift in hemispheric economics.",
+     "url": "https://www.scmp.com/opinion/world-opinion/article/3366092/us-dangerous-reversion-imperialism-latin-america?utm_source=rss_feed",
      "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-09-02T15:10:11+00:00",
-     "fetched": "2026-09-02T16:05:34+00:00"
+     "published": "2026-09-04T12:30:10+00:00",
+     "fetched": "2026-09-04T13:15:58+00:00"
     },
     {
-     "headline": "SCO takes landmark stand on nuclear security as Iran comes under renewed attack",
-     "detail": "The Shanghai Cooperation Organisation has issued its first dedicated declaration on nuclear safety and security, condemning attacks on peaceful nuclear facilities and outlining practical cooperation, amid tensions over Iran’s nuclear…",
-     "url": "https://www.scmp.com/news/china/diplomacy/article/3366108/sco-takes-landmark-stand-nuclear-security-iran-comes-under-renewed-attack?utm_source=rss_feed",
+     "headline": "In Burkina Faso, Sky Dragon 30 missiles point to China’s military export inroads",
+     "detail": "The West African country of Burkina Faso has tested what observers say is a Chinese Sky Dragon 30 surface-to-air missile, in the latest sign that Chinese military equipment manufacturers are making inroads into the central Sahel state.",
+     "url": "https://www.scmp.com/news/china/military/article/3366379/burkina-faso-sky-dragon-30-missiles-point-chinas-military-export-inroads?utm_source=rss_feed",
      "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-09-02T15:00:08+00:00",
-     "fetched": "2026-09-02T16:05:34+00:00"
+     "published": "2026-09-04T12:00:07+00:00",
+     "fetched": "2026-09-04T13:15:58+00:00"
     },
     {
-     "headline": "Israel ready to remove Palestinians in Gaza once US approves, minister says",
-     "detail": "Israel has plans ready to remove Palestinians from the Gaza Strip but is waiting for the United States to figure out where to take them, the defence minister has said.",
-     "url": "https://www.scmp.com/news/world/middle-east/article/3366150/israel-ready-remove-palestinians-gaza-once-us-approves-minister-says?utm_source=rss_feed",
+     "headline": "How US military presence spurred Pattaya’s rise into Thailand’s city of pleasure",
+     "detail": "The Amazon deliveries stopped reaching the USS Abraham Lincoln in February as it entered the conflict zone with Iran.",
+     "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3366424/how-us-military-presence-spurred-pattayas-rise-thailands-city-pleasure?utm_source=rss_feed",
      "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-09-02T14:43:12+00:00",
-     "fetched": "2026-09-02T16:05:34+00:00"
+     "published": "2026-09-04T11:32:45+00:00",
+     "fetched": "2026-09-04T13:15:58+00:00"
     },
     {
-     "headline": "Hong Kong police arrest 2 from clinic over sales of bogus ‘cancer vaccine’",
-     "detail": "Hong Kong authorities have arrested a man and woman from a clinic on suspicion of selling a laboratory reagent as a bogus vaccine against more than 20 types of cancer.",
-     "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366148/hong-kong-police-arrest-clinic-operator-over-sales-unapproved-cancer-vaccine?utm_source=rss_feed",
+     "headline": "Dairy Queen to make Hong Kong comeback with 4 stores. Is it scooping up cheap rents?",
+     "detail": "American ice cream chain Dairy Queen will open four Hong Kong outlets in the fourth quarter of this year, as part of an ambitious expansion plan amid a wave of food and retail shop closures across the city.",
+     "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366423/dairy-queen-make-hong-kong-comeback-4-stores-it-scooping-cheap-rents?utm_source=rss_feed",
      "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-09-02T14:28:01+00:00",
-     "fetched": "2026-09-02T16:05:34+00:00"
+     "published": "2026-09-04T11:30:40+00:00",
+     "fetched": "2026-09-04T13:15:58+00:00"
     }
    ]
   },
@@ -200,48 +200,48 @@
    "key": "cnn",
    "name": "CNN",
    "site": "cnn.com",
-   "summary": "CNN's international edition is leading with The Lindsay Clancy case has put postpartum psychosis in the spotlight; It’s always Shark Week in Putin’s world. That doesn’t bode well for Trump’s Ukraine peace hopes; Deadlocked jury set to continue deliberations in Lindsay Clancy trial.",
+   "summary": "CNN's international edition is leading with Lindsay Clancy jury expected back for 7th day of deliberations; The US wants to manage the stalemate in the Strait of Hormuz. Iran wants to break it; Trump wants to restrict mail voting — but it’s getting more popular.",
    "note": null,
    "items": [
     {
-     "headline": "The Lindsay Clancy case has put postpartum psychosis in the spotlight",
-     "detail": "The Lindsay Clancy case has put postpartum psychosis in the spotlight",
-     "url": "https://www.cnn.com/2026/09/02/us/video/lindsay-clancy-postpartum-hatters-intv-ctw-090210aseg1-cnni-us-fast",
+     "headline": "Lindsay Clancy jury expected back for 7th day of deliberations",
+     "detail": "Lindsay Clancy jury expected back for 7th day of deliberations",
+     "url": "https://www.cnn.com/2026/09/04/us/live-news/lindsay-clancy-trial",
      "source_url": "https://www.cnn.com/sitemap/news.xml",
-     "published": "2026-09-02T16:00:02+00:00",
-     "fetched": "2026-09-02T16:05:38+00:00"
+     "published": "2026-09-04T10:53:51+00:00",
+     "fetched": "2026-09-04T13:15:59+00:00"
     },
     {
-     "headline": "It’s always Shark Week in Putin’s world. That doesn’t bode well for Trump’s Ukraine peace hopes",
-     "detail": "It’s always Shark Week in Putin’s world. That doesn’t bode well for Trump’s Ukraine peace hopes",
-     "url": "https://www.cnn.com/2026/09/02/europe/putin-remarks-ukraine-analysis-intl",
+     "headline": "The US wants to manage the stalemate in the Strait of Hormuz. Iran wants to break it",
+     "detail": "The US wants to manage the stalemate in the Strait of Hormuz. Iran wants to break it",
+     "url": "https://www.cnn.com/2026/09/04/middleeast/us-iran-strait-of-hormuz-stalemate-intl",
      "source_url": "https://www.cnn.com/sitemap/news.xml",
-     "published": "2026-09-02T15:58:34+00:00",
-     "fetched": "2026-09-02T16:05:38+00:00"
+     "published": "2026-09-04T13:11:08+00:00",
+     "fetched": "2026-09-04T13:15:59+00:00"
     },
     {
-     "headline": "Deadlocked jury set to continue deliberations in Lindsay Clancy trial",
-     "detail": "Deadlocked jury set to continue deliberations in Lindsay Clancy trial",
-     "url": "https://www.cnn.com/2026/09/02/us/live-news/lindsay-clancy-trial",
+     "headline": "Trump wants to restrict mail voting — but it’s getting more popular",
+     "detail": "Trump wants to restrict mail voting — but it’s getting more popular",
+     "url": "https://www.cnn.com/2026/09/04/politics/mail-voting-popularity-trump-vis",
      "source_url": "https://www.cnn.com/sitemap/news.xml",
-     "published": "2026-09-02T11:59:29+00:00",
-     "fetched": "2026-09-02T16:05:38+00:00"
+     "published": "2026-09-04T08:00:29+00:00",
+     "fetched": "2026-09-04T13:15:59+00:00"
     },
     {
-     "headline": "Jury in Lindsay Clancy trial finishes fourth day of deliberations without a verdict",
-     "detail": "Jury in Lindsay Clancy trial finishes fourth day of deliberations without a verdict",
-     "url": "https://www.cnn.com/2026/09/01/us/live-news/lindsay-clancy-trial",
+     "headline": "The US economy added 162,000 jobs in August, more than double expectations",
+     "detail": "The US economy added 162,000 jobs in August, more than double expectations",
+     "url": "https://www.cnn.com/2026/09/04/economy/us-jobs-report-august",
      "source_url": "https://www.cnn.com/sitemap/news.xml",
-     "published": "2026-09-01T14:18:47+00:00",
-     "fetched": "2026-09-02T16:05:38+00:00"
+     "published": "2026-09-04T09:00:29+00:00",
+     "fetched": "2026-09-04T13:15:59+00:00"
     },
     {
-     "headline": "Iran retaliates after US strikes, defying Trump’s warning it could be hit ‘much harder’",
-     "detail": "Iran retaliates after US strikes, defying Trump’s warning it could be hit ‘much harder’",
-     "url": "https://www.cnn.com/2026/09/01/middleeast/us-military-strikes-iran",
+     "headline": "‘I had to save everyone’: Nepal survivor recounts experience",
+     "detail": "‘I had to save everyone’: Nepal survivor recounts experience",
+     "url": "https://www.cnn.com/2026/09/04/world/video/nepal-tunnel-flood-survivor-ldn-digvid",
      "source_url": "https://www.cnn.com/sitemap/news.xml",
-     "published": "2026-09-01T16:50:45+00:00",
-     "fetched": "2026-09-02T16:05:38+00:00"
+     "published": "2026-09-04T12:52:06+00:00",
+     "fetched": "2026-09-04T13:15:59+00:00"
     }
    ]
   },
@@ -249,48 +249,48 @@
    "key": "fox",
    "name": "Fox News",
    "site": "foxnews.com",
-   "summary": "Fox News, covering US politics and national affairs is leading with Blue Jays vs Guardians baseball betting preview favors Toronto behind Dylan Cease on the road; Should Trump build a White House ballroom? Americans weigh in; Harvard offers ‘anti-racist’ resources for parents as students head back to school.",
+   "summary": "Fox News, covering US politics and national affairs is leading with University pays professor $600K after being punished for parodying land acknowledgments; Trump is dismantling Iran’s war machine, but America still needs an endgame; Caitlin Clark not in Team USA's starting 5 for FIBA Women's Basketball World Cup opener vs China.",
    "note": null,
    "items": [
     {
-     "headline": "Blue Jays vs Guardians baseball betting preview favors Toronto behind Dylan Cease on the road",
-     "detail": "Dylan Cease's elite 2.33 ERA leads the Blue Jays into Cleveland with Wild Card implications as Toronto sits just 2.5 games back of the Guardians.",
-     "url": "https://www.foxnews.com/outkick-sports/blue-jays-vs-guardians-baseball-betting-preview-favors-toronto-dylan-cease-road",
+     "headline": "University pays professor $600K after being punished for parodying land acknowledgments",
+     "detail": "Stuart Reges parodied the University of Washington's land acknowledgment on his syllabus, triggering censorship and a nearly yearlong investigation.",
+     "url": "https://www.foxnews.com/media/university-pays-professor-600k-punished-parodying-land-acknowledgments",
      "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
-     "published": "2026-09-02T11:57:31-04:00",
-     "fetched": "2026-09-02T16:05:41+00:00"
+     "published": "2026-09-04T09:00:50-04:00",
+     "fetched": "2026-09-04T13:15:59+00:00"
     },
     {
-     "headline": "Should Trump build a White House ballroom? Americans weigh in",
-     "detail": "President Donald Trump's White House East Wing ballroom project divides Americans as the Supreme Court allows construction amid ongoing litigation.",
-     "url": "https://www.foxnews.com/politics/should-trump-build-white-house-ballroom-americans-weigh",
+     "headline": "Trump is dismantling Iran’s war machine, but America still needs an endgame",
+     "detail": "Iran exploited U.S. fears of escalation for decades, but Trump's military pressure campaign is finally making asymmetry work both directions.",
+     "url": "https://www.foxnews.com/opinion/trump-dismantling-irans-war-machine-america-still-needs-endgame",
      "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
-     "published": "2026-09-02T11:55:48-04:00",
-     "fetched": "2026-09-02T16:05:41+00:00"
+     "published": "2026-09-04T09:00:02-04:00",
+     "fetched": "2026-09-04T13:15:59+00:00"
     },
     {
-     "headline": "Harvard offers ‘anti-racist’ resources for parents as students head back to school",
-     "detail": "Harvard University's parent resource page recommends Ibram X. Kendi and Robin DiAngelo books containing inflammatory anti-White rhetoric.",
-     "url": "https://www.foxnews.com/politics/harvard-offers-anti-racist-resources-parents-students-head-back-school",
+     "headline": "Caitlin Clark not in Team USA's starting 5 for FIBA Women's Basketball World Cup opener vs China",
+     "detail": "Caitlin Clark began the FIBA Women's World Cup coming off the bench for Team USA, as Kara Lawson went with two veterans options, Chelsea Gray and Jackie Young, instead.",
+     "url": "https://www.foxnews.com/outkick-sports/caitlin-clark-not-team-usa-starting-5-fiba-womens-basketball-world-cup-opener-vs-china",
      "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
-     "published": "2026-09-02T11:50:34-04:00",
-     "fetched": "2026-09-02T16:05:41+00:00"
+     "published": "2026-09-04T08:56:38-04:00",
+     "fetched": "2026-09-04T13:15:59+00:00"
     },
     {
-     "headline": "Why one detail about NFL final rosters proves former Florida coach Billy Napier was worse than you remember",
-     "detail": "The 4-8 Florida Gators produced nine players on NFL 53-man rosters, matching Alabama and Georgia despite Billy Napier's disastrous final season.",
-     "url": "https://www.foxnews.com/outkick-sports/why-detail-nfl-final-rosters-proves-former-florida-coach-billy-napier-worse-you-remember",
+     "headline": "Gavin Newsom fires back at Trump after judge dismisses DOJ lawsuit over trans athletes in girls' sports",
+     "detail": "The Department of Justice says it will appeal after a federal judge dismissed its Title IX lawsuit against California's transgender sports policy.",
+     "url": "https://www.foxnews.com/outkick-sports/gavin-newsom-fires-back-trump-judge-dismisses-doj-lawsuit-trans-athletes-girls-sports",
      "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
-     "published": "2026-09-02T11:50:10-04:00",
-     "fetched": "2026-09-02T16:05:41+00:00"
+     "published": "2026-09-04T08:44:40-04:00",
+     "fetched": "2026-09-04T13:15:59+00:00"
     },
     {
-     "headline": "Bessent warns Iran's outside backers to 'stay away' as Trump seeks to 'asphyxiate' Tehran's economy",
-     "detail": "Treasury Secretary Scott Bessent warned nations still propping up Tehran to \"stay away\" as new sanctions target the nation on multiple fronts.",
-     "url": "https://www.foxnews.com/media/bessent-warns-irans-outside-backers-stay-away-trump-seeks-asphyxiate-tehrans-economy",
+     "headline": "MLW star Lady Frost reacts to Tessa Blanchard signing: 'It's good for business'",
+     "detail": "Lady Frost called Tessa Blanchard's MLW signing \"incredible\" and said it's good for business as the women's division continues to grow its roster.",
+     "url": "https://www.foxnews.com/outkick-sports/mlw-star-lady-frost-reacts-tessa-blanchard-signing-good-business",
      "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
-     "published": "2026-09-02T11:40:56-04:00",
-     "fetched": "2026-09-02T16:05:41+00:00"
+     "published": "2026-09-04T08:19:49-04:00",
+     "fetched": "2026-09-04T13:15:59+00:00"
     }
    ]
   },
@@ -298,48 +298,48 @@
    "key": "wsj",
    "name": "The Wall Street Journal",
    "site": "wsj.com",
-   "summary": "The Wall Street Journal's world news wire is leading with In Daylight Raid Backed by Drones, Israel Seizes Senior Hamas Militant; U.S. Says It’s Fed Up With China’s Overcapacity—and More Countries Agree; After 286 Days at Sea, 5,000 Sailors on the USS Abraham Lincoln Dock in Thailand.",
+   "summary": "The Wall Street Journal's world news wire is leading with Two Men Pulled Alive From Tunnel Nine Days After Nepal Flood; Ukraine’s Next Goal Is to Shut Down Russia’s Commercial Airspace; Argentina’s Milei Battles Falling Ratings by Reviving Claim to the Falklands.",
    "note": null,
    "items": [
     {
-     "headline": "In Daylight Raid Backed by Drones, Israel Seizes Senior Hamas Militant",
-     "detail": "The brazen operation comes despite U.S. pressure to slow attacks and let President Trump’s peace plan gain traction.",
-     "url": "https://www.wsj.com/world/middle-east/in-daylight-raid-backed-by-drones-israel-seizes-senior-hamas-militant-ed404b0b?mod=rss_worldnews",
+     "headline": "Two Men Pulled Alive From Tunnel Nine Days After Nepal Flood",
+     "detail": "The rescue sparked hopes in country where more than 1,250 are dead and some 5,000 are missing.",
+     "url": "https://www.wsj.com/world/asia/two-men-pulled-alive-from-tunnel-nine-days-after-nepal-flood-cf325a7b?mod=rss_worldnews",
      "source_url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
-     "published": "2026-09-02T15:02:00+00:00",
-     "fetched": "2026-09-02T16:05:43+00:00"
+     "published": "2026-09-04T09:27:00+00:00",
+     "fetched": "2026-09-04T13:16:00+00:00"
     },
     {
-     "headline": "U.S. Says It’s Fed Up With China’s Overcapacity—and More Countries Agree",
-     "detail": "A G-20 statement implicitly criticizing Beijing for its overreliance on exports for growth marks a new stage in international pressure.",
-     "url": "https://www.wsj.com/world/china/u-s-says-its-fed-up-with-chinas-overcapacityand-more-countries-agree-ec6cc8e5?mod=rss_worldnews",
+     "headline": "Ukraine’s Next Goal Is to Shut Down Russia’s Commercial Airspace",
+     "detail": "Pressure is mounting on airlines to re-evaluate the safety of flying to Russian airports as the drone war escalates.",
+     "url": "https://www.wsj.com/world/ukraines-next-goal-is-to-shut-down-russias-commercial-airspace-6f9369d9?mod=rss_worldnews",
      "source_url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
-     "published": "2026-09-02T12:53:00+00:00",
-     "fetched": "2026-09-02T16:05:43+00:00"
+     "published": "2026-09-04T02:00:00+00:00",
+     "fetched": "2026-09-04T13:16:00+00:00"
     },
     {
-     "headline": "After 286 Days at Sea, 5,000 Sailors on the USS Abraham Lincoln Dock in Thailand",
-     "detail": "A beach resort town in eastern Thailand welcomed crew members who will enjoy their first R&R after months deployed in a war zone.",
-     "url": "https://www.wsj.com/world/after-286-days-at-sea-5-000-sailors-on-the-uss-abraham-lincoln-dock-in-thailand-0a955b3d?mod=rss_worldnews",
+     "headline": "Argentina’s Milei Battles Falling Ratings by Reviving Claim to the Falklands",
+     "detail": "A comment by Trump on recognition prompted the Argentine president to schedule a national address about the British-controlled island.",
+     "url": "https://www.wsj.com/world/americas/argentinas-milei-battles-falling-ratings-by-reviving-claim-to-the-falklands-40b9c3b4?mod=rss_worldnews",
      "source_url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
-     "published": "2026-09-02T11:21:00+00:00",
-     "fetched": "2026-09-02T16:05:43+00:00"
+     "published": "2026-09-04T01:46:00+00:00",
+     "fetched": "2026-09-04T13:16:00+00:00"
     },
     {
-     "headline": "Germany Blames Russia for Explosive Drones Sent to Leipzig Airport",
-     "detail": "Berlin said it would retaliate for the incident last month, evidence for which Putin claimed was planted.",
-     "url": "https://www.wsj.com/world/europe/germany-blames-russia-for-explosive-drones-sent-to-leipzig-airport-03599b93?mod=rss_worldnews",
+     "headline": "The Bahrain Grand Prix…in Malaysia? War Is Ruining the Year for the Wealthy Gulf",
+     "detail": "The region’s leaders are giving up on hopes for a rebound as the war grinds on without an end in sight.",
+     "url": "https://www.wsj.com/world/middle-east/the-bahrain-grand-prixin-malaysia-war-is-ruining-the-year-for-the-wealthy-gulf-2e09772c?mod=rss_worldnews",
      "source_url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
-     "published": "2026-09-02T10:06:00+00:00",
-     "fetched": "2026-09-02T16:05:43+00:00"
+     "published": "2026-09-04T01:00:00+00:00",
+     "fetched": "2026-09-04T13:16:00+00:00"
     },
     {
-     "headline": "Treasury Yields Hit New Highs as World Leaders Squabble at Fractured G-20",
-     "detail": "Plus, Volkswagen fights its own board in a battle to survive, and wartime “coffin money” transforms Russia’s poorest regions.",
-     "url": "https://www.wsj.com/world/treasury-yields-hit-new-highs-as-world-leaders-squabble-at-fractured-g-20-bfad9027?mod=rss_worldnews",
+     "headline": "The Ex-Salesman Who Serves Up Far-Right Policies With a Smile",
+     "detail": "A 35-year-old candidate with folksy appeal has become the new face of Germany’s AfD party.",
+     "url": "https://www.wsj.com/world/europe/the-ex-salesman-who-serves-up-far-right-policies-with-a-smile-139d43d5?mod=rss_worldnews",
      "source_url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
-     "published": "2026-09-02T09:56:00+00:00",
-     "fetched": "2026-09-02T16:05:43+00:00"
+     "published": "2026-09-03T16:19:00+00:00",
+     "fetched": "2026-09-04T13:16:00+00:00"
     }
    ]
   }

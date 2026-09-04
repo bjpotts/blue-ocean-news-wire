@@ -4,40 +4,24 @@
    "key": "nbc",
    "name": "NBC News",
    "site": "nbcnews.com",
-   "summary": "NBC News, covering US national news and politics is leading with Markey, Neal, and Lynch projected winners in Massachusetts Democratic primaries; Alaska finalizes Senate race: 3 Republicans, 2 Dan Sullivans and 1 Democrat; Key Texas county votes to cut polling sites ahead of the midterms.",
+   "summary": "NBC News, covering US national news and politics is leading with Two trapped workers pulled alive from Nepal tunnel more than a week after deadly floods; Missouri Supreme Court rules new GOP-drawn map can’t be used in November; What the jury must consider while deciding Lindsay Clancy's fate.",
    "note": null,
    "items": [
     {
-     "headline": "Markey, Neal, and Lynch projected winners in Massachusetts Democratic primaries",
-     "detail": "NBC News’ Steve Kornacki breaks down numbers in the Democratic primary races in Massachusetts including U.S. Senate and House Districts 8 and 1.",
-     "url": "https://www.nbcnews.com/now/video/markey-neal-and-lynch-projected-winners-in-massachusetts-democratic-primaries-269195333680",
+     "headline": "Two trapped workers pulled alive from Nepal tunnel more than a week after deadly floods",
+     "detail": "Two workers in Nepal were pulled out alive from a hydropower tunnel on Friday, some nine days after devastating floods swept the Himalayan region and left thousands of people missing.",
+     "url": "https://www.nbcnews.com/world/asia/two-trapped-workers-rescued-alive-tunnel-nepal-rcna596050",
      "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
-     "published": "2026-09-02T04:18:24+00:00",
-     "fetched": "2026-09-02T16:05:49+00:00"
+     "published": "2026-09-04T04:27:45+00:00",
+     "fetched": "2026-09-04T13:16:01+00:00"
     },
     {
-     "headline": "Alaska finalizes Senate race: 3 Republicans, 2 Dan Sullivans and 1 Democrat",
-     "detail": "Former Rep. Mary Peltola will be the only Democrat on the ballot after Democrat David Leslie, who finished fourth in the primary, withdrew.",
-     "url": "https://www.nbcnews.com/politics/2026-election/alaska-finalizes-senate-race-3-republicans-2-dan-sullivan-1-democrat-rcna595617",
+     "headline": "Missouri Supreme Court rules new GOP-drawn map can’t be used in November",
+     "detail": "The court said a referendum seeking to put the map up for a vote must be placed on the ballot, meaning the state’s elections this fall will take place under its old congressional lines.",
+     "url": "https://www.nbcnews.com/politics/2026-election/missouri-supreme-court-rules-gop-drawn-map-cant-used-november-election-rcna595688",
      "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
-     "published": "2026-09-01T22:48:00+00:00",
-     "fetched": "2026-09-02T16:05:49+00:00"
-    },
-    {
-     "headline": "Key Texas county votes to cut polling sites ahead of the midterms",
-     "detail": "Officials in Tarrant County, the third most-populous in Texas, approved a plan to reduce the number of polling locations by 92 compared to the 2022 elections.",
-     "url": "https://www.nbcnews.com/politics/2026-election/tarrant-county-texas-votes-slash-polling-sites-midterms-rcna595338",
-     "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
-     "published": "2026-09-01T23:09:45+00:00",
-     "fetched": "2026-09-02T16:05:49+00:00"
-    },
-    {
-     "headline": "No plans for ICE to be at polls for midterms, DHS says",
-     "detail": "A senior DHS official said ICE will do its regular duties on the day of midterm elections, though Secretary Markwayne Mullin said agents would enter a polling place to serve a warrant.",
-     "url": "https://www.nbcnews.com/news/us-news/dhs-no-plans-ice-polls-midterm-elections-rcna595594",
-     "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
-     "published": "2026-09-01T20:18:58+00:00",
-     "fetched": "2026-09-02T16:05:49+00:00"
+     "published": "2026-09-03T22:04:34+00:00",
+     "fetched": "2026-09-04T13:16:01+00:00"
     },
     {
      "headline": "What the jury must consider while deciding Lindsay Clancy's fate",
@@ -45,7 +29,23 @@
      "url": "https://www.nbcnews.com/video/what-the-jury-must-consider-while-deciding-lindsay-clancy-s-fate-269171781774",
      "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
      "published": "2026-09-01T20:49:23+00:00",
-     "fetched": "2026-09-02T16:05:49+00:00"
+     "fetched": "2026-09-04T13:16:01+00:00"
+    },
+    {
+     "headline": "What is the Tuey-Rodriguez instruction the judge gave in the Lindsey Clancy trial?",
+     "detail": "Jurors in the Lindsay Clancy murder trial told the judge on Wednesday they were deadlocked for a second time, a day after they issued a first deadlock note to the judge.",
+     "url": "https://www.nbcnews.com/now/video/what-is-the-tuey-rodriguez-instruction-the-judge-gave-in-the-lindsey-clancy-trial-269230149592",
+     "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
+     "published": "2026-09-02T19:11:30+00:00",
+     "fetched": "2026-09-04T13:16:01+00:00"
+    },
+    {
+     "headline": "A first of its kind organ transplant technique tried on a human subject",
+     "detail": "Meet the first-ever patient to receive stem cells from their donor, in the hope of avoiding toxic anti-rejection drugs. NBC News' Camila Bernal spoke to the patient who received a liver transplant from her sister.",
+     "url": "https://www.nbcnews.com/video/a-first-of-it-s-kind-organ-transplant-technique-tried-on-a-human-subject-269303365703",
+     "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
+     "published": "2026-09-04T01:12:28+00:00",
+     "fetched": "2026-09-04T13:16:01+00:00"
     }
    ]
   },
@@ -53,48 +53,48 @@
    "key": "thehill",
    "name": "The Hill",
    "site": "thehill.com",
-   "summary": "The Hill, reporting on Congress, the White House and US policy is leading with US Mint officially launches $1 coin featuring Trump; Why America should fear gerrymandering, not voter fraud; Ocasio-Cortez backs Nixon in Florida Senate race.",
+   "summary": "The Hill, reporting on Congress, the White House and US policy is leading with US added 162k jobs in August, blowing past expectations; Vance, El-Sayed resist calls to disavow controversial friends: Live discussion; Supreme Court hands Trump another win — a monkey wrench into voting by mail.",
    "note": null,
    "items": [
     {
-     "headline": "US Mint officially launches $1 coin featuring Trump",
-     "detail": "The United States Mint released 250,000 $1 coins on Wednesday featuring President Trump’s likeness to commemorate the nation’s 250th anniversary.",
-     "url": "https://thehill.com/homenews/administration/6066247-us-mint-releases-trump-coins/",
+     "headline": "US added 162k jobs in August, blowing past expectations",
+     "detail": "The U.S. economy added 162,000 jobs in August, according to new data released Friday by the Bureau of Labor Statistics (BLS). The unemployment rate remained unchanged at 4.1 percent. Economists had expected U.S.",
+     "url": "https://thehill.com/business/6069875-august-jobs-data-us-economy-trump-administration/",
      "source_url": "https://thehill.com/news/feed/",
-     "published": "2026-09-02T15:37:30+00:00",
-     "fetched": "2026-09-02T16:05:51+00:00"
+     "published": "2026-09-04T12:45:03+00:00",
+     "fetched": "2026-09-04T13:16:02+00:00"
     },
     {
-     "headline": "Why America should fear gerrymandering, not voter fraud",
-     "detail": "For those who claim that their election was stolen, the appropriate response is: “show me the evidence.” As for gerrymandering, the evidence already exists in every state congressional map, in plain sight for all to witness.",
-     "url": "https://thehill.com/opinion/campaign/6064415-gerrymandering-midterm-manipulation/",
+     "headline": "Vance, El-Sayed resist calls to disavow controversial friends: Live discussion",
+     "detail": "Vice President Vance and Michigan Senate nominee Abdul El-Sayed (D) are facing separate questions over their associations with Tucker Carlson and Hasan Piker, respectively.",
+     "url": "https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6070985-vance-el-sayed-controversial-friends-discussion/",
      "source_url": "https://thehill.com/news/feed/",
-     "published": "2026-09-02T15:30:00+00:00",
-     "fetched": "2026-09-02T16:05:51+00:00"
+     "published": "2026-09-04T12:42:59+00:00",
+     "fetched": "2026-09-04T13:16:02+00:00"
     },
     {
-     "headline": "Ocasio-Cortez backs Nixon in Florida Senate race",
-     "detail": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) on Wednesday threw her support behind Florida state Rep. Angie Nixon, a democratic socialist running for U.S. Senate.",
-     "url": "https://thehill.com/homenews/campaign/6066299-aoc-endorses-angie-nixon/",
+     "headline": "Supreme Court hands Trump another win — a monkey wrench into voting by mail",
+     "detail": "The court has put additional Trump wins on the scoreboard, leaving the public with little confidence that it is anything other than partisan.",
+     "url": "https://thehill.com/opinion/judiciary/supreme-court/6069206-scotus-paves-way-trump-order/",
      "source_url": "https://thehill.com/news/feed/",
-     "published": "2026-09-02T15:13:55+00:00",
-     "fetched": "2026-09-02T16:05:51+00:00"
+     "published": "2026-09-04T12:30:00+00:00",
+     "fetched": "2026-09-04T13:16:02+00:00"
     },
     {
-     "headline": "Trumpisms are the Republicans' biggest messaging problem",
-     "detail": "If you actually want to win an election which is a referendum on Trump’s presidency, I suggest you get the president off camera and take his phone away.",
-     "url": "https://thehill.com/opinion/campaign/6064397-trump-endangers-gop-midterms/",
+     "headline": "White House puts Trump-style classic video games on website ahead of midterms",
+     "detail": "The White House late Thursday unveiled a new online arcade on its website featuring five games that focus on different Trump administration policies ahead of the 2026 midterm election. “Build the wall. Deport.",
+     "url": "https://thehill.com/homenews/6070969-white-house-unveils-trump-policy-arcade/",
      "source_url": "https://thehill.com/news/feed/",
-     "published": "2026-09-02T15:00:00+00:00",
-     "fetched": "2026-09-02T16:05:51+00:00"
+     "published": "2026-09-04T12:29:45+00:00",
+     "fetched": "2026-09-04T13:16:02+00:00"
     },
     {
-     "headline": "OpenAI: New model needs more safety measures before launch",
-     "detail": "OpenAI's forthcoming artificial intelligence model Astra is the company's first to meet its \"critical cybersecurity capability\" threshold and will require stronger safeguards before release, the AI firm said Tuesday.",
-     "url": "https://thehill.com/policy/technology/6065937-openai-astra-requires-stronger-safeguards/",
+     "headline": "Whole Hog Politics: The sprawling political transformation of Texas",
+     "detail": "[Watch Whole Hog Politics live: Hill Insider members can join us live today at 9 a.m.",
+     "url": "https://thehill.com/newsletters/whole-hog-politics/6070182-texas-triangle-midterm-outlook/",
      "source_url": "https://thehill.com/news/feed/",
-     "published": "2026-09-02T14:53:47+00:00",
-     "fetched": "2026-09-02T16:05:51+00:00"
+     "published": "2026-09-04T12:00:00+00:00",
+     "fetched": "2026-09-04T13:16:02+00:00"
     }
    ]
   },
@@ -102,48 +102,48 @@
    "key": "time",
    "name": "Time",
    "site": "time.com",
-   "summary": "Time magazine, covering US and world affairs is leading with The World Can’t Ignore Nepal. We Are All in Danger.; Kaushik Kappagantulu’s Greenhouse in a Box Is Aiding India’s Farmers; Introducing TIME Trailblazers: Designing and Making the Future.",
+   "summary": "Time magazine, covering US and world affairs is leading with Philippines' Vice President Sara Duterte Faces Arrest Over Alleged Grave Threat to President Marcos; Why You Shouldn’t Work on Labor Day; Earle Meets World Is One Long ‘Get Ready With Me’ Video.",
    "note": null,
    "items": [
     {
-     "headline": "The World Can’t Ignore Nepal. We Are All in Danger.",
-     "detail": "The climate disasters in Nepal are the essence of climate injustice. Those least responsible for climate change are the worst affected and the least equipped to recover.",
-     "url": "https://time.com/article/2026/09/02/climate-change-melting-glaciers-himalayas-floods-nepal-danger-/",
+     "headline": "Philippines' Vice President Sara Duterte Faces Arrest Over Alleged Grave Threat to President Marcos",
+     "detail": "Sara Duterte is in the midst of impeachment proceedings over an alleged threat to have Ferdinand “Bongbong” Marcos Jr. assassinated, among other accusations.",
+     "url": "https://time.com/article/2026/09/04/sara-duterte-arrest-warrant-philippines-vice-president/",
      "source_url": "https://time.com/feed/",
-     "published": "2026-09-02T15:00:00+00:00",
-     "fetched": "2026-09-02T16:05:53+00:00"
+     "published": "2026-09-04T13:09:39+00:00",
+     "fetched": "2026-09-04T13:16:02+00:00"
     },
     {
-     "headline": "Kaushik Kappagantulu’s Greenhouse in a Box Is Aiding India’s Farmers",
-     "detail": "Farmers using Kheyti’s structures have significantly reduced their crop losses while using two-thirds less water and fertilizer.",
-     "url": "https://time.com/collection/time-trailblazers/2026/kaushik-kappagantulu/",
+     "headline": "Why You Shouldn’t Work on Labor Day",
+     "detail": "Labor Day is an obvious prompt for U.S. lawmakers to consider a right to disconnect, writes Kara Alaimois.",
+     "url": "https://time.com/article/2026/09/04/why-you-shouldn-t-work-on-labor-day/",
      "source_url": "https://time.com/feed/",
-     "published": "2026-09-02T13:30:37+00:00",
-     "fetched": "2026-09-02T16:05:53+00:00"
+     "published": "2026-09-04T10:00:02+00:00",
+     "fetched": "2026-09-04T13:16:02+00:00"
     },
     {
-     "headline": "Introducing TIME Trailblazers: Designing and Making the Future",
-     "detail": "The inaugural list recognizes leaders who are building a better world.",
-     "url": "https://time.com/article/2026/09/02/introducing-time-trailblazers/",
+     "headline": "Earle Meets World Is One Long ‘Get Ready With Me’ Video",
+     "detail": "The social media star comes to Netflix with a reality soap that tries too hard to make the Earles the new Kardashians",
+     "url": "https://time.com/article/2026/08/28/earle-meets-world-review/",
      "source_url": "https://time.com/feed/",
-     "published": "2026-09-02T13:30:37+00:00",
-     "fetched": "2026-09-02T16:05:53+00:00"
+     "published": "2026-09-04T07:01:03+00:00",
+     "fetched": "2026-09-04T13:16:02+00:00"
     },
     {
-     "headline": "Why Erika Woolsey Sees Virtual Reality Tech as an Ocean Conservation Tool",
-     "detail": "Her nonprofit, The Hydrous, creates augmented and virtual reality experiences that connect people with the marine environment.",
-     "url": "https://time.com/collection/time-trailblazers/2026/erika-woolsey/",
+     "headline": "Breaking Down the Stunning Finale of Silo Season 3",
+     "detail": "A lot happened in the final episode of the Apple sci-fi show's second to last season. Series creator Graham Yost helps us break it down.",
+     "url": "https://time.com/article/2026/09/01/silo-season-3-finale-ending-apple/",
      "source_url": "https://time.com/feed/",
-     "published": "2026-09-02T13:30:36+00:00",
-     "fetched": "2026-09-02T16:05:53+00:00"
+     "published": "2026-09-04T07:00:03+00:00",
+     "fetched": "2026-09-04T13:16:02+00:00"
     },
     {
-     "headline": "Zoox’s Aicha Evans Is Reimagining Urban Mobility",
-     "detail": "Zoox builds its robotaxis entirely from scratch, designing the entire vehicle around the rider rather than a driver.",
-     "url": "https://time.com/collection/time-trailblazers/2026/aicha-evans/",
+     "headline": "White House 'Arcade' Invites Players to 'Build the Wall' and 'Fill a Trump Account'",
+     "detail": "The White House launched a series of arcade-style video games promoting Trump’s immigration and economic policies.",
+     "url": "https://time.com/article/2026/09/04/white-house-arcade-trump-agenda-immigration/",
      "source_url": "https://time.com/feed/",
-     "published": "2026-09-02T13:30:36+00:00",
-     "fetched": "2026-09-02T16:05:53+00:00"
+     "published": "2026-09-04T00:00:00+00:00",
+     "fetched": "2026-09-04T13:16:02+00:00"
     }
    ]
   },
@@ -151,48 +151,48 @@
    "key": "variety",
    "name": "Variety",
    "site": "variety.com",
-   "summary": "Variety, on the business of entertainment is leading with Owen Thiele, Este Haim, Kate Berlant, Lisa Gilroy, Joel Kim Booster Join Variety’s Entertainment & Technology Summit; Kelly Clarkson Hits High Notes Singing ‘Golden’ During Final Talk Show; Lin-Manuel Miranda, Kristin Chenoweth and More ‘Blown Away’ by Performance; David Byrne’s Hollywood Bowl Shows Put a Seal on One of the Greatest Rock Tours of All Time: Concert Review.",
+   "summary": "Variety, on the business of entertainment is leading with Iranian Director Mohsen Gharaei, in Venice With ‘Falling House,’ Set to Shoot ‘Centrifugal Force’ (EXCLUSIVE); ‘Boys of Tommen’ Adds Jonathan Forbes, Cobhan O’brien, Harvey Moloney and More to Cast (EXCLUSIVE); George Clooney Says the Government Shouldn’t Regulate AI: ‘These Are Not the People You Want to Entrust the Holy Grail With’.",
    "note": null,
    "items": [
     {
-     "headline": "Owen Thiele, Este Haim, Kate Berlant, Lisa Gilroy, Joel Kim Booster Join Variety’s Entertainment & Technology Summit",
-     "detail": "Variety has announced additional programming for its Entertainment & Technology Summit presented by EY on Sept. 17 in Los Angeles.",
-     "url": "https://variety.com/2026/biz/news/variety-entertainment-technology-2026-summit-programming-1236848829/",
+     "headline": "Iranian Director Mohsen Gharaei, in Venice With ‘Falling House,’ Set to Shoot ‘Centrifugal Force’ (EXCLUSIVE)",
+     "detail": "Iranian director Mohsen Gharaei, who is at the Venice Film Festival with well-received drama “Falling House,” is set to shoot a new film titled “Centrifugal Force” that will capture “the impossible choices facing a generation of Iranians…",
+     "url": "https://variety.com/2026/film/global/iranian-mohsen-gharaei-venice-fallen-centrifugal-force-1236851432/",
      "source_url": "https://variety.com/feed/",
-     "published": "2026-09-02T16:00:00+00:00",
-     "fetched": "2026-09-02T16:05:55+00:00"
+     "published": "2026-09-04T12:43:57+00:00",
+     "fetched": "2026-09-04T13:16:06+00:00"
     },
     {
-     "headline": "Kelly Clarkson Hits High Notes Singing ‘Golden’ During Final Talk Show; Lin-Manuel Miranda, Kristin Chenoweth and More ‘Blown Away’ by Performance",
-     "detail": "Kelly Clarkson ended her talk show on a high note. The singer wrapped up “The Kelly Clarkson Show” after seven seasons with the Aug.",
-     "url": "https://variety.com/2026/music/news/kelly-clarkson-sings-golden-talk-show-demon-hunters-1236849262/",
+     "headline": "‘Boys of Tommen’ Adds Jonathan Forbes, Cobhan O’brien, Harvey Moloney and More to Cast (EXCLUSIVE)",
+     "detail": "Prime Video’s “The Boys of Tommen” has added Jonathan Forbes, Cobhan O’brien, Harvey Moloney, Tristan Heanue and Lewis Brophy to its cast.",
+     "url": "https://variety.com/2026/tv/global/boys-of-tommen-cast-jonathan-forbes-cobhan-obrien-1236851503/",
      "source_url": "https://variety.com/feed/",
-     "published": "2026-09-02T15:44:33+00:00",
-     "fetched": "2026-09-02T16:05:55+00:00"
+     "published": "2026-09-04T12:32:23+00:00",
+     "fetched": "2026-09-04T13:16:06+00:00"
     },
     {
-     "headline": "David Byrne’s Hollywood Bowl Shows Put a Seal on One of the Greatest Rock Tours of All Time: Concert Review",
-     "detail": "Well, Brady Corbet has got his work cut out for him. That was one of the first thoughts that came to mind soon after David Byrne and company took the stage for the first of two shows at the Hollywood Bowl this weekend.",
-     "url": "https://variety.com/2026/music/concert-reviews/david-byrne-hollywood-bowl-tour-concert-review-1236849387/",
+     "headline": "George Clooney Says the Government Shouldn’t Regulate AI: ‘These Are Not the People You Want to Entrust the Holy Grail With’",
+     "detail": "George Clooney has said he doesn’t trust the government to regulate AI.",
+     "url": "https://variety.com/2026/politics/global/george-clooney-government-regulate-ai-1236851500/",
      "source_url": "https://variety.com/feed/",
-     "published": "2026-09-02T15:36:31+00:00",
-     "fetched": "2026-09-02T16:05:55+00:00"
+     "published": "2026-09-04T12:09:24+00:00",
+     "fetched": "2026-09-04T13:16:06+00:00"
     },
     {
-     "headline": "‘Black Book 2,’ ‘I’m Coming for You’ Headline Buzzy Slate of African Works in Progress at Inaugural TIFF Market (EXCLUSIVE)",
-     "detail": "CANEX Creations Inc., the pan-African investment platform behind films such as the buzzy Cannes premiere “Clarissa,” has unveiled a slate of works in progress that it will be screening for prospective buyers at the inaugural TIFF: The…",
-     "url": "https://variety.com/2026/film/global/black-book-2-im-coming-for-you-africa-tiff-market-1236849064/",
+     "headline": "‘Spider-Man’ and ‘The Odyssey’ Propel U.K. Box Office to Best August Since 2018",
+     "detail": "The U.K. may have just had the hottest August since records began but, in more positive news, it also had the hottest August at the box office in almost a decade.",
+     "url": "https://variety.com/2026/film/global/spider-man-odyssey-uk-box-office-best-august-since-2018-1236850423/",
      "source_url": "https://variety.com/feed/",
-     "published": "2026-09-02T15:33:34+00:00",
-     "fetched": "2026-09-02T16:05:55+00:00"
+     "published": "2026-09-04T11:24:01+00:00",
+     "fetched": "2026-09-04T13:16:06+00:00"
     },
     {
-     "headline": "Nimesh Patel’s Netflix Special ‘Buy the Dip’ Sets September Release (EXCLUSIVE)",
-     "detail": "Nimesh Patel’s Netflix special has been given a title and release date. “Buy the Dip,” an hour of stand-up comedy, will debut on the streamer on Sept. 22.",
-     "url": "https://variety.com/2026/tv/news/nimesh-patel-netflix-special-buy-the-dip-release-date-1236848659/",
+     "headline": "Maggie Gyllenhaal Says She Tried Using AI to Turn Dakota Johnson Into Marilyn Monroe for Short ‘Flesh Impact’ — Then Scrapped It: ‘Fundamentally Did Not Work’",
+     "detail": "Venice jury president Maggie Gyllenhaal revealed that she experimented with artificial intelligence to transform Dakota Johnson into Marilyn Monroe for her short film “Flesh Impact” which plays on the Lido.",
+     "url": "https://variety.com/2026/film/global/maggie-gyllenhaal-ai-dakota-johnson-marilyn-monroe-1236851468/",
      "source_url": "https://variety.com/feed/",
-     "published": "2026-09-02T15:30:00+00:00",
-     "fetched": "2026-09-02T16:05:55+00:00"
+     "published": "2026-09-04T10:02:38+00:00",
+     "fetched": "2026-09-04T13:16:06+00:00"
     }
    ]
   },
@@ -200,48 +200,48 @@
    "key": "bloomberg",
    "name": "Bloomberg",
    "site": "bloomberg.com",
-   "summary": "Bloomberg's markets and business file is leading with Stocks Rise as Buyers Scoop Up Bargains After Rout: Markets Wrap; Why Florida Rep. Moskowitz Isn't Running Away From AIPAC; Uber Shutting Down Operations in Nigeria After Global Shake-Up.",
+   "summary": "Bloomberg's markets and business file is leading with World’s Biggest Money Managers Are Rebuilding Gold Positions; Gold Falls as Strong US Payrolls Power Bets on Fed Rate Hikes; August Jobs Report Favors a Fed Rate Hike, Sahm Says.",
    "note": null,
    "items": [
     {
-     "headline": "Stocks Rise as Buyers Scoop Up Bargains After Rout: Markets Wrap",
-     "detail": "Stocks rose after a drop fueled by concerns about inflation, with attractive valuations and solid corporate earnings luring bargain hunters.",
-     "url": "https://www.bloomberg.com/news/articles/2026-09-01/stock-market-today-dow-s-p-live-updates",
+     "headline": "World’s Biggest Money Managers Are Rebuilding Gold Positions",
+     "detail": "Some of the world’s biggest money managers have rebuilt their gold holdings after prices dropped, betting that long-term drivers of the precious metal will endure even as the US Federal Reserve takes a more assertive stance on inflation.",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-04/world-s-biggest-money-managers-are-rebuilding-gold-positions",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-09-01T22:07:33+00:00",
-     "fetched": "2026-09-02T16:05:58+00:00"
+     "published": "2026-09-04T07:31:23+00:00",
+     "fetched": "2026-09-04T13:16:07+00:00"
     },
     {
-     "headline": "Why Florida Rep. Moskowitz Isn't Running Away From AIPAC",
-     "detail": "Many Democratic congressional candidates have seemingly spent the summer running away from AIPAC, but not Florida Rep. Jared Moskowitz. \"I'm real worried about Jews here,\" he tells Bloomberg.",
-     "url": "https://www.bloomberg.com/news/videos/2026-09-02/why-florida-rep-moskowitz-isn-t-running-away-from-aipac-video",
+     "headline": "Gold Falls as Strong US Payrolls Power Bets on Fed Rate Hikes",
+     "detail": "Gold fell as a stronger-than-anticipated increase in US payrolls drove bets that the Federal Reserve will be forced to raise interest rates this year.",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-04/gold-to-end-volatile-week-higher-as-fedspeak-trims-rate-hike-bet",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-09-02T15:53:17+00:00",
-     "fetched": "2026-09-02T16:05:58+00:00"
+     "published": "2026-09-04T00:27:29+00:00",
+     "fetched": "2026-09-04T13:16:07+00:00"
     },
     {
-     "headline": "Uber Shutting Down Operations in Nigeria After Global Shake-Up",
-     "detail": "Ride-hailing company Uber Technologies Inc. is shutting down its services in Nigeria effective September 2, following a review of its operations in the West African nation.",
-     "url": "https://www.bloomberg.com/news/articles/2026-09-02/uber-shutting-down-operations-in-nigeria-after-global-shake-up",
+     "headline": "August Jobs Report Favors a Fed Rate Hike, Sahm Says",
+     "detail": "Claudia Sahm, chief economist at New Century Advisors, reacts to the US employment report for August. She says this jobs report favors Federal Reserve officials that want to start hiking rates.",
+     "url": "https://www.bloomberg.com/news/videos/2026-09-04/august-jobs-report-favors-a-rate-hike-sahm-says-video",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-09-02T15:36:48+00:00",
-     "fetched": "2026-09-02T16:05:58+00:00"
+     "published": "2026-09-04T13:02:27+00:00",
+     "fetched": "2026-09-04T13:16:07+00:00"
     },
     {
-     "headline": "Senegal’s Bond Selloff Reveals Investor Angst on Debt Rework",
-     "detail": "Investors who had been holding out hope that Senegal could avoid a default are changing tack, selling its short-dated bonds as they expect losses ahead.",
-     "url": "https://www.bloomberg.com/news/articles/2026-09-02/senegal-s-bond-selloff-reveals-investor-angst-on-debt-rework",
+     "headline": "US Stock Futures Slip as Jobs Growth Fuels Fed-Hike Bets",
+     "detail": "US stock futures erased early gains to briefly touch session lows on Friday after the US added 162,000 jobs in August, raising concerns that the Federal Reserve may hike interest rates soon.",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-04/us-stock-futures-steady-ahead-of-key-august-jobs-data",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-09-02T15:34:07+00:00",
-     "fetched": "2026-09-02T16:05:58+00:00"
+     "published": "2026-09-04T11:50:13+00:00",
+     "fetched": "2026-09-04T13:16:07+00:00"
     },
     {
-     "headline": "Italy’s Eni Plans Major Increase in Venezuela Oil Production",
-     "detail": "Italian energy producer Eni SpA aims to eventually lift its Venezuelan production to more than 1 million barrels a day, according to people familiar with the matter, a figure that includes volumes from state-owned Petróleos de Venezuela SA…",
-     "url": "https://www.bloomberg.com/news/articles/2026-09-02/italy-s-eni-plans-major-increase-in-venezuela-oil-production",
+     "headline": "Copper at Risk of Rare Supply Decline as Mine Setbacks Mount",
+     "detail": "Copper has been on a record-breaking tear in the past year, driven largely by tariff-related trade flows. Bullish investors are betting that flatlining mine supply will drive prices even higher.",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-03/copper-is-at-risk-of-rare-supply-decline-as-mine-setbacks-mount",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-09-02T14:36:50+00:00",
-     "fetched": "2026-09-02T16:05:58+00:00"
+     "published": "2026-09-03T21:00:00+00:00",
+     "fetched": "2026-09-04T13:16:07+00:00"
     }
    ]
   },
@@ -249,48 +249,48 @@
    "key": "bbc",
    "name": "BBC",
    "site": "bbc.com",
-   "summary": "The BBC's world news service is leading with Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians; EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany; Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West.",
+   "summary": "The BBC's world news service is leading with Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect; 'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel; UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says.",
    "note": null,
    "items": [
     {
-     "headline": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
-     "detail": "Iranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in the Middle East.",
-     "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+     "headline": "Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect",
+     "detail": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
+     "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-     "published": "2026-09-02T15:33:19+00:00",
-     "fetched": "2026-09-02T16:06:00+00:00"
+     "published": "2026-09-04T10:00:18+00:00",
+     "fetched": "2026-09-04T13:16:07+00:00"
     },
     {
-     "headline": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-     "detail": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
-     "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
+     "headline": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
+     "detail": "From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.",
+     "url": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-     "published": "2026-09-02T14:34:22+00:00",
-     "fetched": "2026-09-02T16:06:00+00:00"
+     "published": "2026-09-04T08:23:05+00:00",
+     "fetched": "2026-09-04T13:16:07+00:00"
     },
     {
-     "headline": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
-     "detail": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions.",
-     "url": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
+     "headline": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
+     "detail": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
+     "url": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-     "published": "2026-09-02T11:47:11+00:00",
-     "fetched": "2026-09-02T16:06:00+00:00"
+     "published": "2026-09-04T11:54:51+00:00",
+     "fetched": "2026-09-04T13:16:07+00:00"
     },
     {
-     "headline": "US sailors arrive in Thailand's Pattaya after record 250 days at sea",
-     "detail": "The USS Abraham Lincoln is docking close to Pattaya, known for its neon-lit nightlife, and for sex tourism.",
-     "url": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
+     "headline": "US diesel prices hit an all-time-high",
+     "detail": "Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.",
+     "url": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-     "published": "2026-09-02T10:04:28+00:00",
-     "fetched": "2026-09-02T16:06:00+00:00"
+     "published": "2026-09-04T10:52:56+00:00",
+     "fetched": "2026-09-04T13:16:07+00:00"
     },
     {
-     "headline": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-     "detail": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.",
-     "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
+     "headline": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
+     "detail": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming.",
+     "url": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-     "published": "2026-09-02T13:16:26+00:00",
-     "fetched": "2026-09-02T16:06:00+00:00"
+     "published": "2026-09-04T04:06:41+00:00",
+     "fetched": "2026-09-04T13:16:07+00:00"
     }
    ]
   },
@@ -298,48 +298,48 @@
    "key": "france24",
    "name": "France 24",
    "site": "france24.com",
-   "summary": "France 24's English service, reporting from Paris on Europe, Africa and the Middle East is leading with 🔴 Live: Trump suggests renaming Hormuz 'Trump Strait'; Egypt welcomes Xi as Beijing expands influence in region; Philippine couple married in hip-deep floodwaters.",
+   "summary": "France 24's English service, reporting from Paris on Europe, Africa and the Middle East is leading with Trump raises doubts over support for Britain in Falklands dispute with Argentina; France announces €1 billion aid for farmers recovering from drought, heatwaves; UK reasserts Falklands sovereignty amid Milei claim and Trump comments.",
    "note": null,
    "items": [
     {
-     "headline": "🔴 Live: Trump suggests renaming Hormuz 'Trump Strait'",
-     "detail": "🔴 Live: Trump suggests renaming Hormuz 'Trump Strait'",
-     "url": "https://www.france24.com/en/middle-east/20260902-us-military-striking-targets-in-iran-after-attempted-attacks-on-shipping",
+     "headline": "Trump raises doubts over support for Britain in Falklands dispute with Argentina",
+     "detail": "US President Donald Trump raised doubts about whether the United States would support Britain in another conflict over the Falkland Islands in an interview with a British broadcaster aired Thursday, injecting new tension into the…",
+     "url": "https://www.france24.com/en/video/20260904-trump-raises-doubts-over-support-for-britain-in-falklands-dispute-with-argentina",
      "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-09-02T15:37:58+00:00",
-     "fetched": "2026-09-02T16:06:02+00:00"
+     "published": "2026-09-04T12:46:18+00:00",
+     "fetched": "2026-09-04T13:16:08+00:00"
     },
     {
-     "headline": "Egypt welcomes Xi as Beijing expands influence in region",
-     "detail": "Egyptian ​President Abdel Fattah al-Sisi welcomed China's Xi Jinping to Cairo on Wednesday, opening a visit that highlights Cairo's deepening ties with Beijing as regional turmoil prompts U.S.",
-     "url": "https://www.france24.com/en/video/20260902-egypt-welcomes-xi-as-beijing-expands-influence-in-region",
+     "headline": "France announces €1 billion aid for farmers recovering from drought, heatwaves",
+     "detail": "France on Friday allocated more than €1 billion in aid to support farmers recovering from droughts after a brutal, record-breaking summer.",
+     "url": "https://www.france24.com/en/france/20260904-france-announces-%E2%82%AC1-billion-aid-for-farmers-recovering-from-drought-heatwaves",
      "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-09-02T15:33:43+00:00",
-     "fetched": "2026-09-02T16:06:02+00:00"
+     "published": "2026-09-04T12:44:54+00:00",
+     "fetched": "2026-09-04T13:16:08+00:00"
     },
     {
-     "headline": "Philippine couple married in hip-deep floodwaters",
-     "detail": "A Philippine couple tied the knot on Tuesday at a Catholic church swamped in hip-deep waters, as heavy rains had pummelled large parts of the country for a month.",
-     "url": "https://www.france24.com/en/video/20260902-philippine-couple-married-in-hip-deep-floodwaters",
+     "headline": "UK reasserts Falklands sovereignty amid Milei claim and Trump comments",
+     "detail": "Britain insisted Friday that the Falkland Islands \"are British\" after Argentine President Javier Milei suggested the \"winds of change\" now favoured his country's claim to the archipelago, citing Washington's readiness to reconsider its…",
+     "url": "https://www.france24.com/en/video/20260904-uk-reasserts-falklands-sovereignty-amid-milei-claim-and-trump-comments",
      "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-09-02T15:21:44+00:00",
-     "fetched": "2026-09-02T16:06:02+00:00"
+     "published": "2026-09-04T12:44:49+00:00",
+     "fetched": "2026-09-04T13:16:08+00:00"
     },
     {
-     "headline": "US postal whistleblower warns thousands of midterm ballots could be lost",
-     "detail": "A US Postal Service whistleblower has warned that millions of Americans could be prevented from receiving mail ballots ahead of November's midterm elections because of a rushed, new system ordered by President Donald Trump and due for…",
-     "url": "https://www.france24.com/en/video/20260902-us-postal-whistleblower-warns-thousands-of-midterm-ballots-could-be-lost",
+     "headline": "Israeli minister unveils plan to remove Gaza's population over seven years",
+     "detail": "Israel's far-right National Security Minister Itamar Ben Gvir set out a plan on Thursday to remove Palestinians from the Gaza Strip and send them abroad.",
+     "url": "https://www.france24.com/en/video/20260904-israeli-minister-unveils-plan-to-remove-gaza-s-population-over-seven-years",
      "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-09-02T15:17:48+00:00",
-     "fetched": "2026-09-02T16:06:02+00:00"
+     "published": "2026-09-04T12:43:50+00:00",
+     "fetched": "2026-09-04T13:16:08+00:00"
     },
     {
-     "headline": "Search continues for tunnel workers in Nepal floods",
-     "detail": "Nepali authorities believe that the dozens of workers trapped in hydropower tunnels could still be alive, as some of the tunnels have chambers with air supplies.",
-     "url": "https://www.france24.com/en/video/20260902-search-continues-for-tunnel-workers-in-nepal-floods",
+     "headline": "'Moroccans are desperate: Years of political crackdown and lack of economic opportunities'",
+     "detail": "François Picard is pleased to welcome Aida Alami, New York Times World contributor.",
+     "url": "https://www.france24.com/en/tv-shows/spotlight/20260904-moroccans-are-desperate-years-of-political-crackdown-and-lack-of-economic-opportunities",
      "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-09-02T15:17:20+00:00",
-     "fetched": "2026-09-02T16:06:02+00:00"
+     "published": "2026-09-04T12:30:37+00:00",
+     "fetched": "2026-09-04T13:16:08+00:00"
     }
    ]
   },
@@ -347,48 +347,48 @@
    "key": "aljazeera",
    "name": "Al Jazeera",
    "site": "aljazeera.com",
-   "summary": "Al Jazeera English, with strong Middle East and Africa coverage is leading with Israeli PM Netanyahu in Gaza, ‘we are not withdrawing’; China’s Xi urges new Middle East security framework during rare Egypt visit; Aubameyang ‘humiliated’ as ex-Arsenal striker quits Gabon national team.",
+   "summary": "Al Jazeera English, with strong Middle East and Africa coverage is leading with As the China-US AI race reaches Cairo, Egypt faces a strategic decision; Germany’s far right eyes election breakthrough as AfD surges in Saxony; South Korea mulls ‘contributions’ in Strait of Hormuz.",
    "note": null,
    "items": [
     {
-     "headline": "Israeli PM Netanyahu in Gaza, ‘we are not withdrawing’",
-     "detail": "Israeli Prime Minister Benjamin Netanyahu has said Israel does not plan to withdraw from Gaza",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-netanyahu-in-gaza-we-are-not?traffic_source=rss",
+     "headline": "As the China-US AI race reaches Cairo, Egypt faces a strategic decision",
+     "detail": "Egypt walks a tightrope as China and the US vie for dominance in AI data centre development.",
+     "url": "https://www.aljazeera.com/news/2026/9/4/as-the-china-us-ai-race-reaches-cairo-egypt-faces-a-strategic-decision?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
-     "published": "2026-09-02T15:45:54+00:00",
-     "fetched": "2026-09-02T16:06:03+00:00"
+     "published": "2026-09-04T12:37:20+00:00",
+     "fetched": "2026-09-04T13:16:08+00:00"
     },
     {
-     "headline": "China’s Xi urges new Middle East security framework during rare Egypt visit",
-     "detail": "Chinese, Egyptian leaders discuss the US-Israel war on Iran, which has prompted regional powers to rethink defence.",
-     "url": "https://www.aljazeera.com/news/2026/9/2/chinas-xi-urges-new-middle-east-security-framework-during-rare-egypt-visit?traffic_source=rss",
+     "headline": "Germany’s far right eyes election breakthrough as AfD surges in Saxony",
+     "detail": "The nationalist party that promises to strip back asylum rights is poised to win a state election for the first time.",
+     "url": "https://www.aljazeera.com/news/2026/9/4/germanys-far-right-eyes-election-breakthrough-as-afd-surges-in-saxony?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
-     "published": "2026-09-02T15:42:01+00:00",
-     "fetched": "2026-09-02T16:06:03+00:00"
+     "published": "2026-09-04T12:19:38+00:00",
+     "fetched": "2026-09-04T13:16:08+00:00"
     },
     {
-     "headline": "Aubameyang ‘humiliated’ as ex-Arsenal striker quits Gabon national team",
-     "detail": "Pierre-Emerick Aubameyang cites 2025 Africa Cup of Nations treatment as captain steps away from Gabon duty.",
-     "url": "https://www.aljazeera.com/sports/2026/9/2/aubameyang-humiliated-as-ex-arsenal-striker-quits-gabon-national-team?traffic_source=rss",
+     "headline": "South Korea mulls ‘contributions’ in Strait of Hormuz",
+     "detail": "Seoul heavily affected by closure of strategic waterway and under heavy US pressure for participation against Iran.",
+     "url": "https://www.aljazeera.com/news/2026/9/4/south-korea-mulls-contributions-in-strait-of-hormuz?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
-     "published": "2026-09-02T15:21:43+00:00",
-     "fetched": "2026-09-02T16:06:03+00:00"
+     "published": "2026-09-04T12:10:51+00:00",
+     "fetched": "2026-09-04T13:16:08+00:00"
     },
     {
-     "headline": "Nepal PM links deadly floods to climate change",
-     "detail": "Nepal PM links deadly floods to climate change",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/nepal-pm-links-deadly-floods-to-climate-change?traffic_source=rss",
+     "headline": "India’s Smriti Mandhana becomes top run-scorer in women’s cricket",
+     "detail": "Mandhana overtook former India captain Mithali Raj, who had been the top international scorer with 10,868 runs.",
+     "url": "https://www.aljazeera.com/sports/2026/9/4/indias-smriti-mandhana-becomes-top-run-scorer-in-womens-cricket?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
-     "published": "2026-09-02T15:11:19+00:00",
-     "fetched": "2026-09-02T16:06:03+00:00"
+     "published": "2026-09-04T12:03:19+00:00",
+     "fetched": "2026-09-04T13:16:08+00:00"
     },
     {
-     "headline": "China’s Xi visits Egypt’s el-Sisi: Why it matters",
-     "detail": "Xi Jinping's historic Egypt visit aims to strengthen China-Egypt ties amid rising Middle East tensions.",
-     "url": "https://www.aljazeera.com/news/2026/9/2/chinas-xi-visits-egypts-el-sisi-why-it-matters?traffic_source=rss",
+     "headline": "Iran war: Why US midterms could be a pivotal moment",
+     "detail": "Rising prices and opposition to war may pressure Trump to de-escalate until after the midterms, analysts say.",
+     "url": "https://www.aljazeera.com/news/2026/9/4/iran-war-why-us-midterms-could-be-a-pivotal-moment?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
-     "published": "2026-09-02T15:00:30+00:00",
-     "fetched": "2026-09-02T16:06:03+00:00"
+     "published": "2026-09-04T11:12:51+00:00",
+     "fetched": "2026-09-04T13:16:08+00:00"
     }
    ]
   }
