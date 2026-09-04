@@ -1,15 +1,15 @@
 {
- "as_of": "Friday 04 September 2026, 23:13 AEST",
+ "as_of": "Friday 04 September 2026, 23:28 AEST",
  "btc": {
-  "price": "$79,308",
-  "chg": "+0.98%",
+  "price": "$79,431",
+  "chg": "+1.19%",
   "source": "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd&include_24hr_change=true"
  },
  "btc_crosschecks": [
   {
    "source": "CoinGecko API",
-   "price": "$79,308",
-   "chg": "+0.98%"
+   "price": "$79,431",
+   "chg": "+1.19%"
   }
  ],
  "fx": [
@@ -129,12 +129,6 @@
  "fx_source": "https://api.frankfurter.dev/v1/latest?from=USD",
  "indices": [
   {
-   "name": "Dow Jones",
-   "symbol": "^DJI",
-   "value": "53,686",
-   "chg": "+1.18%"
-  },
-  {
    "name": "S&P 500",
    "symbol": "^GSPC",
    "value": "7,747.71",
@@ -147,10 +141,118 @@
    "chg": "+1.40%"
   },
   {
-   "name": "Russell 2000",
-   "symbol": "^RUT",
-   "value": "2,968.27",
-   "chg": "+0.51%"
+   "name": "TSX Composite",
+   "symbol": "^GSPTSE",
+   "value": "36,633",
+   "chg": "+1.50%"
+  },
+  {
+   "name": "IPC Mexico",
+   "symbol": "^MXX",
+   "value": "65,436",
+   "chg": "+0.85%"
+  },
+  {
+   "name": "Ibovespa",
+   "symbol": "^BVSP",
+   "value": "184,114",
+   "chg": "-0.58%"
+  },
+  {
+   "name": "FTSE 100",
+   "symbol": "^FTSE",
+   "value": "10,798",
+   "chg": "-0.31%"
+  },
+  {
+   "name": "DAX",
+   "symbol": "^GDAXI",
+   "value": "26,087",
+   "chg": "+0.32%"
+  },
+  {
+   "name": "CAC 40",
+   "symbol": "^FCHI",
+   "value": "8,256.56",
+   "chg": "-0.36%"
+  },
+  {
+   "name": "FTSE MIB",
+   "symbol": "FTSEMIB.MI",
+   "value": "52,051",
+   "chg": "-0.37%"
+  },
+  {
+   "name": "IBEX 35",
+   "symbol": "^IBEX",
+   "value": "19,983",
+   "chg": "-0.09%"
+  },
+  {
+   "name": "EURO STOXX 50",
+   "symbol": "^STOXX50E",
+   "value": "6,379.56",
+   "chg": "-0.05%"
+  },
+  {
+   "name": "OMX Stockholm 30",
+   "symbol": "^OMX",
+   "value": "3,267.19",
+   "chg": "-0.34%"
+  },
+  {
+   "name": "MOEX Russia",
+   "symbol": "IMOEX",
+   "value": "2,245.45",
+   "chg": "+1.39%"
+  },
+  {
+   "name": "DFM General (Dubai)",
+   "symbol": "DFMGI.AE",
+   "value": "5,884.63",
+   "chg": "+0.70%"
+  },
+  {
+   "name": "Nikkei 225",
+   "symbol": "^N225",
+   "value": "65,021",
+   "chg": "+1.26%"
+  },
+  {
+   "name": "Hang Seng",
+   "symbol": "^HSI",
+   "value": "25,651",
+   "chg": "+1.74%"
+  },
+  {
+   "name": "Shanghai Composite",
+   "symbol": "000001.SS",
+   "value": "3,930.12",
+   "chg": "-0.30%"
+  },
+  {
+   "name": "KOSPI",
+   "symbol": "^KS11",
+   "value": "6,687.21",
+   "chg": "+1.64%"
+  },
+  {
+   "name": "TAIEX",
+   "symbol": "^TWII",
+   "value": "46,551",
+   "chg": "+1.51%"
+  },
+  {
+   "name": "SET Index",
+   "symbol": "^SET.BK",
+   "value": "1,595.58",
+   "chg": "+1.18%"
+  },
+  {
+   "name": "BSE Sensex",
+   "symbol": "^BSESN",
+   "value": "76,515",
+   "chg": "+0.48%"
   },
   {
    "name": "S&P/ASX 200",
@@ -165,66 +267,24 @@
    "chg": "-0.03%"
   },
   {
-   "name": "FTSE 100",
-   "symbol": "^FTSE",
-   "value": "10,808",
-   "chg": "-0.22%"
-  },
-  {
-   "name": "FTSE 250",
-   "symbol": "^FTMC",
-   "value": "24,513",
-   "chg": "+0.07%"
-  },
-  {
-   "name": "FTSE 350",
-   "symbol": "^FTLC",
-   "value": "5,887.49",
-   "chg": "-0.19%"
+   "name": "NZX 50",
+   "symbol": "^NZ50",
+   "value": "13,974",
+   "chg": "+0.92%"
   }
  ],
  "narrative_indices": [
   {
-   "name": "DAX",
-   "symbol": "^GDAXI",
-   "value": "26,135",
-   "chg": "+0.50%"
+   "name": "Dow Jones",
+   "symbol": "^DJI",
+   "value": "53,686",
+   "chg": "+1.18%"
   },
   {
-   "name": "CAC 40",
-   "symbol": "^FCHI",
-   "value": "8,267.58",
-   "chg": "-0.23%"
-  },
-  {
-   "name": "Hang Seng",
-   "symbol": "^HSI",
-   "value": "25,651",
-   "chg": "+1.74%"
-  },
-  {
-   "name": "Nikkei 225",
-   "symbol": "^N225",
-   "value": "65,021",
-   "chg": "+1.26%"
-  },
-  {
-   "name": "KOSPI",
-   "symbol": "^KS11",
-   "value": "6,687.21",
-   "chg": "+1.64%"
-  },
-  {
-   "name": "Shanghai Composite",
-   "symbol": "000001.SS",
-   "value": "3,930.12",
-   "chg": "-0.30%"
-  },
-  {
-   "name": "Ibovespa",
-   "symbol": "^BVSP",
-   "value": "185,188",
-   "chg": "-0.01%"
+   "name": "Russell 2000",
+   "symbol": "^RUT",
+   "value": "2,968.27",
+   "chg": "+0.51%"
   },
   {
    "name": "Straits Times",
@@ -233,13 +293,19 @@
    "chg": "+0.94%"
   },
   {
-   "name": "BSE Sensex",
-   "symbol": "^BSESN",
-   "value": "76,515",
-   "chg": "+0.48%"
+   "name": "FTSE 250",
+   "symbol": "^FTMC",
+   "value": "24,502",
+   "chg": "+0.02%"
+  },
+  {
+   "name": "FTSE 350",
+   "symbol": "^FTLC",
+   "value": "5,882.15",
+   "chg": "-0.28%"
   }
  ],
  "indices_source": "https://finance.yahoo.com/world-indices",
- "indices_asof": "Friday 04 September 2026, 13:13 UTC",
+ "indices_asof": "Friday 04 September 2026, 13:28 UTC",
  "indices_asof_label": "Friday 04 September 2026"
 }
