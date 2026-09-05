@@ -4,6 +4,7 @@
    "key": "anz",
    "name": "ANZ",
    "summary": "ANZ equity capital markets activity captured this run runs to 3 items, led by Resources Top 5: Cazaly progressing Romano gold JV, Podium funded for PGM met studies. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources. No newer capital markets item has been reported for ANZ since the last edition, so the same verified item(s) are carried forward.",
+   "fresh_count": 0,
    "items": [
     {
      "headline": "Resources Top 5: Cazaly progressing Romano gold JV, Podium funded for PGM met studies",
@@ -12,7 +13,7 @@
      "outlet": "Stockhead",
      "source_url": "https://stockhead.com.au/feed/",
      "published": "2026-09-04T06:49:13+00:00",
-     "fetched": "2026-09-04T13:15:36+00:00"
+     "fetched": "2026-09-05T00:14:16+00:00"
     },
     {
      "headline": "StockTake: Mount Ridley lands $2M for critical minerals push",
@@ -21,7 +22,7 @@
      "outlet": "Stockhead",
      "source_url": "https://stockhead.com.au/feed/",
      "published": "2026-09-04T02:41:48+00:00",
-     "fetched": "2026-09-04T13:15:36+00:00"
+     "fetched": "2026-09-05T00:14:16+00:00"
     },
     {
      "headline": "FireFly Metals completes $180 million equity raising to support Green Bay growth",
@@ -30,75 +31,68 @@
      "outlet": "The Market Herald",
      "source_url": "https://themarketherald.com.au/feed/",
      "published": "2026-09-04T00:54:25+00:00",
-     "fetched": "2026-09-04T13:15:37+00:00"
+     "fetched": "2026-09-05T00:14:17+00:00"
     }
    ]
   },
   {
    "key": "asia",
    "name": "Asia (Japan/Singapore/Hong Kong/China)",
-   "summary": "Asia (Japan/Singapore/Hong Kong/China) equity capital markets activity captured this run runs to 4 items, led by Philippine fast-food giant Jollibee picks Hong Kong over New York for spin-off’s listing. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "summary": "Asia (Japan/Singapore/Hong Kong/China) equity capital markets activity captured this run runs to 4 items, led by China’s AI ‘little giant’ Yunxi Technology files for Hong Kong IPO: sources. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "fresh_count": 4,
    "items": [
     {
-     "headline": "Philippine fast-food giant Jollibee picks Hong Kong over New York for spin-off’s listing",
-     "detail": "The parent company of Philippine fast-food giant Jollibee plans to spin off and list its international operations in Hong Kong instead of New York in a strong endorsement of the city’s initial public offering (IPO) diversification efforts.",
-     "url": "https://www.scmp.com/business/banking-finance/article/3366078/philippine-fast-food-giant-jollibee-picks-hong-kong-over-new-york-spin-listing?utm_source=rss_feed",
+     "headline": "China’s AI ‘little giant’ Yunxi Technology files for Hong Kong IPO: sources",
+     "detail": "Yunxi Technology, officially one of China’s “little giants”, has submitted a confidential initial public offering application to Hong Kong’s stock exchange, according to people familiar with the matter.",
+     "url": "https://www.scmp.com/business/companies/article/3366347/chinas-ai-little-giant-yunxi-technology-files-hong-kong-ipo-sources?utm_source=rss_feed",
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
-     "published": "2026-09-02T07:03:43+00:00",
-     "fetched": "2026-09-04T13:15:38+00:00"
+     "published": "2026-09-04T08:00:09+00:00",
+     "fetched": "2026-09-05T00:14:18+00:00"
     },
     {
-     "headline": "Shein slips on Hong Kong debut amid fast-fashion challenges",
-     "detail": "Fast-fashion retailer Shein fell on its Hong Kong trading debut as the unprofitable company contends with rising competition and the loss of tax breaks in key markets.",
-     "url": "https://www.scmp.com/plus/business/banking-finance/article/3365973/shein-slips-hong-kong-debut-amid-fast-fashion-challenges?utm_source=rss_feed",
+     "headline": "China prepares next phase of national SME fund to boost tech start-ups and IPOs",
+     "detail": "China will soon launch the second phase of a National SME Development Fund with a focus on IPO incubation and channelling private capital into backing innovative, early-stage entities and projects with long-term prospects in hard tech.",
+     "url": "https://www.scmp.com/economy/china-economy/article/3366269/china-prepares-next-phase-national-sme-fund-boost-tech-start-ups-and-ipos?utm_source=rss_feed",
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
-     "published": "2026-09-01T09:11:19+00:00",
-     "fetched": "2026-09-04T13:15:38+00:00"
+     "published": "2026-09-03T12:37:15+00:00",
+     "fetched": "2026-09-05T00:14:18+00:00"
     },
     {
-     "headline": "Shein shares recover after 10% drop on Hong Kong debut",
-     "detail": "Shein Global Holdings plunged as much as 10 per cent in its Hong Kong trading debut on Tuesday after raising HK$13.6 billion (US$1.7 billion), further shaking market confidence in the company’s valuation.",
-     "url": "https://www.scmp.com/business/banking-finance/article/3365886/shein-shares-plunge-28-grey-market-ahead-hong-kong-debut?utm_source=rss_feed",
+     "headline": "Hong Kong regulator reclassifies certain funds with exposure to private markets",
+     "detail": "Hong Kong’s market regulator has reclassified some of the city’s authorised funds with exposure to private market assets above a certain amount as complex products, raising the threshold for selling these products to retail investors.",
+     "url": "https://www.scmp.com/business/banking-finance/article/3366260/hong-kong-regulator-reclassifies-certain-funds-exposure-private-markets?utm_source=rss_feed",
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
-     "published": "2026-09-01T00:00:15+00:00",
-     "fetched": "2026-09-04T13:15:38+00:00"
+     "published": "2026-09-03T11:12:03+00:00",
+     "fetched": "2026-09-05T00:14:18+00:00"
     },
     {
-     "headline": "2 trapped workers rescued alive from Nepal tunnel 9 days after floods",
-     "detail": "Two hydropower workers were pulled from a tunnel buried by debris in Nepal on Friday, a rare ray of hope on the 10th day of rescue efforts after catastrophic Himalayan flooding.",
-     "url": "https://www.scmp.com/news/asia/south-asia/article/3366319/2-trapped-workers-rescued-alive-nepal-tunnel-9-days-after-floods?utm_source=rss_feed",
+     "headline": "Robot guide dog debuts in China amid severe lack of furry counterparts",
+     "detail": "A Chinese defence industry research facility has unveiled what it calls the world’s first wheeled and legged robot guide dog for visually impaired people, in an example of the sector’s push into a growing range of civilian applications.",
+     "url": "https://www.scmp.com/tech/tech-trends/article/3366394/robot-guide-dog-debuts-china-amid-severe-lack-furry-counterparts?utm_source=rss_feed",
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-09-04T04:51:25+00:00",
-     "fetched": "2026-09-04T13:15:39+00:00"
+     "published": "2026-09-04T13:30:06+00:00",
+     "fetched": "2026-09-05T00:14:18+00:00"
     }
    ]
   },
   {
    "key": "us",
    "name": "US",
-   "summary": "US equity capital markets activity captured this run runs to 4 items, led by The SPAC IPO Buzz: Inflection Point Acquisition VIII Raises $250 Million. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "summary": "US equity capital markets activity captured this run runs to 4 items, led by Fed's Hammack says 'now is the time to act' on raising interest rates. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "fresh_count": 1,
    "items": [
     {
-     "headline": "The SPAC IPO Buzz: Inflection Point Acquisition VIII Raises $250 Million",
-     "detail": "Inflection Point Acquisition Corp. VIII (IPHXU) – part of Michael Blitzer’s SPAC franchise – raised $250 million – pricing 25 million units at $10.00 each – in its SPAC IPO on Thursday night, Aug. 27, 2026.",
-     "url": "https://www.iposcoop.com/the-spac-ipo-buzz-inflection-point-acquisition-viii-raises-250-million/",
-     "outlet": "IPOScoop",
-     "source_url": "https://www.iposcoop.com/feed/",
-     "published": "2026-08-28T11:28:37+00:00",
-     "fetched": "2026-09-04T13:15:42+00:00"
-    },
-    {
-     "headline": "The SPAC IPO Buzz: JATT III Acquisition (JTTT) Jumps 15 Percent in its NASDAQ Debut",
-     "detail": "JATT III Acquisition, a newly minted healthcare SPAC, soared in its NASDAQ debut – up 14.5 percent to close at $11.45 on Wednesday (Aug. 26, 2026).",
-     "url": "https://www.iposcoop.com/the-ipo-buzz-jatt-iii-acquisition-jttt-jumps-15-percent-in-its-nasdaq-debut/",
-     "outlet": "IPOScoop",
-     "source_url": "https://www.iposcoop.com/feed/",
-     "published": "2026-08-26T20:02:22+00:00",
-     "fetched": "2026-09-04T13:15:42+00:00"
+     "headline": "Fed's Hammack says 'now is the time to act' on raising interest rates",
+     "detail": "She still thinks the Fed needs to take action against inflation that is straining household budgets.",
+     "url": "https://www.cnbc.com/2026/08/27/feds-hammack-says-now-is-the-time-to-act-on-raising-interest-rates.html",
+     "outlet": "CNBC Markets",
+     "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258",
+     "published": "2026-08-27T17:31:09+00:00",
+     "fetched": "2026-09-05T00:14:23+00:00"
     },
     {
      "headline": "The IPO Buzz: SoftBank-Backed SB Energy (SBE) Files Plans for Huge IPO",
@@ -107,7 +101,7 @@
      "outlet": "IPOScoop",
      "source_url": "https://www.iposcoop.com/feed/",
      "published": "2026-09-01T16:39:45+00:00",
-     "fetched": "2026-09-04T13:15:42+00:00"
+     "fetched": "2026-09-05T00:14:21+00:00"
     },
     {
      "headline": "The IPO Buzz: Anthropic & Aggreko Stir Anticipation – After Labor Day",
@@ -116,15 +110,34 @@
      "outlet": "IPOScoop",
      "source_url": "https://www.iposcoop.com/feed/",
      "published": "2026-08-31T18:41:23+00:00",
-     "fetched": "2026-09-04T13:15:42+00:00"
+     "fetched": "2026-09-05T00:14:21+00:00"
+    },
+    {
+     "headline": "The SPAC IPO Buzz: Inflection Point Acquisition VIII Raises $250 Million",
+     "detail": "Inflection Point Acquisition Corp. VIII (IPHXU) – part of Michael Blitzer’s SPAC franchise – raised $250 million – pricing 25 million units at $10.00 each – in its SPAC IPO on Thursday night, Aug. 27, 2026.",
+     "url": "https://www.iposcoop.com/the-spac-ipo-buzz-inflection-point-acquisition-viii-raises-250-million/",
+     "outlet": "IPOScoop",
+     "source_url": "https://www.iposcoop.com/feed/",
+     "published": "2026-08-28T11:28:37+00:00",
+     "fetched": "2026-09-05T00:14:21+00:00"
     }
    ]
   },
   {
    "key": "uk",
    "name": "UK",
-   "summary": "A single verifiable equity capital markets item was found for UK this run: SpaceX float ‘could kickstart mega IPO access for British retail investors’. No newer capital markets item has been reported for UK since the last edition, so the same verified item(s) are carried forward.",
+   "summary": "UK equity capital markets activity captured this run runs to 2 items, led by London snubbed as Formula 1 announces return of F1 Live show at new venue. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "fresh_count": 1,
    "items": [
+    {
+     "headline": "London snubbed as Formula 1 announces return of F1 Live show at new venue",
+     "detail": "Formula 1 will repeat the F1 Live event that debuted in London last year with an expanded format and a new host city: Milan.",
+     "url": "https://www.cityam.com/london-snubbed-as-formula-1-announces-return-of-f1-live-show-at-new-venue/",
+     "outlet": "City A.M.",
+     "source_url": "https://www.cityam.com/feed/",
+     "published": "2026-09-04T13:42:42+00:00",
+     "fetched": "2026-09-05T00:14:24+00:00"
+    },
     {
      "headline": "SpaceX float ‘could kickstart mega IPO access for British retail investors’",
      "detail": "SpaceX’s use of the UK’s new public offer platform to raise hundreds of millions of pounds from British retail investors could encourage a wave of large US companies to follow suit, according to one of the brokers that orchestrated the…",
@@ -132,32 +145,24 @@
      "outlet": "City A.M.",
      "source_url": "https://www.cityam.com/category/markets/feed/",
      "published": "2026-09-01T06:00:00+00:00",
-     "fetched": "2026-09-04T13:15:48+00:00"
+     "fetched": "2026-09-05T00:14:23+00:00"
     }
    ]
   },
   {
    "key": "europe",
    "name": "Europe",
-   "summary": "Europe equity capital markets activity captured this run runs to 2 items, led by US Stock Futures Slip as Jobs Growth Fuels Fed-Hike Bets. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "summary": "A single verifiable equity capital markets item was found for Europe this run: S&P 500 Ends Week Flat as Strong Jobs Growth Fuels Fed-Hike Bets. No newer capital markets item has been reported for Europe since the last edition, so the same verified item(s) are carried forward.",
+   "fresh_count": 0,
    "items": [
     {
-     "headline": "US Stock Futures Slip as Jobs Growth Fuels Fed-Hike Bets",
-     "detail": "US stock futures erased early gains to briefly touch session lows on Friday after the US added 162,000 jobs in August, raising concerns that the Federal Reserve may hike interest rates soon.",
+     "headline": "S&P 500 Ends Week Flat as Strong Jobs Growth Fuels Fed-Hike Bets",
+     "detail": "US stocks finished lower on Friday as the American economy ​added more jobs than expected in August, raising expectations that the Federal Reserve may hike interest rates soon.",
      "url": "https://www.bloomberg.com/news/articles/2026-09-04/us-stock-futures-steady-ahead-of-key-august-jobs-data",
      "outlet": "Bloomberg",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
      "published": "2026-09-04T11:50:13+00:00",
-     "fetched": "2026-09-04T13:15:51+00:00"
-    },
-    {
-     "headline": "Anthropic Finalizing $15 Billion Pre-IPO Credit Facility",
-     "detail": "Anthropic PBC is set to finalize an expansion of its revolving credit facility to $15 billion, according to people familiar with the matter, clearing a hurdle before the artificial intelligence firm’s public filing for its highly…",
-     "url": "https://www.bloomberg.com/news/articles/2026-09-03/anthropic-nears-finalizing-15-billion-pre-ipo-credit-facility",
-     "outlet": "Bloomberg",
-     "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-09-03T22:43:54+00:00",
-     "fetched": "2026-09-04T13:15:51+00:00"
+     "fetched": "2026-09-05T00:14:26+00:00"
     }
    ]
   },
@@ -165,6 +170,7 @@
    "key": "rest",
    "name": "Rest (South America, Middle East, Africa, India etc)",
    "summary": "No capital raising or new listing activity could be verified from a linked source for Rest (South America, Middle East, Africa, India etc) this run, so nothing is listed rather than publishing an item without a working URL.",
+   "fresh_count": 0,
    "items": []
   }
  ]

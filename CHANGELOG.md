@@ -9,6 +9,19 @@ Australia/Sydney, matching the digest's own schedule. Entries begin 2026-08-31.
 
 ### Changed
 
+- Three footer/section strings that were hardcoded regardless of what
+  actually happened this run are now computed from real per-run data.
+  The "Story rotation policy" note no longer asserts a fixed claim about
+  the previously published artifact; it now reports the actual fresh vs.
+  repeated item counts from Capital Raises and Market Earnings Reporting,
+  and whether a previous local edition existed to compare against. The
+  "unavailable outlets" footer line is now sourced from a live per-run
+  retry of news.com.au/smh.com.au/9news.com.au/theaustralian.com.au
+  (`fetch_news.py`'s new `check_blocked_outlets()`) instead of a fixed
+  list in `data/config.json`. A duplicate static fallback paragraph under
+  empty Capital Raises regions (stacked on top of the already-dynamic
+  summary) has been removed, matching the earlier Market Earnings fix.
+
 - Market Earnings Reporting is now distributed through Top Performers instead
   of placing all six earnings regions below ANZ. ANZ earnings follow ANZ Top
   Performers, Asia earnings follow the four Asian markets, and the US, UK,
