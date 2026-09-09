@@ -3,48 +3,48 @@
   "key": "abcus",
   "name": "ABC News (US)",
   "site": "abcnews.go.com",
-  "summary": "ABC News in the United States, the network's national and world file is leading with Lindsay Clancy trial declared a mistrial. What happens next?; LIVE: ABC News Live; Federal judge extends block on new USPS mail ballot rules.",
+  "summary": "ABC News in the United States, the network's national and world file is leading with Canada's retaliatory tariffs hit US products as Trump warns of escalation; Emergency issued as Hurricane Lowell barrels toward Western Hawaii; EU warns of new menace 25 years after 9/11 as online youths seek violent thrills.",
   "note": null,
   "items": [
    {
-    "headline": "Lindsay Clancy trial declared a mistrial. What happens next?",
-    "detail": "With the Lindsay Clancy jury unable to reach a verdict, here is what may happen next.",
-    "url": "https://abcnews.go.com/GMA/News/lindsay-clancy-jury-deadlocked/story?id=136153308",
+    "headline": "Canada's retaliatory tariffs hit US products as Trump warns of escalation",
+    "detail": "Trade negotiations broke down last month, setting off tit-for-tat tariff threats.",
+    "url": "https://abcnews.go.com/Business/canadas-retaliatory-tariffs-set-hit-us-products-trump/story?id=136252017",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-09-04T18:49:57-04:00",
-    "fetched": "2026-09-05T00:14:49+00:00"
+    "published": "2026-09-08T00:16:23-04:00",
+    "fetched": "2026-09-08T08:02:56+00:00"
    },
    {
-    "headline": "LIVE: ABC News Live",
-    "detail": "24/7 coverage of breaking news and live events",
-    "url": "https://abcnews.go.com/video/41463246/",
+    "headline": "Emergency issued as Hurricane Lowell barrels toward Western Hawaii",
+    "detail": "Hurricane Lowell was expected to pass near Kauai Monday night.",
+    "url": "https://abcnews.go.com/US/hawaii-braces-hurricane-lowell-amid-risk-dangerous-winds/story?id=136254131",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-09-04T17:15:12-04:00",
-    "fetched": "2026-09-05T00:14:49+00:00"
+    "published": "2026-09-08T00:44:54-04:00",
+    "fetched": "2026-09-08T08:02:56+00:00"
    },
    {
-    "headline": "Federal judge extends block on new USPS mail ballot rules",
-    "detail": "The judge handling the legal battle over new U.S. Postal Service mail ballot rules extended her block of the rules for the November midterms.",
-    "url": "https://abcnews.go.com/Politics/federal-judge-extends-block-new-usps-mail-ballot/story?id=136215058",
+    "headline": "EU warns of new menace 25 years after 9/11 as online youths seek violent thrills",
+    "detail": "Jihadist groups still pose a major threat to Europe, but 25 years after the 9/11 attacks a new menace driven by young people online is emerging",
+    "url": "https://abcnews.go.com/International/wireStory/eu-warns-chilling-new-terror-menace-25-years-136264885",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-09-04T18:58:55-04:00",
-    "fetched": "2026-09-05T00:14:49+00:00"
+    "published": "2026-09-08T03:09:33-04:00",
+    "fetched": "2026-09-08T08:02:56+00:00"
    },
    {
-    "headline": "Rescue satellite gets close to NASA's doomed telescope, even if it can't save it",
-    "detail": "A private spacecraft that was supposed to save NASA's sinking Swift Observatory has managed to come within nine miles of the doomed spacecraft and even snap pictures",
-    "url": "https://abcnews.go.com/Technology/wireStory/rescue-satellite-gets-close-nasas-doomed-telescope-save-136203113",
+    "headline": "WATCH: Scientists discover dozens of new species in the Pacific",
+    "detail": "ABC News' Danny New takes a deep dive into ultra-rare creatures found in the Pacific Ocean.",
+    "url": "https://abcnews.go.com/video/136250331/",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-09-04T11:08:28-04:00",
-    "fetched": "2026-09-05T00:14:49+00:00"
+    "published": "2026-09-07T06:43:53-04:00",
+    "fetched": "2026-09-08T08:02:56+00:00"
    },
    {
-    "headline": "WATCH: Nat Geo’s 'Moment on the Earth' spotlights the shaggy sea hare",
-    "detail": "National Geographic’s Photo Ark spotlights a ragged sea hare, or shaggy sea hare, as it celebrates 20 years of documenting biodiversity and inspiring wildlife conservation.",
-    "url": "https://abcnews.go.com/video/136209595/",
+    "headline": "WATCH: Two towns, scarred by fire, unite on the football field",
+    "detail": "The Lahaina Lunas and the Paradise Bobcats met for the first time to play in what they called the Unity Bowl.",
+    "url": "https://abcnews.go.com/video/136245231/",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-09-04T16:19:36-04:00",
-    "fetched": "2026-09-05T00:14:49+00:00"
+    "published": "2026-09-06T21:07:17-04:00",
+    "fetched": "2026-09-08T08:02:56+00:00"
    }
   ]
  }
