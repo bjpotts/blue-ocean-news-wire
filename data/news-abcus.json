@@ -3,49 +3,8 @@
   "key": "abcus",
   "name": "ABC News (US)",
   "site": "abcnews.go.com",
-  "summary": "ABC News in the United States, the network's national and world file is leading with Canada's retaliatory tariffs hit US products as Trump warns of escalation; Emergency issued as Hurricane Lowell barrels toward Western Hawaii; EU warns of new menace 25 years after 9/11 as online youths seek violent thrills.",
-  "note": null,
-  "items": [
-   {
-    "headline": "Canada's retaliatory tariffs hit US products as Trump warns of escalation",
-    "detail": "Trade negotiations broke down last month, setting off tit-for-tat tariff threats.",
-    "url": "https://abcnews.go.com/Business/canadas-retaliatory-tariffs-set-hit-us-products-trump/story?id=136252017",
-    "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-09-08T00:16:23-04:00",
-    "fetched": "2026-09-08T08:02:56+00:00"
-   },
-   {
-    "headline": "Emergency issued as Hurricane Lowell barrels toward Western Hawaii",
-    "detail": "Hurricane Lowell was expected to pass near Kauai Monday night.",
-    "url": "https://abcnews.go.com/US/hawaii-braces-hurricane-lowell-amid-risk-dangerous-winds/story?id=136254131",
-    "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-09-08T00:44:54-04:00",
-    "fetched": "2026-09-08T08:02:56+00:00"
-   },
-   {
-    "headline": "EU warns of new menace 25 years after 9/11 as online youths seek violent thrills",
-    "detail": "Jihadist groups still pose a major threat to Europe, but 25 years after the 9/11 attacks a new menace driven by young people online is emerging",
-    "url": "https://abcnews.go.com/International/wireStory/eu-warns-chilling-new-terror-menace-25-years-136264885",
-    "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-09-08T03:09:33-04:00",
-    "fetched": "2026-09-08T08:02:56+00:00"
-   },
-   {
-    "headline": "WATCH: Scientists discover dozens of new species in the Pacific",
-    "detail": "ABC News' Danny New takes a deep dive into ultra-rare creatures found in the Pacific Ocean.",
-    "url": "https://abcnews.go.com/video/136250331/",
-    "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-09-07T06:43:53-04:00",
-    "fetched": "2026-09-08T08:02:56+00:00"
-   },
-   {
-    "headline": "WATCH: Two towns, scarred by fire, unite on the football field",
-    "detail": "The Lahaina Lunas and the Paradise Bobcats met for the first time to play in what they called the Unity Bowl.",
-    "url": "https://abcnews.go.com/video/136245231/",
-    "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-09-06T21:07:17-04:00",
-    "fetched": "2026-09-08T08:02:56+00:00"
-   }
-  ]
+  "summary": "ABC News (US) could not be reached this run.",
+  "note": "RSS fetch failed this run; no headlines are shown rather than republishing stale ones.",
+  "items": []
  }
 }

@@ -4,344 +4,57 @@
    "key": "abc",
    "name": "ABC News Australia",
    "site": "abc.net.au/news",
-   "summary": "The ABC's Australian and international news file is leading with Inquest to begin into Russell Island house fire that killed father and five boys; Crook elbows and big dreams propelling unheralded Knights for NRL finals; Gigantic mechanical 'esky lid' is Brisbane's newest defence against flooding.",
-   "note": null,
-   "items": [
-    {
-     "headline": "Inquest to begin into Russell Island house fire that killed father and five boys",
-     "detail": "Inquest to begin into Russell Island house fire that killed father and five boys",
-     "url": "https://www.abc.net.au/news/2026-09-08/russell-island-house-fire-inquest-wayne-godinet-jr/107128232",
-     "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
-     "published": "2026-09-08T07:56:39+00:00",
-     "fetched": "2026-09-08T08:02:52+00:00"
-    },
-    {
-     "headline": "Crook elbows and big dreams propelling unheralded Knights for NRL finals",
-     "detail": "Crook elbows and big dreams propelling unheralded Knights for NRL finals",
-     "url": "https://www.abc.net.au/news/2026-09-08/newcastle-knights-south-sydney-rabbitohs-nrl-finals/107130290",
-     "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
-     "published": "2026-09-08T07:50:40+00:00",
-     "fetched": "2026-09-08T08:02:52+00:00"
-    },
-    {
-     "headline": "Gigantic mechanical 'esky lid' is Brisbane's newest defence against flooding",
-     "detail": "Gigantic mechanical 'esky lid' is Brisbane's newest defence against flooding",
-     "url": "https://www.abc.net.au/news/2026-09-08/cross-river-rail-unveils-albert-street-esky-lid-flood-barrier/107127378",
-     "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
-     "published": "2026-09-08T07:36:02+00:00",
-     "fetched": "2026-09-08T08:02:52+00:00"
-    },
-    {
-     "headline": "Australia records worst-ever maths and reading scores in global test",
-     "detail": "Australia records worst-ever maths and reading scores in global test",
-     "url": "https://www.abc.net.au/news/2026-09-08/australia-records-worst-ever-reading-and-maths-results-pisa/107101504",
-     "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
-     "published": "2026-09-08T07:30:09+00:00",
-     "fetched": "2026-09-08T08:02:52+00:00"
-    },
-    {
-     "headline": "Court bolter tackled by police wanted to kiss partner goodbye",
-     "detail": "Court bolter tackled by police wanted to kiss partner goodbye",
-     "url": "https://www.abc.net.au/news/2026-09-08/tasmania-burnie-court-escapee-wanted-to-kiss-partner-baby/107123708",
-     "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
-     "published": "2026-09-08T07:29:56+00:00",
-     "fetched": "2026-09-08T08:02:52+00:00"
-    }
-   ]
+   "summary": "ABC News Australia could not be reached this run.",
+   "note": "RSS fetch failed this run; no headlines are shown rather than republishing stale ones.",
+   "items": []
   },
   {
    "key": "sbs",
    "name": "SBS News Australia",
    "site": "sbs.com.au/news",
-   "summary": "SBS News, covering Australian affairs with a strong multicultural and world focus is leading with A war criminal was given a hero's send-off. It could have broader impacts; Flights resume in Indonesia despite fresh volcanic eruptions; Protesters call for Israeli ambassador's expulsion after Zomi Frankcom decision.",
-   "note": null,
-   "items": [
-    {
-     "headline": "A war criminal was given a hero's send-off. It could have broader impacts",
-     "detail": "Thousands paid their respects to the man convicted for the Srebrenica genocide.",
-     "url": "https://www.sbs.com.au/news/article/a-war-criminal-was-given-a-heros-send-off-it-could-have-broader-impacts/7m2tctlmx",
-     "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
-     "published": "2026-09-08T05:56:16+00:00",
-     "fetched": "2026-09-08T08:02:53+00:00"
-    },
-    {
-     "headline": "Flights resume in Indonesia despite fresh volcanic eruptions",
-     "detail": "Authorities are checking the airworthiness of dozens of planes that were grounded due to the ash plume.",
-     "url": "https://www.sbs.com.au/news/article/flights-indonesia-resume-volcano-eruption/0hybsomco",
-     "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
-     "published": "2026-09-08T05:45:25+00:00",
-     "fetched": "2026-09-08T08:02:53+00:00"
-    },
-    {
-     "headline": "Protesters call for Israeli ambassador's expulsion after Zomi Frankcom decision",
-     "detail": "Activists blocked the entry to the Israeli embassy to protest the Israeli army's response to the Australian aid worker's killing.",
-     "url": "https://www.sbs.com.au/news/article/protesters-call-for-israeli-ambassadors-expulsion-after-zomi-frankcom-decision/ip0z6vbqu",
-     "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
-     "published": "2026-09-08T04:41:22+00:00",
-     "fetched": "2026-09-08T08:02:53+00:00"
-    },
-    {
-     "headline": "Anthony Albanese says he's not trying to stop you from doomscrolling",
-     "detail": "But new laws could provide people with an opportunity to make a change, the prime minister said.",
-     "url": "https://www.sbs.com.au/news/article/algrothim-opt-out-digital-duty-of-care/9d4bf47yy",
-     "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
-     "published": "2026-09-08T04:22:59+00:00",
-     "fetched": "2026-09-08T08:02:53+00:00"
-    },
-    {
-     "headline": "'Private citizens': King Charles' declaration as Harry and Meghan return",
-     "detail": "Harry and Meghan \"are no longer working Members of The Royal Family\", King Charles said in a letter.",
-     "url": "https://www.sbs.com.au/news/article/harry-and-meghan-non-working-royals/kxoabvj2t",
-     "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
-     "published": "2026-09-08T02:49:01+00:00",
-     "fetched": "2026-09-08T08:02:53+00:00"
-    }
-   ]
+   "summary": "SBS News Australia could not be reached this run.",
+   "note": "RSS fetch failed this run; no headlines are shown rather than republishing stale ones.",
+   "items": []
   },
   {
    "key": "rnz",
    "name": "RNZ New Zealand",
    "site": "rnz.co.nz",
-   "summary": "Radio New Zealand's national news file is leading with NZ science and maths students turn around 20 years of decline in international tests; One person arrested after armed police attend Nelson incident; Neighbour 'in shock' after woman and two children killed in Rotorua home.",
-   "note": null,
-   "items": [
-    {
-     "headline": "NZ science and maths students turn around 20 years of decline in international tests",
-     "detail": "NZ science and maths students turn around 20 years of decline in international tests",
-     "url": "https://www.rnz.co.nz/news/education/1305427/nz-science-and-maths-students-turn-around-20-years-of-decline-in-international-tests",
-     "source_url": "https://www.rnz.co.nz/rss/national.xml",
-     "published": "2026-09-08T19:30:37+12:00",
-     "fetched": "2026-09-08T08:02:53+00:00"
-    },
-    {
-     "headline": "One person arrested after armed police attend Nelson incident",
-     "detail": "One person arrested after armed police attend Nelson incident",
-     "url": "https://www.rnz.co.nz/news/regions_nelson/1304989/one-person-arrested-after-armed-police-attend-nelson-incident",
-     "source_url": "https://www.rnz.co.nz/rss/national.xml",
-     "published": "2026-09-08T19:08:47+12:00",
-     "fetched": "2026-09-08T08:02:53+00:00"
-    },
-    {
-     "headline": "Neighbour 'in shock' after woman and two children killed in Rotorua home",
-     "detail": "Neighbour 'in shock' after woman and two children killed in Rotorua home",
-     "url": "https://www.rnz.co.nz/news/regional/1300831/neighbour-in-shock-after-woman-and-two-children-killed-in-rotorua-home",
-     "source_url": "https://www.rnz.co.nz/rss/national.xml",
-     "published": "2026-09-08T18:57:56+12:00",
-     "fetched": "2026-09-08T08:02:53+00:00"
-    },
-    {
-     "headline": "Emergency services attend microlight aircraft crash in Canterbury",
-     "detail": "Emergency services attend microlight aircraft crash in Canterbury",
-     "url": "https://www.rnz.co.nz/news/emergencies_local/1305107/emergency-services-attend-microlight-aircraft-crash-in-canterbury",
-     "source_url": "https://www.rnz.co.nz/rss/national.xml",
-     "published": "2026-09-08T18:28:15+12:00",
-     "fetched": "2026-09-08T08:02:53+00:00"
-    },
-    {
-     "headline": "Police officers made 'split second tactical decisions' in fatal shooting of Kaoss Price, High Court told",
-     "detail": "Police officers made 'split second tactical decisions' in fatal shooting of Kaoss Price, High Court told",
-     "url": "https://www.rnz.co.nz/news/crime-and-justice/1304202/police-officers-made-split-second-tactical-decisions-in-fatal-shooting-of-kaoss-price-high-court-told",
-     "source_url": "https://www.rnz.co.nz/rss/national.xml",
-     "published": "2026-09-08T18:26:46+12:00",
-     "fetched": "2026-09-08T08:02:53+00:00"
-    }
-   ]
+   "summary": "RNZ New Zealand could not be reached this run.",
+   "note": "RSS fetch failed this run; no headlines are shown rather than republishing stale ones.",
+   "items": []
   },
   {
    "key": "scmp",
    "name": "South China Morning Post",
    "site": "scmp.com",
-   "summary": "The South China Morning Post, reporting from Hong Kong across Greater China and Asia is leading with China rallies Central Asian police chiefs on terrorism threats, energy and trade; Thieves steal art worth millions from Renoir Museum in France; Philippine ex-speaker stashed billions of pesos ‘he could no longer hide’: prosecutors.",
-   "note": null,
-   "items": [
-    {
-     "headline": "China rallies Central Asian police chiefs on terrorism threats, energy and trade",
-     "detail": "China’s top police officer has pledged deeper cooperation with his Central Asian counterparts to crack down on terrorism, separatism and extremism, while strengthening measures to protect Belt and Road Initiative investments.",
-     "url": "https://www.scmp.com/news/china/politics/article/3366751/china-rallies-central-asian-police-chiefs-terrorism-threats-energy-and-trade?utm_source=rss_feed",
-     "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-09-08T07:58:59+00:00",
-     "fetched": "2026-09-08T08:02:54+00:00"
-    },
-    {
-     "headline": "Thieves steal art worth millions from Renoir Museum in France",
-     "detail": "Two thieves broke into a museum dedicated to French impressionist painter Pierre-Auguste Renoir in southern France on Tuesday, stealing “four works of art”, one of which they dropped as they fled, a mayor said.",
-     "url": "https://www.scmp.com/news/world/europe/article/3366752/thieves-steal-art-worth-millions-renoir-museum-france?utm_source=rss_feed",
-     "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-09-08T07:54:45+00:00",
-     "fetched": "2026-09-08T08:02:54+00:00"
-    },
-    {
-     "headline": "Philippine ex-speaker stashed billions of pesos ‘he could no longer hide’: prosecutors",
-     "detail": "Martin Romualdez, a cousin of Philippine President Ferdinand Marcos Jnr, accumulated so much wealth over the past three years that he had to convert it into mansions and shares to avoid scrutiny, the Office of the Ombudsman alleged on…",
-     "url": "https://www.scmp.com/week-asia/people/article/3366749/philippine-ex-speaker-stashed-billions-he-could-no-longer-hide-prosecutors?utm_source=rss_feed",
-     "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-09-08T07:38:49+00:00",
-     "fetched": "2026-09-08T08:02:54+00:00"
-    },
-    {
-     "headline": "Australian group calls for ties with US ‘war machine’ to be severed",
-     "detail": "A grass-roots group associated with Australia’s ruling Labor Party has called on Prime Minister Anthony Albanese’s government to break from “the American war machine” and pursue an independent defence policy for the future.",
-     "url": "https://www.scmp.com/week-asia/politics/article/3366748/australian-group-calls-ties-us-war-machine-be-severed?utm_source=rss_feed",
-     "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-09-08T07:26:57+00:00",
-     "fetched": "2026-09-08T08:02:54+00:00"
-    },
-    {
-     "headline": "Eager capital prompts IPO plans for more Chinese makers of brain-computer interfaces",
-     "detail": "A handful of home-grown Chinese companies involved in brain computer interfaces (BCIs) are moving towards initial public offerings (IPOs) on onshore markets, taking advantage of the sector’s status as a new darling of private capital.",
-     "url": "https://www.scmp.com/business/china-business/article/3366744/eager-capital-prompts-ipo-plans-more-chinese-makers-brain-computer-interfaces?utm_source=rss_feed",
-     "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-09-08T07:13:34+00:00",
-     "fetched": "2026-09-08T08:02:54+00:00"
-    }
-   ]
+   "summary": "South China Morning Post could not be reached this run.",
+   "note": "RSS fetch failed this run; no headlines are shown rather than republishing stale ones.",
+   "items": []
   },
   {
    "key": "cnn",
    "name": "CNN",
    "site": "cnn.com",
-   "summary": "CNN's international edition is leading with This company says it can help cool the planet for $10 billion a year; scientists are raising red flags; Search underway for US family missing after plane lost contact off Bahamas coast; War criminal Mladic is buried as a hero in Serbia despite EU warnings.",
-   "note": null,
-   "items": [
-    {
-     "headline": "This company says it can help cool the planet for $10 billion a year; scientists are raising red flags",
-     "detail": "This company says it can help cool the planet for $10 billion a year; scientists are raising red flags",
-     "url": "https://www.cnn.com/2026/09/08/climate/solar-geoengineering-stardust-solutions-cool-planet",
-     "source_url": "https://www.cnn.com/sitemap/news.xml",
-     "published": "2026-09-08T08:00:29+00:00",
-     "fetched": "2026-09-08T08:02:54+00:00"
-    },
-    {
-     "headline": "Search underway for US family missing after plane lost contact off Bahamas coast",
-     "detail": "Search underway for US family missing after plane lost contact off Bahamas coast",
-     "url": "https://www.cnn.com/2026/09/08/us/bahamas-us-missing-plane-search-hnk",
-     "source_url": "https://www.cnn.com/sitemap/news.xml",
-     "published": "2026-09-08T05:11:16+00:00",
-     "fetched": "2026-09-08T08:02:54+00:00"
-    },
-    {
-     "headline": "War criminal Mladic is buried as a hero in Serbia despite EU warnings",
-     "detail": "War criminal Mladic is buried as a hero in Serbia despite EU warnings",
-     "url": "https://www.cnn.com/2026/09/07/europe/serbia-ratko-mladic-state-burial-intl",
-     "source_url": "https://www.cnn.com/sitemap/news.xml",
-     "published": "2026-09-07T10:20:53+00:00",
-     "fetched": "2026-09-08T08:02:54+00:00"
-    },
-    {
-     "headline": "Scores wounded as Iran-backed Houthis attack Saudi Arabia in major regional escalation",
-     "detail": "Scores wounded as Iran-backed Houthis attack Saudi Arabia in major regional escalation",
-     "url": "https://www.cnn.com/2026/09/08/middleeast/houthis-attack-saudi-arabia-yemen-intl-hnk",
-     "source_url": "https://www.cnn.com/sitemap/news.xml",
-     "published": "2026-09-08T04:23:22+00:00",
-     "fetched": "2026-09-08T08:02:54+00:00"
-    },
-    {
-     "headline": "Russia pounds Kyiv one day after visit by Witkoff and Kushner",
-     "detail": "Russia pounds Kyiv one day after visit by Witkoff and Kushner",
-     "url": "https://www.cnn.com/2026/09/07/world/ukraine-russia-kyiv-attacks-intl-hnk",
-     "source_url": "https://www.cnn.com/sitemap/news.xml",
-     "published": "2026-09-08T01:07:09+00:00",
-     "fetched": "2026-09-08T08:02:54+00:00"
-    }
-   ]
+   "summary": "CNN could not be reached this run.",
+   "note": "RSS fetch failed this run; no headlines are shown rather than republishing stale ones.",
+   "items": []
   },
   {
    "key": "fox",
    "name": "Fox News",
    "site": "foxnews.com",
-   "summary": "Fox News, covering US politics and national affairs is leading with Texas education board approves controversial curriculum changes tying 'radical Islam' to 9/11 attacks; Russian strikes continue following visit by Witkoff and Kushner to Kyiv; UK moves to sanction Israeli settlements as PM Burnham risks clash with Trump: report.",
-   "note": null,
-   "items": [
-    {
-     "headline": "Texas education board approves controversial curriculum changes tying 'radical Islam' to 9/11 attacks",
-     "detail": "The Texas Board of Education gave final approval to controversial social studies changes impacting how students learn about Islam and Christianity.",
-     "url": "https://www.foxnews.com/us/texas-education-board-approves-controversial-curriculum-changes-tying-radical-islam-9-11-attacks",
-     "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
-     "published": "2026-09-08T02:44:20-04:00",
-     "fetched": "2026-09-08T08:02:54+00:00"
-    },
-    {
-     "headline": "Russian strikes continue following visit by Witkoff and Kushner to Kyiv",
-     "detail": "Russia launched ballistic and cruise missiles at Kyiv shortly after envoys Steve Witkoff and Jared Kushner's visit to the city for peace negotiations.",
-     "url": "https://www.foxnews.com/world/russian-strikes-continue-following-visit-witkoff-kushner-kyiv",
-     "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
-     "published": "2026-09-08T00:25:39-04:00",
-     "fetched": "2026-09-08T08:02:54+00:00"
-    },
-    {
-     "headline": "UK moves to sanction Israeli settlements as PM Burnham risks clash with Trump: report",
-     "detail": "Andy Burnham's UK sanctions targeting Israeli West Bank settlements spark fierce backlash from Benjamin Netanyahu's ministers and U.S. lawmakers.",
-     "url": "https://www.foxnews.com/world/uk-moves-sanction-israeli-settlements-pm-burnham-risks-clash-trump-report",
-     "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
-     "published": "2026-09-07T21:58:28-04:00",
-     "fetched": "2026-09-08T08:02:54+00:00"
-    },
-    {
-     "headline": "FSU-SMU game turns into old-school football after stadium power outage wipes out in-game communication",
-     "detail": "A power outage plunged Doak Campbell Stadium into darkness minutes before kickoff, forcing SMU and Florida State to play without communications.",
-     "url": "https://www.foxnews.com/outkick-sports/fsu-smu-game-turns-old-school-football-stadium-power-outage-wipes-in-game-communication",
-     "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
-     "published": "2026-09-07T21:33:26-04:00",
-     "fetched": "2026-09-08T08:02:54+00:00"
-    },
-    {
-     "headline": "Popular TV host, media star faces hanging after conviction in major synthetic drug trafficking case",
-     "detail": "Sarah Khalifa was among 12 defendants sentenced to death after prosecutors accused the group of manufacturing and trafficking synthetic narcotics.",
-     "url": "https://www.foxnews.com/world/popular-tv-host-media-star-faces-hanging-conviction-major-synthetic-drug-trafficking-case",
-     "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
-     "published": "2026-09-07T21:27:42-04:00",
-     "fetched": "2026-09-08T08:02:54+00:00"
-    }
-   ]
+   "summary": "Fox News could not be reached this run.",
+   "note": "RSS fetch failed this run; no headlines are shown rather than republishing stale ones.",
+   "items": []
   },
   {
    "key": "wsj",
    "name": "The Wall Street Journal",
    "site": "wsj.com",
-   "summary": "The Wall Street Journal's world news wire is leading with The Trillion-Dollar Bright Spot in China’s Economy: Tourism; See How Drones Are Infiltrating NATO Territory in Europe; Greenland Seeks to Turn Peril Into Profit After Trump’s Threats to Take It Over.",
-   "note": null,
-   "items": [
-    {
-     "headline": "The Trillion-Dollar Bright Spot in China’s Economy: Tourism",
-     "detail": "Tens of millions of foreigners visit each year and domestic travel is rising, but some visitors are tightfisted.",
-     "url": "https://www.wsj.com/world/china/the-trillion-dollar-bright-spot-in-chinas-economy-tourism-3fadc6a7?mod=rss_worldnews",
-     "source_url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
-     "published": "2026-09-08T02:00:00+00:00",
-     "fetched": "2026-09-08T08:02:55+00:00"
-    },
-    {
-     "headline": "See How Drones Are Infiltrating NATO Territory in Europe",
-     "detail": "Almost every week this summer brought new reports of drone incursions over the alliance’s eastern frontier—the airspace over which is now a front line.",
-     "url": "https://www.wsj.com/world/see-how-drones-are-infiltrating-nato-territory-in-europe-9e89f4ee?mod=rss_worldnews",
-     "source_url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
-     "published": "2026-09-08T02:00:00+00:00",
-     "fetched": "2026-09-08T08:02:55+00:00"
-    },
-    {
-     "headline": "Greenland Seeks to Turn Peril Into Profit After Trump’s Threats to Take It Over",
-     "detail": "The Arctic island is cashing in by drawing investments from the European Union.",
-     "url": "https://www.wsj.com/world/europe/greenland-seeks-to-turn-peril-into-profit-after-trumps-threats-to-take-it-over-02c3e927?mod=rss_worldnews",
-     "source_url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
-     "published": "2026-09-07T23:00:00+00:00",
-     "fetched": "2026-09-08T08:02:55+00:00"
-    },
-    {
-     "headline": "Iran’s Oil Dollars Are Drying Up—and Plunging It Deeper Into Crisis",
-     "detail": "The U.S. blockade and dwindling supplies already on the water are squeezing Tehran’s most important export earner.",
-     "url": "https://www.wsj.com/world/middle-east/irans-oil-dollars-are-drying-upand-plunging-it-deeper-into-crisis-21bae4bd?mod=rss_worldnews",
-     "source_url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
-     "published": "2026-09-07T17:25:00+00:00",
-     "fetched": "2026-09-08T08:02:55+00:00"
-    },
-    {
-     "headline": "After Far-Right Triumph, Merz Faces Narrow Path to Save His Government",
-     "detail": "The state election result could lead to a debate over the future of the firewall that has kept the Alternative for Germany out of power.",
-     "url": "https://www.wsj.com/world/europe/after-far-right-triumph-merz-faces-narrow-path-to-save-his-government-670f62c7?mod=rss_worldnews",
-     "source_url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
-     "published": "2026-09-07T17:13:00+00:00",
-     "fetched": "2026-09-08T08:02:55+00:00"
-    }
-   ]
+   "summary": "The Wall Street Journal could not be reached this run.",
+   "note": "RSS fetch failed this run; no headlines are shown rather than republishing stale ones.",
+   "items": []
   }
  ]
 }
