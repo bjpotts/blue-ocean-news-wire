@@ -1,3 +1,104 @@
 {
- "items": []
+ "items": [
+  {
+   "headline": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+   "detail": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+   "region": "US",
+   "source_url": "https://techcrunch.com/feed/",
+   "published": "2026-09-25T05:00:00+00:00",
+   "fetched": "2026-09-25T09:38:35+00:00"
+  },
+  {
+   "headline": "Waymo is scaling fast: Here’s what the fleet data shows",
+   "detail": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hot spots as well.",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
+   "region": "US",
+   "source_url": "https://techcrunch.com/feed/",
+   "published": "2026-09-24T23:24:33+00:00",
+   "fetched": "2026-09-25T09:38:35+00:00"
+  },
+  {
+   "headline": "Here’s the Tesla Semi… again",
+   "detail": "Remember the Tesla Semi? The long-gestating, heavy-duty truck first introduced in concept form in 2017 is finally in volume production as of April 2026 - nearly a decade after its initial introduction.",
+   "outlet": "The Verge",
+   "url": "https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer",
+   "region": "US",
+   "source_url": "https://www.theverge.com/rss/index.xml",
+   "published": "2026-09-24T22:12:57-04:00",
+   "fetched": "2026-09-25T09:38:35+00:00"
+  },
+  {
+   "headline": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
+   "detail": "Remember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and a half years later, Microsoft and Qualcomm seem…",
+   "outlet": "The Verge",
+   "url": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
+   "region": "US",
+   "source_url": "https://www.theverge.com/rss/index.xml",
+   "published": "2026-09-24T21:25:53-04:00",
+   "fetched": "2026-09-25T09:38:35+00:00"
+  },
+  {
+   "headline": "Oracle Japan shares surge 7% after record fiscal first quarter, bucking selloff of U.S. parent",
+   "detail": "Oracle Japan shares surged after the company reported record fiscal first-quarter sales and profits.",
+   "outlet": "CNBC Technology",
+   "url": "https://www.cnbc.com/2026/09/25/oracle-japan-shares-earnings.html",
+   "region": "US",
+   "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910",
+   "published": "2026-09-25T01:56:24+00:00",
+   "fetched": "2026-09-25T09:38:36+00:00"
+  },
+  {
+   "headline": "Tesla poised to scale production of heavy-duty Semi trucks with opening of Nevada factory",
+   "detail": "Elon Musk's automaker is set to open its first heavy-duty truck factory in Sparks, Nevada, as Tesla seeks to expand its reach.",
+   "outlet": "CNBC Technology",
+   "url": "https://www.cnbc.com/2026/09/24/tesla-aims-to-scale-semi-truck-production-with-nevada-factory-opening.html",
+   "region": "US",
+   "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910",
+   "published": "2026-09-25T01:50:12+00:00",
+   "fetched": "2026-09-25T09:38:36+00:00"
+  },
+  {
+   "headline": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
+   "detail": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
+   "outlet": "Ars Technica",
+   "url": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/",
+   "region": "US",
+   "source_url": "https://feeds.arstechnica.com/arstechnica/index",
+   "published": "2026-09-24T22:29:48+00:00",
+   "fetched": "2026-09-25T09:38:37+00:00"
+  },
+  {
+   "headline": "X-planes: Are they needed in the new era of drones?",
+   "detail": "Where do America's X-plane projects fit in an era of cheap drones?",
+   "outlet": "BBC Technology",
+   "url": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
+   "region": "Europe",
+   "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+   "published": "2026-09-24T23:03:53+00:00",
+   "fetched": "2026-09-25T09:38:38+00:00"
+  },
+  {
+   "headline": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+   "detail": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
+   "outlet": "BBC Technology",
+   "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+   "region": "Europe",
+   "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+   "published": "2026-09-24T18:06:40+00:00",
+   "fetched": "2026-09-25T09:38:38+00:00"
+  },
+  {
+   "headline": "Xi at White House, trade-war truce extension, Golden Week travel",
+   "detail": "Chinese President Xi Jinping and US President Donald Trump discussed artificial intelligence (AI) and Taiwan at the White House on Thursday as part of a state visit dominated by pageantry.",
+   "outlet": "South China Morning Post",
+   "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3368799/xi-white-house-trade-war-truce-extension-golden-week-travel?utm_source=rss_feed",
+   "region": "Asia",
+   "source_url": "https://www.scmp.com/rss/36/feed",
+   "published": "2026-09-25T09:00:10+00:00",
+   "fetched": "2026-09-25T09:38:39+00:00"
+  }
+ ]
 }

@@ -3,112 +3,103 @@
   {
    "key": "anz",
    "name": "ANZ",
+   "summary": "ANZ earnings reporting activity captured this run runs to 2 items, led by Criterion: The ‘compleat’ guide to small caps angling. The remaining items cover the rest of the region's results, guidance and reporting-season flow as reported by the linked sources.",
+   "fresh_count": 1,
+   "items": [
+    {
+     "headline": "Criterion: The ‘compleat’ guide to small caps angling",
+     "detail": "Small-cap fund managers say the art of investing lies in management's integrity on earnings guidance and avoiding dud barbecue tips. ... Read More",
+     "url": "https://stockhead.com.au/experts/criterion-the-compleat-guide-to-small-caps-angling/",
+     "outlet": "Stockhead",
+     "source_url": "https://stockhead.com.au/feed/",
+     "published": "2026-09-25T09:30:40+00:00",
+     "fetched": "2026-09-25T09:37:43+00:00"
+    },
+    {
+     "headline": "Heidi Health reaches unicorn status in $477m funding deal",
+     "detail": "Heidi Health has gone from US$1m to US$50m in annual revenue in two years – and now Australia’s newest tech ... Read More",
+     "url": "https://stockhead.com.au/tech/heidi-health-reaches-unicorn-status-in-477m-funding-deal/",
+     "outlet": "Stockhead",
+     "source_url": "https://stockhead.com.au/feed/",
+     "published": "2026-09-25T06:05:31+00:00",
+     "fetched": "2026-09-25T09:37:43+00:00"
+    }
+   ]
+  },
+  {
+   "key": "asia",
+   "name": "Asia (Japan/Singapore/Hong Kong/China)",
    "summary": "No Company earnings reports available.",
    "fresh_count": 0,
    "items": []
   },
   {
-   "key": "asia",
-   "name": "Asia (Japan/Singapore/Hong Kong/China)",
-   "summary": "Asia (Japan/Singapore/Hong Kong/China) earnings reporting activity captured this run runs to 3 items, led by China’s brokers expected to continue robust performance with blockbuster IPO offerings. The remaining items cover the rest of the region's results, guidance and reporting-season flow as reported by the linked sources. No newer earnings item has been reported for Asia (Japan/Singapore/Hong Kong/China) since the last edition, so the same verified item(s) are carried forward.",
-   "fresh_count": 0,
-   "items": [
-    {
-     "headline": "China’s brokers expected to continue robust performance with blockbuster IPO offerings",
-     "detail": "Chinese brokers delivered strong profits in the first half of the year, driven by active trading in the A-share market that boosted brokerage revenues by over 50 per cent, while the blockbuster initial public offerings (IPOs) are expected…",
-     "url": "https://www.scmp.com/business/banking-finance/article/3366611/chinas-brokers-expected-continue-robust-performance-blockbuster-ipo-offerings?utm_source=rss_feed",
-     "outlet": "South China Morning Post",
-     "source_url": "https://www.scmp.com/rss/92/feed",
-     "published": "2026-09-07T08:00:11+00:00",
-     "fetched": "2026-09-09T08:02:45+00:00"
-    },
-    {
-     "headline": "China’s leading EV battery makers’ profits nearly double that of industry’s carmakers",
-     "detail": "China’s electric vehicle (EV) battery makers saw their combined net profit in the first half of the year nearly double that of the country’s major carmakers, widening the profitability gap amid weakening domestic demand for EVs.",
-     "url": "https://www.scmp.com/business/china-evs/article/3366613/chinas-leading-ev-battery-makers-profits-nearly-double-industrys-carmakers?utm_source=rss_feed",
-     "outlet": "South China Morning Post",
-     "source_url": "https://www.scmp.com/rss/92/feed",
-     "published": "2026-09-07T07:11:26+00:00",
-     "fetched": "2026-09-09T08:02:45+00:00"
-    },
-    {
-     "headline": "How generative AI helps SenseTime turn a profit even as Chinese peers struggle",
-     "detail": "Chinese artificial intelligence pioneer SenseTime is carving a unique path to profitability by steering away from a blind chase for model size, focusing instead on helping clients complete enterprise tasks, executives from the firm told…",
-     "url": "https://www.scmp.com/tech/tech-trends/article/3366436/how-generative-ai-helps-sensetime-turn-profit-even-chinese-peers-struggle?utm_source=rss_feed",
-     "outlet": "South China Morning Post",
-     "source_url": "https://www.scmp.com/rss/92/feed",
-     "published": "2026-09-07T02:30:05+00:00",
-     "fetched": "2026-09-09T08:02:45+00:00"
-    }
-   ]
-  },
-  {
    "key": "us",
    "name": "US",
-   "summary": "US earnings reporting activity captured this run runs to 5 items, led by Why Hewlett Packard Enterprise’s Sell-Off May Not Last. The remaining items cover the rest of the region's results, guidance and reporting-season flow as reported by the linked sources.",
+   "summary": "US earnings reporting activity captured this run runs to 5 items, led by Worthington Enterprises Q1 Earnings Call Highlights. The remaining items cover the rest of the region's results, guidance and reporting-season flow as reported by the linked sources.",
    "fresh_count": 2,
    "items": [
     {
-     "headline": "Why Hewlett Packard Enterprise’s Sell-Off May Not Last",
-     "detail": "Hewlett Packard Enterprise’s (NYSE: HPE) Q2 results aligned with trends suggesting the AI boom is not only still in place and growing, but also far larger in size, scope, and durability than the market is giving it credit for.",
-     "url": "https://www.nasdaq.com/articles/why-hewlett-packard-enterprises-sell-may-not-last",
+     "headline": "Worthington Enterprises Q1 Earnings Call Highlights",
+     "detail": "3 Hot Software Stocks Breaking Out to New HighsWorthington Enterprises (NYSE:WOR) reported a 13% increase in fiscal 2027 first-quarter sales to $344 million, supported by 7% organic growth and $19 million of revenue from recent…",
+     "url": "https://www.nasdaq.com/articles/worthington-enterprises-q1-earnings-call-highlights",
      "outlet": "Nasdaq",
      "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
-     "published": "2026-09-06T13:40:00+00:00",
-     "fetched": "2026-09-09T08:02:49+00:00"
+     "published": "2026-09-23T14:03:31+00:00",
+     "fetched": "2026-09-25T09:38:27+00:00"
     },
     {
-     "headline": "Lululemon’s Earnings Beat Hid a Bigger Problem for Its Turnaround Story",
-     "detail": "For the past two months, investors had begun to whisper that the worst might be over for Lululemon Athletica Inc. (NASDAQ: LULU).",
-     "url": "https://www.nasdaq.com/articles/lululemons-earnings-beat-hid-bigger-problem-its-turnaround-story",
+     "headline": "Cracker Barrel Old Country Store Q4 Earnings Call Highlights",
+     "detail": "Cooking Up Profits: Cracker Barrel’s TurnaroundCracker Barrel Old Country Store (NASDAQ:CBRL) reported fourth-quarter fiscal 2026 revenue of $849.3 million and adjusted EBITDA of $62.1 million, as the restaurant-and-retail operator cited…",
+     "url": "https://www.nasdaq.com/articles/cracker-barrel-old-country-store-q4-earnings-call-highlights",
      "outlet": "Nasdaq",
      "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
-     "published": "2026-09-05T12:05:00+00:00",
-     "fetched": "2026-09-09T08:02:49+00:00"
+     "published": "2026-09-23T14:03:30+00:00",
+     "fetched": "2026-09-25T09:38:27+00:00"
     },
     {
-     "headline": "Pre-Market Earnings Report for September 9, 2026 : SAIL, CNM, CHWY, KFY, SIG, ASO, ODD, CGNT, CAL, JILL, OCC",
-     "detail": "The following companies are expected to report earnings prior to market open on 09/09/2026. Visit our Earnings Calendar for a full list of expected earnings releases.SailPoint, Inc. (SAIL)is reporting for the quarter ending July 31, 2026.",
-     "url": "https://www.nasdaq.com/articles/pre-market-earnings-report-september-9-2026-sail-cnm-chwy-kfy-sig-aso-odd-cgnt-cal-jill",
+     "headline": "Pre-Market Earnings Report for September 25, 2026 : TBN",
+     "detail": "The following companies are expected to report earnings prior to market open on 09/25/2026.",
+     "url": "https://www.nasdaq.com/articles/pre-market-earnings-report-september-25-2026-tbn",
      "outlet": "Nasdaq",
      "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
-     "published": "2026-09-08T20:00:01+00:00",
-     "fetched": "2026-09-09T08:02:49+00:00"
+     "published": "2026-09-24T20:00:01+00:00",
+     "fetched": "2026-09-25T09:38:27+00:00"
     },
     {
-     "headline": "After-Hours Earnings Report for September 8, 2026 : CASY, TTAN, BRZE, INNV, AVO",
-     "detail": "The following companies are expected to report earnings after hours on 09/08/2026. Visit our Earnings Calendar for a full list of expected earnings releases.Caseys General Stores, Inc.",
-     "url": "https://www.nasdaq.com/articles/after-hours-earnings-report-september-8-2026-casy-ttan-brze-innv-avo",
+     "headline": "After-Hours Earnings Report for September 24, 2026 : COST, SCHL",
+     "detail": "The following companies are expected to report earnings after hours on 09/24/2026.",
+     "url": "https://www.nasdaq.com/articles/after-hours-earnings-report-september-24-2026-cost-schl",
      "outlet": "Nasdaq",
      "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
-     "published": "2026-09-08T18:00:01+00:00",
-     "fetched": "2026-09-09T08:02:49+00:00"
+     "published": "2026-09-24T18:00:01+00:00",
+     "fetched": "2026-09-25T09:38:27+00:00"
     },
     {
-     "headline": "3 Earnings Season Winners That Analysts Can't Stop Upgrading",
-     "detail": "Earnings season isn’t just when companies report their quarterly results. It’s also when most stock analysts update their ratings and price targets in response to the new data released from the firms they cover.",
-     "url": "https://www.nasdaq.com/articles/3-earnings-season-winners-analysts-cant-stop-upgrading",
+     "headline": "Earnings Outlook Remains Upbeat: A Closer Look",
+     "detail": "Earnings revisions remain positive, sustaining a trend that's been in place for a year now.",
+     "url": "https://www.nasdaq.com/articles/earnings-outlook-remains-upbeat-closer-look-0",
      "outlet": "Nasdaq",
      "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
-     "published": "2026-09-07T11:30:00+00:00",
-     "fetched": "2026-09-09T08:02:49+00:00"
+     "published": "2026-09-23T21:05:00+00:00",
+     "fetched": "2026-09-25T09:38:27+00:00"
     }
    ]
   },
   {
    "key": "uk",
    "name": "UK",
-   "summary": "A single verifiable earnings item was found for UK this run: Giving up vegan arm helps Britain’s biggest meatpacker eye profit surge. No newer earnings item has been reported for UK since the last edition, so the same verified item(s) are carried forward.",
+   "summary": "A single verifiable earnings item was found for UK this run: Beauty Tech shares glow as boss brushes off ‘cheap’ rivals. No newer earnings item has been reported for UK since the last edition, so the same verified item(s) are carried forward.",
    "fresh_count": 0,
    "items": [
     {
-     "headline": "Giving up vegan arm helps Britain’s biggest meatpacker eye profit surge",
-     "detail": "The UK’s biggest meatpacker has upgraded its profit target after offloading its loss-making vegan arm.",
-     "url": "https://www.cityam.com/britains-biggest-meatpacker-eyes-profit-surge-after-ditching-vegan-arm/",
+     "headline": "Beauty Tech shares glow as boss brushes off ‘cheap’ rivals",
+     "detail": "Beauty Tech Group boss Laurence Newman has brushed off competition from ‘cheap beauty devices’ after the London-listed firm more than tripled its first-half profit.",
+     "url": "https://www.cityam.com/beauty-tech-shares-glow-as-boss-brushes-off-cheap-rivals/",
      "outlet": "City A.M.",
      "source_url": "https://www.cityam.com/category/markets/feed/",
-     "published": "2026-09-03T07:19:25+00:00",
-     "fetched": "2026-09-09T08:02:53+00:00"
+     "published": "2026-09-17T12:28:23+00:00",
+     "fetched": "2026-09-25T09:38:31+00:00"
     }
    ]
   },

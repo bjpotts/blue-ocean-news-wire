@@ -1,3 +1,361 @@
 {
- "codes": []
+ "codes": [
+  {
+   "key": "nrl",
+   "name": "Rugby League (NRL) - Australia",
+   "items": [
+    {
+     "headline": "FINAL TEAMS: Dolphins vs Roosters – Preliminary Finals, 2026",
+     "detail": "LATE MAIL: The Dolphins and Roosters have confirmed their lineups for the match at Suncorp Stadium.",
+     "url": "https://www.zerotackle.com/updated-team-lists-dolphins-roosters-12142515-238417/",
+     "outlet": "Zero Tackle",
+     "source_url": "https://www.zerotackle.com/feed/",
+     "published": "2026-09-25T08:19:10+00:00",
+     "fetched": "2026-09-25T09:38:57+00:00"
+    },
+    {
+     "headline": "NRL confirm men’s and women’s PM’s XIII teams, coaches",
+     "detail": "The two teams will play in Port Moresby the day before the NRL grand final.",
+     "url": "https://www.zerotackle.com/nrl-confirm-mens-and-womens-pms-xiii-teams-coaches-238442/",
+     "outlet": "Zero Tackle",
+     "source_url": "https://www.zerotackle.com/feed/",
+     "published": "2026-09-25T07:34:22+00:00",
+     "fetched": "2026-09-25T09:38:57+00:00"
+    },
+    {
+     "headline": "Bulldogs confirm departure of Sean O’Sullivan",
+     "detail": "A mixed year will see him change clubs in 2027.",
+     "url": "https://www.zerotackle.com/bulldogs-confirm-departure-of-sean-osullivan-238439/",
+     "outlet": "Zero Tackle",
+     "source_url": "https://www.zerotackle.com/feed/",
+     "published": "2026-09-25T07:24:30+00:00",
+     "fetched": "2026-09-25T09:38:57+00:00"
+    }
+   ]
+  },
+  {
+   "key": "afl",
+   "name": "AFL - Australia",
+   "items": [
+    {
+     "headline": "Blues cruise past Tigers to get back on winners list",
+     "detail": "Richmond offered little resistance as Carlton powered to a big win on Friday",
+     "url": "https://www.afl.com.au/aflw/news/1620171/carlton-blues-cruise-past-richmond-tigers-to-get-back-on-winners-list",
+     "outlet": "AFL.com.au",
+     "source_url": "https://www.afl.com.au/rss",
+     "published": "2026-09-25T08:29:00+00:00",
+     "fetched": "2026-09-25T09:38:57+00:00"
+    },
+    {
+     "headline": "MATCH REVIEW: Cat learns fate for dangerous tackle",
+     "detail": "The Match Review findings from Thursday night's round seven game are in",
+     "url": "https://www.afl.com.au/aflw/news/1621271/match-review-geelong-cat-nicola-stevens-learns-fate-for-dangerous-tackle",
+     "outlet": "AFL.com.au",
+     "source_url": "https://www.afl.com.au/rss",
+     "published": "2026-09-25T07:42:00+00:00",
+     "fetched": "2026-09-25T09:38:57+00:00"
+    },
+    {
+     "headline": "AFLW TEAMS: Saints make Xenos call, huge Pies boost",
+     "detail": "The teams for the Sunday games in NAB AFLW round seven are in",
+     "url": "https://www.afl.com.au/aflw/news/1620246/aflw-teams-saints-make-xenos-call-huge-pies-boost",
+     "outlet": "AFL.com.au",
+     "source_url": "https://www.afl.com.au/rss",
+     "published": "2026-09-25T07:00:00+00:00",
+     "fetched": "2026-09-25T09:38:57+00:00"
+    }
+   ]
+  },
+  {
+   "key": "rugby-union",
+   "name": "Rugby Union - Australia",
+   "items": [
+    {
+     "headline": "Red Roses make three changes to side for crunch New Zealand clash",
+     "detail": "Sarah Bern, Mackenzie Carson and Bryony Field have all been included in the Red Roses side for their crunch match against New Zealand at Allianz Stadium on Saturday.",
+     "url": "https://www.skysports.com/rugby-union/news/12321/13591424/red-roses-vs-new-zealand-mackenzie-carson-sarah-bern-and-maddie-feaunati-all-included-in-side-for-match-at-allianz-stadium",
+     "outlet": "Sky Sports Rugby Union",
+     "source_url": "https://www.skysports.com/rss/12321",
+     "published": "2026-09-24T13:58:00+01:00",
+     "fetched": "2026-09-25T09:38:57+00:00"
+    },
+    {
+     "headline": "Northampton chief lifts lid on Pollock contract negotiations with Hearn",
+     "detail": "Northampton Saints director of rugby Phil Dowson believes more players could follow Henry Pollock and work with promoters like Eddie Hearn to grow their profile.",
+     "url": "https://www.skysports.com/rugby-union/news/12321/13591204/henry-pollock-northampton-chief-expects-more-players-to-work-with-promoters-like-eddie-hearn-as-he-lifts-lid-on-negotiations",
+     "outlet": "Sky Sports Rugby Union",
+     "source_url": "https://www.skysports.com/rss/12321",
+     "published": "2026-09-23T21:30:00+01:00",
+     "fetched": "2026-09-25T09:38:57+00:00"
+    },
+    {
+     "headline": "Erasmus makes sweeping Springbok changes for Australia Test",
+     "detail": "South Africa have made 13 changes to their starting line-up for Sunday's one-off Test against the Wallabies in Perth.",
+     "url": "https://www.skysports.com/rugby-union/news/12321/13590971/australia-vs-south-africa-springboks-coach-rassie-erasmus-makes-13-changes-to-starting-side-for-perth-test-after-series-win-over-all-blacks",
+     "outlet": "Sky Sports Rugby Union",
+     "source_url": "https://www.skysports.com/rss/12321",
+     "published": "2026-09-23T10:38:00+01:00",
+     "fetched": "2026-09-25T09:38:57+00:00"
+    }
+   ]
+  },
+  {
+   "key": "golf",
+   "name": "World Golf",
+   "items": [
+    {
+     "headline": "Scheffler edges final-hole thriller as Team USA grab Presidents Cup lead",
+     "detail": "Team USA made a solid start to their bid for an 11th consecutive Presidents Cup victory by building a 3-2 lead in Thursday's fourballs session against the International Team.",
+     "url": "https://www.skysports.com/golf/news/12176/13591506/presidents-cup-team-usa-lead-international-team-3-2-after-thursday-fourballs-as-scottie-scheffler-makes-winning-start",
+     "outlet": "Sky Sports Golf",
+     "source_url": "https://www.skysports.com/rss/12176",
+     "published": "2026-09-24T23:15:00+01:00",
+     "fetched": "2026-09-25T09:38:58+00:00"
+    },
+    {
+     "headline": "How Scheffler and Burns edged thriller to claim key point for Team USA",
+     "detail": "Highlights from Scottie Scheffler and Sam Burns' narrow fourballs victory over Min Woo Lee and Sungjae Im at the Presidents Cup.",
+     "url": "https://www.skysports.com/watch/video/13591624/presidents-cup-story-of-the-day-scottie-scheffler-sam-burns-v-min-woo-lee-sungjae-im",
+     "outlet": "Sky Sports Golf",
+     "source_url": "https://www.skysports.com/rss/12176",
+     "published": "2026-09-24T23:38:00+01:00",
+     "fetched": "2026-09-25T09:38:58+00:00"
+    },
+    {
+     "headline": "Team USA take narrow lead on opening day of Presidents Cup",
+     "detail": "Highlights from the first day of the 2026 Presidents Cup from Medinah Country Club.",
+     "url": "https://www.skysports.com/watch/video/13591639/presidents-cup-2026-day-one-highlights",
+     "outlet": "Sky Sports Golf",
+     "source_url": "https://www.skysports.com/rss/12176",
+     "published": "2026-09-25T06:14:00+01:00",
+     "fetched": "2026-09-25T09:38:58+00:00"
+    },
+    {
+     "headline": "Fitzpatrick impresses as Kim grabs lead after 'dream start' in France",
+     "detail": "Matt Fitzpatrick sits two shots off the early lead at the FedEx Open de France, as defending champion Michael Kim topped the leaderboard after a ‘dream start’ at Le Golf National.",
+     "url": "https://www.skysports.com/golf/news/12176/13591499/open-de-france-michael-kim-leads-after-dream-start-as-matt-fitzpatrick-impresses-on-low-scoring-day-at-le-golf-national",
+     "outlet": "Sky Sports Golf",
+     "source_url": "https://www.skysports.com/rss/12176",
+     "published": "2026-09-24T18:45:00+01:00",
+     "fetched": "2026-09-25T09:38:58+00:00"
+    },
+    {
+     "headline": "Presidents Cup: Latest results and Friday's foursomes line-up",
+     "detail": "Latest scores, results, pairings and tee times for the 16th Presidents Cup, as Team USA host the International Team at Medinah Country Club, Illinois.",
+     "url": "https://www.skysports.com/golf/news/12176/13590592/presidents-cup-2026-latest-scores-results-tee-times-leaderboard-as-team-usa-host-international-team-at-medinah",
+     "outlet": "Sky Sports Golf",
+     "source_url": "https://www.skysports.com/rss/12176",
+     "published": "2026-09-25T00:15:00+01:00",
+     "fetched": "2026-09-25T09:38:58+00:00"
+    },
+    {
+     "headline": "Team USA question 'weird' atmosphere | 'We weren't really feeling the fans'",
+     "detail": "Team USA question 'weird' atmosphere | 'We weren't really feeling the fans'",
+     "url": "https://www.skysports.com/golf/live-blog/12176/13591479/presidents-cup-2026-team-usa-question-weird-atmosphere-as-home-crowd-lack-noise-in-tight-opening-day-at-medinah",
+     "outlet": "Sky Sports Golf",
+     "source_url": "https://www.skysports.com/rss/12176",
+     "published": "2026-09-24T22:38:00+01:00",
+     "fetched": "2026-09-25T09:38:58+00:00"
+    }
+   ]
+  },
+  {
+   "key": "cricket",
+   "name": "Cricket - Worldwide",
+   "items": [
+    {
+     "headline": "Buttler injury derails England as Sri Lanka level ODI series",
+     "detail": "Sri Lanka showed great fight to halt England’s chase and clinch a 16-run victory, levelling the three-match ODI series at 1-1 at Headingley in Leeds.",
+     "url": "https://www.skysports.com/cricket/news/12123/13591400/england-vs-sri-lanka-visitors-pull-off-shock-16-run-victory-after-jos-buttler-injury-derails-hosts-chase",
+     "outlet": "Sky Sports Cricket",
+     "source_url": "https://www.skysports.com/rss/12123",
+     "published": "2026-09-24T12:58:00+01:00",
+     "fetched": "2026-09-25T09:38:59+00:00"
+    },
+    {
+     "headline": "Brook relishing 'pressure situation' that awaits England at The Oval",
+     "detail": "Brook relishing 'pressure situation' that awaits England at The Oval",
+     "url": "https://www.skysports.com/cricket/live-blog/12123/13591360/england-vs-sri-lanka-second-odi-live-teams-updates-live-commentary-from-headingley-as-harry-brooks-side-look-to-win-series",
+     "outlet": "Sky Sports Cricket",
+     "source_url": "https://www.skysports.com/rss/12123",
+     "published": "2026-09-24T11:04:00+01:00",
+     "fetched": "2026-09-25T09:38:59+00:00"
+    },
+    {
+     "headline": "Breetzke ton leads South Africa to 67-run ODI win over Australia",
+     "detail": "Matthew Breetzke scored a superb 112 to guide South Africa to a 67-run victory over Australia ‌in the first one-day international in Durban on Thursday, but the tourists will rue the loss of cheap wickets as they ‌faltered in their chase.",
+     "url": "https://www.skysports.com/cricket/news/12123/13591544/matthew-breetzke-ton-leads-south-africa-to-67-run-odi-win-over-australia-in-durban-to-move-1-0-up-in-series",
+     "outlet": "Sky Sports Cricket",
+     "source_url": "https://www.skysports.com/rss/12123",
+     "published": "2026-09-24T18:19:00+01:00",
+     "fetched": "2026-09-25T09:38:59+00:00"
+    }
+   ]
+  },
+  {
+   "key": "nfl",
+   "name": "NFL - US",
+   "items": [
+    {
+     "headline": "Bijan Robinson and Drake London had a historic night, with 194 yards each",
+     "detail": "Falcons running back Bijan Robinson and wide receiver Drake London ran wild at Lambeau Field on Thursday night.",
+     "url": "https://sports.yahoo.com/articles/bijan-robinson-drake-london-had-090801109.html",
+     "outlet": "Yahoo Sports",
+     "source_url": "https://sports.yahoo.com/nfl/rss.xml",
+     "published": "2026-09-25T09:08:01+00:00",
+     "fetched": "2026-09-25T09:39:01+00:00"
+    },
+    {
+     "headline": "Golden Nuggets: Kyle’s scheme will hopefully be Raising Arizona’s miscommunications on defense",
+     "detail": "Your daily San Francisco 49ers news for Friday, September 25th, 2026",
+     "url": "https://sports.yahoo.com/articles/golden-nuggets-kyle-scheme-hopefully-090445660.html",
+     "outlet": "Yahoo Sports",
+     "source_url": "https://sports.yahoo.com/nfl/rss.xml",
+     "published": "2026-09-25T09:04:45+00:00",
+     "fetched": "2026-09-25T09:39:01+00:00"
+    },
+    {
+     "headline": "Tucker Kraft: Disappointing that fans booed us at Lambeau Field, won't help us win",
+     "detail": "\"It'd be much easier with the 70,000 people behind us rather than opposing us,\" Kraft said of the Packers fans who booed during the 35-14 loss.",
+     "url": "https://sports.yahoo.com/articles/tucker-kraft-disappointing-fans-booed-082232777.html",
+     "outlet": "Yahoo Sports",
+     "source_url": "https://sports.yahoo.com/nfl/rss.xml",
+     "published": "2026-09-25T08:22:32+00:00",
+     "fetched": "2026-09-25T09:39:01+00:00"
+    }
+   ]
+  },
+  {
+   "key": "nba",
+   "name": "NBA - US",
+   "items": [
+    {
+     "headline": "NBA's first MVP Pettit dies aged 93",
+     "detail": "Bob Pettit, one of the earliest stars of the NBA and the first man to win the MVP award, has died aged 93.",
+     "url": "https://sports.yahoo.com/articles/nbas-first-mvp-pettit-dies-222800929.html",
+     "outlet": "Yahoo Sports",
+     "source_url": "https://sports.yahoo.com/nba/rss.xml",
+     "published": "2026-09-25T05:36:56+00:00",
+     "fetched": "2026-09-25T09:39:04+00:00"
+    },
+    {
+     "headline": "Jalen Brunson ‘fully cleared’ for start of Knicks camp after offseason surgery",
+     "detail": "Jalen Brunson started his live podcast Thursday with an injury update.",
+     "url": "https://sports.yahoo.com/articles/jalen-brunson-fully-cleared-start-030808478.html",
+     "outlet": "Yahoo Sports",
+     "source_url": "https://sports.yahoo.com/nba/rss.xml",
+     "published": "2026-09-25T03:08:08+00:00",
+     "fetched": "2026-09-25T09:39:04+00:00"
+    },
+    {
+     "headline": "JJ Redick addresses Lakers starting lineup then drops viral quote",
+     "detail": "Who will join Luka Doncic, Austin Reaves and Walker Kessler in the Lakers starting lineup this season?",
+     "url": "https://sports.yahoo.com/articles/jj-redick-addresses-lakers-starting-020114042.html",
+     "outlet": "Yahoo Sports",
+     "source_url": "https://sports.yahoo.com/nba/rss.xml",
+     "published": "2026-09-25T02:01:14+00:00",
+     "fetched": "2026-09-25T09:39:04+00:00"
+    }
+   ]
+  },
+  {
+   "key": "mlb",
+   "name": "MLB - US",
+   "items": [
+    {
+     "headline": "Pirates break single season strikeout record",
+     "detail": "The Bucs could have been better on the mound. And they were already pretty good.",
+     "url": "https://sports.yahoo.com/articles/pirates-break-single-season-strikeout-092006020.html",
+     "outlet": "Yahoo Sports",
+     "source_url": "https://sports.yahoo.com/mlb/rss.xml",
+     "published": "2026-09-25T09:20:06+00:00",
+     "fetched": "2026-09-25T09:39:05+00:00"
+    },
+    {
+     "headline": "Yankees news: Let’s play two",
+     "detail": "Yanks play a doubleheader today; Stanton, Grisham trying to get back for playoffs; Schmidt back on the shelf",
+     "url": "https://sports.yahoo.com/articles/yankees-news-let-play-two-090000329.html",
+     "outlet": "Yahoo Sports",
+     "source_url": "https://sports.yahoo.com/mlb/rss.xml",
+     "published": "2026-09-25T09:00:00+00:00",
+     "fetched": "2026-09-25T09:39:05+00:00"
+    },
+    {
+     "headline": "Who on Earth Could Start Game 162 for the Astros?",
+     "detail": "There are three games remaining in the 2026 regular season, and somehow the Astros control their own destiny in the American League West.",
+     "url": "https://sports.yahoo.com/articles/earth-could-start-game-162-055738899.html",
+     "outlet": "Yahoo Sports",
+     "source_url": "https://sports.yahoo.com/mlb/rss.xml",
+     "published": "2026-09-25T05:57:38+00:00",
+     "fetched": "2026-09-25T09:39:05+00:00"
+    }
+   ]
+  },
+  {
+   "key": "f1",
+   "name": "Formula 1 - Europe",
+   "items": [
+    {
+     "headline": "Azerbaijan GP: Verstappen usurps Mercedes ahead of Qualifying LIVE!",
+     "detail": "Azerbaijan GP: Verstappen usurps Mercedes ahead of Qualifying LIVE!",
+     "url": "https://www.skysports.com/f1/live-blog/12433/13591653/f1-azerbaijan-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-in-baku",
+     "outlet": "Sky Sports F1",
+     "source_url": "https://www.skysports.com/rss/12433",
+     "published": "2026-09-25T09:07:00+01:00",
+     "fetched": "2026-09-25T09:39:05+00:00"
+    },
+    {
+     "headline": "'Pretty pants!' - Norris rules McLaren out of Baku pole fight",
+     "detail": "Lando Norris says McLaren's pace in Thursday's practice sessions at the Azerbaijan Grand Prix was \"pretty pants\" and is not expecting to contend for pole position.",
+     "url": "https://www.skysports.com/f1/news/12433/13591255/azerbaijan-gp-lando-norris-rules-mclaren-out-of-baku-pole-fight-as-george-russell-expects-margins-to-tighten-in-qualifying",
+     "outlet": "Sky Sports F1",
+     "source_url": "https://www.skysports.com/rss/12433",
+     "published": "2026-09-24T16:30:00+01:00",
+     "fetched": "2026-09-25T09:39:05+00:00"
+    },
+    {
+     "headline": "Highlights: Impeding, fires and crashes - Azerbaijan GP's EVENTFUL Thursday practice!",
+     "detail": "Highlights from Thursday's practice sessions at the Azerbaijan Grand Prix.",
+     "url": "https://www.skysports.com/watch/video/13591433/azerbaijan-grand-prix-practice-highlights",
+     "outlet": "Sky Sports F1",
+     "source_url": "https://www.skysports.com/rss/12433",
+     "published": "2026-09-24T14:10:00+01:00",
+     "fetched": "2026-09-25T09:39:05+00:00"
+    }
+   ]
+  },
+  {
+   "key": "tennis",
+   "name": "Tennis - Rest of World",
+   "items": [
+    {
+     "headline": "Flavio Cobolli reveals how his practice session with Jannik Sinner went after training with injured star recently",
+     "detail": "Jannik Sinner’s long-awaited comeback to tennis appears to be right around the corner. It was recently revealed that Sinner is set to return at the...",
+     "url": "https://sports.yahoo.com/articles/flavio-cobolli-reveals-practice-session-090000579.html",
+     "outlet": "Yahoo Sports Tennis",
+     "source_url": "https://sports.yahoo.com/tennis/rss.xml",
+     "published": "2026-09-25T09:00:00+00:00",
+     "fetched": "2026-09-25T09:39:07+00:00"
+    },
+    {
+     "headline": "“It’s Too Much”- Carlos Alcaraz Demands Change After US Open Controversy",
+     "detail": "The US Open has a serious scheduling problem. Venus Williams’ first-round match finished around 2 AM, while Carlos Alcaraz’s quarterfinal against Ben Shelton stretched until 3:33 AM.",
+     "url": "https://sports.yahoo.com/articles/too-much-carlos-alcaraz-demands-080158682.html",
+     "outlet": "Yahoo Sports Tennis",
+     "source_url": "https://sports.yahoo.com/tennis/rss.xml",
+     "published": "2026-09-25T08:01:58+00:00",
+     "fetched": "2026-09-25T09:39:07+00:00"
+    },
+    {
+     "headline": "Alex Eala confirms if she ever plans to compete in Singapore again after losing her only match at this year’s tournament",
+     "detail": "Alex Eala is yet to win a main draw match at the Singapore Tennis Open. Eala was making her main draw debut in Singapore as...",
+     "url": "https://sports.yahoo.com/articles/alex-eala-confirms-she-ever-080000896.html",
+     "outlet": "Yahoo Sports Tennis",
+     "source_url": "https://sports.yahoo.com/tennis/rss.xml",
+     "published": "2026-09-25T08:00:00+00:00",
+     "fetched": "2026-09-25T09:39:07+00:00"
+    }
+   ]
+  }
+ ]
 }

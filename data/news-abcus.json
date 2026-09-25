@@ -3,8 +3,49 @@
   "key": "abcus",
   "name": "ABC News (US)",
   "site": "abcnews.go.com",
-  "summary": "ABC News (US) could not be reached this run.",
-  "note": "RSS fetch failed this run; no headlines are shown rather than republishing stale ones.",
-  "items": []
+  "summary": "ABC News in the United States, the network's national and world file is leading with Trump, House Speaker Johnson expected to meet with tech CEOs on AI next week: Sources; LIVE: ABC News Live; 'Like a horror movie': Ukraine's Oleshky faces 'catastrophe' under Russian occupation.",
+  "note": null,
+  "items": [
+   {
+    "headline": "Trump, House Speaker Johnson expected to meet with tech CEOs on AI next week: Sources",
+    "detail": "The meeting comes as the leaders of some AI companies have issued warnings.",
+    "url": "https://abcnews.go.com/Politics/trump-house-speaker-johnson-expected-meet-tech-ceos/story?id=136742304",
+    "source_url": "https://abcnews.go.com/abcnews/topstories",
+    "published": "2026-09-24T23:04:28-04:00",
+    "fetched": "2026-09-25T09:38:45+00:00"
+   },
+   {
+    "headline": "LIVE: ABC News Live",
+    "detail": "24/7 coverage of breaking news and live events",
+    "url": "https://abcnews.go.com/video/41463246/",
+    "source_url": "https://abcnews.go.com/abcnews/topstories",
+    "published": "2026-09-24T10:34:45-04:00",
+    "fetched": "2026-09-25T09:38:45+00:00"
+   },
+   {
+    "headline": "'Like a horror movie': Ukraine's Oleshky faces 'catastrophe' under Russian occupation",
+    "detail": "Messages sent by residents in Oleshky and seen by ABC News tell of careful rationing of remaining food supplies, a chronic shortage of medication and constant attacks.",
+    "url": "https://abcnews.go.com/International/horror-movie-ukraines-oleshky-faces-catastrophe-russian-occupation/story?id=136685568",
+    "source_url": "https://abcnews.go.com/abcnews/topstories",
+    "published": "2026-09-25T05:12:02-04:00",
+    "fetched": "2026-09-25T09:38:45+00:00"
+   },
+   {
+    "headline": "Dolly Parton's final vocal recording to appear on U2's new album 'Carnaval de Luz'",
+    "detail": "Dolly Parton's last recording of her career will appear on U2's new album.",
+    "url": "https://abcnews.go.com/GMA/Culture/dolly-partons-final-vocal-recording-u2s-new-album/story?id=136731828",
+    "source_url": "https://abcnews.go.com/abcnews/topstories",
+    "published": "2026-09-24T16:48:13-04:00",
+    "fetched": "2026-09-25T09:38:45+00:00"
+   },
+   {
+    "headline": "WATCH: 13-year-old pursuing master's degree at NYU",
+    "detail": "Joe Petraro-Hyppolite has an IQ of 168 and is one of the youngest people ever accepted into an NYU master's program.",
+    "url": "https://abcnews.go.com/video/136733115/",
+    "source_url": "https://abcnews.go.com/abcnews/topstories",
+    "published": "2026-09-24T19:27:32-04:00",
+    "fetched": "2026-09-25T09:38:45+00:00"
+   }
+  ]
  }
 }

@@ -6,8 +6,57 @@
    "site": "theguardian.com/international",
    "rss": "https://www.theguardian.com/international/rss",
    "summary": "The Guardian's International edition round-up, blending the paper's global reporting on politics, climate and conflict with its in-depth features and analysis.",
-   "note": "RSS fetch failed this run.",
-   "items": []
+   "note": null,
+   "items": [
+    {
+     "headline": "‘I’m 100% natural’: how Japan’s 90-year-old bodybuilder is still winning titles",
+     "detail": "‘I’m 100% natural’: how Japan’s 90-year-old bodybuilder is still winning titles",
+     "url": "https://www.theguardian.com/world/ng-interactive/2026/sep/25/im-100-natural-japan-90-year-old-bodybuilder-toshisuke-kanazawa",
+     "source_url": "https://www.theguardian.com/international/rss",
+     "published": "2026-09-25T02:11:01+00:00",
+     "fetched": "2026-09-25T09:39:10+00:00"
+    },
+    {
+     "headline": "Diplomacy or ‘diplotainment’? Key takeaways from the Trump-Xi summit in Washington",
+     "detail": "Diplomacy or ‘diplotainment’? Key takeaways from the Trump-Xi summit in Washington",
+     "url": "https://www.theguardian.com/us-news/2026/sep/25/key-takeaways-trump-xi-summit-whitehouse-china-ai-trade",
+     "source_url": "https://www.theguardian.com/international/rss",
+     "published": "2026-09-25T03:08:16+00:00",
+     "fetched": "2026-09-25T09:39:10+00:00"
+    },
+    {
+     "headline": "‘We wanted to prove we didn’t need air conditioning’: the airport cooled by natural ventilation",
+     "detail": "‘We wanted to prove we didn’t need air conditioning’: the airport cooled by natural ventilation",
+     "url": "https://www.theguardian.com/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion",
+     "source_url": "https://www.theguardian.com/international/rss",
+     "published": "2026-09-25T05:00:41+00:00",
+     "fetched": "2026-09-25T09:39:10+00:00"
+    },
+    {
+     "headline": "At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict",
+     "detail": "At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict",
+     "url": "https://www.theguardian.com/us-news/2026/sep/24/xi-jinping-trump-china-cooperation-thucydides-trap",
+     "source_url": "https://www.theguardian.com/international/rss",
+     "published": "2026-09-24T23:58:11+00:00",
+     "fetched": "2026-09-25T09:39:10+00:00"
+    },
+    {
+     "headline": "Lula says Trump wants to ‘colonise’ and capture Brazil’s resources by meddling in election",
+     "detail": "Lula says Trump wants to ‘colonise’ and capture Brazil’s resources by meddling in election",
+     "url": "https://www.theguardian.com/world/2026/sep/25/lula-says-trump-wants-to-colonise-and-capture-brazils-resources-by-meddling-in-election",
+     "source_url": "https://www.theguardian.com/international/rss",
+     "published": "2026-09-25T03:33:48+00:00",
+     "fetched": "2026-09-25T09:39:10+00:00"
+    },
+    {
+     "headline": "Nepal’s PM says flash flood was ‘warning to world’ as he scolds leaders at UN over climate change",
+     "detail": "Nepal’s PM says flash flood was ‘warning to world’ as he scolds leaders at UN over climate change",
+     "url": "https://www.theguardian.com/world/2026/sep/25/nepal-pm-flash-floods-warning-to-world-climate-change",
+     "source_url": "https://www.theguardian.com/international/rss",
+     "published": "2026-09-25T05:17:46+00:00",
+     "fetched": "2026-09-25T09:39:10+00:00"
+    }
+   ]
   },
   {
    "key": "guk",
@@ -15,8 +64,57 @@
    "site": "theguardian.com/uk",
    "rss": "https://www.theguardian.com/uk/rss",
    "summary": "The Guardian's UK edition, covering British politics, the economy, public services and society from Westminster to the regions.",
-   "note": "RSS fetch failed this run.",
-   "items": []
+   "note": null,
+   "items": [
+    {
+     "headline": "‘Everything is golden’: readers’ tips for a great autumn day out in the UK",
+     "detail": "‘Everything is golden’: readers’ tips for a great autumn day out in the UK",
+     "url": "https://www.theguardian.com/travel/2026/sep/25/readers-favourite-autumn-days-out-uk",
+     "source_url": "https://www.theguardian.com/uk/rss",
+     "published": "2026-09-25T06:00:42+00:00",
+     "fetched": "2026-09-25T09:39:11+00:00"
+    },
+    {
+     "headline": "NHS bodies in England impose two-year minimum wait for ADHD and autism assessments",
+     "detail": "NHS bodies in England impose two-year minimum wait for ADHD and autism assessments",
+     "url": "https://www.theguardian.com/society/2026/sep/24/nhs-integrated-care-boards-england-two-year-waiting-times-adhd-autism-assessments",
+     "source_url": "https://www.theguardian.com/uk/rss",
+     "published": "2026-09-25T06:33:25+00:00",
+     "fetched": "2026-09-25T09:39:11+00:00"
+    },
+    {
+     "headline": "Far-right activist Daniel Thomas charged over alleged dinghy slashing in Channel",
+     "detail": "Far-right activist Daniel Thomas charged over alleged dinghy slashing in Channel",
+     "url": "https://www.theguardian.com/uk-news/2026/sep/24/police-arrest-far-right-activist-daniel-thomas-after-dinghy-slashed-channel",
+     "source_url": "https://www.theguardian.com/uk/rss",
+     "published": "2026-09-24T21:20:36+00:00",
+     "fetched": "2026-09-25T09:39:11+00:00"
+    },
+    {
+     "headline": "Netanyahu calls Israel’s war in Gaza ‘opposite of genocide’ in UN speech",
+     "detail": "Netanyahu calls Israel’s war in Gaza ‘opposite of genocide’ in UN speech",
+     "url": "https://www.theguardian.com/us-news/2026/sep/24/netanyahu-un-speech-mahmoud-abbas",
+     "source_url": "https://www.theguardian.com/uk/rss",
+     "published": "2026-09-24T19:28:08+00:00",
+     "fetched": "2026-09-25T09:39:11+00:00"
+    },
+    {
+     "headline": "UK food and drink trade deficit largest since 2000 at £21bn",
+     "detail": "UK food and drink trade deficit largest since 2000 at £21bn",
+     "url": "https://www.theguardian.com/business/2026/sep/25/uk-food-drink-trade-deficit-homegrown-produce-national-security",
+     "source_url": "https://www.theguardian.com/uk/rss",
+     "published": "2026-09-24T23:01:32+00:00",
+     "fetched": "2026-09-25T09:39:11+00:00"
+    },
+    {
+     "headline": "Met chief criticises court system after bailed paedophile returns to scene of crime",
+     "detail": "Met chief criticises court system after bailed paedophile returns to scene of crime",
+     "url": "https://www.theguardian.com/uk-news/2026/sep/24/met-chief-criticises-court-system-after-paedophile-granted-bail",
+     "source_url": "https://www.theguardian.com/uk/rss",
+     "published": "2026-09-24T19:57:44+00:00",
+     "fetched": "2026-09-25T09:39:11+00:00"
+    }
+   ]
   },
   {
    "key": "gus",
@@ -24,8 +122,57 @@
    "site": "theguardian.com/us",
    "rss": "https://www.theguardian.com/us-news/rss",
    "summary": "The Guardian's US edition, reporting on the White House, Congress, the midterm campaign and American social and cultural stories.",
-   "note": "RSS fetch failed this run.",
-   "items": []
+   "note": null,
+   "items": [
+    {
+     "headline": "Trump’s state dinner for Xi Jinping will not be televised as White House continues to deny CNN full access – as it happened",
+     "detail": "Trump’s state dinner for Xi Jinping will not be televised as White House continues to deny CNN full access – as it happened",
+     "url": "https://www.theguardian.com/us-news/live/2026/sep/24/white-house-press-xi-jinping-netanyahu-trump-latest-news-updates",
+     "source_url": "https://www.theguardian.com/us-news/rss",
+     "published": "2026-09-25T02:00:10+00:00",
+     "fetched": "2026-09-25T09:39:12+00:00"
+    },
+    {
+     "headline": "CNN and MS Now journalists denied access to White House state dinner despite court ruling",
+     "detail": "CNN and MS Now journalists denied access to White House state dinner despite court ruling",
+     "url": "https://www.theguardian.com/us-news/2026/sep/24/judge-orders-trump-restore-white-house-access-cnn-ms-now-politico-media-ban",
+     "source_url": "https://www.theguardian.com/us-news/rss",
+     "published": "2026-09-25T01:56:37+00:00",
+     "fetched": "2026-09-25T09:39:12+00:00"
+    },
+    {
+     "headline": "New Jersey governor calls on lieutenant governor to resign after ethics investigation",
+     "detail": "New Jersey governor calls on lieutenant governor to resign after ethics investigation",
+     "url": "https://www.theguardian.com/us-news/2026/sep/24/new-jersey-lieutenant-governor-ethics-investigation",
+     "source_url": "https://www.theguardian.com/us-news/rss",
+     "published": "2026-09-25T01:35:35+00:00",
+     "fetched": "2026-09-25T09:39:12+00:00"
+    },
+    {
+     "headline": "Man shot and wounded during Trump assassination attempt in Butler dies",
+     "detail": "Man shot and wounded during Trump assassination attempt in Butler dies",
+     "url": "https://www.theguardian.com/us-news/2026/sep/24/trump-assassination-attempt-man-dies-injured",
+     "source_url": "https://www.theguardian.com/us-news/rss",
+     "published": "2026-09-24T23:32:40+00:00",
+     "fetched": "2026-09-25T09:39:12+00:00"
+    },
+    {
+     "headline": "Netanyahu’s speech at UN spurs protests in New York City: ‘Let Gaza live’",
+     "detail": "Netanyahu’s speech at UN spurs protests in New York City: ‘Let Gaza live’",
+     "url": "https://www.theguardian.com/us-news/2026/sep/24/netanyahu-un-protests",
+     "source_url": "https://www.theguardian.com/us-news/rss",
+     "published": "2026-09-24T23:28:26+00:00",
+     "fetched": "2026-09-25T09:39:12+00:00"
+    },
+    {
+     "headline": "Susan Sarandon and Hannah Einbinder arrested at anti-Netanyahu protest in New York",
+     "detail": "Susan Sarandon and Hannah Einbinder arrested at anti-Netanyahu protest in New York",
+     "url": "https://www.theguardian.com/us-news/2026/sep/25/susan-sarandon-hannah-einbinder-arrested-anti-netanyahu-protest-new-york",
+     "source_url": "https://www.theguardian.com/us-news/rss",
+     "published": "2026-09-24T23:23:34+00:00",
+     "fetched": "2026-09-25T09:39:12+00:00"
+    }
+   ]
   },
   {
    "key": "gau",
@@ -33,8 +180,57 @@
    "site": "theguardian.com/au",
    "rss": "https://www.theguardian.com/australia-news/rss",
    "summary": "The Guardian's Australian edition, covering federal politics, the economy, the environment and domestic news from an independent, progressive lens.",
-   "note": "RSS fetch failed this run.",
-   "items": []
+   "note": null,
+   "items": [
+    {
+     "headline": "Pocock calls for AI safety act after Medicare breach – as it happened",
+     "detail": "Pocock calls for AI safety act after Medicare breach – as it happened",
+     "url": "https://www.theguardian.com/australia-news/live/2026/sep/25/anthony-albanese-open-ai-hack-united-nations-angus-taylor-coalition-ntwnfb",
+     "source_url": "https://www.theguardian.com/australia-news/rss",
+     "published": "2026-09-25T06:56:14+00:00",
+     "fetched": "2026-09-25T09:39:13+00:00"
+    },
+    {
+     "headline": "PM rejects ‘nonsense’ suggestion he delayed revealing OpenAI Medicare hack as Labor considers changing laws",
+     "detail": "PM rejects ‘nonsense’ suggestion he delayed revealing OpenAI Medicare hack as Labor considers changing laws",
+     "url": "https://www.theguardian.com/australia-news/2026/sep/25/wake-up-call-labor-considers-changing-australian-laws-after-openai-medicare-hack",
+     "source_url": "https://www.theguardian.com/australia-news/rss",
+     "published": "2026-09-25T05:57:17+00:00",
+     "fetched": "2026-09-25T09:39:13+00:00"
+    },
+    {
+     "headline": "NSW cop asked friend ‘what would you do if I told you I killed somebody’ before alleged murders, court told",
+     "detail": "NSW cop asked friend ‘what would you do if I told you I killed somebody’ before alleged murders, court told",
+     "url": "https://www.theguardian.com/australia-news/2026/sep/25/beau-lamarre-condon-trial-cop-faked-cancer-sydney-murders-jesse-baird-luke-davies-ntwnfb",
+     "source_url": "https://www.theguardian.com/australia-news/rss",
+     "published": "2026-09-25T04:23:44+00:00",
+     "fetched": "2026-09-25T09:39:13+00:00"
+    },
+    {
+     "headline": "Who is James Ashby? Pauline Hanson's 'favourite son' – video",
+     "detail": "Who is James Ashby? Pauline Hanson's 'favourite son' – video",
+     "url": "https://www.theguardian.com/global/video/2026/sep/25/who-is-james-ashby-pauline-hansons-favourite-son-video",
+     "source_url": "https://www.theguardian.com/australia-news/rss",
+     "published": "2026-09-25T04:23:24+00:00",
+     "fetched": "2026-09-25T09:39:13+00:00"
+    },
+    {
+     "headline": "I went looking for the poo at Coogee beach but all I found was a beautiful day for a swim",
+     "detail": "I went looking for the poo at Coogee beach but all I found was a beautiful day for a swim",
+     "url": "https://www.theguardian.com/australia-news/2026/sep/25/poo-at-coogee-beach-water-quality-pollution-ratings-sydney",
+     "source_url": "https://www.theguardian.com/australia-news/rss",
+     "published": "2026-09-25T03:52:24+00:00",
+     "fetched": "2026-09-25T09:39:13+00:00"
+    },
+    {
+     "headline": "The reporter whose Albanese question put her on the front page of her own paper",
+     "detail": "The reporter whose Albanese question put her on the front page of her own paper | Weekly Beast",
+     "url": "https://www.theguardian.com/media/2026/sep/25/latika-m-bourke-fraud-question-australian-pm-anthony-albanese-weekly-beast",
+     "source_url": "https://www.theguardian.com/australia-news/rss",
+     "published": "2026-09-24T23:58:10+00:00",
+     "fetched": "2026-09-25T09:39:13+00:00"
+    }
+   ]
   },
   {
    "key": "geu",
@@ -42,8 +238,57 @@
    "site": "theguardian.com/europe",
    "rss": "https://www.theguardian.com/europe/rss",
    "summary": "The Guardian's Europe edition, tracking the EU, the war in Ukraine and political and economic developments across the continent.",
-   "note": "RSS fetch failed this run.",
-   "items": []
+   "note": null,
+   "items": [
+    {
+     "headline": "Russia could attack a Nato country within months, Danish intelligence says",
+     "detail": "Russia could attack a Nato country within months, Danish intelligence says",
+     "url": "https://www.theguardian.com/world/2026/sep/24/russia-could-attack-a-nato-country-within-months-danish-intelligence-says",
+     "source_url": "https://www.theguardian.com/europe/rss",
+     "published": "2026-09-24T16:05:44+00:00",
+     "fetched": "2026-09-25T09:39:13+00:00"
+    },
+    {
+     "headline": "Saudi Arabia intercepts wave of Houthi missiles as oil climbs to one-week high",
+     "detail": "Saudi Arabia intercepts wave of Houthi missiles as oil climbs to one-week high",
+     "url": "https://www.theguardian.com/world/2026/sep/25/saudi-arabia-intercepts-houthi-missiles-oil-prices-climbs",
+     "source_url": "https://www.theguardian.com/europe/rss",
+     "published": "2026-09-25T02:54:27+00:00",
+     "fetched": "2026-09-25T09:39:13+00:00"
+    },
+    {
+     "headline": "Pope Leo visits France for first papal visit in 18 years – Europe live",
+     "detail": "Pope Leo visits France for first papal visit in 18 years – Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/sep/25/pope-leo-france-paris-notre-dame-metz-ai-europe-latest-news-updates",
+     "source_url": "https://www.theguardian.com/europe/rss",
+     "published": "2026-09-25T09:25:36+00:00",
+     "fetched": "2026-09-25T09:39:13+00:00"
+    },
+    {
+     "headline": "Theranos founder Elizabeth Holmes reportedly to be transferred to halfway home next year",
+     "detail": "Theranos founder Elizabeth Holmes reportedly to be transferred to halfway home next year",
+     "url": "https://www.theguardian.com/us-news/2026/sep/24/theranos-elizabeth-holmes-transfer-halfway-home",
+     "source_url": "https://www.theguardian.com/europe/rss",
+     "published": "2026-09-24T23:12:24+00:00",
+     "fetched": "2026-09-25T09:39:13+00:00"
+    },
+    {
+     "headline": "Ukraine war briefing: Finland urges Elon Musk to expand Kyiv’s Starlink coverage over Russia",
+     "detail": "Ukraine war briefing: Finland urges Elon Musk to expand Kyiv’s Starlink coverage over Russia",
+     "url": "https://www.theguardian.com/world/2026/sep/25/ukraine-war-briefing-finland-elon-musk-starlink-coverage-russia",
+     "source_url": "https://www.theguardian.com/europe/rss",
+     "published": "2026-09-25T00:20:00+00:00",
+     "fetched": "2026-09-25T09:39:13+00:00"
+    },
+    {
+     "headline": "Full house: which world leaders got bums on seats at the UN? – in pictures",
+     "detail": "Full house: which world leaders got bums on seats at the UN? – in pictures",
+     "url": "https://www.theguardian.com/world/gallery/2026/sep/25/un-general-assembly-world-leaders-bums-on-seats-in-pictures",
+     "source_url": "https://www.theguardian.com/europe/rss",
+     "published": "2026-09-25T08:00:44+00:00",
+     "fetched": "2026-09-25T09:39:13+00:00"
+    }
+   ]
   }
  ]
 }

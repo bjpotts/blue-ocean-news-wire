@@ -3,159 +3,167 @@
   {
    "key": "anz",
    "name": "ANZ",
-   "summary": "ANZ equity capital markets activity captured this run runs to 4 items, led by Resources Top 5: US moves bring gains for Resolution, PolarX and Nova. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
-   "fresh_count": 4,
+   "summary": "ANZ equity capital markets activity captured this run runs to 3 items, led by Gold Digger: Meeka grits teeth with $40m placement to fund WA gold ramp-up. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources. No newer capital markets item has been reported for ANZ since the last edition, so the same verified item(s) are carried forward.",
+   "fresh_count": 0,
    "items": [
     {
-     "headline": "Resources Top 5: US moves bring gains for Resolution, PolarX and Nova",
-     "detail": "Resolution ramps up US push with dual-listing; PolarX pops on hyper copper grades in Alaska; Nova receives refinery equipment. ... Read More",
-     "url": "https://stockhead.com.au/resources/resources-top-5-us-moves-bring-gains-for-resolution-polarx-and-nova/",
+     "headline": "Gold Digger: Meeka grits teeth with $40m placement to fund WA gold ramp-up",
+     "detail": "Meeka Metals has headed to the market for a $40 million top-up, chasing funds to ramp up its Murchison gold ... Read More",
+     "url": "https://stockhead.com.au/resources/gold-digger-meeka-grits-teeth-with-40m-placement-to-fund-wa-gold-ramp-up/",
      "outlet": "Stockhead",
      "source_url": "https://stockhead.com.au/feed/",
-     "published": "2026-09-09T06:52:37+00:00",
-     "fetched": "2026-09-09T08:02:09+00:00"
+     "published": "2026-09-25T07:15:16+00:00",
+     "fetched": "2026-09-25T09:35:58+00:00"
     },
     {
-     "headline": "Oura expands Aussie smart ring footprint ahead of public float",
-     "detail": "The world’s leading smart ring brand is ramping up its local marketing and retail push to capture a share of ... Read More",
-     "url": "https://stockhead.com.au/tech/oura-expands-aussie-smart-ring-footprint-ahead-of-public-float/",
+     "headline": "Firmus floats eye-watering profit margins ahead of IPO",
+     "detail": "One of the largest IPOs on record will soon hit the ASX. Long awaited details on revenue and profit margins ... Read More",
+     "url": "https://stockhead.com.au/tech/firmus-floats-eye-watering-profit-margins-ahead-of-ipo/",
      "outlet": "Stockhead",
      "source_url": "https://stockhead.com.au/feed/",
-     "published": "2026-09-09T05:07:46+00:00",
-     "fetched": "2026-09-09T08:02:09+00:00"
+     "published": "2026-09-25T05:31:08+00:00",
+     "fetched": "2026-09-25T09:35:58+00:00"
     },
     {
-     "headline": "Resources Top 5: Mount Ridley still climbing after capital raise",
-     "detail": "Shares in Mount Ridley continue rising after raising $2m last week, Sunshine Metals Mt Moss refurbishment on track for commissioning ... Read More",
-     "url": "https://stockhead.com.au/resources/resources-top-5-mount-ridley-still-climbing-after-capital-raise-sunshines-mt-moss-refurbishment-progressing-as-planned/",
+     "headline": "Ex-Westpac banker raises $2m for AI debt collection start-up",
+     "detail": "An AI that mimics an Australian accent is now doing the debt collecting job humans refused to take, backed by ... Read More",
+     "url": "https://stockhead.com.au/tech/ex-westpac-banker-raises-2m-for-ai-debt-collection-start-up/",
      "outlet": "Stockhead",
      "source_url": "https://stockhead.com.au/feed/",
-     "published": "2026-09-08T06:39:53+00:00",
-     "fetched": "2026-09-09T08:02:09+00:00"
-    },
-    {
-     "headline": "Looking past the headlines: Why the housing slowdown opens the door for private credit",
-     "detail": "Australia’s housing slowdown is testing private credit, but Zagga argues disciplined underwriting can turn tighter conditions into opportunity. ... Read More",
-     "url": "https://stockhead.com.au/news/looking-past-the-headlines-why-the-housing-slowdown-opens-the-door-for-private-credit/",
-     "outlet": "Stockhead",
-     "source_url": "https://stockhead.com.au/feed/",
-     "published": "2026-09-08T05:36:42+00:00",
-     "fetched": "2026-09-09T08:02:09+00:00"
+     "published": "2026-09-24T05:27:35+00:00",
+     "fetched": "2026-09-25T09:35:58+00:00"
     }
    ]
   },
   {
    "key": "asia",
    "name": "Asia (Japan/Singapore/Hong Kong/China)",
-   "summary": "Asia (Japan/Singapore/Hong Kong/China) equity capital markets activity captured this run runs to 4 items, led by Eager capital prompts IPO plans for more Chinese makers of brain-computer interfaces. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
-   "fresh_count": 4,
+   "summary": "Asia (Japan/Singapore/Hong Kong/China) equity capital markets activity captured this run runs to 4 items, led by China’s industrial strengths must also benefit its trading partners. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "fresh_count": 2,
    "items": [
     {
-     "headline": "Eager capital prompts IPO plans for more Chinese makers of brain-computer interfaces",
-     "detail": "A handful of home-grown Chinese companies involved in brain computer interfaces (BCIs) are moving towards initial public offerings (IPOs) on onshore markets, taking advantage of the sector’s status as a new darling of private capital.",
-     "url": "https://www.scmp.com/business/china-business/article/3366744/eager-capital-prompts-ipo-plans-more-chinese-makers-brain-computer-interfaces?utm_source=rss_feed",
-     "outlet": "South China Morning Post",
-     "source_url": "https://www.scmp.com/rss/92/feed",
-     "published": "2026-09-08T07:13:34+00:00",
-     "fetched": "2026-09-09T08:02:29+00:00"
-    },
-    {
-     "headline": "China’s AI ‘little giant’ Yunxi Technology files for Hong Kong IPO: sources",
-     "detail": "Yunxi Technology, officially one of China’s “little giants”, has submitted a confidential initial public offering application to Hong Kong’s stock exchange, according to people familiar with the matter.",
-     "url": "https://www.scmp.com/business/companies/article/3366347/chinas-ai-little-giant-yunxi-technology-files-hong-kong-ipo-sources?utm_source=rss_feed",
-     "outlet": "South China Morning Post",
-     "source_url": "https://www.scmp.com/rss/92/feed",
-     "published": "2026-09-04T08:00:09+00:00",
-     "fetched": "2026-09-09T08:02:29+00:00"
-    },
-    {
-     "headline": "Taiwan waits for its new F-16s, still stuck in Hawaii after a fortnight’s delay",
-     "detail": "The first two F-16 Block 70 fighters bought by Taipei from the United States have yet to reach Taiwan, after spending more than two weeks in Hawaii for reasons that remain unclear.",
-     "url": "https://www.scmp.com/news/china/politics/article/3366858/taiwan-waits-its-new-f-16s-still-stuck-hawaii-after-fortnights-delay?utm_source=rss_feed",
+     "headline": "China’s industrial strengths must also benefit its trading partners",
+     "detail": "The European Commission is pressing China for progress by next month to address the widening EU-China trade imbalance, and raising the possibility of new protectionist trade policy.",
+     "url": "https://www.scmp.com/opinion/china-opinion/article/3368293/chinas-industrial-strengths-must-also-benefit-its-trading-partners?utm_source=rss_feed",
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-09-09T03:58:30+00:00",
-     "fetched": "2026-09-09T08:02:30+00:00"
+     "published": "2026-09-24T21:30:12+00:00",
+     "fetched": "2026-09-25T09:37:27+00:00"
     },
     {
-     "headline": "Trump bans some Canadian goods, raises tariffs on others as trade war escalates",
-     "detail": "US President Donald Trump on Tuesday escalated his trade war against Canada, banning imports of alcohol and various products and raising tariffs on others, with the conflict showing no sign of abating.",
-     "url": "https://www.scmp.com/news/world/united-states-canada/article/3366840/trump-bans-some-canada-goods-puts-50-tariffs-others?utm_source=rss_feed",
+     "headline": "US cybersecurity agency releases election infrastructure plan before midterms",
+     "detail": "The US’ cybersecurity agency on Thursday released an election infrastructure security plan 40 days before November’s midterms, laying out potential threats to election systems and listing services it would offer to election officials to…",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3368719/us-cybersecurity-agency-releases-election-infrastructure-plan-40-days-midterms?utm_source=rss_feed",
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-09-09T00:01:49+00:00",
-     "fetched": "2026-09-09T08:02:30+00:00"
+     "published": "2026-09-24T18:39:04+00:00",
+     "fetched": "2026-09-25T09:37:27+00:00"
+    },
+    {
+     "headline": "China’s humanoid robot IPO slowdown no threat to firms with ‘genuine strength’: Deloitte",
+     "detail": "Beijing’s recent tightening of approvals for humanoid robot makers seeking initial public offerings (IPOs) poses no threat to companies with clear commercialisation strategies, as funding channels remain wide open for qualified players,…",
+     "url": "https://www.scmp.com/business/markets/article/3368647/chinas-humanoid-robot-ipo-slowdown-no-threat-firms-genuine-strength-deloitte?utm_source=rss_feed",
+     "outlet": "South China Morning Post",
+     "source_url": "https://www.scmp.com/rss/92/feed",
+     "published": "2026-09-24T09:08:50+00:00",
+     "fetched": "2026-09-25T09:37:26+00:00"
+    },
+    {
+     "headline": "1,700% share surge for Chinese state-owned compressor maker exposes risks of new listings",
+     "detail": "A more than 1,700 per cent share-price surge by a new listing on the Shanghai Stock Exchange last week put a spotlight on a state-owned industrial compressor manufacturer, leading the bourse operator to intervene to curb speculative…",
+     "url": "https://www.scmp.com/business/china-business/article/3368595/1700-share-surge-chinese-state-owned-compressor-maker-exposes-risks-new-listings?utm_source=rss_feed",
+     "outlet": "South China Morning Post",
+     "source_url": "https://www.scmp.com/rss/92/feed",
+     "published": "2026-09-24T04:02:26+00:00",
+     "fetched": "2026-09-25T09:37:26+00:00"
     }
    ]
   },
   {
    "key": "us",
    "name": "US",
-   "summary": "US equity capital markets activity captured this run runs to 3 items, led by The IPO Buzz: Holtec Nuclear (HNUC Proposed) Sets Terms for $825 Million IPO. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources. No newer capital markets item has been reported for US since the last edition, so the same verified item(s) are carried forward.",
-   "fresh_count": 0,
+   "summary": "US equity capital markets activity captured this run runs to 4 items, led by The IPO Buzz: ADARx Pharmaceuticals Upsizes IPO & Prices it at $17 – High End. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "fresh_count": 4,
    "items": [
     {
-     "headline": "The IPO Buzz: Holtec Nuclear (HNUC Proposed) Sets Terms for $825 Million IPO",
-     "detail": "First big IPO launch after Labor Day: Holtec Nuclear Corp. (HNUC Proposed) unveiled the terms for its IPO in an S-1/A filing – 50 million shares at a price range of $15.00 to $18.00 – to raise $825 million, if priced at the $16.50…",
-     "url": "https://www.iposcoop.com/the-ipo-buzz-holtec-nuclear-hnuc-proposed-sets-terms-for-825-million-ipo/",
+     "headline": "The IPO Buzz: ADARx Pharmaceuticals Upsizes IPO & Prices it at $17 – High End",
+     "detail": "ADARx Pharmaceuticals (ADRX) upsized its IPO at pricing to 26.25 million shares – up from 21.88 million shares in the prospectus – and priced the IPO at $17.00 – the high end of its $15.00-to-$17.00 range – to raise $446.25 million on…",
+     "url": "https://www.iposcoop.com/the-ipo-buzz-adarx-pharmaceuticals-upsizes-ipo-prices-it-at-17-high-end/",
      "outlet": "IPOScoop",
      "source_url": "https://www.iposcoop.com/feed/",
-     "published": "2026-09-08T10:47:38+00:00",
-     "fetched": "2026-09-09T08:02:32+00:00"
+     "published": "2026-09-25T00:17:55+00:00",
+     "fetched": "2026-09-25T09:37:28+00:00"
     },
     {
-     "headline": "The IPO Buzz: SoftBank-Backed SB Energy (SBE) Files Plans for Huge IPO",
-     "detail": "SB Energy (SBE Proposed), a data center and power infrastructure company backed by SoftBank of Japan, has filed to go public in what could be a multibillion-dollar deal. No terms were disclosed in the S-1 filing, which was dated Aug.",
-     "url": "https://www.iposcoop.com/the-ipo-buzz-softbank-backed-sb-energy-sbe-files-ipo-plans-for-huge-ipo/",
+     "headline": "The IPO Buzz: Accelevation (ACCV Proposed) Sets Terms for $660 Million IPO",
+     "detail": "Accelevation Holdings (ACCV Proposed) outlined the terms today for its $660 million IPO: 30 million shares at a price range of $20.00 to $24.00 to raise $660 million, if priced at the $22.00 mid-point of its range.",
+     "url": "https://www.iposcoop.com/the-ipo-buzz-accelevation-accv-proposed-sets-terms-for-660-million-ipo/",
      "outlet": "IPOScoop",
      "source_url": "https://www.iposcoop.com/feed/",
-     "published": "2026-09-01T16:39:45+00:00",
-     "fetched": "2026-09-09T08:02:32+00:00"
+     "published": "2026-09-22T11:13:06+00:00",
+     "fetched": "2026-09-25T09:37:28+00:00"
     },
     {
-     "headline": "The IPO Buzz: Anthropic & Aggreko Stir Anticipation – After Labor Day",
-     "detail": "Anticipation is the word in the IPO market. Anthropic is likely to unveil its first public SEC filing for the Claude AI maker’s blockbuster IPO next week – possibly on Tuesday, Sept.",
-     "url": "https://www.iposcoop.com/the-ipo-buzz-anthropic-aggreko-stir-anticipation-after-labor-day/",
+     "headline": "The IPO Buzz: Anthropic IPO May Come in November – The NYT Reports",
+     "detail": "Anthropic is on track to launch its highly anticipated IPO – most likely in November, according to a story posted online by The New York Times late this afternoon (Friday, Sept. 18, 2026).",
+     "url": "https://www.iposcoop.com/the-ipo-buzz-anthropic-ipo-may-come-in-november-the-nyt-reports/",
      "outlet": "IPOScoop",
      "source_url": "https://www.iposcoop.com/feed/",
-     "published": "2026-08-31T18:41:23+00:00",
-     "fetched": "2026-09-09T08:02:32+00:00"
+     "published": "2026-09-18T23:53:19+00:00",
+     "fetched": "2026-09-25T09:37:28+00:00"
+    },
+    {
+     "headline": "The IPO Buzz: Electra Therapeutics (ETRA) Upsizes IPO & Prices it at $15 Mid-Point",
+     "detail": "Electra Therapeutics (ETRA) upsized its IPO at pricing to 23.33 million shares – up from 21.67 million shares in the prospectus – and priced the IPO at $15.00 – the mid-point of its $14.00-to-$16.00 range – to raise $349.95 million on…",
+     "url": "https://www.iposcoop.com/the-ipo-buzz-electra-therapeutics-etra-upsizes-ipo-prices-it-at-15-mid-point/",
+     "outlet": "IPOScoop",
+     "source_url": "https://www.iposcoop.com/feed/",
+     "published": "2026-09-18T01:10:42+00:00",
+     "fetched": "2026-09-25T09:37:28+00:00"
     }
    ]
   },
   {
    "key": "uk",
    "name": "UK",
-   "summary": "A single verifiable equity capital markets item was found for UK this run: Revolut US licence win ‘strengthens pre-IPO story’.",
-   "fresh_count": 1,
+   "summary": "UK equity capital markets activity captured this run runs to 3 items, led by Airtel Money confirms plans for multi-billion London IPO. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources. No newer capital markets item has been reported for UK since the last edition, so the same verified item(s) are carried forward.",
+   "fresh_count": 0,
    "items": [
     {
-     "headline": "Revolut US licence win ‘strengthens pre-IPO story’",
-     "detail": "Revolut’s conditional approval for a US banking licence has been hailed as a “consequential” step in the fintech’s march towards a long-awaited public debut.",
-     "url": "https://www.cityam.com/revolut-us-licence-win-strengthens-pre-ipo-story/",
+     "headline": "Airtel Money confirms plans for multi-billion London IPO",
+     "detail": "Airtel Money has confirmed plans for a London IPO in what would mark one of the London Stock Exchange’s biggest flotations in years.",
+     "url": "https://www.cityam.com/airtel-money-confirms-plans-for-multi-billion-london-ipo/",
      "outlet": "City A.M.",
      "source_url": "https://www.cityam.com/category/markets/feed/",
-     "published": "2026-09-09T03:04:00+00:00",
-     "fetched": "2026-09-09T08:02:38+00:00"
+     "published": "2026-09-23T06:23:58+00:00",
+     "fetched": "2026-09-25T09:37:33+00:00"
+    },
+    {
+     "headline": "As it happened: Ineos suspends huge chemicals plants in Hull, RAC IPO breakdown",
+     "detail": "Good morning from the City desk at City AM. Follow along here for all our coverage of the latest London Stock Exchange updates along with UK business news and analysis of the key trends shaping investor sentiment.",
+     "url": "https://www.cityam.com/ftse-100-live-bq-owner-kingfisher-results-public-sector-net-borrowing/",
+     "outlet": "City A.M.",
+     "source_url": "https://www.cityam.com/category/markets/feed/",
+     "published": "2026-09-22T05:45:00+00:00",
+     "fetched": "2026-09-25T09:37:33+00:00"
+    },
+    {
+     "headline": "Will Airtel Money kickstart London’s IPO pipeline?",
+     "detail": "London’s sluggish IPO market showed signs of a rebound on Wednesday as Airtel Money confirmed plans for a bumper listing – now the City is hoping it will get the domestic pipeline moving, writes Charlie Conchie.",
+     "url": "https://www.cityam.com/will-airtel-money-kickstart-londons-ipo-pipeline/",
+     "outlet": "City A.M.",
+     "source_url": "https://www.cityam.com/feed/",
+     "published": "2026-09-24T09:42:19+00:00",
+     "fetched": "2026-09-25T09:37:37+00:00"
     }
    ]
   },
   {
    "key": "europe",
    "name": "Europe",
-   "summary": "A single verifiable equity capital markets item was found for Europe this run: Defense Tycoon Championed by Loeb Plots IPO of Family Firm.",
-   "fresh_count": 1,
-   "items": [
-    {
-     "headline": "Defense Tycoon Championed by Loeb Plots IPO of Family Firm",
-     "detail": "Indra Sistemas SA Chairman Ángel Escribano looked at the top of his game in early 2025: He had ambitious plans to turn the Spanish defense company into a European champion and was feted by politicians on all sides.",
-     "url": "https://www.bloomberg.com/news/articles/2026-09-09/spanish-defense-tycoon-plots-family-ipo-after-shock-indra-exit",
-     "outlet": "Bloomberg",
-     "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-09-09T05:00:00+00:00",
-     "fetched": "2026-09-09T08:02:40+00:00"
-    }
-   ]
+   "summary": "No capital raising or new listing activity could be verified from a linked source for Europe this run, so nothing is listed rather than publishing an item without a working URL.",
+   "fresh_count": 0,
+   "items": []
   },
   {
    "key": "rest",

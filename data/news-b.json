@@ -4,72 +4,398 @@
    "key": "nbc",
    "name": "NBC News",
    "site": "nbcnews.com",
-   "summary": "NBC News could not be reached this run.",
-   "note": "RSS fetch failed this run; no headlines are shown rather than republishing stale ones.",
-   "items": []
+   "summary": "NBC News, covering US national news and politics is leading with Trump rolls out red carpets for Xi, though he has portrayed China as a global menace; Netanyahu speech prompts walkout, protests; It’s cute. It’s cuddly. And it wants all your data..",
+   "note": null,
+   "items": [
+    {
+     "headline": "Trump rolls out red carpets for Xi, though he has portrayed China as a global menace",
+     "detail": "Just two months ago, President Donald Trump gave a primetime speech accusing China of interfering in the 2020 election.",
+     "url": "https://www.nbcnews.com/politics/donald-trump/trump-rolls-red-carpets-xi-jinping-though-portrayed-china-global-menac-rcna599250",
+     "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
+     "published": "2026-09-25T01:03:48+00:00",
+     "fetched": "2026-09-25T09:38:45+00:00"
+    },
+    {
+     "headline": "Netanyahu speech prompts walkout, protests",
+     "detail": "Israeli Prime Minister Benjamin Netanyahu’s speech at the U.N. prompted walkouts inside the chamber and protests outside. NBC News’ Erin McLaughlin reports.",
+     "url": "https://www.nbcnews.com/nightly-news/video/netanyahu-speech-prompts-walkout-protests-270485061836",
+     "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
+     "published": "2026-09-24T23:12:37+00:00",
+     "fetched": "2026-09-25T09:38:45+00:00"
+    },
+    {
+     "headline": "It’s cute. It’s cuddly. And it wants all your data.",
+     "detail": "Meta is touting its new personal AI agent, Muse, as a product “built for everyone” — including those who lack experience with technology.",
+     "url": "https://www.nbcnews.com/tech/tech-news/meta-muse-ai-agent-response-animated-avatar-cute-rcna599736",
+     "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
+     "published": "2026-09-24T23:14:54+00:00",
+     "fetched": "2026-09-25T09:38:45+00:00"
+    },
+    {
+     "headline": "Error leads to backlog of tens of thousands of voter registration applications in Texas",
+     "detail": "County election officials are rushing to deal with the pile of delayed records before early voting begins in the state next month.",
+     "url": "https://www.nbcnews.com/politics/2026-election/error-backlog-tens-thousands-voter-registration-applications-texas-rcna599665",
+     "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
+     "published": "2026-09-24T21:08:02+00:00",
+     "fetched": "2026-09-25T09:38:45+00:00"
+    },
+    {
+     "headline": "CNN, MS Now turned away from state dinner event despite court order to restore access",
+     "detail": "Journalists from CNN and MS Now say they were turned away from the arrivals event of the state dinner that was supposed to be open to the press. This comes despite or court order to restore access to the White House.",
+     "url": "https://www.nbcnews.com/video/cnn-ms-now-turned-away-from-state-dinner-event-despite-court-order-to-restore-access-270489669793",
+     "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
+     "published": "2026-09-25T00:32:49+00:00",
+     "fetched": "2026-09-25T09:38:45+00:00"
+    }
+   ]
   },
   {
    "key": "thehill",
    "name": "The Hill",
    "site": "thehill.com",
-   "summary": "The Hill could not be reached this run.",
-   "note": "RSS fetch failed this run; no headlines are shown rather than republishing stale ones.",
-   "items": []
+   "summary": "The Hill, reporting on Congress, the White House and US policy is leading with Iran's president tells Fox anchor the war was 'imposed on us'; Zuckerberg, Altman, other Big Tech moguls among attendees at Trump-Xi dinner; Jackson warns Supreme Court’s emergency rulings imposing ‘institutional costs’.",
+   "note": null,
+   "items": [
+    {
+     "headline": "Iran's president tells Fox anchor the war was 'imposed on us'",
+     "detail": "Iranian President Masoud Pezeshkian said Thursday that Tehran was forced into its now six-month-long conflict with the U.S. and warned that Iran will respond “strongly” if attacks continue.",
+     "url": "https://thehill.com/policy/international/6110895-pezeshkian-us-conflict-iran/",
+     "source_url": "https://thehill.com/news/feed/",
+     "published": "2026-09-25T02:46:47+00:00",
+     "fetched": "2026-09-25T09:38:46+00:00"
+    },
+    {
+     "headline": "Zuckerberg, Altman, other Big Tech moguls among attendees at Trump-Xi dinner",
+     "detail": "President Trump hosted Chinese President Xi Jinping at the White House for a state dinner Thursday, whose guest list is full of tech billionaires and some of the world’s most powerful business leaders.",
+     "url": "https://thehill.com/homenews/administration/6110866-trump-xi-white-house-dinner/",
+     "source_url": "https://thehill.com/news/feed/",
+     "published": "2026-09-25T01:34:29+00:00",
+     "fetched": "2026-09-25T09:38:46+00:00"
+    },
+    {
+     "headline": "Jackson warns Supreme Court’s emergency rulings imposing ‘institutional costs’",
+     "detail": "Justice Ketanji Brown Jackson implored her Supreme Court colleagues Thursday to dip into emergency docket cases less frequently, warning that it is imposing “institutional costs.” “Why is it that one party should get a fast pass to the…",
+     "url": "https://thehill.com/regulation/court-battles/6110805-justice-jackson-critiques-scotus-emergency-docket/",
+     "source_url": "https://thehill.com/news/feed/",
+     "published": "2026-09-25T00:52:46+00:00",
+     "fetched": "2026-09-25T09:38:46+00:00"
+    },
+    {
+     "headline": "Homan: ICE isn’t ‘going anywhere’ amid immigration enforcement scrutiny",
+     "detail": "White House border czar Tom Homan stood behind U.S. Immigration and Customs Enforcement (ICE) Thursday, saying the agency is \"not going anywhere” despite recent scrutiny surrounding its escalated enforcement operations.",
+     "url": "https://thehill.com/policy/national-security/6110700-homan-defends-ice-operations-doj-event/",
+     "source_url": "https://thehill.com/news/feed/",
+     "published": "2026-09-24T23:44:52+00:00",
+     "fetched": "2026-09-25T09:38:46+00:00"
+    },
+    {
+     "headline": "Live updates: Xi, Trump meet at dinner for high-stakes talks; UN delegates walk out of Netanyahu's remarks",
+     "detail": "Israeli Prime Minister Benjamin Netanyahu began speaking before the United Nations General Assembly Thursday afternoon, prompting several diplomats to walk out.",
+     "url": "https://thehill.com/homenews/administration/6107815-live-updates-trump-xi-summit-media-ban-ruling-fda/",
+     "source_url": "https://thehill.com/news/feed/",
+     "published": "2026-09-24T23:21:55+00:00",
+     "fetched": "2026-09-25T09:38:46+00:00"
+    }
+   ]
   },
   {
    "key": "time",
    "name": "Time",
    "site": "time.com",
-   "summary": "Time could not be reached this run.",
-   "note": "RSS fetch failed this run; no headlines are shown rather than republishing stale ones.",
-   "items": []
+   "summary": "Time magazine, covering US and world affairs is leading with Netanyahu Dismisses Gaza Genocide Allegations as Dozens of U.N. Delegates Walk Out; Trump and Xi Meet Ahead of State Dinner With Top A.I. Leaders; No More ‘Trump Avenue’: Canada’s Capital Moves to Rename Street Amid Tense Trade War.",
+   "note": null,
+   "items": [
+    {
+     "headline": "Netanyahu Dismisses Gaza Genocide Allegations as Dozens of U.N. Delegates Walk Out",
+     "detail": "Israel's prime minister told Zohran Mamdani, who has called for his arrest, “You can’t silence me.”",
+     "url": "https://time.com/article/2026/09/24/netanyahu-dismisses-gaza-genocide-allegations-as-dozens-of-u-n-delegates-walk-out/",
+     "source_url": "https://time.com/feed/",
+     "published": "2026-09-24T21:45:53+00:00",
+     "fetched": "2026-09-25T09:38:46+00:00"
+    },
+    {
+     "headline": "Trump and Xi Meet Ahead of State Dinner With Top A.I. Leaders",
+     "detail": "Elon Musk, Sam Altman, Jeff Bezos and Sundar Pichai were set to attend the dinner",
+     "url": "https://time.com/article/2026/09/24/Trump-Xi-meeting-White-House-2026-AI-trade-Iran/",
+     "source_url": "https://time.com/feed/",
+     "published": "2026-09-24T20:51:12+00:00",
+     "fetched": "2026-09-25T09:38:46+00:00"
+    },
+    {
+     "headline": "No More ‘Trump Avenue’: Canada’s Capital Moves to Rename Street Amid Tense Trade War",
+     "detail": "“I don't like the idea of anything that's named for Donald Trump, who's demonstrated hostility towards Canada,” said Ottawa Mayor Mark Sutcliffe, referring to the all-out trade war.",
+     "url": "https://time.com/article/2026/09/24/canada-cuts-trump-avenue-street-name-ottawa-trade-war-carney-alliances/",
+     "source_url": "https://time.com/feed/",
+     "published": "2026-09-24T18:27:50+00:00",
+     "fetched": "2026-09-25T09:38:46+00:00"
+    },
+    {
+     "headline": "The 5 Best Strength Exercises for People Over 50",
+     "detail": "Strength training is one of the most effective ways to combat age-related muscle loss.",
+     "url": "https://time.com/article/2026/09/24/5-best-strength-exercises-for-people-over-50/",
+     "source_url": "https://time.com/feed/",
+     "published": "2026-09-24T18:03:27+00:00",
+     "fetched": "2026-09-25T09:38:46+00:00"
+    },
+    {
+     "headline": "Republican Panic Sets In Over Prospects of a Massive Blue Wave",
+     "detail": "Some of the biggest warning signs are coming from red states Trump easily won two years ago.",
+     "url": "https://time.com/article/2026/09/24/republicans-midterm-election-blue-wave-polls/",
+     "source_url": "https://time.com/feed/",
+     "published": "2026-09-24T17:54:29+00:00",
+     "fetched": "2026-09-25T09:38:46+00:00"
+    }
+   ]
   },
   {
    "key": "variety",
    "name": "Variety",
    "site": "variety.com",
-   "summary": "Variety could not be reached this run.",
-   "note": "RSS fetch failed this run; no headlines are shown rather than republishing stale ones.",
-   "items": []
+   "summary": "Variety, on the business of entertainment is leading with Oscars: Denmark Selects May el-Toukhy’s Golden Lion Winning ‘Woman Unknown’ for International Feature Race; ‘Florid’ Director Billy Lumby on Challenging ‘Misrepresentation’ of Schizophrenia on Screen and Casting Non-Actors in Feature Debut; ‘Halima,’ First Finnish Pic Ever by Black Female Filmmaker, Bags Fiction Project Prize, ‘Sauna Diplomacy’ Named Best Genre Project at Finnish Film Affair.",
+   "note": null,
+   "items": [
+    {
+     "headline": "Oscars: Denmark Selects May el-Toukhy’s Golden Lion Winning ‘Woman Unknown’ for International Feature Race",
+     "detail": "May el-Toukhy’s “Woman Unknown” as be chosen as Denmark’s official entry for the international feature film race at the Oscars.",
+     "url": "https://variety.com/2026/film/global/oscars-denmark-may-el-toukhys-golden-lion-woman-unknown-1236875415/",
+     "source_url": "https://variety.com/feed/",
+     "published": "2026-09-25T09:33:46+00:00",
+     "fetched": "2026-09-25T09:38:49+00:00"
+    },
+    {
+     "headline": "‘Florid’ Director Billy Lumby on Challenging ‘Misrepresentation’ of Schizophrenia on Screen and Casting Non-Actors in Feature Debut",
+     "detail": "The depiction of schizophrenia on screen — especially in horror movies — has largely seen the mental health condition linked to violent and unpredictable rages, showing people when something has gone horribly wrong.",
+     "url": "https://variety.com/2026/film/global/florid-director-billy-lumby-misrepresentation-schizophrenia-1236874198/",
+     "source_url": "https://variety.com/feed/",
+     "published": "2026-09-25T09:00:00+00:00",
+     "fetched": "2026-09-25T09:38:49+00:00"
+    },
+    {
+     "headline": "‘Halima,’ First Finnish Pic Ever by Black Female Filmmaker, Bags Fiction Project Prize, ‘Sauna Diplomacy’ Named Best Genre Project at Finnish Film Affair",
+     "detail": "Former BBC journalist Naima Mohamud’s heartfelt and warm comedy “Halima,” about a 10-year-old Somali girl trying to fit in Finland in 1998 took home Helsinki’s Finnish Film Affair’s top prize for Best Fiction on Thursday evening.",
+     "url": "https://variety.com/2026/film/global/its-alive-films-halima-finnish-film-affair-1236875378/",
+     "source_url": "https://variety.com/feed/",
+     "published": "2026-09-25T07:31:41+00:00",
+     "fetched": "2026-09-25T09:38:49+00:00"
+    },
+    {
+     "headline": "‘Unabomber’ Review: A Portrait of the Terrorist as a Young Man, Given a Hokey TV-Movie Gloss",
+     "detail": "The Unabomber may be a figure of enduring public fascination, but it’s hard to see that extending to “Unabomber,” Netflix’s unimaginatively titled and prosaically assembled drama about how domestic terrorist Ted Kaczynski was radicalized,…",
+     "url": "https://variety.com/2026/film/reviews/unabomber-review-1236874990/",
+     "source_url": "https://variety.com/feed/",
+     "published": "2026-09-25T07:10:08+00:00",
+     "fetched": "2026-09-25T09:38:49+00:00"
+    },
+    {
+     "headline": "Silver Lion Winner ‘Miss Violence’ Director Alexandros Avranas to Helm Greek Adaptation of Globoplay’s Hit Series ‘The Others’ (EXCLUSIVE)",
+     "detail": "Alexandros Avranas, who won the Venice Film Festival Silver Lion for best director for the harrowing drama “Miss Violence,” will helm the Greek adaptation of Globoplay’s hit series “The Others.” The project, which is currently in…",
+     "url": "https://variety.com/2026/film/global/miss-violence-alexandros-avranas-globoplay-the-others-1236873711/",
+     "source_url": "https://variety.com/feed/",
+     "published": "2026-09-25T06:32:18+00:00",
+     "fetched": "2026-09-25T09:38:49+00:00"
+    }
+   ]
   },
   {
    "key": "bloomberg",
    "name": "Bloomberg",
    "site": "bloomberg.com",
-   "summary": "Bloomberg could not be reached this run.",
-   "note": "RSS fetch failed this run; no headlines are shown rather than republishing stale ones.",
-   "items": []
+   "summary": "Bloomberg's markets and business file is leading with Gold Tilts Lower as Iran Impasse Continues to Fan Rate-Hike Bets; Banks Tap Billions in BOE Repo Cash to Profit on Bond Trades; Czech Opposition Seeks No Confidence Vote in Cabinet Over Budget.",
+   "note": null,
+   "items": [
+    {
+     "headline": "Gold Tilts Lower as Iran Impasse Continues to Fan Rate-Hike Bets",
+     "detail": "Gold was set to end to the week lower as elevated energy prices and inflation concerns drove bond yields higher and fueled expectations the Federal Reserve will need to raise interest rates further.",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-24/gold-tilts-lower-as-iran-impasse-continues-to-fan-rate-hike-bets",
+     "source_url": "https://feeds.bloomberg.com/markets/news.rss",
+     "published": "2026-09-24T23:53:28+00:00",
+     "fetched": "2026-09-25T09:38:51+00:00"
+    },
+    {
+     "headline": "Banks Tap Billions in BOE Repo Cash to Profit on Bond Trades",
+     "detail": "There’s a hot money-minting trade in London, fueled by cheap financing doled out by the Bank of England.",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-25/banks-tap-billions-in-boe-repo-cash-to-profit-on-bond-trades",
+     "source_url": "https://feeds.bloomberg.com/markets/news.rss",
+     "published": "2026-09-25T06:15:00+00:00",
+     "fetched": "2026-09-25T09:38:51+00:00"
+    },
+    {
+     "headline": "Czech Opposition Seeks No Confidence Vote in Cabinet Over Budget",
+     "detail": "Czech opposition parties called a no-confidence vote in the government over budget plans that post the country’s second-largest shortfall next year.",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-25/czech-opposition-seeks-no-confidence-vote-in-cabinet-over-budget",
+     "source_url": "https://feeds.bloomberg.com/markets/news.rss",
+     "published": "2026-09-25T09:00:15+00:00",
+     "fetched": "2026-09-25T09:38:51+00:00"
+    },
+    {
+     "headline": "Turkey Fund Crisis Exposes Small Caps to Deeper Selloff",
+     "detail": "Turkey’s fund-industry crisis is inflicting some of its heaviest losses on smaller, less-liquid stocks, widening a divide with large-cap names that have benefited from regulatory support.",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-25/turkey-fund-crisis-exposes-small-caps-to-deeper-selloff",
+     "source_url": "https://feeds.bloomberg.com/markets/news.rss",
+     "published": "2026-09-25T08:55:57+00:00",
+     "fetched": "2026-09-25T09:38:51+00:00"
+    },
+    {
+     "headline": "Bond Selloff Fades as Oil Cools, Lifting Stocks: Markets Wrap",
+     "detail": "Bonds steadied after a selloff that drove global yields to the highest in decades as oil’s rally lost steam, helping to keep US stocks on track for a weekly gain.",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-24/stock-market-today-dow-s-p-live-updates",
+     "source_url": "https://feeds.bloomberg.com/markets/news.rss",
+     "published": "2026-09-24T22:13:37+00:00",
+     "fetched": "2026-09-25T09:38:51+00:00"
+    }
+   ]
   },
   {
    "key": "bbc",
    "name": "BBC",
    "site": "bbc.com",
-   "summary": "BBC could not be reached this run.",
-   "note": "RSS fetch failed this run; no headlines are shown rather than republishing stale ones.",
-   "items": []
+   "summary": "The BBC's world news service is leading with Trump and Xi exchange warm words at state dinner but little progress on key issues; Xi got Trump's red carpet welcome - but not everything he wanted; Netanyahu defends Israeli military action as delegates walk out before UN speech.",
+   "note": null,
+   "items": [
+    {
+     "headline": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
+     "detail": "Despite diplomatic niceties and gifts, little was shared on substantial issues separating the leaders.",
+     "url": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+     "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+     "published": "2026-09-25T08:09:26+00:00",
+     "fetched": "2026-09-25T09:38:51+00:00"
+    },
+    {
+     "headline": "Xi got Trump's red carpet welcome - but not everything he wanted",
+     "detail": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
+     "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
+     "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+     "published": "2026-09-25T03:57:09+00:00",
+     "fetched": "2026-09-25T09:38:51+00:00"
+    },
+    {
+     "headline": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+     "detail": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
+     "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+     "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+     "published": "2026-09-25T00:44:04+00:00",
+     "fetched": "2026-09-25T09:38:51+00:00"
+    },
+    {
+     "headline": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
+     "detail": "CNN and MS NOW reporters say they were barred from covering a state dinner after a judge ruled their passes should be restored.",
+     "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+     "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+     "published": "2026-09-25T01:10:35+00:00",
+     "fetched": "2026-09-25T09:38:51+00:00"
+    },
+    {
+     "headline": "Hundreds of thousands expected in Paris for Pope's visit",
+     "detail": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.",
+     "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+     "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+     "published": "2026-09-25T09:35:37+00:00",
+     "fetched": "2026-09-25T09:38:51+00:00"
+    }
+   ]
   },
   {
    "key": "france24",
    "name": "France 24",
    "site": "france24.com",
-   "summary": "France 24 could not be reached this run.",
-   "note": "RSS fetch failed this run; no headlines are shown rather than republishing stale ones.",
-   "items": []
+   "summary": "France 24's English service, reporting from Paris on Europe, Africa and the Middle East is leading with REPLAY : Pope Leo XIV arrives in France for four-day visit; France's Catholic influencers take faith from social media to real life; Pope Leo XIV's Paris agenda includes Macron meeting and Notre-Dame visit.",
+   "note": null,
+   "items": [
+    {
+     "headline": "REPLAY : Pope Leo XIV arrives in France for four-day visit",
+     "detail": "Pope Leo XIV has landed at Paris Orly Airport for the start of his four-day visit to France.",
+     "url": "https://www.france24.com/en/replay-pope-leo-xiv-arrives-in-france-for-four-day-visit",
+     "source_url": "https://www.france24.com/en/rss",
+     "published": "2026-09-25T09:01:12+00:00",
+     "fetched": "2026-09-25T09:38:51+00:00"
+    },
+    {
+     "headline": "France's Catholic influencers take faith from social media to real life",
+     "detail": "Catholic influencers gathered hundreds of young people for an evening of prayer at Paris's Saint-Sulpice church ahead of Pope Leo XIV's visit, highlighting how social media is becoming a new tool for evangelisation.",
+     "url": "https://www.france24.com/en/france-s-catholic-influencers-take-faith-from-social-media-to-real-life",
+     "source_url": "https://www.france24.com/en/rss",
+     "published": "2026-09-25T08:53:12+00:00",
+     "fetched": "2026-09-25T09:38:51+00:00"
+    },
+    {
+     "headline": "Pope Leo XIV's Paris agenda includes Macron meeting and Notre-Dame visit",
+     "detail": "Paris is making final preparations for Pope Leo XIV's first official visit to the French capital in 18 years, with volunteers welcoming crowds ahead of his four-day trip.",
+     "url": "https://www.france24.com/en/pope-leo-xiv-s-paris-agenda-includes-macron-meeting-and-notre-dame-visit",
+     "source_url": "https://www.france24.com/en/rss",
+     "published": "2026-09-25T08:50:59+00:00",
+     "fetched": "2026-09-25T09:38:51+00:00"
+    },
+    {
+     "headline": "Pope Leo XIV's France visit puts Macron in diplomatic balancing act",
+     "detail": "Pope Leo XIV's visit to France is forcing Emmanuel Macron into a delicate diplomatic balancing act.",
+     "url": "https://www.france24.com/en/pope-leo-xiv-s-france-visit-puts-macron-in-diplomatic-balancing-act",
+     "source_url": "https://www.france24.com/en/rss",
+     "published": "2026-09-25T08:48:48+00:00",
+     "fetched": "2026-09-25T09:38:51+00:00"
+    },
+    {
+     "headline": "🔴 Follow live: Pope Leo XIV arrives in France for historic four-day visit",
+     "detail": "🔴 Follow live: Pope Leo XIV arrives in France for historic four-day visit",
+     "url": "https://www.france24.com/en/europe/20260925-live-pope-france-first-state-visit-18-years",
+     "source_url": "https://www.france24.com/en/rss",
+     "published": "2026-09-25T07:59:54+00:00",
+     "fetched": "2026-09-25T09:38:51+00:00"
+    }
+   ]
   },
   {
    "key": "aljazeera",
    "name": "Al Jazeera",
    "site": "aljazeera.com",
-   "summary": "Al Jazeera could not be reached this run.",
-   "note": "RSS fetch failed this run; no headlines are shown rather than republishing stale ones.",
-   "items": []
+   "summary": "Al Jazeera English, with strong Middle East and Africa coverage is leading with Saudi Arabia allies line up support as Houthi attacks mount; Mamdani plants olive tree with Gaza families; Pope Leo heads to France amid assisted dying, abuse debates.",
+   "note": null,
+   "items": [
+    {
+     "headline": "Saudi Arabia allies line up support as Houthi attacks mount",
+     "detail": "France is sending military to protect key Yanbu oil terminal; Pakistan and Turkiye to hold military talks with Riyadh.",
+     "url": "https://www.aljazeera.com/news/2026/9/25/saudi-arabia-allies-line-up-support-as-houthi-attacks-mount?traffic_source=rss",
+     "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
+     "published": "2026-09-25T08:32:48+00:00",
+     "fetched": "2026-09-25T09:38:52+00:00"
+    },
+    {
+     "headline": "Mamdani plants olive tree with Gaza families",
+     "detail": "New York Mayor Zohran Mamdani posted a video of himself planting an olive tree alongside Palestinian families from Gaza.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/mamdani-plants-olive-tree-with-gaza-families?traffic_source=rss",
+     "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
+     "published": "2026-09-25T07:55:41+00:00",
+     "fetched": "2026-09-25T09:38:52+00:00"
+    },
+    {
+     "headline": "Pope Leo heads to France amid assisted dying, abuse debates",
+     "detail": "First papal state visit to country in 18 years comes as church confronts contentious issues.",
+     "url": "https://www.aljazeera.com/news/2026/9/25/pope-leo-heads-to-france-amid-assisted-dying-abuse-debates?traffic_source=rss",
+     "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
+     "published": "2026-09-25T07:41:24+00:00",
+     "fetched": "2026-09-25T09:38:52+00:00"
+    },
+    {
+     "headline": "Nepal’s leader labels devastating flood a ‘warning to the world’",
+     "detail": "Prime Minister Balendra Shah says world leaders must act on climate change.",
+     "url": "https://www.aljazeera.com/news/2026/9/25/nepals-leader-labels-devastating-flood-a-warning-to-the-world?traffic_source=rss",
+     "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
+     "published": "2026-09-25T06:56:51+00:00",
+     "fetched": "2026-09-25T09:38:52+00:00"
+    },
+    {
+     "headline": "Israel’s Abu Farchi sent off for gun celebration in Nations League match",
+     "detail": "Israel footballer Sayed Abu Farchi was sent off for goal celebration mimicking shooting a gun in match against Austria.",
+     "url": "https://www.aljazeera.com/sports/2026/9/25/israels-abu-farchi-sent-off-for-gun-celebration-in-nations-league-match?traffic_source=rss",
+     "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
+     "published": "2026-09-25T06:44:31+00:00",
+     "fetched": "2026-09-25T09:38:52+00:00"
+    }
+   ]
   }
  ],
  "blocked": [
   "news.com.au",
-  "smh.com.au",
-  "9news.com.au",
   "theaustralian.com.au"
  ],
- "blocked_checked_at": "2026-09-15T08:02:41+00:00"
+ "blocked_checked_at": "2026-09-25T09:38:56+00:00"
 }
