@@ -3,48 +3,48 @@
   "key": "abcus",
   "name": "ABC News (US)",
   "site": "abcnews.go.com",
-  "summary": "ABC News in the United States, the network's national and world file is leading with Trump, House Speaker Johnson expected to meet with tech CEOs on AI next week: Sources; LIVE: ABC News Live; 'Like a horror movie': Ukraine's Oleshky faces 'catastrophe' under Russian occupation.",
+  "summary": "ABC News in the United States, the network's national and world file is leading with Trump says his super PAC will now pay for controversial taxpayer-funded promo ads; Trump suggests Iran could 'take out' Los Angeles and San Diego; Jim Bakker, who built ‘PTL Club’ televangelism empire, has died at 86.",
   "note": null,
   "items": [
    {
-    "headline": "Trump, House Speaker Johnson expected to meet with tech CEOs on AI next week: Sources",
-    "detail": "The meeting comes as the leaders of some AI companies have issued warnings.",
-    "url": "https://abcnews.go.com/Politics/trump-house-speaker-johnson-expected-meet-tech-ceos/story?id=136742304",
+    "headline": "Trump says his super PAC will now pay for controversial taxpayer-funded promo ads",
+    "detail": "Trump says that he will no longer use taxpayer funds to pay for a pro-Trump ad blitz ahead of the midterm elections, saying his super PAC will now pay for them.",
+    "url": "https://abcnews.go.com/Politics/trump-super-pac-pay-controversial-promotional-ad-campaign/story?id=137019187",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-09-24T23:04:28-04:00",
-    "fetched": "2026-09-25T09:38:45+00:00"
+    "published": "2026-10-05T23:49:25-04:00",
+    "fetched": "2026-10-06T11:20:41+00:00"
    },
    {
-    "headline": "LIVE: ABC News Live",
-    "detail": "24/7 coverage of breaking news and live events",
-    "url": "https://abcnews.go.com/video/41463246/",
+    "headline": "Trump suggests Iran could 'take out' Los Angeles and San Diego",
+    "detail": "President Donald Trump suggested Monday during a political rally in Nebraska that Iran could “take out” Los Angeles and San Diego, comments that drew condemnation.",
+    "url": "https://abcnews.go.com/Politics/trump-suggests-iran-los-angeles-san-diego/story?id=137024894",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-09-24T10:34:45-04:00",
-    "fetched": "2026-09-25T09:38:45+00:00"
+    "published": "2026-10-06T06:54:10-04:00",
+    "fetched": "2026-10-06T11:20:41+00:00"
    },
    {
-    "headline": "'Like a horror movie': Ukraine's Oleshky faces 'catastrophe' under Russian occupation",
-    "detail": "Messages sent by residents in Oleshky and seen by ABC News tell of careful rationing of remaining food supplies, a chronic shortage of medication and constant attacks.",
-    "url": "https://abcnews.go.com/International/horror-movie-ukraines-oleshky-faces-catastrophe-russian-occupation/story?id=136685568",
+    "headline": "Jim Bakker, who built ‘PTL Club’ televangelism empire, has died at 86",
+    "detail": "Jim Bakker, who along with his first-wife Tammy Faye built an evangelical empire around the hugely successful “The PTL Club” TV show, only to lose it all over a sex scandal and financial crimes, has died",
+    "url": "https://abcnews.go.com/US/wireStory/jim-bakker-built-ptl-club-televangelism-empire-died-137024206",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-09-25T05:12:02-04:00",
-    "fetched": "2026-09-25T09:38:45+00:00"
+    "published": "2026-10-06T06:12:50-04:00",
+    "fetched": "2026-10-06T11:20:41+00:00"
    },
    {
-    "headline": "Dolly Parton's final vocal recording to appear on U2's new album 'Carnaval de Luz'",
-    "detail": "Dolly Parton's last recording of her career will appear on U2's new album.",
-    "url": "https://abcnews.go.com/GMA/Culture/dolly-partons-final-vocal-recording-u2s-new-album/story?id=136731828",
+    "headline": "WATCH: Finding new homes for rescued beagles",
+    "detail": "ABC News' Danny New takes a closer look at Paws of War, a nonprofit that helps adopt out dogs to active military members, veterans, first responders and more.",
+    "url": "https://abcnews.go.com/video/137026492/",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-09-24T16:48:13-04:00",
-    "fetched": "2026-09-25T09:38:45+00:00"
+    "published": "2026-10-06T06:09:26-04:00",
+    "fetched": "2026-10-06T11:20:41+00:00"
    },
    {
-    "headline": "WATCH: 13-year-old pursuing master's degree at NYU",
-    "detail": "Joe Petraro-Hyppolite has an IQ of 168 and is one of the youngest people ever accepted into an NYU master's program.",
-    "url": "https://abcnews.go.com/video/136733115/",
+    "headline": "WATCH: 'Avengers: Endgame' becomes highest-grossing film ever, again",
+    "detail": "Sophie Flay shares the buzziest stories of the day in \"GMA\" Pop News.",
+    "url": "https://abcnews.go.com/video/137007910/",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-09-24T19:27:32-04:00",
-    "fetched": "2026-09-25T09:38:45+00:00"
+    "published": "2026-10-05T12:57:34-04:00",
+    "fetched": "2026-10-06T11:20:41+00:00"
    }
   ]
  }

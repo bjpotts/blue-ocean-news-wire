@@ -3,167 +3,177 @@
   {
    "key": "anz",
    "name": "ANZ",
-   "summary": "ANZ equity capital markets activity captured this run runs to 3 items, led by Gold Digger: Meeka grits teeth with $40m placement to fund WA gold ramp-up. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources. No newer capital markets item has been reported for ANZ since the last edition, so the same verified item(s) are carried forward.",
+   "summary": "ANZ equity capital markets activity captured this run runs to 3 items, led by Resources Top 5: Normandy rises after ASX debut as Gateway defines two large-scale gold targets. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources. No newer capital markets item has been reported for ANZ since the last edition, so the same verified item(s) are carried forward.",
    "fresh_count": 0,
    "items": [
     {
-     "headline": "Gold Digger: Meeka grits teeth with $40m placement to fund WA gold ramp-up",
-     "detail": "Meeka Metals has headed to the market for a $40 million top-up, chasing funds to ramp up its Murchison gold ... Read More",
-     "url": "https://stockhead.com.au/resources/gold-digger-meeka-grits-teeth-with-40m-placement-to-fund-wa-gold-ramp-up/",
+     "headline": "Resources Top 5: Normandy rises after ASX debut as Gateway defines two large-scale gold targets",
+     "detail": "Normandy launches maiden gold drilling at Halleys after its ASX debut, as Gateway defines two large-scale gold anomalies at Glenburgh ... Read More",
+     "url": "https://stockhead.com.au/resources/resources-top-5-normandy-rises-after-asx-debut-as-gateway-defines-two-large-scale-gold-targets/",
      "outlet": "Stockhead",
      "source_url": "https://stockhead.com.au/feed/",
-     "published": "2026-09-25T07:15:16+00:00",
-     "fetched": "2026-09-25T09:35:58+00:00"
+     "published": "2026-10-06T06:06:12+00:00",
+     "fetched": "2026-10-06T11:18:03+00:00"
     },
     {
-     "headline": "Firmus floats eye-watering profit margins ahead of IPO",
-     "detail": "One of the largest IPOs on record will soon hit the ASX. Long awaited details on revenue and profit margins ... Read More",
-     "url": "https://stockhead.com.au/tech/firmus-floats-eye-watering-profit-margins-ahead-of-ipo/",
+     "headline": "Jacaranda lines up $8m-$10m ASX float for Botswana and Queensland exploration",
+     "detail": "Jacaranda Natural Resources is preparing for an $8m-$10m ASX debut, targeting gold and copper discoveries across Botswana and Queensland. ... Read More",
+     "url": "https://stockhead.com.au/resources/jacaranda-lines-up-8m-10m-asx-float-for-botswana-and-queensland-exploration/",
      "outlet": "Stockhead",
      "source_url": "https://stockhead.com.au/feed/",
-     "published": "2026-09-25T05:31:08+00:00",
-     "fetched": "2026-09-25T09:35:58+00:00"
+     "published": "2026-10-05T19:50:38+00:00",
+     "fetched": "2026-10-06T11:18:03+00:00"
     },
     {
-     "headline": "Ex-Westpac banker raises $2m for AI debt collection start-up",
-     "detail": "An AI that mimics an Australian accent is now doing the debt collecting job humans refused to take, backed by ... Read More",
-     "url": "https://stockhead.com.au/tech/ex-westpac-banker-raises-2m-for-ai-debt-collection-start-up/",
+     "headline": "Inspired by a legend, Parbo Resources hunts gold in WA’s Murchison",
+     "detail": "Gold IPO Parbo Resources has enjoyed a good start to life on the ASX, chasing discoveries in WA's Mid West ... Read More",
+     "url": "https://stockhead.com.au/resources/inspired-by-a-legend-parbo-resources-hunts-gold-in-was-murchison/",
      "outlet": "Stockhead",
      "source_url": "https://stockhead.com.au/feed/",
-     "published": "2026-09-24T05:27:35+00:00",
-     "fetched": "2026-09-25T09:35:58+00:00"
+     "published": "2026-10-04T19:00:46+00:00",
+     "fetched": "2026-10-06T11:18:03+00:00"
     }
    ]
   },
   {
    "key": "asia",
    "name": "Asia (Japan/Singapore/Hong Kong/China)",
-   "summary": "Asia (Japan/Singapore/Hong Kong/China) equity capital markets activity captured this run runs to 4 items, led by China’s industrial strengths must also benefit its trading partners. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
-   "fresh_count": 2,
+   "summary": "Asia (Japan/Singapore/Hong Kong/China) equity capital markets activity captured this run runs to 4 items, led by China’s Transsion, Africa’s top phone maker, targets US$500 million Hong Kong listing. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "fresh_count": 4,
    "items": [
     {
-     "headline": "China’s industrial strengths must also benefit its trading partners",
-     "detail": "The European Commission is pressing China for progress by next month to address the widening EU-China trade imbalance, and raising the possibility of new protectionist trade policy.",
-     "url": "https://www.scmp.com/opinion/china-opinion/article/3368293/chinas-industrial-strengths-must-also-benefit-its-trading-partners?utm_source=rss_feed",
-     "outlet": "South China Morning Post",
-     "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-09-24T21:30:12+00:00",
-     "fetched": "2026-09-25T09:37:27+00:00"
-    },
-    {
-     "headline": "US cybersecurity agency releases election infrastructure plan before midterms",
-     "detail": "The US’ cybersecurity agency on Thursday released an election infrastructure security plan 40 days before November’s midterms, laying out potential threats to election systems and listing services it would offer to election officials to…",
-     "url": "https://www.scmp.com/news/world/united-states-canada/article/3368719/us-cybersecurity-agency-releases-election-infrastructure-plan-40-days-midterms?utm_source=rss_feed",
-     "outlet": "South China Morning Post",
-     "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-09-24T18:39:04+00:00",
-     "fetched": "2026-09-25T09:37:27+00:00"
-    },
-    {
-     "headline": "China’s humanoid robot IPO slowdown no threat to firms with ‘genuine strength’: Deloitte",
-     "detail": "Beijing’s recent tightening of approvals for humanoid robot makers seeking initial public offerings (IPOs) poses no threat to companies with clear commercialisation strategies, as funding channels remain wide open for qualified players,…",
-     "url": "https://www.scmp.com/business/markets/article/3368647/chinas-humanoid-robot-ipo-slowdown-no-threat-firms-genuine-strength-deloitte?utm_source=rss_feed",
+     "headline": "China’s Transsion, Africa’s top phone maker, targets US$500 million Hong Kong listing",
+     "detail": "Shenzhen Transsion Holdings, the maker of Africa’s bestselling phones, aims to kick off its Hong Kong share offering on Wednesday to raise up to US$500 million ahead of a targeted October 15 listing, according to people familiar with the…",
+     "url": "https://www.scmp.com/business/companies/article/3369908/chinas-transsion-africas-top-phone-maker-targets-us500-million-hong-kong-listing?utm_source=rss_feed",
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
-     "published": "2026-09-24T09:08:50+00:00",
-     "fetched": "2026-09-25T09:37:26+00:00"
+     "published": "2026-10-06T08:28:07+00:00",
+     "fetched": "2026-10-06T11:19:24+00:00"
     },
     {
-     "headline": "1,700% share surge for Chinese state-owned compressor maker exposes risks of new listings",
-     "detail": "A more than 1,700 per cent share-price surge by a new listing on the Shanghai Stock Exchange last week put a spotlight on a state-owned industrial compressor manufacturer, leading the bourse operator to intervene to curb speculative…",
-     "url": "https://www.scmp.com/business/china-business/article/3368595/1700-share-surge-chinese-state-owned-compressor-maker-exposes-risks-new-listings?utm_source=rss_feed",
+     "headline": "Hong Kong IPOs falter, China aids homebuyers, EU trade talks",
+     "detail": "Hong Kong stock debuts are losing steam as a deluge of initial public offerings (IPOs) overwhelms investor appetite.",
+     "url": "https://www.scmp.com/plus/business/banking-finance/article/3369567/hong-kong-ipos-falter-china-aids-homebuyers-eu-trade-talks?utm_source=rss_feed",
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
-     "published": "2026-09-24T04:02:26+00:00",
-     "fetched": "2026-09-25T09:37:26+00:00"
+     "published": "2026-10-02T09:05:40+00:00",
+     "fetched": "2026-10-06T11:19:24+00:00"
+    },
+    {
+     "headline": "Hong Kong’s IPO haul in first 9 months smashes record despite Nasdaq’s fundraising lead",
+     "detail": "Funds raised through Hong Kong initial public offerings (IPOs) doubled in the first nine months of 2026, reaching the highest level for the period since records began in 1980.",
+     "url": "https://www.scmp.com/business/banking-finance/article/3369316/hong-kongs-ipo-haul-first-9-months-smashes-record-despite-nasdaqs-fundraising-lead?utm_source=rss_feed",
+     "outlet": "South China Morning Post",
+     "source_url": "https://www.scmp.com/rss/92/feed",
+     "published": "2026-09-30T08:00:27+00:00",
+     "fetched": "2026-10-06T11:19:24+00:00"
+    },
+    {
+     "headline": "Mainland China’s PCB giant wins Hong Kong approval for planned US$3b listing: sources",
+     "detail": "Mainland China-based printed circuit board (PCB) maker Suzhou Dongshan Precision Manufacturing has cleared its final listing hurdle in Hong Kong and is moving towards a share sale that may rank among the city’s largest initial public…",
+     "url": "https://www.scmp.com/business/banking-finance/article/3369299/mainland-chinas-pcb-giant-wins-hong-kong-approval-planned-us3b-listing-sources?utm_source=rss_feed",
+     "outlet": "South China Morning Post",
+     "source_url": "https://www.scmp.com/rss/92/feed",
+     "published": "2026-09-30T07:00:08+00:00",
+     "fetched": "2026-10-06T11:19:24+00:00"
     }
    ]
   },
   {
    "key": "us",
    "name": "US",
-   "summary": "US equity capital markets activity captured this run runs to 4 items, led by The IPO Buzz: ADARx Pharmaceuticals Upsizes IPO & Prices it at $17 – High End. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
-   "fresh_count": 4,
+   "summary": "US equity capital markets activity captured this run runs to 4 items, led by Australia says more hikes not off the table after raising rates to 15-year high. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "fresh_count": 1,
    "items": [
     {
-     "headline": "The IPO Buzz: ADARx Pharmaceuticals Upsizes IPO & Prices it at $17 – High End",
-     "detail": "ADARx Pharmaceuticals (ADRX) upsized its IPO at pricing to 26.25 million shares – up from 21.88 million shares in the prospectus – and priced the IPO at $17.00 – the high end of its $15.00-to-$17.00 range – to raise $446.25 million on…",
-     "url": "https://www.iposcoop.com/the-ipo-buzz-adarx-pharmaceuticals-upsizes-ipo-prices-it-at-17-high-end/",
-     "outlet": "IPOScoop",
-     "source_url": "https://www.iposcoop.com/feed/",
-     "published": "2026-09-25T00:17:55+00:00",
-     "fetched": "2026-09-25T09:37:28+00:00"
+     "headline": "Australia says more hikes not off the table after raising rates to 15-year high",
+     "detail": "The hike of 25 basis points was in line with expectations by economists polled by Reuters.",
+     "url": "https://www.cnbc.com/2026/09/29/australia-rates-inflation-monetary-policy.html",
+     "outlet": "CNBC Markets",
+     "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258",
+     "published": "2026-09-29T05:00:58+00:00",
+     "fetched": "2026-10-06T11:19:28+00:00"
     },
     {
-     "headline": "The IPO Buzz: Accelevation (ACCV Proposed) Sets Terms for $660 Million IPO",
-     "detail": "Accelevation Holdings (ACCV Proposed) outlined the terms today for its $660 million IPO: 30 million shares at a price range of $20.00 to $24.00 to raise $660 million, if priced at the $22.00 mid-point of its range.",
-     "url": "https://www.iposcoop.com/the-ipo-buzz-accelevation-accv-proposed-sets-terms-for-660-million-ipo/",
+     "headline": "The IPO Buzz: TRex Bio (TRXB Proposed) Sets Terms for $125 Million IPO",
+     "detail": "TRex Bio (TRXB Proposed), an Eli Lilly-backed biotech, unveiled the terms for its $125 million IPO early today: 8.33 million shares at a price range of $14.00 to $16.00 to raise $124.95 million, if priced at the $15.00 mid-point of its…",
+     "url": "https://www.iposcoop.com/the-ipo-buzz-trexbio-trxb-proposed-sets-terms-for-125-million-ipo/",
      "outlet": "IPOScoop",
      "source_url": "https://www.iposcoop.com/feed/",
-     "published": "2026-09-22T11:13:06+00:00",
-     "fetched": "2026-09-25T09:37:28+00:00"
+     "published": "2026-10-05T11:22:05+00:00",
+     "fetched": "2026-10-06T11:19:26+00:00"
     },
     {
-     "headline": "The IPO Buzz: Anthropic IPO May Come in November – The NYT Reports",
-     "detail": "Anthropic is on track to launch its highly anticipated IPO – most likely in November, according to a story posted online by The New York Times late this afternoon (Friday, Sept. 18, 2026).",
-     "url": "https://www.iposcoop.com/the-ipo-buzz-anthropic-ipo-may-come-in-november-the-nyt-reports/",
+     "headline": "The IPO Buzz: Accelevation (ACCV) Prices IPO at $18 – $2 Below Range – & Stock Dips",
+     "detail": "Accelevation Holdings (ACCV) priced its IPO at $18.00 – $2.00 below range – and sold 30 million shares – the number of shares in the prospectus – to raise $540 million on Tuesday night, Sept. 29, 2026.",
+     "url": "https://www.iposcoop.com/the-ipo-buzz-accelevation-accv-proposed-prices-ipo-at-18-2-below-range/",
      "outlet": "IPOScoop",
      "source_url": "https://www.iposcoop.com/feed/",
-     "published": "2026-09-18T23:53:19+00:00",
-     "fetched": "2026-09-25T09:37:28+00:00"
+     "published": "2026-09-29T23:27:54+00:00",
+     "fetched": "2026-10-06T11:19:26+00:00"
     },
     {
-     "headline": "The IPO Buzz: Electra Therapeutics (ETRA) Upsizes IPO & Prices it at $15 Mid-Point",
-     "detail": "Electra Therapeutics (ETRA) upsized its IPO at pricing to 23.33 million shares – up from 21.67 million shares in the prospectus – and priced the IPO at $15.00 – the mid-point of its $14.00-to-$16.00 range – to raise $349.95 million on…",
-     "url": "https://www.iposcoop.com/the-ipo-buzz-electra-therapeutics-etra-upsizes-ipo-prices-it-at-15-mid-point/",
+     "headline": "The IPO Buzz: Oura Postpones IPO Due to Market Conditions",
+     "detail": "Oura (OURA Proposed), the maker of the Oura Ring, the world’s smallest smart ring, postponed its $2.1 billion IPO “despite strong demand, due to uncertainty in the IPO market,” the company said early today (Tuesday, Sept. 29, 2026).",
+     "url": "https://www.iposcoop.com/the-ipo-buzz-oura-postpones-ipo-due-to-market-conditions/",
      "outlet": "IPOScoop",
      "source_url": "https://www.iposcoop.com/feed/",
-     "published": "2026-09-18T01:10:42+00:00",
-     "fetched": "2026-09-25T09:37:28+00:00"
+     "published": "2026-09-29T11:35:47+00:00",
+     "fetched": "2026-10-06T11:19:26+00:00"
     }
    ]
   },
   {
    "key": "uk",
    "name": "UK",
-   "summary": "UK equity capital markets activity captured this run runs to 3 items, led by Airtel Money confirms plans for multi-billion London IPO. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources. No newer capital markets item has been reported for UK since the last edition, so the same verified item(s) are carried forward.",
-   "fresh_count": 0,
+   "summary": "UK equity capital markets activity captured this run runs to 3 items, led by Zilch leaning towards London IPO as UK fintech calls in bankers. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "fresh_count": 1,
    "items": [
     {
-     "headline": "Airtel Money confirms plans for multi-billion London IPO",
-     "detail": "Airtel Money has confirmed plans for a London IPO in what would mark one of the London Stock Exchange’s biggest flotations in years.",
-     "url": "https://www.cityam.com/airtel-money-confirms-plans-for-multi-billion-london-ipo/",
+     "headline": "Zilch leaning towards London IPO as UK fintech calls in bankers",
+     "detail": "UK fintech Zilch is leaning towards a public debut on the London Stock Exchange as it kickstarts plans for a potential $2bn listing as soon as next year.",
+     "url": "https://www.cityam.com/zilch-leaning-towards-london-ipo-as-uk-fintech-calls-in-bankers/",
      "outlet": "City A.M.",
      "source_url": "https://www.cityam.com/category/markets/feed/",
-     "published": "2026-09-23T06:23:58+00:00",
-     "fetched": "2026-09-25T09:37:33+00:00"
+     "published": "2026-09-30T12:42:01+00:00",
+     "fetched": "2026-10-06T11:19:31+00:00"
     },
     {
-     "headline": "As it happened: Ineos suspends huge chemicals plants in Hull, RAC IPO breakdown",
-     "detail": "Good morning from the City desk at City AM. Follow along here for all our coverage of the latest London Stock Exchange updates along with UK business news and analysis of the key trends shaping investor sentiment.",
-     "url": "https://www.cityam.com/ftse-100-live-bq-owner-kingfisher-results-public-sector-net-borrowing/",
-     "outlet": "City A.M.",
-     "source_url": "https://www.cityam.com/category/markets/feed/",
-     "published": "2026-09-22T05:45:00+00:00",
-     "fetched": "2026-09-25T09:37:33+00:00"
-    },
-    {
-     "headline": "Will Airtel Money kickstart London’s IPO pipeline?",
-     "detail": "London’s sluggish IPO market showed signs of a rebound on Wednesday as Airtel Money confirmed plans for a bumper listing – now the City is hoping it will get the domestic pipeline moving, writes Charlie Conchie.",
-     "url": "https://www.cityam.com/will-airtel-money-kickstart-londons-ipo-pipeline/",
+     "headline": "Since SpaceX’s debut, hopes of a blockbuster IPO season have ground to a halt",
+     "detail": "It was hoped SpaceX’s blockbuster June flotation would add rocket boosters to the global IPO market. But four months on, momentum has come crashing back down to earth.",
+     "url": "https://www.cityam.com/since-spacexs-debut-hopes-of-a-blockbuster-ipo-season-have-ground-to-a-halt/",
      "outlet": "City A.M.",
      "source_url": "https://www.cityam.com/feed/",
-     "published": "2026-09-24T09:42:19+00:00",
-     "fetched": "2026-09-25T09:37:37+00:00"
+     "published": "2026-10-05T23:01:00+00:00",
+     "fetched": "2026-10-06T11:19:37+00:00"
+    },
+    {
+     "headline": "NHS may not be able to replace Palantir before £330m deal deadline",
+     "detail": "The NHS may not be able to replace Palantir before a crunch deadline on its £330m data contract, raising the stakes for ministers as pressure mounts to cut ties with the US tech giant.",
+     "url": "https://www.cityam.com/nhs-may-not-be-able-to-replace-palantir-before-330m-deal-deadline/",
+     "outlet": "City A.M.",
+     "source_url": "https://www.cityam.com/feed/",
+     "published": "2026-10-05T15:47:46+00:00",
+     "fetched": "2026-10-06T11:19:37+00:00"
     }
    ]
   },
   {
    "key": "europe",
    "name": "Europe",
-   "summary": "No capital raising or new listing activity could be verified from a linked source for Europe this run, so nothing is listed rather than publishing an item without a working URL.",
-   "fresh_count": 0,
-   "items": []
+   "summary": "A single verifiable equity capital markets item was found for Europe this run: Moonshot Said to Eye Early 2027 IPO After Value Hits $50 Billion.",
+   "fresh_count": 1,
+   "items": [
+    {
+     "headline": "Moonshot Said to Eye Early 2027 IPO After Value Hits $50 Billion",
+     "detail": "Moonshot AI has closed the final round of private fundraising at a valuation of about $50 billion and is heading toward an initial public offering in Hong Kong in the first quarter of next year, according to people familiar with the matter.",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-06/moonshot-said-to-eye-early-2027-ipo-after-value-hits-50-billion",
+     "outlet": "Bloomberg",
+     "source_url": "https://feeds.bloomberg.com/markets/news.rss",
+     "published": "2026-10-06T02:32:25+00:00",
+     "fetched": "2026-10-06T11:19:38+00:00"
+    }
+   ]
   },
   {
    "key": "rest",

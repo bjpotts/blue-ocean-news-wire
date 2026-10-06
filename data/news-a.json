@@ -4,48 +4,48 @@
    "key": "abc",
    "name": "ABC News Australia",
    "site": "abc.net.au/news",
-   "summary": "The ABC's Australian and international news file is leading with 'Makeshift' treatment areas and long waits reported at major Adelaide hospital ED; Man dies after fall at Hanging Rock summit; Police lay 115 additional charges on Sydney alleged childcare abuser.",
+   "summary": "The ABC's Australian and international news file is leading with Nobel Prize in Physics honours work on 'ghost messengers from space'; Nickel miner fined $810k over boilermaker's spinal injury; Veteran news anchor Richard Morecroft dies, aged 70.",
    "note": null,
    "items": [
     {
-     "headline": "'Makeshift' treatment areas and long waits reported at major Adelaide hospital ED",
-     "detail": "'Makeshift' treatment areas and long waits reported at major Adelaide hospital ED",
-     "url": "https://www.abc.net.au/news/2026-09-25/long-waits-reported-at-lyell-mcewin-emergency-department/107196600",
+     "headline": "Nobel Prize in Physics honours work on 'ghost messengers from space'",
+     "detail": "Nobel Prize in Physics honours work on 'ghost messengers from space'",
+     "url": "https://www.abc.net.au/news/2026-10-06/francis-halzen-wins-2026-nobel-prize-in-physics/107236382",
      "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
-     "published": "2026-09-25T09:27:33+00:00",
-     "fetched": "2026-09-25T09:38:40+00:00"
+     "published": "2026-10-06T11:07:55+00:00",
+     "fetched": "2026-10-06T11:20:36+00:00"
     },
     {
-     "headline": "Man dies after fall at Hanging Rock summit",
-     "detail": "Man dies after fall at Hanging Rock summit",
-     "url": "https://www.abc.net.au/news/2026-09-25/man-dies-hanging-rock-fall-climbing-at-summit/107198064",
+     "headline": "Nickel miner fined $810k over boilermaker's spinal injury",
+     "detail": "Nickel miner fined $810k over boilermaker's spinal injury",
+     "url": "https://www.abc.net.au/news/2026-10-06/first-quantum-fined-810k-workplace-spinal-injury-ravensthorpe/107236144",
      "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
-     "published": "2026-09-25T09:24:41+00:00",
-     "fetched": "2026-09-25T09:38:40+00:00"
+     "published": "2026-10-06T10:35:26+00:00",
+     "fetched": "2026-10-06T11:20:36+00:00"
     },
     {
-     "headline": "Police lay 115 additional charges on Sydney alleged childcare abuser",
-     "detail": "Police lay 115 additional charges on Sydney alleged childcare abuser",
-     "url": "https://www.abc.net.au/news/2026-09-25/childcare-worker-hamish-tait-more-charges-alleged-child-abuse/107197998",
+     "headline": "Veteran news anchor Richard Morecroft dies, aged 70",
+     "detail": "Veteran news anchor Richard Morecroft dies, aged 70",
+     "url": "https://www.abc.net.au/news/2026-10-06/veteran-news-anchor-richard-morecroft-dies/107236404",
      "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
-     "published": "2026-09-25T09:12:08+00:00",
-     "fetched": "2026-09-25T09:38:40+00:00"
+     "published": "2026-10-06T10:04:21+00:00",
+     "fetched": "2026-10-06T11:20:36+00:00"
     },
     {
-     "headline": "Live: Brazil fans descend on Townsville ahead of Socceroos clash",
-     "detail": "Live: Brazil fans descend on Townsville ahead of Socceroos clash",
-     "url": "https://www.abc.net.au/news/2026-09-25/socceroos-vs-brazil-live-updates-townsville/107197542",
+     "headline": "Hundreds protest against Australia's largest defence expo in Perth",
+     "detail": "Hundreds protest against Australia's largest defence expo in Perth",
+     "url": "https://www.abc.net.au/news/2026-10-06/hundreds-protest-against-land-forces-defence-expo/107223822",
      "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
-     "published": "2026-09-25T08:36:13+00:00",
-     "fetched": "2026-09-25T09:38:40+00:00"
+     "published": "2026-10-06T09:56:45+00:00",
+     "fetched": "2026-10-06T11:20:36+00:00"
     },
     {
-     "headline": "Live: Walker confirmed to start for Roosters in NRL prelim final",
-     "detail": "Live: Walker confirmed to start for Roosters in NRL prelim final",
-     "url": "https://www.abc.net.au/news/2026-09-25/nrl-live-updates-finals-prelim-dolphins-roosters/107197462",
+     "headline": "One Nation AI-generated video sparks cafe owner row with Lee Hanson",
+     "detail": "One Nation AI-generated video sparks cafe owner row with Lee Hanson",
+     "url": "https://www.abc.net.au/news/2026-10-06/one-nation-ai-generated-video-sparks-hanson-row/107236300",
      "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
-     "published": "2026-09-25T08:28:50+00:00",
-     "fetched": "2026-09-25T09:38:40+00:00"
+     "published": "2026-10-06T09:35:00+00:00",
+     "fetched": "2026-10-06T11:20:36+00:00"
     }
    ]
   },
@@ -53,48 +53,48 @@
    "key": "sbs",
    "name": "SBS News Australia",
    "site": "sbs.com.au/news",
-   "summary": "SBS News, covering Australian affairs with a strong multicultural and world focus is leading with Why Victoria may be millions of dollars better off with this AFL Grand Final match-up; Italy bans burqas in schools, caps numbers of foreign students per class; Qazwan hasn't seen his family in 16 years. He fears he may not get another chance.",
+   "summary": "SBS News, covering Australian affairs with a strong multicultural and world focus is leading with Why the world's powers are converging on this remote corner of the globe; Coalition's 'biggest' ever migration slashing has three major issues, critic says; Comedian Judith Lucy announces cancer diagnosis: 'I'll be keeping you abreast'.",
    "note": null,
    "items": [
     {
-     "headline": "Why Victoria may be millions of dollars better off with this AFL Grand Final match-up",
-     "detail": "Interstate AFL fans are bringing millions into Victoria, but one expert says the headline boost may overstate the gain.",
-     "url": "https://www.sbs.com.au/news/article/why-victoria-may-be-millions-of-dollars-better-off-with-this-grand-final-match-up/t3uwordv3",
+     "headline": "Why the world's powers are converging on this remote corner of the globe",
+     "detail": "The Arctic is becoming the latest international battleground as a warming climate makes the previously impossible possible.",
+     "url": "https://www.sbs.com.au/news/article/arctic-politics-us-russia-china-trump-putin-xi-climate-conflict/btf48qamc",
      "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
-     "published": "2026-09-25T08:11:04+00:00",
-     "fetched": "2026-09-25T09:38:41+00:00"
+     "published": "2026-10-06T08:04:32+00:00",
+     "fetched": "2026-10-06T11:20:36+00:00"
     },
     {
-     "headline": "Italy bans burqas in schools, caps numbers of foreign students per class",
-     "detail": "Opponents said the move was designed to counter the growing appeal of a rival far-right party ahead of elections due next year.",
-     "url": "https://www.sbs.com.au/news/article/italy-bans-burqas-in-schools-caps-foreign-students/7qr8g33rv",
+     "headline": "Coalition's 'biggest' ever migration slashing has three major issues, critic says",
+     "detail": "The Coalition plans to reduce migration by over 100,000 people by focusing on \"high-value\" migrants.",
+     "url": "https://www.sbs.com.au/news/article/coalition-migration-policy-would-halve-humanitarian-visas-slash-arrivals-by-100-000/tuyiygc0q",
      "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
-     "published": "2026-09-25T06:04:06+00:00",
-     "fetched": "2026-09-25T09:38:41+00:00"
+     "published": "2026-10-06T06:49:21+00:00",
+     "fetched": "2026-10-06T11:20:36+00:00"
     },
     {
-     "headline": "Qazwan hasn't seen his family in 16 years. He fears he may not get another chance",
-     "detail": "One Yemeni Australian worries his family in Yemen can't access food, clean water and medicine — he doesn't know if they'll survive.",
-     "url": "https://www.sbs.com.au/news/article/qazwan-hasnt-seen-his-family-in-16-years-he-fears-he-may-not-get-another-chance/k9jnsoguj",
+     "headline": "Comedian Judith Lucy announces cancer diagnosis: 'I'll be keeping you abreast'",
+     "detail": "The Australian comedian said she was still \"in shock\" but expected to be okay.",
+     "url": "https://www.sbs.com.au/news/article/judith-lucy-breast-cancer-diagnosis/u1u6lvevw",
      "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
-     "published": "2026-09-25T05:44:59+00:00",
-     "fetched": "2026-09-25T09:38:41+00:00"
+     "published": "2026-10-06T04:30:43+00:00",
+     "fetched": "2026-10-06T11:20:36+00:00"
     },
     {
-     "headline": "Israeli footballer Saied Abu Farchi sent off after gun gesture goal celebration",
-     "detail": "Abu Farchi had been given a yellow card only minutes before heading home a goal and rushing to the corner flag.",
-     "url": "https://www.sbs.com.au/news/article/israeli-footballer-saied-abu-farchi-sent-off-after-gun-gesture-goal-celebration/isbyui6wq",
+     "headline": "The two-metre question that could wipe out a population",
+     "detail": "Much of the small Pacific nation of Tuvalu will sit below the average high-tide mark by 2050, according to NASA projections.",
+     "url": "https://www.sbs.com.au/news/article/the-two-metre-question-that-could-wipe-out-a-population/dx62hwre3",
      "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
-     "published": "2026-09-25T02:28:14+00:00",
-     "fetched": "2026-09-25T09:38:41+00:00"
+     "published": "2026-10-06T00:30:06+00:00",
+     "fetched": "2026-10-06T11:20:36+00:00"
     },
     {
-     "headline": "'Not a coincidence': Opposition questions timing of Albanese's OpenAI hack reveal",
-     "detail": "The government is calling for OpenAI to be held accountable after an agent gained unauthorised access to the Medicare statistics portal.",
-     "url": "https://www.sbs.com.au/news/article/not-a-coincidence-opposition-questions-timing-of-albaneses-openai-hack-reveal/sjlafz053",
+     "headline": "UK author, former Conservative MP Jeffrey Archer dies at 86",
+     "detail": "Archer had been promoting his latest and reportedly final book up until days before his death.",
+     "url": "https://www.sbs.com.au/news/article/uk-author-former-conservative-mp-jeffrey-archer-dies-at-86/orst5ldc9",
      "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
-     "published": "2026-09-25T00:51:44+00:00",
-     "fetched": "2026-09-25T09:38:41+00:00"
+     "published": "2026-10-06T00:16:24+00:00",
+     "fetched": "2026-10-06T11:20:36+00:00"
     }
    ]
   },
@@ -102,48 +102,48 @@
    "key": "rnz",
    "name": "RNZ New Zealand",
    "site": "rnz.co.nz",
-   "summary": "Radio New Zealand's national news file is leading with Victim of Te Awamutu train incident was a young person; Marmite smears, live locusts to celebrate Orana Wildlife Park's 50th birthday; Two people seriously burned, one in custody, after family harm incident in Northland’s Whangārei.",
+   "summary": "Radio New Zealand's national news file is leading with Firefighters battling large vegetation fire in Queenstown stand down for night; Auckland Council accepts Milldale North rezoning request, moves to deal with unplanned growth; Regional deal formalised for Otago Central Lakes.",
    "note": null,
    "items": [
     {
-     "headline": "Victim of Te Awamutu train incident was a young person",
-     "detail": "Victim of Te Awamutu train incident was a young person",
-     "url": "https://www.rnz.co.nz/news/emergencies_local/1575992/victim-of-te-awamutu-train-incident-was-a-young-person",
+     "headline": "Firefighters battling large vegetation fire in Queenstown stand down for night",
+     "detail": "Firefighters battling large vegetation fire in Queenstown stand down for night",
+     "url": "https://www.rnz.co.nz/news/emergencies_local/1758895/firefighters-battling-large-vegetation-fire-in-queenstown-stand-down-for-night",
      "source_url": "https://www.rnz.co.nz/rss/national.xml",
-     "published": "2026-09-25T20:36:00+12:00",
-     "fetched": "2026-09-25T09:38:41+00:00"
+     "published": "2026-10-06T20:50:38+13:00",
+     "fetched": "2026-10-06T11:20:37+00:00"
     },
     {
-     "headline": "Marmite smears, live locusts to celebrate Orana Wildlife Park's 50th birthday",
-     "detail": "Marmite smears, live locusts to celebrate Orana Wildlife Park's 50th birthday",
-     "url": "https://www.rnz.co.nz/news/environment/1574525/marmite-smears-live-locusts-to-celebrate-orana-wildlife-park-s-50th-birthday",
+     "headline": "Auckland Council accepts Milldale North rezoning request, moves to deal with unplanned growth",
+     "detail": "Auckland Council accepts Milldale North rezoning request, moves to deal with unplanned growth",
+     "url": "https://www.rnz.co.nz/news/regional/1765512/auckland-council-accepts-milldale-north-rezoning-request-moves-to-deal-with-unplanned-growth",
      "source_url": "https://www.rnz.co.nz/rss/national.xml",
-     "published": "2026-09-25T20:22:52+12:00",
-     "fetched": "2026-09-25T09:38:41+00:00"
+     "published": "2026-10-06T19:56:53+13:00",
+     "fetched": "2026-10-06T11:20:37+00:00"
     },
     {
-     "headline": "Two people seriously burned, one in custody, after family harm incident in Northland’s Whangārei",
-     "detail": "Two people seriously burned, one in custody, after family harm incident in Northland’s Whangārei",
-     "url": "https://www.rnz.co.nz/news/emergencies_local/1575774/two-people-seriously-burned-one-in-custody-after-family-harm-incident-in-northland-s-whangarei",
+     "headline": "Regional deal formalised for Otago Central Lakes",
+     "detail": "Regional deal formalised for Otago Central Lakes",
+     "url": "https://www.rnz.co.nz/news/political/1764932/regional-deal-formalised-for-otago-central-lakes",
      "source_url": "https://www.rnz.co.nz/rss/national.xml",
-     "published": "2026-09-25T20:05:01+12:00",
-     "fetched": "2026-09-25T09:38:41+00:00"
+     "published": "2026-10-06T19:24:54+13:00",
+     "fetched": "2026-10-06T11:20:37+00:00"
     },
     {
-     "headline": "Shane Jones backs NZ First's controversial New Plymouth candidate selection",
-     "detail": "Shane Jones backs NZ First's controversial New Plymouth candidate selection",
-     "url": "https://www.rnz.co.nz/news/politics_election-2026/1574614/shane-jones-backs-nz-first-s-controversial-new-plymouth-candidate-selection",
+     "headline": "Advocate wants longer-term plan for medicines funding",
+     "detail": "Advocate wants longer-term plan for medicines funding",
+     "url": "https://www.rnz.co.nz/news/political/1764389/advocate-wants-longer-term-plan-for-medicines-funding",
      "source_url": "https://www.rnz.co.nz/rss/national.xml",
-     "published": "2026-09-25T19:24:20+12:00",
-     "fetched": "2026-09-25T09:38:41+00:00"
+     "published": "2026-10-06T18:55:02+13:00",
+     "fetched": "2026-10-06T11:20:37+00:00"
     },
     {
-     "headline": "Santana Minerals mining company offers $10m to protect lizards in Central Otago",
-     "detail": "Santana Minerals mining company offers $10m to protect lizards in Central Otago",
-     "url": "https://www.rnz.co.nz/news/business/1574357/santana-minerals-mining-company-offers-10m-to-protect-lizards-in-central-otago",
+     "headline": "Loafers Lodge fire trial: Director neglected his duties, prosecutor argues",
+     "detail": "Loafers Lodge fire trial: Director neglected his duties, prosecutor argues",
+     "url": "https://www.rnz.co.nz/news/crime-and-justice/1764382/loafers-lodge-fire-trial-director-neglected-his-duties-prosecutor-argues",
      "source_url": "https://www.rnz.co.nz/rss/national.xml",
-     "published": "2026-09-25T18:27:07+12:00",
-     "fetched": "2026-09-25T09:38:41+00:00"
+     "published": "2026-10-06T18:54:40+13:00",
+     "fetched": "2026-10-06T11:20:37+00:00"
     }
    ]
   },
@@ -151,48 +151,48 @@
    "key": "scmp",
    "name": "South China Morning Post",
    "site": "scmp.com",
-   "summary": "The South China Morning Post, reporting from Hong Kong across Greater China and Asia is leading with Chinese marques in driving seat as high petrol prices accelerate EU shift to electric cars; Philippines’ short-lived Discord ban exposes cracks in online safety strategy; 3 injured after explosion causes building collapse in Athens’ tourist centre.",
+   "summary": "The South China Morning Post, reporting from Hong Kong across Greater China and Asia is leading with Indonesia to take delivery of first Chinese J-10CE fighter jets in 6 months, report says; Singaporean massage parlour boss added to US ‘worst of the worst criminal aliens list’; Indonesia’s Prabowo taps Widodo’s allies as advisers amid falling approval rating.",
    "note": null,
    "items": [
     {
-     "headline": "Chinese marques in driving seat as high petrol prices accelerate EU shift to electric cars",
-     "detail": "Chinese carmakers have gained ground in Europe’s shift to electric cars, emerging as the biggest winners in plug-in hybrids despite moves by Brussels to curb their expansion.",
-     "url": "https://www.scmp.com/economy/china-economy/article/3368814/chinese-marques-driving-seat-high-petrol-prices-accelerate-eu-shift-electric-cars?utm_source=rss_feed",
+     "headline": "Indonesia to take delivery of first Chinese J-10CE fighter jets in 6 months, report says",
+     "detail": "Indonesia is expected to receive its first Chengdu J-10CE fighter jets in six months, according to an Indonesian media report, which would make it the third international operator of the Chinese-made aircraft.",
+     "url": "https://www.scmp.com/news/china/military/article/3369910/indonesia-take-delivery-first-chinese-j-10ce-fighter-jets-6-months-report-says?utm_source=rss_feed",
      "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-09-25T09:37:49+00:00",
-     "fetched": "2026-09-25T09:38:42+00:00"
+     "published": "2026-10-06T11:00:18+00:00",
+     "fetched": "2026-10-06T11:20:37+00:00"
     },
     {
-     "headline": "Philippines’ short-lived Discord ban exposes cracks in online safety strategy",
-     "detail": "The Philippines’ decision to block messaging platform Discord for less than a day following a series of school shootings has raised questions about the government’s response to child safety online, with analysts describing the move as a…",
-     "url": "https://www.scmp.com/week-asia/health-environment/article/3368812/philippines-short-lived-discord-ban-exposes-cracks-online-safety-strategy?utm_source=rss_feed",
+     "headline": "Singaporean massage parlour boss added to US ‘worst of the worst criminal aliens list’",
+     "detail": "A Singaporean woman has been added to a US list of “the worst of the worst criminal aliens,” becoming the third citizen from the city state to appear on the register, after convicted sex offender Amos Yee and money launderer Lim Seok…",
+     "url": "https://www.scmp.com/week-asia/people/article/3369934/singaporean-massage-parlour-boss-added-us-worst-worst-criminal-aliens-list?utm_source=rss_feed",
      "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-09-25T09:31:31+00:00",
-     "fetched": "2026-09-25T09:38:42+00:00"
+     "published": "2026-10-06T10:51:26+00:00",
+     "fetched": "2026-10-06T11:20:37+00:00"
     },
     {
-     "headline": "3 injured after explosion causes building collapse in Athens’ tourist centre",
-     "detail": "An explosion caused a residential building to collapse in the crowded tourist centre of Athens on Friday, injuring three people and damaging houses, shops and cars ‌across a historic neighbourhood.",
-     "url": "https://www.scmp.com/news/world/europe/article/3368808/3-injured-after-explosion-causes-building-collapse-athens-tourist-centre?utm_source=rss_feed",
+     "headline": "Indonesia’s Prabowo taps Widodo’s allies as advisers amid falling approval rating",
+     "detail": "Indonesia’s President Prabowo Subianto is seeking to keep potential rivals in his inner circle as he faces growing political pressure by appointing influential figures from across the political establishment to a presidential advisory…",
+     "url": "https://www.scmp.com/week-asia/politics/article/3369932/indonesias-prabowo-taps-widodos-allies-advisers-amid-falling-approval-rating?utm_source=rss_feed",
      "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-09-25T09:13:15+00:00",
-     "fetched": "2026-09-25T09:38:42+00:00"
+     "published": "2026-10-06T10:41:50+00:00",
+     "fetched": "2026-10-06T11:20:37+00:00"
     },
     {
-     "headline": "Xi at White House, trade-war truce extension, Golden Week travel",
-     "detail": "Chinese President Xi Jinping and US President Donald Trump discussed artificial intelligence (AI) and Taiwan at the White House on Thursday as part of a state visit dominated by pageantry.",
-     "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3368799/xi-white-house-trade-war-truce-extension-golden-week-travel?utm_source=rss_feed",
+     "headline": "Fire breaks out on rooftop of residential building in Hong Kong’s Mong Kok",
+     "detail": "Firefighters are battling a rooftop blaze at a residential building in Hong Kong’s Mong Kok, with thick black smoke billowing into the sky.",
+     "url": "https://www.scmp.com/news/hong-kong/society/article/3369931/fire-breaks-out-rooftop-residential-building-hong-kongs-mong-kok?utm_source=rss_feed",
      "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-09-25T09:00:10+00:00",
-     "fetched": "2026-09-25T09:38:42+00:00"
+     "published": "2026-10-06T10:35:24+00:00",
+     "fetched": "2026-10-06T11:20:37+00:00"
     },
     {
-     "headline": "Why is the National Archives the last stop on Xi and Trump’s summit itinerary?",
-     "detail": "Chinese President Xi Jinping’s trip to the US will conclude not at the diplomatic negotiating table, but in front of America’s founding documents.",
-     "url": "https://www.scmp.com/news/china/diplomacy/article/3368793/xi-and-trump-cap-summit-tour-through-shared-us-and-chinese-history?utm_source=rss_feed",
+     "headline": "Hong Kong’s Generation Y unhappiest amid housing and economic pressures, poll finds",
+     "detail": "Hong Kong’s Generation Y residents – those aged 30 to 45 – are the city’s unhappiest age group, largely because of dissatisfaction with economic and housing conditions, a poll has found.",
+     "url": "https://www.scmp.com/news/hong-kong/society/article/3369930/hong-kongs-generation-y-unhappiest-amid-housing-and-economic-pressures-poll-finds?utm_source=rss_feed",
      "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-09-25T09:00:06+00:00",
-     "fetched": "2026-09-25T09:38:42+00:00"
+     "published": "2026-10-06T10:28:45+00:00",
+     "fetched": "2026-10-06T11:20:37+00:00"
     }
    ]
   },
@@ -200,48 +200,48 @@
    "key": "cnn",
    "name": "CNN",
    "site": "cnn.com",
-   "summary": "CNN's international edition is leading with Iran’s Pezeshkian says Iran will respond “strongly, resolutely” if war continues; Eviction of 87-year-old tenant sparks protests across Spain; Nvidia’s Jensen Huang on the true threat of AI.",
+   "summary": "CNN's international edition is leading with Trump backed Iran into a corner. The regime isn’t blinking; ‘We should be listened to’: French students demonstrate in nationwide school protests; First on CNN: Cornell faculty prepare no-confidence vote against administration over handling of alleged sexual assault case.",
    "note": null,
    "items": [
     {
-     "headline": "Iran’s Pezeshkian says Iran will respond “strongly, resolutely” if war continues",
-     "detail": "Iran’s Pezeshkian says Iran will respond “strongly, resolutely” if war continues",
-     "url": "https://www.cnn.com/2026/09/25/world/video/iran-pezeshkian-war-fox-news-intldsk",
+     "headline": "Trump backed Iran into a corner. The regime isn’t blinking",
+     "detail": "Trump backed Iran into a corner. The regime isn’t blinking",
+     "url": "https://www.cnn.com/2026/10/06/business/iran-economy-blockade-strait-of-hormuz-oil",
      "source_url": "https://www.cnn.com/sitemap/news.xml",
-     "published": "2026-09-25T09:19:48+00:00",
-     "fetched": "2026-09-25T09:38:42+00:00"
+     "published": "2026-10-06T04:01:45+00:00",
+     "fetched": "2026-10-06T11:20:38+00:00"
     },
     {
-     "headline": "Eviction of 87-year-old tenant sparks protests across Spain",
-     "detail": "Eviction of 87-year-old tenant sparks protests across Spain",
-     "url": "https://www.cnn.com/2026/09/25/world/video/spain-eviction-rent-protests-lkl-092502aseg2-cnni-world-fast",
+     "headline": "‘We should be listened to’: French students demonstrate in nationwide school protests",
+     "detail": "‘We should be listened to’: French students demonstrate in nationwide school protests",
+     "url": "https://www.cnn.com/2026/10/06/world/video/france-protests-schools-demonstrations-paris-intldsk",
      "source_url": "https://www.cnn.com/sitemap/news.xml",
-     "published": "2026-09-25T09:18:03+00:00",
-     "fetched": "2026-09-25T09:38:42+00:00"
+     "published": "2026-10-06T11:10:56+00:00",
+     "fetched": "2026-10-06T11:20:38+00:00"
     },
     {
-     "headline": "Nvidia’s Jensen Huang on the true threat of AI",
-     "detail": "Nvidia’s Jensen Huang on the true threat of AI",
-     "url": "https://www.cnn.com/2026/09/25/world/video/nvidia-chips-ai-huang-anderson-vo-sot-092502aseg1-cnni-world-fast",
+     "headline": "First on CNN: Cornell faculty prepare no-confidence vote against administration over handling of alleged sexual assault case",
+     "detail": "First on CNN: Cornell faculty prepare no-confidence vote against administration over handling of alleged sexual assault case",
+     "url": "https://www.cnn.com/2026/10/06/us/video/cornell-university-anger-over-alleged-gang-rape-investigation",
      "source_url": "https://www.cnn.com/sitemap/news.xml",
-     "published": "2026-09-25T09:10:22+00:00",
-     "fetched": "2026-09-25T09:38:42+00:00"
+     "published": "2026-10-06T11:12:53+00:00",
+     "fetched": "2026-10-06T11:20:38+00:00"
     },
     {
-     "headline": "Intelligence from Chinese groups aiding in Iran’s increasingly effective targeting of US sites, sources say",
-     "detail": "Intelligence from Chinese groups aiding in Iran’s increasingly effective targeting of US sites, sources say",
-     "url": "https://www.cnn.com/2026/09/25/politics/china-intelligence-iran-targeting-hormuz",
+     "headline": "Unprecedented student protests are rocking France. Here’s why they’re angry",
+     "detail": "Unprecedented student protests are rocking France. Here’s why they’re angry",
+     "url": "https://www.cnn.com/2026/10/06/europe/france-student-protests-intl",
      "source_url": "https://www.cnn.com/sitemap/news.xml",
-     "published": "2026-09-25T04:01:29+00:00",
-     "fetched": "2026-09-25T09:38:42+00:00"
+     "published": "2026-10-06T04:01:45+00:00",
+     "fetched": "2026-10-06T11:20:38+00:00"
     },
     {
-     "headline": "Author of America’s tariff statute: Trump’s tariffs are illegal",
-     "detail": "Author of America’s tariff statute: Trump’s tariffs are illegal",
-     "url": "https://www.cnn.com/2026/09/25/economy/tariffs-trump-section-301-case",
+     "headline": "Coco Gauff says an ‘insane’ wave of racist abuse followed a disputed point at China Open",
+     "detail": "Coco Gauff says an ‘insane’ wave of racist abuse followed a disputed point at China Open",
+     "url": "https://www.cnn.com/2026/10/06/sport/coco-gauff-racist-abuse-china-open",
      "source_url": "https://www.cnn.com/sitemap/news.xml",
-     "published": "2026-09-25T09:00:31+00:00",
-     "fetched": "2026-09-25T09:38:42+00:00"
+     "published": "2026-10-06T11:04:44+00:00",
+     "fetched": "2026-10-06T11:20:38+00:00"
     }
    ]
   },
@@ -249,48 +249,48 @@
    "key": "fox",
    "name": "Fox News",
    "site": "foxnews.com",
-   "summary": "Fox News, covering US politics and national affairs is leading with The worst bet in America isn't Kalshi or Polymarket. It's hiding in plain sight; Cut the bull: The real reason beef costs so much — and what Trump is trying to do; Donalds rips opponent’s ‘complete 180’ as Dem’s own 2016 words come back to haunt him in tightening gov race.",
+   "summary": "Fox News, covering US politics and national affairs is leading with New York declares measles disaster emergency as cases surge in Pennsylvania; Kentucky bourbon CEO fired after lawsuit alleges hidden cameras recording family members, minors nude: reports; Doctor's 10 rules for living longer, celebrating more birthdays and making extra years count.",
    "note": null,
    "items": [
     {
-     "headline": "The worst bet in America isn't Kalshi or Polymarket. It's hiding in plain sight",
-     "detail": "Americans spent over $113 billion on lottery tickets in 2024, yet Powerball and Mega Millions offer some of the worst odds in all of gambling.",
-     "url": "https://www.foxnews.com/opinion/worst-bet-america-isnt-kalshi-polymarket-hiding-plain-sight",
+     "headline": "New York declares measles disaster emergency as cases surge in Pennsylvania",
+     "detail": "Kathy Hochul declared a statewide New York emergency as 108 measles cases spread from Pennsylvania, expanding who can administer MMR vaccines.",
+     "url": "https://www.foxnews.com/health/new-york-declares-measles-disaster-emergency-cases-surge-pennsylvania",
      "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
-     "published": "2026-09-25T05:00:27-04:00",
-     "fetched": "2026-09-25T09:38:43+00:00"
+     "published": "2026-10-06T07:08:01-04:00",
+     "fetched": "2026-10-06T11:20:39+00:00"
     },
     {
-     "headline": "Cut the bull: The real reason beef costs so much — and what Trump is trying to do",
-     "detail": "Ground beef hit a record $6.92 per pound as the U.S. cattle herd falls to a 75-year low, and Trump signed executive orders targeting beef industry reform.",
-     "url": "https://www.foxnews.com/opinion/cut-bull-real-reason-beef-costs-much-what-trump-trying-do",
+     "headline": "Kentucky bourbon CEO fired after lawsuit alleges hidden cameras recording family members, minors nude: reports",
+     "detail": "Wes Henderson allegedly hid about 15 cameras disguised as fire alarms, clocks and chargers at homes and The Kentucky Castle resort in Versailles.",
+     "url": "https://www.foxnews.com/us/kentucky-bourbon-ceo-fired-lawsuit-alleges-hidden-cameras-recording-family-members-minors-nude-reports",
      "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
-     "published": "2026-09-25T05:00:25-04:00",
-     "fetched": "2026-09-25T09:38:43+00:00"
+     "published": "2026-10-06T07:00:41-04:00",
+     "fetched": "2026-10-06T11:20:39+00:00"
     },
     {
-     "headline": "Donalds rips opponent’s ‘complete 180’ as Dem’s own 2016 words come back to haunt him in tightening gov race",
-     "detail": "Byron Donalds attacks David Jolly's shifting stances on abortion, immigration and drilling, calling them political convenience in Florida's governor race.",
-     "url": "https://www.foxnews.com/politics/donalds-rips-opponents-complete-180-dems-2016-words-haunt-tightening-gov-race",
+     "headline": "Doctor's 10 rules for living longer, celebrating more birthdays and making extra years count",
+     "detail": "Dr. Michael Hall shares his 10 basic longevity rules for healthy aging, from sleep and movement to purpose and social connection, in his new book.",
+     "url": "https://www.foxnews.com/health/doctors-10-rules-living-longer-having-more-birthdays-making-extra-years-count",
      "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
-     "published": "2026-09-25T05:00:24-04:00",
-     "fetched": "2026-09-25T09:38:43+00:00"
+     "published": "2026-10-06T07:00:35-04:00",
+     "fetched": "2026-10-06T11:20:39+00:00"
     },
     {
-     "headline": "WATCH: Mike Lee explodes on voting error that 'keeps happening' as huge number of noncitizens found on rolls",
-     "detail": "Mike Lee railed against noncitizen voting after a report found 30,000 noncitizens were mistakenly added to voter rolls since 2000 across 11 states.",
-     "url": "https://www.foxnews.com/politics/mike-lee-explodes-voting-error-keeps-happening-huge-number-noncitizens-found-rolls",
+     "headline": "Women who faced biological males in girls' sports and locker rooms speak out ahead of Washington state vote",
+     "detail": "Frances Staudt and four female athletes rallied in Vancouver, Wash., sharing harrowing stories of biological males in girls' sports and locker rooms.",
+     "url": "https://www.foxnews.com/outkick-sports/women-faced-biological-males-girls-sports-locker-rooms-speak-ahead-washington-state-vote",
      "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
-     "published": "2026-09-25T05:00:07-04:00",
-     "fetched": "2026-09-25T09:38:43+00:00"
+     "published": "2026-10-06T07:00:29-04:00",
+     "fetched": "2026-10-06T11:20:39+00:00"
     },
     {
-     "headline": "China is taking the fight to the stars. America must reclaim space supremacy",
-     "detail": "The People's Republic of China now holds space preeminence as the U.S. confirms on-orbit weapons and prepares for cislunar military challenges.",
-     "url": "https://www.foxnews.com/opinion/china-taking-fight-stars-america-must-reclaim-space-supremacy",
+     "headline": "Dolph Lundgren says he 'always understood' Sylvester Stallone due to similar abusive childhood",
+     "detail": "Dolph Lundgren says a shared abusive childhood helped him understand Sylvester Stallone in ways few others could across their 40-year friendship.",
+     "url": "https://www.foxnews.com/entertainment/dolph-lundgren-says-he-always-understood-sylvester-stallone-due-similar-abusive-childhood",
      "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
-     "published": "2026-09-25T05:00:06-04:00",
-     "fetched": "2026-09-25T09:38:43+00:00"
+     "published": "2026-10-06T07:00:17-04:00",
+     "fetched": "2026-10-06T11:20:39+00:00"
     }
    ]
   },
@@ -298,48 +298,48 @@
    "key": "wsj",
    "name": "The Wall Street Journal",
    "site": "wsj.com",
-   "summary": "The Wall Street Journal's world news wire is leading with Did Putin Really Think I Was a Spy?; Trump Welcomes Xi to White House With Pageantry but Few Concrete Gains; Why the Gulf Wants Trump to Hold the Line on Iran.",
+   "summary": "The Wall Street Journal's world news wire is leading with China’s Burned-Out Young Are Finding Something Unexpected in Mao; Former German Spy Chief Arrested on Suspicion of Espionage; Yemen’s Houthi Rebels Strike Two Airports in Saudi Arabia.",
    "note": null,
    "items": [
     {
-     "headline": "Did Putin Really Think I Was a Spy?",
-     "detail": "In an exclusive excerpt from his new book, “This Cursed Beautiful Land,” Evan Gershkovich searches for answers about his arrest while reporting in Russia.",
-     "url": "https://www.wsj.com/world/russia/evan-gershkovich-this-cursed-beautiful-land-book-25290d0b?mod=rss_worldnews",
+     "headline": "China’s Burned-Out Young Are Finding Something Unexpected in Mao",
+     "detail": "Plus, EU plans action against Chinese imports, Nike’s turnaround effort in China and a U.S. effort to loosen Beijing’s grip on critical minerals",
+     "url": "https://www.wsj.com/world/china/chinas-burned-out-young-are-finding-something-unexpected-in-mao-eff59d4b?mod=rss_worldnews",
      "source_url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
-     "published": "2026-09-25T09:30:00+00:00",
-     "fetched": "2026-09-25T09:38:44+00:00"
+     "published": "2026-10-06T10:55:00+00:00",
+     "fetched": "2026-10-06T11:20:40+00:00"
     },
     {
-     "headline": "Trump Welcomes Xi to White House With Pageantry but Few Concrete Gains",
-     "detail": "The summit marks Xi Jinping‘s first visit to Washington in over a decade, as the two leaders look to ease brewing tensions over the war in Iran, artificial intelligence and trade.",
-     "url": "https://www.wsj.com/world/china/trump-kicks-off-white-house-summit-with-chinas-xi-575b06ec?mod=rss_worldnews",
+     "headline": "Former German Spy Chief Arrested on Suspicion of Espionage",
+     "detail": "The arrest is one of the biggest scandals to engulf the BND spy agency since its creation in the mid-1950s.",
+     "url": "https://www.wsj.com/world/europe/former-german-spy-chief-arrested-on-suspicion-of-espionage-9e261c69?mod=rss_worldnews",
      "source_url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
-     "published": "2026-09-25T02:05:00+00:00",
-     "fetched": "2026-09-25T09:38:44+00:00"
+     "published": "2026-10-06T10:29:00+00:00",
+     "fetched": "2026-10-06T11:20:40+00:00"
     },
     {
-     "headline": "Why the Gulf Wants Trump to Hold the Line on Iran",
-     "detail": "A new push for talks is facing hurdles as U.S. allies seek to keep the pressure on Tehran.",
-     "url": "https://www.wsj.com/world/middle-east/why-the-gulf-wants-trump-to-hold-the-line-on-iran-b283a5e1?mod=rss_worldnews",
+     "headline": "Yemen’s Houthi Rebels Strike Two Airports in Saudi Arabia",
+     "detail": "The attacks follow a new counteroffensive by Saudi-backed forces seeking to push the rebels back from the Red Sea coast.",
+     "url": "https://www.wsj.com/world/middle-east/yemens-houthi-rebels-strike-two-airports-in-saudi-arabia-072f4dd3?mod=rss_worldnews",
      "source_url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
-     "published": "2026-09-25T02:00:00+00:00",
-     "fetched": "2026-09-25T09:38:44+00:00"
+     "published": "2026-10-06T10:22:00+00:00",
+     "fetched": "2026-10-06T11:20:40+00:00"
     },
     {
-     "headline": "See the High-Profile Guests Who Attended the Trump-Xi Dinner",
-     "detail": "Billionaire business leaders and U.S. officials attended the White House festivities.",
-     "url": "https://www.wsj.com/politics/policy/trump-xi-dinner-who-was-there-1bbcec0b?mod=rss_worldnews",
+     "headline": "Hackers Use Chinese AI Tool to Hit South Korean Banks, Exposing New Risk",
+     "detail": "The attacks were the latest to highlight the vulnerability of even hardened targets to hackers using freely available artificial-intelligence tools.",
+     "url": "https://www.wsj.com/world/asia/hackers-use-chinese-ai-tool-to-hit-south-korean-banks-exposing-new-risk-5d4d3885?mod=rss_worldnews",
      "source_url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
-     "published": "2026-09-25T01:31:00+00:00",
-     "fetched": "2026-09-25T09:38:44+00:00"
+     "published": "2026-10-06T10:09:00+00:00",
+     "fetched": "2026-10-06T11:20:40+00:00"
     },
     {
-     "headline": "Five Takeaways From Trump’s Washington Summit With Xi",
-     "detail": "The summit was heavy on ceremony and light on outcomes, concealing major disagreements between the two nations on trade, technology and Beijing’s support for Iran.",
-     "url": "https://www.wsj.com/world/china/five-takeaways-from-trumps-washington-summit-with-xi-88772c6d?mod=rss_worldnews",
+     "headline": "How the Bolsonaro Family Made a Warp Speed Political Comeback in Brazil",
+     "detail": "The conservative movement is becoming the dominant force in Brazilian politics after Sunday’s national election.",
+     "url": "https://www.wsj.com/world/americas/how-the-bolsonaro-family-made-a-warp-speed-political-comeback-in-brazil-3e2e1d4b?mod=rss_worldnews",
      "source_url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
-     "published": "2026-09-25T01:17:00+00:00",
-     "fetched": "2026-09-25T09:38:44+00:00"
+     "published": "2026-10-06T02:00:00+00:00",
+     "fetched": "2026-10-06T11:20:40+00:00"
     }
    ]
   }

@@ -3,105 +3,78 @@
   {
    "key": "anz",
    "name": "ANZ",
-   "summary": "ANZ earnings reporting activity captured this run runs to 2 items, led by Criterion: The ‘compleat’ guide to small caps angling. The remaining items cover the rest of the region's results, guidance and reporting-season flow as reported by the linked sources.",
-   "fresh_count": 1,
+   "summary": "A single verifiable earnings item was found for ANZ this run: Eden Innovations US Revenue Jumps 152% on Accelerated Product Sales. No newer earnings item has been reported for ANZ since the last edition, so the same verified item(s) are carried forward.",
+   "fresh_count": 0,
    "items": [
     {
-     "headline": "Criterion: The ‘compleat’ guide to small caps angling",
-     "detail": "Small-cap fund managers say the art of investing lies in management's integrity on earnings guidance and avoiding dud barbecue tips. ... Read More",
-     "url": "https://stockhead.com.au/experts/criterion-the-compleat-guide-to-small-caps-angling/",
-     "outlet": "Stockhead",
-     "source_url": "https://stockhead.com.au/feed/",
-     "published": "2026-09-25T09:30:40+00:00",
-     "fetched": "2026-09-25T09:37:43+00:00"
-    },
-    {
-     "headline": "Heidi Health reaches unicorn status in $477m funding deal",
-     "detail": "Heidi Health has gone from US$1m to US$50m in annual revenue in two years – and now Australia’s newest tech ... Read More",
-     "url": "https://stockhead.com.au/tech/heidi-health-reaches-unicorn-status-in-477m-funding-deal/",
-     "outlet": "Stockhead",
-     "source_url": "https://stockhead.com.au/feed/",
-     "published": "2026-09-25T06:05:31+00:00",
-     "fetched": "2026-09-25T09:37:43+00:00"
+     "headline": "Eden Innovations US Revenue Jumps 152% on Accelerated Product Sales",
+     "detail": "Eden Innovations’ US revenue surged 152% to US$381,612 in Q1 FY27 as OptiBlend and EdenCrete sales accelerated, with six new plant installations.",
+     "url": "https://smallcaps.com.au/article/eden-innovations-us-revenue-jumps-152percent-on-accelerated-product-sales",
+     "outlet": "Small Caps",
+     "source_url": "https://smallcaps.com.au/feed",
+     "published": "2026-10-05T23:30:00+00:00",
+     "fetched": "2026-10-06T11:19:41+00:00"
     }
    ]
   },
   {
    "key": "asia",
    "name": "Asia (Japan/Singapore/Hong Kong/China)",
-   "summary": "No Company earnings reports available.",
+   "summary": "Asia (Japan/Singapore/Hong Kong/China) earnings reporting activity captured this run runs to 2 items, led by China’s carmakers eye record 12 million overseas sales in 2026 as ‘go global’ plan pays off. The remaining items cover the rest of the region's results, guidance and reporting-season flow as reported by the linked sources. No newer earnings item has been reported for Asia (Japan/Singapore/Hong Kong/China) since the last edition, so the same verified item(s) are carried forward.",
    "fresh_count": 0,
-   "items": []
+   "items": [
+    {
+     "headline": "China’s carmakers eye record 12 million overseas sales in 2026 as ‘go global’ plan pays off",
+     "detail": "Chinese automotive groups have cause to celebrate their go-global strategy amid breakneck export growth in recent years, with deliveries in 2026 expected to beat expectations already buoyed by an international energy shock caused by…",
+     "url": "https://www.scmp.com/business/china-business/article/3369423/chinas-carmakers-eye-record-12-million-overseas-sales-2026-go-global-plan-pays?utm_source=rss_feed",
+     "outlet": "South China Morning Post",
+     "source_url": "https://www.scmp.com/rss/92/feed",
+     "published": "2026-10-01T06:00:08+00:00",
+     "fetched": "2026-10-06T11:20:21+00:00"
+    },
+    {
+     "headline": "New World Development posts HK$26.8b loss after 11 Skies termination",
+     "detail": "New World Development (NWD) reported a net loss of HK$26.8 billion (US$3.42 billion) for the year ended June, as the developer booked HK$18.3 billion in impairments and provisions tied to the early termination of its flagship 11 Skies mall…",
+     "url": "https://www.scmp.com/business/companies/article/3369377/new-world-development-posts-hk268b-loss-after-11-skies-termination?utm_source=rss_feed",
+     "outlet": "South China Morning Post",
+     "source_url": "https://www.scmp.com/rss/92/feed",
+     "published": "2026-09-30T14:46:27+00:00",
+     "fetched": "2026-10-06T11:20:21+00:00"
+    }
+   ]
   },
   {
    "key": "us",
    "name": "US",
-   "summary": "US earnings reporting activity captured this run runs to 5 items, led by Worthington Enterprises Q1 Earnings Call Highlights. The remaining items cover the rest of the region's results, guidance and reporting-season flow as reported by the linked sources.",
-   "fresh_count": 2,
+   "summary": "US earnings reporting activity captured this run runs to 2 items, led by Pre-Market Earnings Report for October 6, 2026 : RPM, LW, APOG. The remaining items cover the rest of the region's results, guidance and reporting-season flow as reported by the linked sources. No newer earnings item has been reported for US since the last edition, so the same verified item(s) are carried forward.",
+   "fresh_count": 0,
    "items": [
     {
-     "headline": "Worthington Enterprises Q1 Earnings Call Highlights",
-     "detail": "3 Hot Software Stocks Breaking Out to New HighsWorthington Enterprises (NYSE:WOR) reported a 13% increase in fiscal 2027 first-quarter sales to $344 million, supported by 7% organic growth and $19 million of revenue from recent…",
-     "url": "https://www.nasdaq.com/articles/worthington-enterprises-q1-earnings-call-highlights",
+     "headline": "Pre-Market Earnings Report for October 6, 2026 : RPM, LW, APOG",
+     "detail": "The following companies are expected to report earnings prior to market open on 10/06/2026. Visit our Earnings Calendar for a full list of expected earnings releases.RPM International Inc.",
+     "url": "https://www.nasdaq.com/articles/pre-market-earnings-report-october-6-2026-rpm-lw-apog",
      "outlet": "Nasdaq",
      "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
-     "published": "2026-09-23T14:03:31+00:00",
-     "fetched": "2026-09-25T09:38:27+00:00"
+     "published": "2026-10-05T20:00:01+00:00",
+     "fetched": "2026-10-06T11:20:24+00:00"
     },
     {
-     "headline": "Cracker Barrel Old Country Store Q4 Earnings Call Highlights",
-     "detail": "Cooking Up Profits: Cracker Barrel’s TurnaroundCracker Barrel Old Country Store (NASDAQ:CBRL) reported fourth-quarter fiscal 2026 revenue of $849.3 million and adjusted EBITDA of $62.1 million, as the restaurant-and-retail operator cited…",
-     "url": "https://www.nasdaq.com/articles/cracker-barrel-old-country-store-q4-earnings-call-highlights",
+     "headline": "After-Hours Earnings Report for October 1, 2026 : NKE",
+     "detail": "The following companies are expected to report earnings after hours on 10/01/2026. Visit our Earnings Calendar for a full list of expected earnings releases.Nike, Inc. (NKE)is reporting for the quarter ending August 31, 2026.",
+     "url": "https://www.nasdaq.com/articles/after-hours-earnings-report-october-1-2026-nke",
      "outlet": "Nasdaq",
      "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
-     "published": "2026-09-23T14:03:30+00:00",
-     "fetched": "2026-09-25T09:38:27+00:00"
-    },
-    {
-     "headline": "Pre-Market Earnings Report for September 25, 2026 : TBN",
-     "detail": "The following companies are expected to report earnings prior to market open on 09/25/2026.",
-     "url": "https://www.nasdaq.com/articles/pre-market-earnings-report-september-25-2026-tbn",
-     "outlet": "Nasdaq",
-     "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
-     "published": "2026-09-24T20:00:01+00:00",
-     "fetched": "2026-09-25T09:38:27+00:00"
-    },
-    {
-     "headline": "After-Hours Earnings Report for September 24, 2026 : COST, SCHL",
-     "detail": "The following companies are expected to report earnings after hours on 09/24/2026.",
-     "url": "https://www.nasdaq.com/articles/after-hours-earnings-report-september-24-2026-cost-schl",
-     "outlet": "Nasdaq",
-     "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
-     "published": "2026-09-24T18:00:01+00:00",
-     "fetched": "2026-09-25T09:38:27+00:00"
-    },
-    {
-     "headline": "Earnings Outlook Remains Upbeat: A Closer Look",
-     "detail": "Earnings revisions remain positive, sustaining a trend that's been in place for a year now.",
-     "url": "https://www.nasdaq.com/articles/earnings-outlook-remains-upbeat-closer-look-0",
-     "outlet": "Nasdaq",
-     "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
-     "published": "2026-09-23T21:05:00+00:00",
-     "fetched": "2026-09-25T09:38:27+00:00"
+     "published": "2026-10-01T18:00:01+00:00",
+     "fetched": "2026-10-06T11:20:24+00:00"
     }
    ]
   },
   {
    "key": "uk",
    "name": "UK",
-   "summary": "A single verifiable earnings item was found for UK this run: Beauty Tech shares glow as boss brushes off ‘cheap’ rivals. No newer earnings item has been reported for UK since the last edition, so the same verified item(s) are carried forward.",
+   "summary": "No Company earnings reports available.",
    "fresh_count": 0,
-   "items": [
-    {
-     "headline": "Beauty Tech shares glow as boss brushes off ‘cheap’ rivals",
-     "detail": "Beauty Tech Group boss Laurence Newman has brushed off competition from ‘cheap beauty devices’ after the London-listed firm more than tripled its first-half profit.",
-     "url": "https://www.cityam.com/beauty-tech-shares-glow-as-boss-brushes-off-cheap-rivals/",
-     "outlet": "City A.M.",
-     "source_url": "https://www.cityam.com/category/markets/feed/",
-     "published": "2026-09-17T12:28:23+00:00",
-     "fetched": "2026-09-25T09:38:31+00:00"
-    }
-   ]
+   "items": []
   },
   {
    "key": "europe",
