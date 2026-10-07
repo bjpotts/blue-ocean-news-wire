@@ -3,19 +3,9 @@
   {
    "key": "anz",
    "name": "ANZ",
-   "summary": "A single verifiable earnings item was found for ANZ this run: Eden Innovations US Revenue Jumps 152% on Accelerated Product Sales. No newer earnings item has been reported for ANZ since the last edition, so the same verified item(s) are carried forward.",
+   "summary": "No Company earnings reports available.",
    "fresh_count": 0,
-   "items": [
-    {
-     "headline": "Eden Innovations US Revenue Jumps 152% on Accelerated Product Sales",
-     "detail": "Eden Innovations’ US revenue surged 152% to US$381,612 in Q1 FY27 as OptiBlend and EdenCrete sales accelerated, with six new plant installations.",
-     "url": "https://smallcaps.com.au/article/eden-innovations-us-revenue-jumps-152percent-on-accelerated-product-sales",
-     "outlet": "Small Caps",
-     "source_url": "https://smallcaps.com.au/feed",
-     "published": "2026-10-05T23:30:00+00:00",
-     "fetched": "2026-10-06T11:19:41+00:00"
-    }
-   ]
+   "items": []
   },
   {
    "key": "asia",
@@ -30,7 +20,7 @@
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
      "published": "2026-10-01T06:00:08+00:00",
-     "fetched": "2026-10-06T11:20:21+00:00"
+     "fetched": "2026-10-07T07:58:24+00:00"
     },
     {
      "headline": "New World Development posts HK$26.8b loss after 11 Skies termination",
@@ -39,16 +29,25 @@
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
      "published": "2026-09-30T14:46:27+00:00",
-     "fetched": "2026-10-06T11:20:21+00:00"
+     "fetched": "2026-10-07T07:58:24+00:00"
     }
    ]
   },
   {
    "key": "us",
    "name": "US",
-   "summary": "US earnings reporting activity captured this run runs to 2 items, led by Pre-Market Earnings Report for October 6, 2026 : RPM, LW, APOG. The remaining items cover the rest of the region's results, guidance and reporting-season flow as reported by the linked sources. No newer earnings item has been reported for US since the last edition, so the same verified item(s) are carried forward.",
-   "fresh_count": 0,
+   "summary": "US earnings reporting activity captured this run runs to 3 items, led by After-Hours Earnings Report for October 6, 2026 : STZ, PENG, NEOG, WS, SAR. The remaining items cover the rest of the region's results, guidance and reporting-season flow as reported by the linked sources.",
+   "fresh_count": 1,
    "items": [
+    {
+     "headline": "After-Hours Earnings Report for October 6, 2026 : STZ, PENG, NEOG, WS, SAR",
+     "detail": "The following companies are expected to report earnings after hours on 10/06/2026. Visit our Earnings Calendar for a full list of expected earnings releases.Constellation Brands Inc (STZ)is reporting for the quarter ending August 31, 2026.",
+     "url": "https://www.nasdaq.com/articles/after-hours-earnings-report-october-6-2026-stz-peng-neog-ws-sar",
+     "outlet": "Nasdaq",
+     "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
+     "published": "2026-10-06T18:00:01+00:00",
+     "fetched": "2026-10-07T07:58:27+00:00"
+    },
     {
      "headline": "Pre-Market Earnings Report for October 6, 2026 : RPM, LW, APOG",
      "detail": "The following companies are expected to report earnings prior to market open on 10/06/2026. Visit our Earnings Calendar for a full list of expected earnings releases.RPM International Inc.",
@@ -56,7 +55,7 @@
      "outlet": "Nasdaq",
      "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
      "published": "2026-10-05T20:00:01+00:00",
-     "fetched": "2026-10-06T11:20:24+00:00"
+     "fetched": "2026-10-07T07:58:27+00:00"
     },
     {
      "headline": "After-Hours Earnings Report for October 1, 2026 : NKE",
@@ -65,7 +64,7 @@
      "outlet": "Nasdaq",
      "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
      "published": "2026-10-01T18:00:01+00:00",
-     "fetched": "2026-10-06T11:20:24+00:00"
+     "fetched": "2026-10-07T07:58:27+00:00"
     }
    ]
   },
@@ -79,9 +78,19 @@
   {
    "key": "europe",
    "name": "Europe",
-   "summary": "No Company earnings reports available.",
-   "fresh_count": 0,
-   "items": []
+   "summary": "A single verifiable earnings item was found for Europe this run: Pennon shares drop 16% on £550 mln rights issue, dividend cut.",
+   "fresh_count": 1,
+   "items": [
+    {
+     "headline": "Pennon shares drop 16% on £550 mln rights issue, dividend cut",
+     "detail": "Pennon shares drop 16% on £550 mln rights issue, dividend cut",
+     "url": "https://www.investing.com/news/stock-market-news/pennon-to-raise-550-million-in-rights-issue-rebase-dividend-for-water-upgrade-4935666",
+     "outlet": "Investing.com",
+     "source_url": "https://www.investing.com/rss/news_25.rss",
+     "published": null,
+     "fetched": "2026-10-07T07:58:31+00:00"
+    }
+   ]
   },
   {
    "key": "rest",

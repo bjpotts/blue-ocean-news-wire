@@ -3,9 +3,18 @@
   {
    "key": "anz",
    "name": "ANZ",
-   "summary": "ANZ equity capital markets activity captured this run runs to 3 items, led by Resources Top 5: Normandy rises after ASX debut as Gateway defines two large-scale gold targets. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources. No newer capital markets item has been reported for ANZ since the last edition, so the same verified item(s) are carried forward.",
-   "fresh_count": 0,
+   "summary": "ANZ equity capital markets activity captured this run runs to 3 items, led by UniSuper will ride the sharemarket but sit out the Firmus float says investment chief. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "fresh_count": 1,
    "items": [
+    {
+     "headline": "UniSuper will ride the sharemarket but sit out the Firmus float says investment chief",
+     "detail": "UniSuper’s chief investment officer has no plans to invest in Firmus Technologies’ $44bn float, warning that loss-making AI companies will ... Read More",
+     "url": "https://stockhead.com.au/news/unisuper-will-ride-the-sharemarket-but-sit-out-the-firmus-float-says-investment-chief/",
+     "outlet": "Stockhead",
+     "source_url": "https://stockhead.com.au/feed/",
+     "published": "2026-10-07T06:33:20+00:00",
+     "fetched": "2026-10-07T07:56:01+00:00"
+    },
     {
      "headline": "Resources Top 5: Normandy rises after ASX debut as Gateway defines two large-scale gold targets",
      "detail": "Normandy launches maiden gold drilling at Halleys after its ASX debut, as Gateway defines two large-scale gold anomalies at Glenburgh ... Read More",
@@ -13,7 +22,7 @@
      "outlet": "Stockhead",
      "source_url": "https://stockhead.com.au/feed/",
      "published": "2026-10-06T06:06:12+00:00",
-     "fetched": "2026-10-06T11:18:03+00:00"
+     "fetched": "2026-10-07T07:56:01+00:00"
     },
     {
      "headline": "Jacaranda lines up $8m-$10m ASX float for Botswana and Queensland exploration",
@@ -22,33 +31,42 @@
      "outlet": "Stockhead",
      "source_url": "https://stockhead.com.au/feed/",
      "published": "2026-10-05T19:50:38+00:00",
-     "fetched": "2026-10-06T11:18:03+00:00"
-    },
-    {
-     "headline": "Inspired by a legend, Parbo Resources hunts gold in WA’s Murchison",
-     "detail": "Gold IPO Parbo Resources has enjoyed a good start to life on the ASX, chasing discoveries in WA's Mid West ... Read More",
-     "url": "https://stockhead.com.au/resources/inspired-by-a-legend-parbo-resources-hunts-gold-in-was-murchison/",
-     "outlet": "Stockhead",
-     "source_url": "https://stockhead.com.au/feed/",
-     "published": "2026-10-04T19:00:46+00:00",
-     "fetched": "2026-10-06T11:18:03+00:00"
+     "fetched": "2026-10-07T07:56:01+00:00"
     }
    ]
   },
   {
    "key": "asia",
    "name": "Asia (Japan/Singapore/Hong Kong/China)",
-   "summary": "Asia (Japan/Singapore/Hong Kong/China) equity capital markets activity captured this run runs to 4 items, led by China’s Transsion, Africa’s top phone maker, targets US$500 million Hong Kong listing. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
-   "fresh_count": 4,
+   "summary": "Asia (Japan/Singapore/Hong Kong/China) equity capital markets activity captured this run runs to 4 items, led by Hong Kong’s big IPO haul. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "fresh_count": 2,
    "items": [
     {
+     "headline": "Hong Kong’s big IPO haul",
+     "detail": "–",
+     "url": "https://www.scmp.com/plus/business/banking-finance/article/3369852/hong-kongs-big-ipo-haul?utm_source=rss_feed",
+     "outlet": "South China Morning Post",
+     "source_url": "https://www.scmp.com/rss/92/feed",
+     "published": "2026-10-06T02:22:01+00:00",
+     "fetched": "2026-10-07T07:57:30+00:00"
+    },
+    {
+     "headline": "Malaysia’s Myanmar bet? Repatriations pave way for diplomacy",
+     "detail": "Malaysia’s repatriation of Myanmar nationals ahead of a visit to Kuala Lumpur by the war-torn country’s leader appears to mirror efforts by other Asean countries seeking to mend ties with Naypyidaw.",
+     "url": "https://www.scmp.com/week-asia/people/article/3369953/malaysias-myanmar-bet-repatriations-pave-way-diplomacy?utm_source=rss_feed",
+     "outlet": "South China Morning Post",
+     "source_url": "https://www.scmp.com/rss/91/feed",
+     "published": "2026-10-07T01:30:13+00:00",
+     "fetched": "2026-10-07T07:57:31+00:00"
+    },
+    {
      "headline": "China’s Transsion, Africa’s top phone maker, targets US$500 million Hong Kong listing",
-     "detail": "Shenzhen Transsion Holdings, the maker of Africa’s bestselling phones, aims to kick off its Hong Kong share offering on Wednesday to raise up to US$500 million ahead of a targeted October 15 listing, according to people familiar with the…",
+     "detail": "Shenzhen Transsion Holdings has begun to take investor orders for its Hong Kong listing, with the maker of Africa’s bestselling phones offering 86.6 million shares at a maximum price of HK$38.8 per share, according to the company’s…",
      "url": "https://www.scmp.com/business/companies/article/3369908/chinas-transsion-africas-top-phone-maker-targets-us500-million-hong-kong-listing?utm_source=rss_feed",
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
      "published": "2026-10-06T08:28:07+00:00",
-     "fetched": "2026-10-06T11:19:24+00:00"
+     "fetched": "2026-10-07T07:57:30+00:00"
     },
     {
      "headline": "Hong Kong IPOs falter, China aids homebuyers, EU trade talks",
@@ -57,43 +75,16 @@
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
      "published": "2026-10-02T09:05:40+00:00",
-     "fetched": "2026-10-06T11:19:24+00:00"
-    },
-    {
-     "headline": "Hong Kong’s IPO haul in first 9 months smashes record despite Nasdaq’s fundraising lead",
-     "detail": "Funds raised through Hong Kong initial public offerings (IPOs) doubled in the first nine months of 2026, reaching the highest level for the period since records began in 1980.",
-     "url": "https://www.scmp.com/business/banking-finance/article/3369316/hong-kongs-ipo-haul-first-9-months-smashes-record-despite-nasdaqs-fundraising-lead?utm_source=rss_feed",
-     "outlet": "South China Morning Post",
-     "source_url": "https://www.scmp.com/rss/92/feed",
-     "published": "2026-09-30T08:00:27+00:00",
-     "fetched": "2026-10-06T11:19:24+00:00"
-    },
-    {
-     "headline": "Mainland China’s PCB giant wins Hong Kong approval for planned US$3b listing: sources",
-     "detail": "Mainland China-based printed circuit board (PCB) maker Suzhou Dongshan Precision Manufacturing has cleared its final listing hurdle in Hong Kong and is moving towards a share sale that may rank among the city’s largest initial public…",
-     "url": "https://www.scmp.com/business/banking-finance/article/3369299/mainland-chinas-pcb-giant-wins-hong-kong-approval-planned-us3b-listing-sources?utm_source=rss_feed",
-     "outlet": "South China Morning Post",
-     "source_url": "https://www.scmp.com/rss/92/feed",
-     "published": "2026-09-30T07:00:08+00:00",
-     "fetched": "2026-10-06T11:19:24+00:00"
+     "fetched": "2026-10-07T07:57:30+00:00"
     }
    ]
   },
   {
    "key": "us",
    "name": "US",
-   "summary": "US equity capital markets activity captured this run runs to 4 items, led by Australia says more hikes not off the table after raising rates to 15-year high. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
-   "fresh_count": 1,
+   "summary": "US equity capital markets activity captured this run runs to 4 items, led by The IPO Buzz: TRex Bio (TRXB Proposed) Sets Terms for $125 Million IPO. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources. No newer capital markets item has been reported for US since the last edition, so the same verified item(s) are carried forward.",
+   "fresh_count": 0,
    "items": [
-    {
-     "headline": "Australia says more hikes not off the table after raising rates to 15-year high",
-     "detail": "The hike of 25 basis points was in line with expectations by economists polled by Reuters.",
-     "url": "https://www.cnbc.com/2026/09/29/australia-rates-inflation-monetary-policy.html",
-     "outlet": "CNBC Markets",
-     "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258",
-     "published": "2026-09-29T05:00:58+00:00",
-     "fetched": "2026-10-06T11:19:28+00:00"
-    },
     {
      "headline": "The IPO Buzz: TRex Bio (TRXB Proposed) Sets Terms for $125 Million IPO",
      "detail": "TRex Bio (TRXB Proposed), an Eli Lilly-backed biotech, unveiled the terms for its $125 million IPO early today: 8.33 million shares at a price range of $14.00 to $16.00 to raise $124.95 million, if priced at the $15.00 mid-point of its…",
@@ -101,7 +92,7 @@
      "outlet": "IPOScoop",
      "source_url": "https://www.iposcoop.com/feed/",
      "published": "2026-10-05T11:22:05+00:00",
-     "fetched": "2026-10-06T11:19:26+00:00"
+     "fetched": "2026-10-07T07:57:32+00:00"
     },
     {
      "headline": "The IPO Buzz: Accelevation (ACCV) Prices IPO at $18 – $2 Below Range – & Stock Dips",
@@ -110,7 +101,7 @@
      "outlet": "IPOScoop",
      "source_url": "https://www.iposcoop.com/feed/",
      "published": "2026-09-29T23:27:54+00:00",
-     "fetched": "2026-10-06T11:19:26+00:00"
+     "fetched": "2026-10-07T07:57:32+00:00"
     },
     {
      "headline": "The IPO Buzz: Oura Postpones IPO Due to Market Conditions",
@@ -119,15 +110,24 @@
      "outlet": "IPOScoop",
      "source_url": "https://www.iposcoop.com/feed/",
      "published": "2026-09-29T11:35:47+00:00",
-     "fetched": "2026-10-06T11:19:26+00:00"
+     "fetched": "2026-10-07T07:57:32+00:00"
+    },
+    {
+     "headline": "Australia says more hikes not off the table after raising rates to 15-year high",
+     "detail": "The hike of 25 basis points was in line with expectations by economists polled by Reuters.",
+     "url": "https://www.cnbc.com/2026/09/29/australia-rates-inflation-monetary-policy.html",
+     "outlet": "CNBC Markets",
+     "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258",
+     "published": "2026-09-29T05:00:58+00:00",
+     "fetched": "2026-10-07T07:57:35+00:00"
     }
    ]
   },
   {
    "key": "uk",
    "name": "UK",
-   "summary": "UK equity capital markets activity captured this run runs to 3 items, led by Zilch leaning towards London IPO as UK fintech calls in bankers. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
-   "fresh_count": 1,
+   "summary": "A single verifiable equity capital markets item was found for UK this run: Zilch leaning towards London IPO as UK fintech calls in bankers. No newer capital markets item has been reported for UK since the last edition, so the same verified item(s) are carried forward.",
+   "fresh_count": 0,
    "items": [
     {
      "headline": "Zilch leaning towards London IPO as UK fintech calls in bankers",
@@ -136,42 +136,24 @@
      "outlet": "City A.M.",
      "source_url": "https://www.cityam.com/category/markets/feed/",
      "published": "2026-09-30T12:42:01+00:00",
-     "fetched": "2026-10-06T11:19:31+00:00"
-    },
-    {
-     "headline": "Since SpaceX’s debut, hopes of a blockbuster IPO season have ground to a halt",
-     "detail": "It was hoped SpaceX’s blockbuster June flotation would add rocket boosters to the global IPO market. But four months on, momentum has come crashing back down to earth.",
-     "url": "https://www.cityam.com/since-spacexs-debut-hopes-of-a-blockbuster-ipo-season-have-ground-to-a-halt/",
-     "outlet": "City A.M.",
-     "source_url": "https://www.cityam.com/feed/",
-     "published": "2026-10-05T23:01:00+00:00",
-     "fetched": "2026-10-06T11:19:37+00:00"
-    },
-    {
-     "headline": "NHS may not be able to replace Palantir before £330m deal deadline",
-     "detail": "The NHS may not be able to replace Palantir before a crunch deadline on its £330m data contract, raising the stakes for ministers as pressure mounts to cut ties with the US tech giant.",
-     "url": "https://www.cityam.com/nhs-may-not-be-able-to-replace-palantir-before-330m-deal-deadline/",
-     "outlet": "City A.M.",
-     "source_url": "https://www.cityam.com/feed/",
-     "published": "2026-10-05T15:47:46+00:00",
-     "fetched": "2026-10-06T11:19:37+00:00"
+     "fetched": "2026-10-07T07:57:38+00:00"
     }
    ]
   },
   {
    "key": "europe",
    "name": "Europe",
-   "summary": "A single verifiable equity capital markets item was found for Europe this run: Moonshot Said to Eye Early 2027 IPO After Value Hits $50 Billion.",
+   "summary": "A single verifiable equity capital markets item was found for Europe this run: DeepSeek Nears $12B Funding Round Ahead of Potential IPO.",
    "fresh_count": 1,
    "items": [
     {
-     "headline": "Moonshot Said to Eye Early 2027 IPO After Value Hits $50 Billion",
-     "detail": "Moonshot AI has closed the final round of private fundraising at a valuation of about $50 billion and is heading toward an initial public offering in Hong Kong in the first quarter of next year, according to people familiar with the matter.",
-     "url": "https://www.bloomberg.com/news/articles/2026-10-06/moonshot-said-to-eye-early-2027-ipo-after-value-hits-50-billion",
+     "headline": "DeepSeek Nears $12B Funding Round Ahead of Potential IPO",
+     "detail": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy.",
+     "url": "https://www.bloomberg.com/news/videos/2026-10-07/the-china-show-10-7-2026-video",
      "outlet": "Bloomberg",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-06T02:32:25+00:00",
-     "fetched": "2026-10-06T11:19:38+00:00"
+     "published": "2026-10-07T06:47:13+00:00",
+     "fetched": "2026-10-07T07:57:41+00:00"
     }
    ]
   },

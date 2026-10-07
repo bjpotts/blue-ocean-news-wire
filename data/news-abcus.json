@@ -3,48 +3,48 @@
   "key": "abcus",
   "name": "ABC News (US)",
   "site": "abcnews.go.com",
-  "summary": "ABC News in the United States, the network's national and world file is leading with Trump says his super PAC will now pay for controversial taxpayer-funded promo ads; Trump suggests Iran could 'take out' Los Angeles and San Diego; Jim Bakker, who built ‘PTL Club’ televangelism empire, has died at 86.",
+  "summary": "ABC News in the United States, the network's national and world file is leading with Former CIA officer pleads guilty to stealing nearly $200M in gold bar case; Washington state man charged with helping Canadian mass shooter plan for attack; Tropical depression forms in Gulf, expected to intensify to potential hurricane.",
   "note": null,
   "items": [
    {
-    "headline": "Trump says his super PAC will now pay for controversial taxpayer-funded promo ads",
-    "detail": "Trump says that he will no longer use taxpayer funds to pay for a pro-Trump ad blitz ahead of the midterm elections, saying his super PAC will now pay for them.",
-    "url": "https://abcnews.go.com/Politics/trump-super-pac-pay-controversial-promotional-ad-campaign/story?id=137019187",
+    "headline": "Former CIA officer pleads guilty to stealing nearly $200M in gold bar case",
+    "detail": "The nearly $200 million in payments to Rush dwarfs previous amounts disclosed as part of his case.",
+    "url": "https://abcnews.go.com/Politics/plea-hearing-set-former-cia-officer-allegedly-gold/story?id=137015337",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-10-05T23:49:25-04:00",
-    "fetched": "2026-10-06T11:20:41+00:00"
+    "published": "2026-10-06T20:13:00-04:00",
+    "fetched": "2026-10-07T07:58:44+00:00"
    },
    {
-    "headline": "Trump suggests Iran could 'take out' Los Angeles and San Diego",
-    "detail": "President Donald Trump suggested Monday during a political rally in Nebraska that Iran could “take out” Los Angeles and San Diego, comments that drew condemnation.",
-    "url": "https://abcnews.go.com/Politics/trump-suggests-iran-los-angeles-san-diego/story?id=137024894",
+    "headline": "Washington state man charged with helping Canadian mass shooter plan for attack",
+    "detail": "Washington state man charged with helping Canadian mass shooter plan for attack",
+    "url": "https://abcnews.go.com/US/washington-state-man-charged-helping-canadian-mass-shooter/story?id=137048241",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-10-06T06:54:10-04:00",
-    "fetched": "2026-10-06T11:20:41+00:00"
+    "published": "2026-10-06T23:58:06-04:00",
+    "fetched": "2026-10-07T07:58:44+00:00"
    },
    {
-    "headline": "Jim Bakker, who built ‘PTL Club’ televangelism empire, has died at 86",
-    "detail": "Jim Bakker, who along with his first-wife Tammy Faye built an evangelical empire around the hugely successful “The PTL Club” TV show, only to lose it all over a sex scandal and financial crimes, has died",
-    "url": "https://abcnews.go.com/US/wireStory/jim-bakker-built-ptl-club-televangelism-empire-died-137024206",
+    "headline": "Tropical depression forms in Gulf, expected to intensify to potential hurricane",
+    "detail": "Tropical Depression 9 is expected to become named Tropical Storm Isaias in the next 24 hours.",
+    "url": "https://abcnews.go.com/US/extreme-heat-continues-west-tropical-disturbance-impacts-gulf/story?id=137034428",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-10-06T06:12:50-04:00",
-    "fetched": "2026-10-06T11:20:41+00:00"
+    "published": "2026-10-06T20:35:17-04:00",
+    "fetched": "2026-10-07T07:58:44+00:00"
    },
    {
-    "headline": "WATCH: Finding new homes for rescued beagles",
-    "detail": "ABC News' Danny New takes a closer look at Paws of War, a nonprofit that helps adopt out dogs to active military members, veterans, first responders and more.",
-    "url": "https://abcnews.go.com/video/137026492/",
+    "headline": "WATCH: Lawsuit accuses Starbucks of mislabeling 8 'sugar-free' protein drinks",
+    "detail": "Starbucks introduced protein drinks in September 2025 to meet consumer demand for functional beverages and catch up to rivals like Dutch Bros, which launched protein-enhanced coffee drinks in 2024.",
+    "url": "https://abcnews.go.com/video/137036714/",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-10-06T06:09:26-04:00",
-    "fetched": "2026-10-06T11:20:41+00:00"
+    "published": "2026-10-06T15:37:42-04:00",
+    "fetched": "2026-10-07T07:58:44+00:00"
    },
    {
-    "headline": "WATCH: 'Avengers: Endgame' becomes highest-grossing film ever, again",
-    "detail": "Sophie Flay shares the buzziest stories of the day in \"GMA\" Pop News.",
-    "url": "https://abcnews.go.com/video/137007910/",
+    "headline": "WATCH: Taylor Swift's 'Patient Zero' debuts at No. 1",
+    "detail": "Hanna Battah shares the buzziest stories of the day in \"GMA\" Pop News.",
+    "url": "https://abcnews.go.com/video/137039228/",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-10-05T12:57:34-04:00",
-    "fetched": "2026-10-06T11:20:41+00:00"
+    "published": "2026-10-06T15:02:26-04:00",
+    "fetched": "2026-10-07T07:58:44+00:00"
    }
   ]
  }
