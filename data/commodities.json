@@ -1,69 +1,69 @@
 {
- "as_of": "2026-10-07T18:54:15.243172+11:00",
- "summary": "Commodities were broadly weaker in the latest session, with 10 of the 24 tracked benchmarks higher and 12 lower. Energy advanced across the board, led by Natural Gas at +1.99% to 3.18 USD/MMBtu; precious metals were mixed, 0 of 5 higher, the biggest move coming from Platinum at -1.95% to 1676 USD/t oz; base metals were mixed, 2 of 6 higher, the biggest move coming from Zinc at -0.68% to 3745.95 USD/T; bulk and battery materials were mixed, 2 of 5 higher, the biggest move coming from Rare Earth Elements at +3.61% to 48.53 USD/share; agriculture was mixed, 2 of 4 higher, the biggest move coming from Sugar at +0.43% to 20.82 USd/Lbs. The largest single move across the complex was Rare Earth Elements at +3.61%. Tin, Lithium (carbonate) have not refreshed past the prior day's print and are flagged accordingly, being fixed periodically rather than traded continuously. Rare earths are represented by the MP Materials equity proxy, as no reliable daily spot benchmark is published. Reported alongside the session, Business Standard on 06 October 2026:",
+ "as_of": "2026-10-08T17:46:00.566669+11:00",
+ "summary": "Commodities were broadly weaker in the latest session, with 10 of the 24 tracked benchmarks higher and 11 lower. Energy was mixed, 3 of 4 higher, the biggest move coming from Brent Crude at +2.98% to 103.19 USD/Bbl; precious metals were mixed, 3 of 5 higher, the biggest move coming from Palladium at +1.20% to 1140.50 USD/t oz; base metals were mixed, 2 of 6 higher, the biggest move coming from Nickel at -1.35% to 15518.25 USD/T; bulk and battery materials were mixed, 1 of 5 higher, the biggest move coming from Rare Earth Elements at -4.57% to 46.31 USD/share; agriculture was mixed, 1 of 4 higher, the biggest move coming from Soybeans at -0.48% to 1291.22 USd/Bu. The largest single move across the complex was Rare Earth Elements at -4.57%. Tin has not refreshed past the prior day's print and is flagged accordingly, being fixed periodically rather than traded continuously. Rare earths are represented by the MP Materials equity proxy, as no reliable daily spot benchmark is published. Reported alongside the session, Business Standard on 07 October 2026:",
  "summary_sources": [
   {
-   "title": "Gold, silver prices fall on stronger dollar, sharp rise in US bond yields - Business Standard",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUlRiSHJqNFlMbU44bWRXczNTaTdVSkc1QVZRLWJkU1cxMERNa00wNGpBQk5WbnlZYXFBcmlSQ0FTSkpBWF9ZMVFVT1VfS25hU2lmREp5RTlvQmlscDQ0NDhlUm0wR0RldVBDalY0OWRhdHFkRDFxNnJuTldPRVc5TE5VajdxeEdKZHNlZklEekZZZUxyWmhESGdGTDcyekVBTG1HTHNfeXdCdEtsZGMyMkZYWTJCUTdiN1drbnV4TTRYU1NJWW9Gb3haMjdsOXgyb3lTWWZBcGRaR3doZ0HSAeMBQVVfeXFMTTRGdTJjZG5hSnEzakxFbnE3TktWVndHNmJoLVRNM0VBT2ZMVkYzMm1aRGYzQmtyczlqSmNfeGR0SEU5Q2ZFdXpObXcxRWZLWXB6SUhwQzFVRHBGNjhYQkRHUm5Sbi1ZSDl4V1NxOXRNMmhhSjNZb1RHNzltVlJsQ3dmaXhnQ3pBSjdvc3BkRkZISDR1Vjd3MDhneEF6QU5kTThZeGg5WDNwSTlya0E5ZnBocnB4ZHdYVVk1cnVLUDNPNWJZZHMtcnJYTkdKYWVaOW5ISFYzUU5tSTdnZVhtRDNSdTg?oc=5",
+   "title": "Gold, silver fall on concerns over rising crude oil prices, interest rates - Business Standard",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNC04UUZiYXRaMnFPNzlOUzhRZW42Z213RWExZFZCSWtGemRXQ0lna3hNZnpwQUNEZk9EaElKemlpczZVWlJ4Slk4NGdaOHVkclUzQ3E4UVR5Y3NUaWJWU1NuNWdqYW1LdkJVOW9iM3BFTF9jMXdqZk5qSmFiUWZhTWNMalZVTkpCbkhqUFB1NEJJOUNzY1pFN2tpUHlkOGxCUk5oc2ZIQWkwanI0bkRyZkNnR2NDZmxkdzY0TkJzRENmRDc1ZjVxdUJrWTZtbld3VWNaREJjUkxzREpQSm1v0gHkAUFVX3lxTE1PZDNTVzV1TDlEMU5vUjcycW1ReG12bEdzSEdXYWlTem0tR1IzbFU4SUpyd285RlBKMXlCS3RQUU4xSWxlbm12ZUxvZ3BoNXlOMlI4ckNPYVJOajVoM21CZFNJVXlQRW9GVURKQWxTcjdPMDZ0QkdDZ3dPZ3U1WjdmVFJGdF9TTXlKVHZyeTM0Ykx2V3ladkxHRWM1cHo2RVZIdG9JRGdFbGZNQVlFNUNWQkpiU2JwcjU5Yy1lMFFOTk1HZm1Ydjh4NGpRNXA0UVpMdUF6UHJwVXBPYnluSUgxYjExdw?oc=5",
    "publisher": "Business Standard"
   }
  ],
  "commodities": [
   {
    "name": "Petroleum (WTI)",
-   "price": "89.84",
+   "price": "90.68",
    "unit": "USD/Bbl",
-   "chg": "+0.45%",
+   "chg": "+2.72%",
    "url": "https://tradingeconomics.com/commodity/crude-oil",
    "flag": null,
    "source": "tradingeconomics",
-   "asof": "2026-10-07"
+   "asof": "2026-10-08"
   },
   {
    "name": "Brent Crude",
-   "price": "101.26",
+   "price": "103.19",
    "unit": "USD/Bbl",
-   "chg": "+0.68%",
+   "chg": "+2.98%",
    "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
    "flag": null,
    "source": "tradingeconomics",
-   "asof": "2026-10-07"
+   "asof": "2026-10-08"
   },
   {
    "name": "Natural Gas",
-   "price": "3.18",
+   "price": "3.25",
    "unit": "USD/MMBtu",
-   "chg": "+1.99%",
+   "chg": "+1.61%",
    "url": "https://tradingeconomics.com/commodity/natural-gas",
+   "flag": null,
+   "source": "tradingeconomics",
+   "asof": "2026-10-08"
+  },
+  {
+   "name": "Coal (Newcastle)",
+   "price": "150.25",
+   "unit": "USD/T",
+   "chg": "-1.28%",
+   "url": "https://tradingeconomics.com/commodity/coal",
    "flag": null,
    "source": "tradingeconomics",
    "asof": "2026-10-07"
   },
   {
-   "name": "Coal (Newcastle)",
-   "price": "152.20",
-   "unit": "USD/T",
-   "chg": "+1.47%",
-   "url": "https://tradingeconomics.com/commodity/coal",
-   "flag": null,
-   "source": "tradingeconomics",
-   "asof": "2026-10-06"
-  },
-  {
    "name": "Gold",
-   "price": "4133.60",
+   "price": "4123.55",
    "unit": "USD/t oz",
-   "chg": "-0.71%",
+   "chg": "+0.31%",
    "url": "https://tradingeconomics.com/commodity/gold",
    "flag": null,
-   "source": "kitco",
-   "asof": null
+   "source": "tradingeconomics",
+   "asof": "2026-10-08"
   },
   {
    "name": "Silver",
-   "price": "60.46",
+   "price": "59.01",
    "unit": "USD/t oz",
-   "chg": "-1.27%",
+   "chg": "-1.10%",
    "url": "https://tradingeconomics.com/commodity/silver",
    "flag": null,
    "source": "kitco",
@@ -71,23 +71,23 @@
   },
   {
    "name": "Platinum",
-   "price": "1676",
+   "price": "1667.60",
    "unit": "USD/t oz",
-   "chg": "-1.95%",
+   "chg": "+1.08%",
    "url": "https://tradingeconomics.com/commodity/platinum",
    "flag": null,
    "source": "tradingeconomics",
-   "asof": "2026-10-07"
+   "asof": "2026-10-08"
   },
   {
    "name": "Palladium",
-   "price": "1137.00",
+   "price": "1140.50",
    "unit": "USD/t oz",
-   "chg": "-1.39%",
+   "chg": "+1.20%",
    "url": "https://tradingeconomics.com/commodity/palladium",
    "flag": null,
-   "source": "kitco",
-   "asof": null
+   "source": "tradingeconomics",
+   "asof": "2026-10-08"
   },
   {
    "name": "Rhodium",
@@ -101,83 +101,83 @@
   },
   {
    "name": "Copper",
-   "price": "6.58",
+   "price": "6.63",
    "unit": "USD/Lbs",
-   "chg": "-0.28%",
+   "chg": "+0.45%",
    "url": "https://tradingeconomics.com/commodity/copper",
    "flag": null,
    "source": "tradingeconomics",
-   "asof": "2026-10-07"
+   "asof": "2026-10-08"
   },
   {
    "name": "Aluminum",
-   "price": "3136.25",
+   "price": "3100.25",
    "unit": "USD/T",
-   "chg": "-0.28%",
+   "chg": "-0.72%",
    "url": "https://tradingeconomics.com/commodity/aluminum",
    "flag": null,
    "source": "tradingeconomics",
-   "asof": "2026-10-07"
+   "asof": "2026-10-08"
   },
   {
    "name": "Nickel",
-   "price": "15665.50",
+   "price": "15518.25",
    "unit": "USD/T",
-   "chg": "-0.03%",
+   "chg": "-1.35%",
    "url": "https://tradingeconomics.com/commodity/nickel",
    "flag": null,
    "source": "tradingeconomics",
-   "asof": "2026-10-07"
+   "asof": "2026-10-08"
   },
   {
    "name": "Zinc",
-   "price": "3745.95",
+   "price": "3771.30",
    "unit": "USD/T",
-   "chg": "-0.68%",
+   "chg": "+0.21%",
    "url": "https://tradingeconomics.com/commodity/zinc",
    "flag": null,
    "source": "tradingeconomics",
-   "asof": "2026-10-07"
+   "asof": "2026-10-08"
   },
   {
    "name": "Lead",
-   "price": "1876.63",
+   "price": "1885.50",
    "unit": "USD/T",
-   "chg": "+0.24%",
+   "chg": "-0.43%",
    "url": "https://tradingeconomics.com/commodity/lead",
    "flag": null,
    "source": "tradingeconomics",
-   "asof": "2026-10-07"
+   "asof": "2026-10-08"
   },
   {
    "name": "Tin",
-   "price": "54314",
+   "price": "54184",
    "unit": "USD/T",
-   "chg": "+0.56%",
+   "chg": "-0.24%",
    "url": "https://tradingeconomics.com/commodity/tin",
    "flag": "stale",
-   "source": "tradingeconomics",
-   "asof": "2026-10-05"
-  },
-  {
-   "name": "Iron Ore 62% Fe",
-   "price": "91.18",
-   "unit": "USD/T",
-   "chg": "-0.30%",
-   "url": "https://tradingeconomics.com/commodity/iron-ore",
-   "flag": null,
    "source": "tradingeconomics",
    "asof": "2026-10-06"
   },
   {
-   "name": "Lithium (carbonate)",
-   "price": "122800",
-   "unit": "CNY/T",
-   "chg": "-0.49%",
-   "url": "https://tradingeconomics.com/commodity/lithium",
-   "flag": "stale",
+   "name": "Iron Ore 62% Fe",
+   "price": "91.13",
+   "unit": "USD/T",
+   "chg": "-0.05%",
+   "url": "https://tradingeconomics.com/commodity/iron-ore",
+   "flag": null,
    "source": "tradingeconomics",
-   "asof": "2026-09-30"
+   "asof": "2026-10-07"
+  },
+  {
+   "name": "Lithium (carbonate)",
+   "price": "124950",
+   "unit": "CNY/T",
+   "chg": "+1.75%",
+   "url": "https://tradingeconomics.com/commodity/lithium",
+   "flag": null,
+   "source": "tradingeconomics",
+   "asof": "2026-10-08"
   },
   {
    "name": "Cobalt",
@@ -191,9 +191,9 @@
   },
   {
    "name": "Rare Earth Elements",
-   "price": "48.53",
+   "price": "46.31",
    "unit": "USD/share",
-   "chg": "+3.61%",
+   "chg": "-4.57%",
    "url": "https://finance.yahoo.com/quote/MP",
    "flag": "proxy",
    "source": "yahoo-finance-proxy"
@@ -202,51 +202,51 @@
    "name": "Uranium (U3O8)",
    "price": "89.85",
    "unit": "USD/Lbs",
-   "chg": "+0.17%",
+   "chg": "0.00%",
    "url": "https://tradingeconomics.com/commodity/uranium",
    "flag": null,
    "source": "tradingeconomics",
-   "asof": "2026-10-06"
+   "asof": null
   },
   {
    "name": "Wheat",
-   "price": "702.12",
+   "price": "684.54",
    "unit": "USd/Bu",
-   "chg": "-0.30%",
+   "chg": "-0.29%",
    "url": "https://tradingeconomics.com/commodity/wheat",
    "flag": null,
    "source": "tradingeconomics",
-   "asof": "2026-10-07"
+   "asof": "2026-10-08"
   },
   {
    "name": "Corn",
-   "price": "506.88",
+   "price": "500.87",
    "unit": "USd/Bu",
-   "chg": "-0.22%",
+   "chg": "-0.23%",
    "url": "https://tradingeconomics.com/commodity/corn",
    "flag": null,
    "source": "tradingeconomics",
-   "asof": "2026-10-07"
+   "asof": "2026-10-08"
   },
   {
    "name": "Soybeans",
-   "price": "1307.19",
+   "price": "1291.22",
    "unit": "USd/Bu",
-   "chg": "+0.32%",
+   "chg": "-0.48%",
    "url": "https://tradingeconomics.com/commodity/soybeans",
    "flag": null,
    "source": "tradingeconomics",
-   "asof": "2026-10-07"
+   "asof": "2026-10-08"
   },
   {
    "name": "Sugar",
-   "price": "20.82",
+   "price": "20.83",
    "unit": "USd/Lbs",
-   "chg": "+0.43%",
+   "chg": "+0.05%",
    "url": "https://tradingeconomics.com/commodity/sugar",
    "flag": null,
    "source": "tradingeconomics",
-   "asof": "2026-10-06"
+   "asof": "2026-10-07"
   }
  ]
 }

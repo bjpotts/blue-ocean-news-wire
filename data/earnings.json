@@ -10,7 +10,7 @@
   {
    "key": "asia",
    "name": "Asia (Japan/Singapore/Hong Kong/China)",
-   "summary": "Asia (Japan/Singapore/Hong Kong/China) earnings reporting activity captured this run runs to 2 items, led by China’s carmakers eye record 12 million overseas sales in 2026 as ‘go global’ plan pays off. The remaining items cover the rest of the region's results, guidance and reporting-season flow as reported by the linked sources. No newer earnings item has been reported for Asia (Japan/Singapore/Hong Kong/China) since the last edition, so the same verified item(s) are carried forward.",
+   "summary": "A single verifiable earnings item was found for Asia (Japan/Singapore/Hong Kong/China) this run: China’s carmakers eye record 12 million overseas sales in 2026 as ‘go global’ plan pays off. No newer earnings item has been reported for Asia (Japan/Singapore/Hong Kong/China) since the last edition, so the same verified item(s) are carried forward.",
    "fresh_count": 0,
    "items": [
     {
@@ -20,51 +20,60 @@
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
      "published": "2026-10-01T06:00:08+00:00",
-     "fetched": "2026-10-07T07:58:24+00:00"
-    },
-    {
-     "headline": "New World Development posts HK$26.8b loss after 11 Skies termination",
-     "detail": "New World Development (NWD) reported a net loss of HK$26.8 billion (US$3.42 billion) for the year ended June, as the developer booked HK$18.3 billion in impairments and provisions tied to the early termination of its flagship 11 Skies mall…",
-     "url": "https://www.scmp.com/business/companies/article/3369377/new-world-development-posts-hk268b-loss-after-11-skies-termination?utm_source=rss_feed",
-     "outlet": "South China Morning Post",
-     "source_url": "https://www.scmp.com/rss/92/feed",
-     "published": "2026-09-30T14:46:27+00:00",
-     "fetched": "2026-10-07T07:58:24+00:00"
+     "fetched": "2026-10-08T06:50:19+00:00"
     }
    ]
   },
   {
    "key": "us",
    "name": "US",
-   "summary": "US earnings reporting activity captured this run runs to 3 items, led by After-Hours Earnings Report for October 6, 2026 : STZ, PENG, NEOG, WS, SAR. The remaining items cover the rest of the region's results, guidance and reporting-season flow as reported by the linked sources.",
-   "fresh_count": 1,
+   "summary": "US earnings reporting activity captured this run runs to 5 items, led by Banks Under Pressure from Spiking Yields Ahead of Q3 Results. The remaining items cover the rest of the region's results, guidance and reporting-season flow as reported by the linked sources.",
+   "fresh_count": 5,
    "items": [
     {
-     "headline": "After-Hours Earnings Report for October 6, 2026 : STZ, PENG, NEOG, WS, SAR",
-     "detail": "The following companies are expected to report earnings after hours on 10/06/2026. Visit our Earnings Calendar for a full list of expected earnings releases.Constellation Brands Inc (STZ)is reporting for the quarter ending August 31, 2026.",
-     "url": "https://www.nasdaq.com/articles/after-hours-earnings-report-october-6-2026-stz-peng-neog-ws-sar",
+     "headline": "Banks Under Pressure from Spiking Yields Ahead of Q3 Results",
+     "detail": "Higher interest rates are generally seen as beneficial for the likes of JPMorgan and Wells Fargo, but spiking yields of the type we have been experiencing are negative for these banks from several angles.",
+     "url": "https://www.nasdaq.com/articles/banks-under-pressure-spiking-yields-ahead-q3-results",
      "outlet": "Nasdaq",
      "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
-     "published": "2026-10-06T18:00:01+00:00",
-     "fetched": "2026-10-07T07:58:27+00:00"
+     "published": "2026-10-07T22:10:00+00:00",
+     "fetched": "2026-10-08T06:50:22+00:00"
     },
     {
-     "headline": "Pre-Market Earnings Report for October 6, 2026 : RPM, LW, APOG",
-     "detail": "The following companies are expected to report earnings prior to market open on 10/06/2026. Visit our Earnings Calendar for a full list of expected earnings releases.RPM International Inc.",
-     "url": "https://www.nasdaq.com/articles/pre-market-earnings-report-october-6-2026-rpm-lw-apog",
+     "headline": "Pre-Market Earnings Report for October 8, 2026 : PEP, NG, ANGO, HELE, TLRY, BYRN",
+     "detail": "The following companies are expected to report earnings prior to market open on 10/08/2026. Visit our Earnings Calendar for a full list of expected earnings releases.Pepsico, Inc.",
+     "url": "https://www.nasdaq.com/articles/pre-market-earnings-report-october-8-2026-pep-ng-ango-hele-tlry-byrn",
      "outlet": "Nasdaq",
      "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
-     "published": "2026-10-05T20:00:01+00:00",
-     "fetched": "2026-10-07T07:58:27+00:00"
+     "published": "2026-10-07T20:00:01+00:00",
+     "fetched": "2026-10-08T06:50:22+00:00"
     },
     {
-     "headline": "After-Hours Earnings Report for October 1, 2026 : NKE",
-     "detail": "The following companies are expected to report earnings after hours on 10/01/2026. Visit our Earnings Calendar for a full list of expected earnings releases.Nike, Inc. (NKE)is reporting for the quarter ending August 31, 2026.",
-     "url": "https://www.nasdaq.com/articles/after-hours-earnings-report-october-1-2026-nke",
+     "headline": "After-Hours Earnings Report for October 7, 2026 : APLD, LEVI, RELL, RGP",
+     "detail": "The following companies are expected to report earnings after hours on 10/07/2026.",
+     "url": "https://www.nasdaq.com/articles/after-hours-earnings-report-october-7-2026-apld-levi-rell-rgp",
      "outlet": "Nasdaq",
      "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
-     "published": "2026-10-01T18:00:01+00:00",
-     "fetched": "2026-10-07T07:58:27+00:00"
+     "published": "2026-10-07T18:00:01+00:00",
+     "fetched": "2026-10-08T06:50:22+00:00"
+    },
+    {
+     "headline": "What Lamb Weston (LW) Said on Its Q1 Earnings Call",
+     "detail": "AI, Satellites and Staples: Insiders Are Buying and Selling 3 Big NamesLamb Weston (NYSE:LW) raised its fiscal 2027 outlook after reporting first-quarter results that exceeded its expectations, supported by continued volume growth in North…",
+     "url": "https://www.nasdaq.com/articles/what-lamb-weston-lw-said-its-q1-earnings-call",
+     "outlet": "Nasdaq",
+     "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
+     "published": "2026-10-06T15:02:37+00:00",
+     "fetched": "2026-10-08T06:50:22+00:00"
+    },
+    {
+     "headline": "Apogee Enterprises Q2 Earnings Call Highlights",
+     "detail": "Apogee Falls On Earnings And Improved Financial ConditionApogee Enterprises (NASDAQ:APOG) reported fiscal 2027 second-quarter results that exceeded its expectations, supported by pricing actions, productivity gains, cost savings and…",
+     "url": "https://www.nasdaq.com/articles/apogee-enterprises-q2-earnings-call-highlights",
+     "outlet": "Nasdaq",
+     "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
+     "published": "2026-10-06T15:02:37+00:00",
+     "fetched": "2026-10-08T06:50:22+00:00"
     }
    ]
   },
@@ -78,17 +87,26 @@
   {
    "key": "europe",
    "name": "Europe",
-   "summary": "A single verifiable earnings item was found for Europe this run: Pennon shares drop 16% on £550 mln rights issue, dividend cut.",
-   "fresh_count": 1,
+   "summary": "Europe earnings reporting activity captured this run runs to 2 items, led by Singapore Bank Shares Tumble as Yield Surge Threatens Earnings. The remaining items cover the rest of the region's results, guidance and reporting-season flow as reported by the linked sources.",
+   "fresh_count": 2,
    "items": [
     {
-     "headline": "Pennon shares drop 16% on £550 mln rights issue, dividend cut",
-     "detail": "Pennon shares drop 16% on £550 mln rights issue, dividend cut",
-     "url": "https://www.investing.com/news/stock-market-news/pennon-to-raise-550-million-in-rights-issue-rebase-dividend-for-water-upgrade-4935666",
+     "headline": "Singapore Bank Shares Tumble as Yield Surge Threatens Earnings",
+     "detail": "A selloff in Singapore bank shares deepened after JPMorgan Chase & Co. warned that surging long bond yields will hurt third-quarter earnings for Southeast Asian lenders.",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-08/singapore-banks-hot-rally-stutters-over-surging-bond-yields",
+     "outlet": "Bloomberg",
+     "source_url": "https://feeds.bloomberg.com/markets/news.rss",
+     "published": "2026-10-08T02:03:35+00:00",
+     "fetched": "2026-10-08T06:50:25+00:00"
+    },
+    {
+     "headline": "Uniqlo operator Fast Retailing posts 32% rise in full-year profit",
+     "detail": "Uniqlo operator Fast Retailing posts 32% rise in full-year profit",
+     "url": "https://www.investing.com/news/stock-market-news/uniqlo-operator-fast-retailing-posts-32-rise-in-fullyear-profit-4937970",
      "outlet": "Investing.com",
      "source_url": "https://www.investing.com/rss/news_25.rss",
      "published": null,
-     "fetched": "2026-10-07T07:58:31+00:00"
+     "fetched": "2026-10-08T06:50:26+00:00"
     }
    ]
   },

@@ -4,48 +4,48 @@
    "key": "nbc",
    "name": "NBC News",
    "site": "nbcnews.com",
-   "summary": "NBC News, covering US national news and politics is leading with Susan Collins and Troy Jackson clash over Trump and seniority in Maine’s first Senate debate; Sally Yates, former acting attorney general who defied Trump, to lead Cornell investigation; Christa Pike now conscious and speaking following failed execution.",
+   "summary": "NBC News, covering US national news and politics is leading with Trump dominates the Iowa Senate debate from afar; Trump appears to reframe 'let them hit’ comment during San Antonio rally; DNC sues administration over taxpayer-funded pro-Trump TV ads.",
    "note": null,
    "items": [
     {
-     "headline": "Susan Collins and Troy Jackson clash over Trump and seniority in Maine’s first Senate debate",
-     "detail": "The two candidates clashed repeatedly over their records and national politics in the first of four debates in the key battleground race.",
-     "url": "https://www.nbcnews.com/politics/2026-election/susan-collins-troy-jackson-clash-trump-seniority-maines-first-senate-d-rcna601346",
+     "headline": "Trump dominates the Iowa Senate debate from afar",
+     "detail": "Republican Ashley Hinson and Democrat Josh Turek sparred about how to handle the president and other issues in a battleground debate Wednesday night.",
+     "url": "https://www.nbcnews.com/politics/2026-election/trump-dominates-iowa-senate-debate-afar-hinson-turek-rcna602129",
      "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
-     "published": "2026-10-07T00:35:16+00:00",
-     "fetched": "2026-10-07T07:58:44+00:00"
+     "published": "2026-10-08T02:25:40+00:00",
+     "fetched": "2026-10-08T06:50:37+00:00"
     },
     {
-     "headline": "Sally Yates, former acting attorney general who defied Trump, to lead Cornell investigation",
-     "detail": "The longtime federal prosecutor became known for refusing to enforce Trump’s ban on travelers to the U.S. from predominantly Muslim countries.",
-     "url": "https://www.nbcnews.com/news/us-news/sally-yates-former-acting-ag-clashed-trump-leading-cornell-assault-pro-rcna601914",
+     "headline": "Trump appears to reframe 'let them hit’ comment during San Antonio rally",
+     "detail": "During a San Antonio rally, President Trump appeared to reframe his earlier remarks that Iran could \"hit\" San Diego or Los Angeles, suggesting Iran would only do so if it had nuclear weapons.",
+     "url": "https://www.nbcnews.com/video/trump-appears-to-reframe-let-them-hit-comment-during-san-antonio-rally-271226437732",
      "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
-     "published": "2026-10-06T22:07:57+00:00",
-     "fetched": "2026-10-07T07:58:44+00:00"
+     "published": "2026-10-08T02:08:38+00:00",
+     "fetched": "2026-10-08T06:50:37+00:00"
     },
     {
-     "headline": "Christa Pike now conscious and speaking following failed execution",
-     "detail": "Christa Pike, a Tennessee inmate who was unconscious and on a ventilator after a failed execution, is now awake and speaking, according to her lawyers. In a statement, attorneys for Pike said she remains handcuffed and shackled.",
-     "url": "https://www.nbcnews.com/video/christa-pike-now-conscious-and-speaking-following-failed-execution-271141957785",
+     "headline": "DNC sues administration over taxpayer-funded pro-Trump TV ads",
+     "detail": "Trump announced this week that he and his PAC, MAGA Inc., would pay for the ads moving forward following bipartisan criticism.",
+     "url": "https://www.nbcnews.com/politics/2026-election/dnc-sues-administration-taxpayer-funded-trump-tv-ads-rcna602156",
      "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
-     "published": "2026-10-06T21:55:29+00:00",
-     "fetched": "2026-10-07T07:58:44+00:00"
+     "published": "2026-10-07T21:48:47+00:00",
+     "fetched": "2026-10-08T06:50:37+00:00"
     },
     {
-     "headline": "Paramount Skydance completes $110 billion ​takeover of Warner Bros.",
-     "detail": "Paramount Skydance completed its $110 billion ​takeover of Warner Bros., creating a Hollywood heavyweight called Skydance and handing CEO David ‌Ellison control. NBC News' Brian Cheung reports on the details of the merger.",
-     "url": "https://www.nbcnews.com/video/paramount-skydance-completes-110-billion-takeover-of-warner-bros-271114821749",
+     "headline": "Florida poll: Republicans lead in the races for governor and Senate",
+     "detail": "The new survey shows the state’s Hispanic voters shifting away from President Donald Trump after Republicans made gains in 2024.",
+     "url": "https://www.nbcnews.com/politics/2026-election/florida-poll-republicans-lead-races-governor-senate-rcna601342",
      "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
-     "published": "2026-10-06T14:41:13+00:00",
-     "fetched": "2026-10-07T07:58:44+00:00"
+     "published": "2026-10-07T10:00:41+00:00",
+     "fetched": "2026-10-08T06:50:37+00:00"
     },
     {
-     "headline": "What Trump's new executive order on diesel means",
-     "detail": "President Trump signed an executive order aimed at bringing down diesel prices by easing restrictions on red-dye diesel. NBC News' Brian Cheung breaks down what is in the order and what it means for Americans.",
-     "url": "https://www.nbcnews.com/meet-the-press/video/what-trump-s-new-executive-order-on-diesel-means-271149637697",
+     "headline": "Inmate 'angry and confused' after botched execution",
+     "detail": "Attorneys for the death row inmate at the center of that failed execution in Tennessee revealed why they were shocked when Christa Pike woke-up and began talking. NBC News’ Aaron Gilchrist has more.",
+     "url": "https://www.nbcnews.com/nightly-news/video/inmate-angry-and-confused-after-botched-execution-271218245515",
      "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
-     "published": "2026-10-06T23:21:31+00:00",
-     "fetched": "2026-10-07T07:58:44+00:00"
+     "published": "2026-10-07T23:08:48+00:00",
+     "fetched": "2026-10-08T06:50:37+00:00"
     }
    ]
   },
@@ -53,48 +53,48 @@
    "key": "thehill",
    "name": "The Hill",
    "site": "thehill.com",
-   "summary": "The Hill, reporting on Congress, the White House and US policy is leading with Sparks fly in first Iowa governor’s debate: 5 takeaways; Benson, James spar in Michigan gubernatorial debate: 3 takeaways; Collins, Jackson clash in first Maine Senate debate: 4 takeaways.",
+   "summary": "The Hill, reporting on Congress, the White House and US policy is leading with Former MLB pitcher Roger Clemens to receive Medal of Freedom, Trump says; Trump reups beef with 'ungrateful' Cuellar for staying Democrat after pardon; Shapiro, Garrity clash on data centers, measles response in Pennsylvania governor debate: 4 takeaways.",
    "note": null,
    "items": [
     {
-     "headline": "Sparks fly in first Iowa governor’s debate: 5 takeaways",
-     "detail": "Accusations of carpetbagging, attacks over family wealth and barbs over culture war issues dominated the first televised debate between Republican Zach Lahn and Democrat Rob Sand as the two vie to replace retiring Gov.",
-     "url": "https://thehill.com/homenews/campaign/6133056-iowa-governor-debate-lahn-sand/",
+     "headline": "Former MLB pitcher Roger Clemens to receive Medal of Freedom, Trump says",
+     "detail": "President Trump said he will award controversial baseball legend Roger Clemens the Presidential Medal of Freedom, saying the honor is a “big step up” from the MLB’s Hall of Fame — which has repeatedly declined to recognize him.",
+     "url": "https://thehill.com/homenews/6135542-roger-clemens-medal-of-freedom-trump/",
      "source_url": "https://thehill.com/news/feed/",
-     "published": "2026-10-07T03:22:18+00:00",
-     "fetched": "2026-10-07T07:58:45+00:00"
+     "published": "2026-10-08T03:25:59+00:00",
+     "fetched": "2026-10-08T06:50:38+00:00"
     },
     {
-     "headline": "Benson, James spar in Michigan gubernatorial debate: 3 takeaways",
-     "detail": "Michigan Secretary of State Jocelyn Benson (D) and Rep. John James (R-Mich.) faced off on the debate stage Tuesday, less than a month before voters decide which of the two will be the Wolverine State’s next governor.",
-     "url": "https://thehill.com/homenews/campaign/6133026-benson-james-michigan-gubernatorial-debate/",
+     "headline": "Trump reups beef with 'ungrateful' Cuellar for staying Democrat after pardon",
+     "detail": "President Trump ripped into Rep. Henry Cuellar (D-Texas) Wednesday evening for not switching parties after receiving a presidential pardon in 2025, the latest development in a feud that has intensified since the Democrat announced his…",
+     "url": "https://thehill.com/homenews/administration/6135540-trump-cuellar-pardon-tijerina-texas-midterms/",
      "source_url": "https://thehill.com/news/feed/",
-     "published": "2026-10-07T02:48:29+00:00",
-     "fetched": "2026-10-07T07:58:45+00:00"
+     "published": "2026-10-08T03:15:20+00:00",
+     "fetched": "2026-10-08T06:50:38+00:00"
     },
     {
-     "headline": "Collins, Jackson clash in first Maine Senate debate: 4 takeaways",
-     "detail": "Republican Sen. Susan Collins and Democrat Troy Jackson faced off Tuesday in the first debate of their neck-and-neck Senate race in Maine.",
-     "url": "https://thehill.com/homenews/campaign/6132984-maine-senate-debate-collins-jackson/",
+     "headline": "Shapiro, Garrity clash on data centers, measles response in Pennsylvania governor debate: 4 takeaways",
+     "detail": "Pennsylvania Gov. Josh Shapiro (D) and state Treasurer Stacy Garrity (R), their parties' nominees to lead the commonwealth, sparred over an ongoing measles outbreak, voter ID reform and data centers during their first and only scheduled…",
+     "url": "https://thehill.com/homenews/campaign/6135511-shapiro-garrity-debate-takeaways/",
      "source_url": "https://thehill.com/news/feed/",
-     "published": "2026-10-07T01:34:17+00:00",
-     "fetched": "2026-10-07T07:58:45+00:00"
+     "published": "2026-10-08T02:50:23+00:00",
+     "fetched": "2026-10-08T06:50:38+00:00"
     },
     {
-     "headline": "Plague in Russia sparks concern, COVID-19 pandemic memories: 5 things to know",
-     "detail": "The death of Russian lab technician researching the plague has set off alarms abroad and at home as observers note resemblances to the conditions that some theorized preceded the COVID-19 pandemic.",
-     "url": "https://thehill.com/policy/healthcare/6132881-russia-lab-worker-plague-death-facts/",
+     "headline": "FDA: Mifepristone review won't be done until March",
+     "detail": "The Food and Drug Administration (FDA) won’t publish its safety review of the abortion drug mifepristone until March, it disclosed in a Wednesday court filing, adding that it won’t impose any new restrictions on the pill before that point.",
+     "url": "https://thehill.com/policy/healthcare/6135515-fda-mifepristone-abortion-pill-review-delay/",
      "source_url": "https://thehill.com/news/feed/",
-     "published": "2026-10-07T00:10:35+00:00",
-     "fetched": "2026-10-07T07:58:45+00:00"
+     "published": "2026-10-08T02:33:30+00:00",
+     "fetched": "2026-10-08T06:50:38+00:00"
     },
     {
-     "headline": "Planned Parenthood Votes adds $1M to ad campaigns in Maine, Michigan",
-     "detail": "Planned Parenthood is investing an additional $1 million in ad buys to boost Democratic Senate candidates in Maine and Michigan.",
-     "url": "https://thehill.com/homenews/campaign/6132846-planned-parenthood-votes-senate-ads/",
+     "headline": "Turek, Hinson spar in first Iowa Senate debate: 3 takeaways",
+     "detail": "U.S. Rep. Ashley Hinson (R-Iowa) and state Rep. Josh Turek (D-Iowa), the two candidates for Senate, faced off in a debate Wednesday night, where health care cuts and agriculture were significant topics, as well as each candidate’s voting…",
+     "url": "https://thehill.com/homenews/campaign/6135522-turek-hinson-spar-in-first-iowa-senate-debate-3-takeaways/",
      "source_url": "https://thehill.com/news/feed/",
-     "published": "2026-10-06T23:22:47+00:00",
-     "fetched": "2026-10-07T07:58:45+00:00"
+     "published": "2026-10-08T02:31:20+00:00",
+     "fetched": "2026-10-08T06:50:38+00:00"
     }
    ]
   },
@@ -102,56 +102,97 @@
    "key": "time",
    "name": "Time",
    "site": "time.com",
-   "summary": "Time returned no fresh dated headlines this run.",
-   "note": "No dated items in the feed this run.",
-   "items": []
+   "summary": "Time magazine, covering US and world affairs is leading with At San Antonio Rally, Trump Warns He’ll ‘Never Forgive’ Texas if Talarico Wins; Aaron Sorkin's The Social Reckoning Is a Brisk, Old-School Journalism Thriller; Most Americans Want to Stop Changing the Clocks. Here’s Why Senators Are Hesitating.",
+   "note": null,
+   "items": [
+    {
+     "headline": "At San Antonio Rally, Trump Warns He’ll ‘Never Forgive’ Texas if Talarico Wins",
+     "detail": "The President returned to deep-red Texas to rally for Ken Paxton’s Senate bid, while revealing at times his own trepidation that one of the Republican Party’s longest winning streaks may be about to end on his watch.",
+     "url": "https://time.com/article/2026/10/08/trump-rally-san-antonio-texas-talarico/",
+     "source_url": "https://time.com/feed/",
+     "published": "2026-10-08T02:30:00+00:00",
+     "fetched": "2026-10-08T06:50:38+00:00"
+    },
+    {
+     "headline": "Aaron Sorkin's The Social Reckoning Is a Brisk, Old-School Journalism Thriller",
+     "detail": "Sorkin’s approach to telling the next chapter in the Facebook story is somewhat professorial, but the movie moves along briskly and features solid performances.",
+     "url": "https://time.com/article/2026/10/07/the-social-reckoning-review/",
+     "source_url": "https://time.com/feed/",
+     "published": "2026-10-07T20:29:48+00:00",
+     "fetched": "2026-10-08T06:50:38+00:00"
+    },
+    {
+     "headline": "Most Americans Want to Stop Changing the Clocks. Here’s Why Senators Are Hesitating",
+     "detail": "A bill that would make Daylight Saving Time permanent across the U.S. passed the House this summer. But senators are split on the measure.",
+     "url": "https://time.com/article/2026/10/07/senate-permanent-daylight-saving-time-sunshine-protection-act/",
+     "source_url": "https://time.com/feed/",
+     "published": "2026-10-07T19:59:00+00:00",
+     "fetched": "2026-10-08T06:50:38+00:00"
+    },
+    {
+     "headline": "What the Cornell 7 Case Reveals About Consent and Bravery",
+     "detail": "“Our sons know about consent. The real question is: Do they know how to be brave?\" asks Reshma Saujani. \"Knowing about consent is one thing—living by it is another.\"",
+     "url": "https://time.com/article/2026/10/07/what-the-cornell-7-case-reveals-about-consent-and-bravery/",
+     "source_url": "https://time.com/feed/",
+     "published": "2026-10-07T18:31:42+00:00",
+     "fetched": "2026-10-08T06:50:38+00:00"
+    },
+    {
+     "headline": "How to Beat Trump’s Noise Machine",
+     "detail": "Sustained attention to what President Donald Trump wants buried is the antidote to his perpetual noise machine.",
+     "url": "https://time.com/article/2026/10/07/trump-nebraska-los-angeles-iran-war-noise-machine/",
+     "source_url": "https://time.com/feed/",
+     "published": "2026-10-07T17:54:36+00:00",
+     "fetched": "2026-10-08T06:50:38+00:00"
+    }
+   ]
   },
   {
    "key": "variety",
    "name": "Variety",
    "site": "variety.com",
-   "summary": "Variety, on the business of entertainment is leading with Brazilian Cinema at Risk: A Report From Watching the Presidential Elections From the Rio Film Festival; The New Kindle Is Down to $100 for Amazon Prime Big Deals Day; ITV Studios Unveils Mipcom Drama Slate Led by Lunar Thriller ‘First Woman,’ and a Further Four New Titles, Including Steven Moffat’s ‘Number 10’ (EXCLUSIVE).",
+   "summary": "Variety, on the business of entertainment is leading with Vancouver Film Festival Prizes: Big Wins for Immigrant Tale ‘Nina Roza,’ the ‘Polished Cinematic’ ‘In the Heart of the South’ and Separated Sisters Story ‘How We Stand’; James Gunn Responds to ‘Clayface’ Criticism: ‘The Public Voting on What IP They Want to See’ Isn’t ‘the Only Way to Make a Movie’; Doha Film Festival Unveils Competition Lineup With Accent on Female Filmmakers and Middle East Fare.",
    "note": null,
    "items": [
     {
-     "headline": "Brazilian Cinema at Risk: A Report From Watching the Presidential Elections From the Rio Film Festival",
-     "detail": "RIO DE JANEIRO, Brazil – Inside one of the refrigerated rooms of the Armazém da Utopia, the beautiful portside warehouse where the Rio Film Festival’s RioMarket takes place, renowned director Marcelo Gomes lifts his hand and makes an “L”…",
-     "url": "https://variety.com/2026/film/global/brazilian-cinema-at-risk-presidential-elections-rio-fest-1236899299/",
+     "headline": "Vancouver Film Festival Prizes: Big Wins for Immigrant Tale ‘Nina Roza,’ the ‘Polished Cinematic’ ‘In the Heart of the South’ and Separated Sisters Story ‘How We Stand’",
+     "detail": "Geneviève Dulude-De Celles’ “Nina Roza,” Nyla Innuksuk’s “In the Heart of the South” and Marie Clements’ “How We Stand” are among the films taking top honors at the 45th Vancouver International Film Festival (VIFF).",
+     "url": "https://variety.com/2026/film/global/vancouver-film-festival-prizes-nina-roza-how-we-stand-1236905277/",
      "source_url": "https://variety.com/feed/",
-     "published": "2026-10-07T07:41:50+00:00",
-     "fetched": "2026-10-07T07:58:47+00:00"
+     "published": "2026-10-08T06:36:42+00:00",
+     "fetched": "2026-10-08T06:50:38+00:00"
     },
     {
-     "headline": "The New Kindle Is Down to $100 for Amazon Prime Big Deals Day",
-     "detail": "There are plenty of flashy tablets to shop during Prime Big Deals Day, but for anyone whose summer goals include finally finishing the stack of books on their nightstand, the newest Kindle release might be the smarter buy.",
-     "url": "https://variety.com/2026/shopping/news/prime-day-2026-kindle-deals-shop-online-1236784367/",
+     "headline": "James Gunn Responds to ‘Clayface’ Criticism: ‘The Public Voting on What IP They Want to See’ Isn’t ‘the Only Way to Make a Movie’",
+     "detail": "James Gunn has an answer to the question of “who tf asked for a Clayface movie,” posed by a user on the DC Studios head’s Threads account earlier this week.",
+     "url": "https://variety.com/2026/film/news/james-gunn-responds-to-clayface-criticism-dc-studios-1236905240/",
      "source_url": "https://variety.com/feed/",
-     "published": "2026-10-07T07:38:56+00:00",
-     "fetched": "2026-10-07T07:58:47+00:00"
+     "published": "2026-10-08T05:40:49+00:00",
+     "fetched": "2026-10-08T06:50:38+00:00"
     },
     {
-     "headline": "ITV Studios Unveils Mipcom Drama Slate Led by Lunar Thriller ‘First Woman,’ and a Further Four New Titles, Including Steven Moffat’s ‘Number 10’ (EXCLUSIVE)",
-     "detail": "ITV Studios has unveiled its drama slate for Mipcom, led by lunar thriller “First Woman,” and a further four new titles, including Steven Moffat’s workplace drama “Number 10.” Among the talent heading for the distributor’s Cannes showcase…",
-     "url": "https://variety.com/2026/tv/global/itv-studios-mipcom-drama-slate-first-woman-1236903527/",
+     "headline": "Doha Film Festival Unveils Competition Lineup With Accent on Female Filmmakers and Middle East Fare",
+     "detail": "The upcoming Doha Film Festival has unveiled its 15-title competition lineup made up mostly of Middle East premieres of movies from the region, seven of which directed by women.",
+     "url": "https://variety.com/2026/film/festivals/doha-film-festival-female-filmmakers-and-middle-east-1236904400/",
      "source_url": "https://variety.com/feed/",
-     "published": "2026-10-07T07:30:00+00:00",
-     "fetched": "2026-10-07T07:58:47+00:00"
+     "published": "2026-10-08T05:00:00+00:00",
+     "fetched": "2026-10-08T06:50:38+00:00"
     },
     {
-     "headline": "Ray Panthaki Debut, Jose Maria Cabral, Frederic Bailiff Pics Make the Cut at Tallinn Black Nights Official and First Films Competitions",
-     "detail": "Tallinn’s Black Nights Film Festival (known as PÖFF), the only A-list festival in Northern Europe, has unveiled its official selection and first feature competitions, taking in 21 world premieres and three international premieres such as…",
-     "url": "https://variety.com/2026/film/global/tallinn-black-nights-festival-competition-first-feature-1236903474/",
+     "headline": "Na Hong-Jin Traces ‘The Chaser,’ ‘The Wailing’ and ‘Hope’ to Bar Talk, Shamans and War Fears at Busan Masterclass",
+     "detail": "Na Hong-Jin told a Busan International Film Festival masterclass audience that his film “Hope” grew out of a conviction, around 2017, that war was about to break out on the Korean peninsula.",
+     "url": "https://variety.com/2026/film/festivals/na-hong-jin-hope-fear-war-busan-masterclass-1236905247/",
      "source_url": "https://variety.com/feed/",
-     "published": "2026-10-07T07:10:00+00:00",
-     "fetched": "2026-10-07T07:58:47+00:00"
+     "published": "2026-10-08T04:31:04+00:00",
+     "fetched": "2026-10-08T06:50:38+00:00"
     },
     {
-     "headline": "Warner Bros. TV Group Boss Channing Dungey Confirms Role as Member of Skydance’s Executive Leadership Team in Memo to Staffers",
-     "detail": "Warner Bros. TV Group & U.S. networks chairman/CEO Channing Dungey sent a memo to her staffers on Tuesday evening confirming her role in the new Skydance structure, including the fact that she will be a part of the company’s new executive…",
-     "url": "https://variety.com/2026/tv/news/warner-bros-channing-dungey-skydance-role-memo-staff-1236903454/",
+     "headline": "Danny and Oxide Pang’s Josie Ho-Starring Supernatural Thriller ‘The Mage’ Sets Busan Market Debut With Abnormal Studios (EXCLUSIVE)",
+     "detail": "Danny and Oxide Pang’s supernatural crime thriller “The Mage,” starring Josie Ho, is being introduced to international buyers at the Busan International Film Festival’s Asian Contents & Film Market (ACFM) as the film opens in its first…",
+     "url": "https://variety.com/2026/film/markets-festivals/pang-brothers-josie-ho-thriller-mage-busan-market-debut-1236905233/",
      "source_url": "https://variety.com/feed/",
-     "published": "2026-10-07T06:53:08+00:00",
-     "fetched": "2026-10-07T07:58:47+00:00"
+     "published": "2026-10-08T03:59:51+00:00",
+     "fetched": "2026-10-08T06:50:38+00:00"
     }
    ]
   },
@@ -159,48 +200,48 @@
    "key": "bloomberg",
    "name": "Bloomberg",
    "site": "bloomberg.com",
-   "summary": "Bloomberg's markets and business file is leading with Topix’s Biggest Ever Revamp to Cull Hundreds of Japan Stocks; Stocks and Bonds Fall as Hormuz Attacks Lift Oil: Markets Wrap; Europe Trades Fiscal Risk More Than US: Market Analysis.",
+   "summary": "Bloomberg's markets and business file is leading with Singapore Bank Shares Tumble as Yield Surge Threatens Earnings; Chelsea FC Co-Owners Settled Dispute With Robey as Key Mediator; Imperial Brands Plans £1.5 Billion Buyback After Shares Decline.",
    "note": null,
    "items": [
     {
-     "headline": "Topix’s Biggest Ever Revamp to Cull Hundreds of Japan Stocks",
-     "detail": "Japan Exchange Group Inc. unveiled the biggest-ever reshuffle of the Topix on Wednesday, a revamp that shrinks one of Asia’s broadest major equity benchmarks and intensifies pressure on Japanese companies to boost their market appeal.",
-     "url": "https://www.bloomberg.com/news/articles/2026-10-07/topix-s-biggest-ever-revamp-to-cull-hundreds-of-japanese-stocks",
+     "headline": "Singapore Bank Shares Tumble as Yield Surge Threatens Earnings",
+     "detail": "A selloff in Singapore bank shares deepened after JPMorgan Chase & Co. warned that surging long bond yields will hurt third-quarter earnings for Southeast Asian lenders.",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-08/singapore-banks-hot-rally-stutters-over-surging-bond-yields",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-07T04:15:44+00:00",
-     "fetched": "2026-10-07T07:58:48+00:00"
+     "published": "2026-10-08T02:03:35+00:00",
+     "fetched": "2026-10-08T06:50:40+00:00"
     },
     {
-     "headline": "Stocks and Bonds Fall as Hormuz Attacks Lift Oil: Markets Wrap",
-     "detail": "A rally in stocks came to a halt and global bonds fell as mounting attacks on tankers in the Middle East pushed oil prices higher.",
-     "url": "https://www.bloomberg.com/news/articles/2026-10-06/stock-market-today-dow-s-p-live-updates",
+     "headline": "Chelsea FC Co-Owners Settled Dispute With Robey as Key Mediator",
+     "detail": "In between advising on multibillion-pound FTSE takeovers, investment banker Simon Robey this year found himself playing a role more akin to counselor to the owners of English football club Chelsea FC.",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-08/star-banker-simon-robey-kept-chelsea-fc-s-co-owners-talking-through-feud",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-06T22:12:38+00:00",
-     "fetched": "2026-10-07T07:58:48+00:00"
+     "published": "2026-10-08T06:30:31+00:00",
+     "fetched": "2026-10-08T06:50:40+00:00"
     },
     {
-     "headline": "Europe Trades Fiscal Risk More Than US: Market Analysis",
-     "detail": "Anna Edwards, Guy Johnson, and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)",
-     "url": "https://www.bloomberg.com/news/videos/2026-10-07/europe-trades-fiscal-risk-more-than-us-3-minutes-mliv-video",
+     "headline": "Imperial Brands Plans £1.5 Billion Buyback After Shares Decline",
+     "detail": "Imperial Brands Plc plans a £1.5 billion ($2 billion) share buyback in the next fiscal year, citing continued confidence in its future performance and cost-cutting efforts.",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-08/imperial-brands-plans-1-5-billion-buyback-after-shares-decline",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-07T07:21:55+00:00",
-     "fetched": "2026-10-07T07:58:48+00:00"
+     "published": "2026-10-08T06:21:21+00:00",
+     "fetched": "2026-10-08T06:50:40+00:00"
     },
     {
-     "headline": "India's Central Bank Hikes Repo Rate by 25 Bps",
-     "detail": "RBI raised interest rates for the first time in nearly four years. Governor Sanjay Malhotra says given the current economic scenario, rate hikes are off the table in the near-term.",
-     "url": "https://www.bloomberg.com/news/videos/2026-10-07/india-s-central-bank-hikes-repo-rate-by-25-bps-video",
+     "headline": "AI Bubble Risks Worst S&P 500 Crash Since 2008, Strategist Says",
+     "detail": "The head of market strategy at a London investment bank has a stark warning for investors: the artificial-intelligence trade may soon be over in what could trigger the most severe market crash since the global financial crisis.",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-08/ai-bubble-risks-worst-s-p-500-crash-since-2008-strategist-says",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-07T05:44:03+00:00",
-     "fetched": "2026-10-07T07:58:48+00:00"
+     "published": "2026-10-08T06:16:38+00:00",
+     "fetched": "2026-10-08T06:50:40+00:00"
     },
     {
-     "headline": "Dutch Government Plans to Halve ABN Amro Stake to 10.5%",
-     "detail": "The Netherlands plans to cut its stake in ABN Amro Bank NV in half, taking the bank closer to full private ownership.",
-     "url": "https://www.bloomberg.com/news/articles/2026-10-07/dutch-government-plans-to-cut-abn-amro-stake-to-10-5-from-20-7",
+     "headline": "Stocks and Treasuries Decline as Brent Tops $102: Markets Wrap",
+     "detail": "A global stock rally that brought equities within striking distance of an all-time high lost further ground as oil jumped on renewed Middle East tensions, stoking concerns about inflation. Treasuries declined.",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-07/stock-market-today-dow-s-p-live-updates",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-07T05:47:03+00:00",
-     "fetched": "2026-10-07T07:58:48+00:00"
+     "published": "2026-10-07T22:03:17+00:00",
+     "fetched": "2026-10-08T06:50:40+00:00"
     }
    ]
   },
@@ -208,48 +249,48 @@
    "key": "bbc",
    "name": "BBC",
    "site": "bbc.com",
-   "summary": "The BBC's world news service is leading with US death row inmate Christa Pike awake and speaking after failed execution, lawyers say; Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild; What is pneumonic plague and how does it spread?.",
+   "summary": "The BBC's world news service is leading with US and Lebanon protecting wanted Syrian general, BBC finds; Texas carries out first US execution since Christa Pike's botched lethal injections; Spanish pensioner whose eviction sparked nationwide protests dies.",
    "note": null,
    "items": [
     {
-     "headline": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-     "detail": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
-     "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+     "headline": "US and Lebanon protecting wanted Syrian general, BBC finds",
+     "detail": "Bassam al-Hassan, linked to reporter Austin Tice's abduction, is being sheltered in return for information.",
+     "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-     "published": "2026-10-07T07:07:22+00:00",
-     "fetched": "2026-10-07T07:58:48+00:00"
+     "published": "2026-10-08T05:00:44+00:00",
+     "fetched": "2026-10-08T06:50:41+00:00"
     },
     {
-     "headline": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
-     "detail": "Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there.",
-     "url": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
+     "headline": "Texas carries out first US execution since Christa Pike's botched lethal injections",
+     "detail": "Lawyers for Jamaal Howard had asked a judge to pause the execution after Christa Pike's botched lethal injections.",
+     "url": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-     "published": "2026-10-07T05:02:18+00:00",
-     "fetched": "2026-10-07T07:58:48+00:00"
+     "published": "2026-10-08T03:02:06+00:00",
+     "fetched": "2026-10-08T06:50:41+00:00"
     },
     {
-     "headline": "What is pneumonic plague and how does it spread?",
-     "detail": "The death of a worker from a Russian lab that researches plague has prompted questions about the disease.",
-     "url": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss",
+     "headline": "Spanish pensioner whose eviction sparked nationwide protests dies",
+     "detail": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
+     "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-     "published": "2026-10-06T15:35:22+00:00",
-     "fetched": "2026-10-07T07:58:48+00:00"
+     "published": "2026-10-08T00:09:17+00:00",
+     "fetched": "2026-10-08T06:50:41+00:00"
     },
     {
-     "headline": "Ex-US spy who stashed gold bars in his home admits to $200m scam",
-     "detail": "David Rush, who also confessed to providing secrets to a foreign government, had revealed the existence of a \"clandestine human source\", prosecutors said.",
-     "url": "https://www.bbc.co.uk/news/articles/cr3wvq965dngo?at_medium=RSS&at_campaign=rss",
+     "headline": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
+     "detail": "Pioneering computer scientist led the development of the software for Nasa's Apollo mission and was awarded the Presidential Medal of Freedom.",
+     "url": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-     "published": "2026-10-06T19:53:45+00:00",
-     "fetched": "2026-10-07T07:58:48+00:00"
+     "published": "2026-10-08T05:10:40+00:00",
+     "fetched": "2026-10-08T06:50:41+00:00"
     },
     {
-     "headline": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
-     "detail": "A sharp increase in human activity is affecting the way the Himalayan monal lives and communicates, studies show.",
-     "url": "https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss",
+     "headline": "France's school protests: What lies behind the anger",
+     "detail": "Students' blockades and marches spring from real grievances – and from France's habit of settling policy on the street.",
+     "url": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-     "published": "2026-10-06T23:07:44+00:00",
-     "fetched": "2026-10-07T07:58:48+00:00"
+     "published": "2026-10-08T03:38:46+00:00",
+     "fetched": "2026-10-08T06:50:41+00:00"
     }
    ]
   },
@@ -257,48 +298,48 @@
    "key": "france24",
    "name": "France 24",
    "site": "france24.com",
-   "summary": "France 24's English service, reporting from Paris on Europe, Africa and the Middle East is leading with Russia launches one of its biggest strikes on Ukraine, killing at least 11; Lionel Messi scores as Argentina beat Benin for his last international game; How Netanyahu survived the political fallout from the October 7 attacks.",
+   "summary": "France 24's English service, reporting from Paris on Europe, Africa and the Middle East is leading with El Nino set to intensify before peaking in December, UN warns; Portugal: Cristiano Ronaldo controversy rumbles on; Live: French high school, university students call for fresh protests as funding demands grow.",
    "note": null,
    "items": [
     {
-     "headline": "Russia launches one of its biggest strikes on Ukraine, killing at least 11",
-     "detail": "At least 11 people were killed in Ukraine after Russia fired 70 missiles and drones in one of its biggest strikes ‌on the country, President Volodymyr Zelensky ‌said on Wednesday.",
-     "url": "https://www.france24.com/en/europe/20261007-at-least-two-killed-in-fire-caused-by-massive-strikes-on-kyiv",
+     "headline": "El Nino set to intensify before peaking in December, UN warns",
+     "detail": "The United Nations warned on Thursday that El Nino will intensify before peaking in December, bringing higher temperatures to much of the planet and compounding the effects of man-made climate change.",
+     "url": "https://www.france24.com/en/environment/20261008-el-nino-set-to-intensify-before-peaking-in-december-un-warns",
      "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-10-07T05:56:19+00:00",
-     "fetched": "2026-10-07T07:58:49+00:00"
+     "published": "2026-10-08T06:09:13+00:00",
+     "fetched": "2026-10-08T06:50:41+00:00"
     },
     {
-     "headline": "Lionel Messi scores as Argentina beat Benin for his last international game",
-     "detail": "Lionel Messi played his final match for Argentina, a 3-0 victory over Benin. A full tribute was paid to him before and after the match.",
-     "url": "https://www.france24.com/en/tv-shows/sports/20261007-lionel-messi-scores-as-argentina-beat-benin-for-his-last-international-game",
+     "headline": "Portugal: Cristiano Ronaldo controversy rumbles on",
+     "detail": "The controversy between Cristiano Ronaldo and Jorge Jesus continues, following the lengthy statement released by the forward on Tuesday. Ronaldo explained his decision to leave the Portugal squad and accused his coach of breaking his word.",
+     "url": "https://www.france24.com/en/tv-shows/sports/20261008-portugal-cristiano-ronaldo-controversy-rumbles-on",
      "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-10-07T05:42:31+00:00",
-     "fetched": "2026-10-07T07:58:49+00:00"
+     "published": "2026-10-08T05:35:09+00:00",
+     "fetched": "2026-10-08T06:50:41+00:00"
     },
     {
-     "headline": "How Netanyahu survived the political fallout from the October 7 attacks",
-     "detail": "Three years after the deadly Hamas-led October 7 attacks in southern Israel, Prime Minister Benjamin Netanyahu is fighting for political survival ahead of legislative elections later this month.",
-     "url": "https://www.france24.com/en/middle-east/20261007-how-netanyahu-survived-the-political-fallout-from-the-october-7-attacks",
+     "headline": "Live: French high school, university students call for fresh protests as funding demands grow",
+     "detail": "French high school and university students were called out to protest again on Thursday, two days after a large turnout demanding more funding, as the government made a series of conciliatory gestures aimed at ending the crisis.",
+     "url": "https://www.france24.com/en/france/20261008-live-students-fourth-round-protests-education-funding-france",
      "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-10-07T05:24:03+00:00",
-     "fetched": "2026-10-07T07:58:49+00:00"
+     "published": "2026-10-08T03:28:21+00:00",
+     "fetched": "2026-10-08T06:50:41+00:00"
     },
     {
-     "headline": "Live: Israel marks three years since Hamas’s deadly October 7 attacks",
-     "detail": "Israelis on Wednesday began commemorations for the victims of Hamas’s October 7, 2023 attacks, which killed 1,200 people and saw 251 hostages taken.",
-     "url": "https://www.france24.com/en/middle-east/20261007-middle-east-live-houthis-target-airport-in-yemen-as-israel-marks-october-7-anniversary",
+     "headline": "Saudi Arabia says it will retaliate after deadly Houthi attacks on airports",
+     "detail": "Saudi authorities said Wednesday three people were killed and 36 wounded in attacks on Abha and Riyadh’s King Khalid international airports claimed by Yemen’s Iran-backed Houthis.",
+     "url": "https://www.france24.com/en/middle-east/20261008-saudi-arabia-strikes-deadly-houthi-attacks-airports",
      "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-10-07T02:46:40+00:00",
-     "fetched": "2026-10-07T07:58:49+00:00"
+     "published": "2026-10-08T03:02:35+00:00",
+     "fetched": "2026-10-08T06:50:41+00:00"
     },
     {
-     "headline": "Israel marks third anniversary of October 7 attack as election looms",
-     "detail": "Israel will mark the third anniversary of the October 7, 2023 Hamas attack on Wednesday with memorial events across the country, as heightened security surrounds the commemorations and voters prepare for an election in which the deadliest…",
-     "url": "https://www.france24.com/en/middle-east/20261007-israel-marks-third-anniversary-of-october-7-attack-as-election-looms",
+     "headline": "DNC sues Trump administration over taxpayer-funded TV ads promoting president",
+     "detail": "The Democratic National Committee sued President Donald Trump’s administration on Wednesday over taxpayer-funded television ads promoting his political message, alleging illegal government propaganda.",
+     "url": "https://www.france24.com/en/americas/20261007-dnc-sues-trump-administration-taxpayer-funded-tv-ads",
      "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-10-07T02:14:22+00:00",
-     "fetched": "2026-10-07T07:58:49+00:00"
+     "published": "2026-10-07T22:27:23+00:00",
+     "fetched": "2026-10-08T06:50:41+00:00"
     }
    ]
   },
@@ -306,55 +347,54 @@
    "key": "aljazeera",
    "name": "Al Jazeera",
    "site": "aljazeera.com",
-   "summary": "Al Jazeera English, with strong Middle East and Africa coverage is leading with Yemen’s Houthis attack Aden airport; Saudi forces down missile near Riyadh; Has Russia’s fuel crisis given Iranian oil an opening in Central Asia?; How has Israel’s genocide changed Gaza?.",
+   "summary": "Al Jazeera English, with strong Middle East and Africa coverage is leading with Acclaimed Indian actor Nana Patekar dies aged 75; How October 7 redrew the map of the Middle East; What did Palestinians take when they fled after October 7?.",
    "note": null,
    "items": [
     {
-     "headline": "Yemen’s Houthis attack Aden airport; Saudi forces down missile near Riyadh",
-     "detail": "Yemeni government says one of the missiles hit Aden airport's runway minutes before a flight from Cairo was due to land.",
-     "url": "https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh?traffic_source=rss",
+     "headline": "Acclaimed Indian actor Nana Patekar dies aged 75",
+     "detail": "Patekar won three National Film Awards and received the Padma Shri, one of the country's highest civilian honours.",
+     "url": "https://www.aljazeera.com/news/2026/10/8/acclaimed-indian-actor-nana-patekar-dies-aged-75?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
-     "published": "2026-10-07T06:41:11+00:00",
-     "fetched": "2026-10-07T07:58:49+00:00"
+     "published": "2026-10-08T06:30:42+00:00",
+     "fetched": "2026-10-08T06:50:41+00:00"
     },
     {
-     "headline": "Has Russia’s fuel crisis given Iranian oil an opening in Central Asia?",
-     "detail": "Iran's oil exports have struggled amid a US blockade. A Russian energy crisis because of Ukrainian attacks could help.",
-     "url": "https://www.aljazeera.com/news/2026/10/7/has-russias-fuel-crisis-given-iranian-oil-an-opening-in-central-asia?traffic_source=rss",
+     "headline": "How October 7 redrew the map of the Middle East",
+     "detail": "Three years of war have upended alliances, weakened US influence and reshaped the region’s power balance.",
+     "url": "https://www.aljazeera.com/news/2026/10/8/how-october-7-redrew-the-map-of-the-middle-east?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
-     "published": "2026-10-07T06:33:54+00:00",
-     "fetched": "2026-10-07T07:58:49+00:00"
+     "published": "2026-10-08T06:11:24+00:00",
+     "fetched": "2026-10-08T06:50:41+00:00"
     },
     {
-     "headline": "How has Israel’s genocide changed Gaza?",
-     "detail": "Gaza City’s port was a hub for fishing and tourism before the genocide. Al Jazeera’s Maram Humaid shows what’s left.",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/how-has-israels-genocide-changed-gaza?traffic_source=rss",
+     "headline": "What did Palestinians take when they fled after October 7?",
+     "detail": "Palestinians displaced by war chose cherished items, revealing poignant stories amid devastation in Gaza.",
+     "url": "https://www.aljazeera.com/gallery/longform/2026/10/8/what-did-palestinians-take-when-they-fled-after-october-7?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
-     "published": "2026-10-07T06:27:18+00:00",
-     "fetched": "2026-10-07T07:58:49+00:00"
+     "published": "2026-10-08T06:08:05+00:00",
+     "fetched": "2026-10-08T06:50:41+00:00"
     },
     {
-     "headline": "At least two killed in Kyiv as Russia launches ‘massive’ attack on Ukraine",
-     "detail": "Russia’s Defence Ministry says its forces carried out a 'massive strike' on Kyiv and other Ukrainian regions.",
-     "url": "https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
+     "headline": "Why single Ebola death in Kenya has prompted fears of wider African spread",
+     "detail": "According to the WHO, the Kenyan patient first got sick in the DRC, where they had been living, and was treated there.",
+     "url": "https://www.aljazeera.com/news/2026/10/8/why-single-ebola-death-in-kenya-has-sparked-fears-of-wider-african-spread?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
-     "published": "2026-10-07T06:19:26+00:00",
-     "fetched": "2026-10-07T07:58:49+00:00"
+     "published": "2026-10-08T05:34:34+00:00",
+     "fetched": "2026-10-08T06:50:41+00:00"
     },
     {
-     "headline": "Yemen’s displaced children dream of returning to school",
-     "detail": "More than 137,000 students in conflict zones lose access to education, deepening Yemen's already dire schooling crisis.",
-     "url": "https://www.aljazeera.com/news/2026/10/7/yemens-displaced-children-dream-of-returning-to-school?traffic_source=rss",
+     "headline": "Protesters in Colombia rally against ties with Israel",
+     "detail": "Hundreds took to the streets of Bogota to protest against the ongoing genocide in Gaza.",
+     "url": "https://www.aljazeera.com/news/2026/10/8/protesters-in-colombia-rally-against-ties-with-israel?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
-     "published": "2026-10-07T06:15:44+00:00",
-     "fetched": "2026-10-07T07:58:49+00:00"
+     "published": "2026-10-08T05:09:13+00:00",
+     "fetched": "2026-10-08T06:50:41+00:00"
     }
    ]
   }
  ],
  "blocked": [
-  "news.com.au",
   "theaustralian.com.au"
  ],
- "blocked_checked_at": "2026-10-07T07:58:53+00:00"
+ "blocked_checked_at": "2026-10-08T06:50:45+00:00"
 }

@@ -3,48 +3,48 @@
   "key": "abcus",
   "name": "ABC News (US)",
   "site": "abcnews.go.com",
-  "summary": "ABC News in the United States, the network's national and world file is leading with Former CIA officer pleads guilty to stealing nearly $200M in gold bar case; Washington state man charged with helping Canadian mass shooter plan for attack; Tropical depression forms in Gulf, expected to intensify to potential hurricane.",
+  "summary": "ABC News in the United States, the network's national and world file is leading with Sheriff, ex-sheriff charged with obstructing justice tied to Kouri Richins case: Docs; WHO officials say unclear how Russia plague lab worker died; Trump interrupted by protesters as he fights to rally Texas voters.",
   "note": null,
   "items": [
    {
-    "headline": "Former CIA officer pleads guilty to stealing nearly $200M in gold bar case",
-    "detail": "The nearly $200 million in payments to Rush dwarfs previous amounts disclosed as part of his case.",
-    "url": "https://abcnews.go.com/Politics/plea-hearing-set-former-cia-officer-allegedly-gold/story?id=137015337",
+    "headline": "Sheriff, ex-sheriff charged with obstructing justice tied to Kouri Richins case: Docs",
+    "detail": "A former sheriff of Summit County and the sheriff of neighboring Wasatch County face charges related to Kouri Richins' prosecution, according to defense motions.",
+    "url": "https://abcnews.go.com/US/sheriff-former-sheriff-charged-obstruction-justice-related-kouri/story?id=137079368",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-10-06T20:13:00-04:00",
-    "fetched": "2026-10-07T07:58:44+00:00"
+    "published": "2026-10-07T22:56:08-04:00",
+    "fetched": "2026-10-08T06:50:37+00:00"
    },
    {
-    "headline": "Washington state man charged with helping Canadian mass shooter plan for attack",
-    "detail": "Washington state man charged with helping Canadian mass shooter plan for attack",
-    "url": "https://abcnews.go.com/US/washington-state-man-charged-helping-canadian-mass-shooter/story?id=137048241",
+    "headline": "WHO officials say unclear how Russia plague lab worker died",
+    "detail": "The WHO said on Wednesday it does not have enough information from Russian authorities to conduct a full risk assessment after the death of a plague laboratory worker.",
+    "url": "https://abcnews.go.com/Health/officials-unclear-russia-plague-lab-worker-died-call/story?id=137032253",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-10-06T23:58:06-04:00",
-    "fetched": "2026-10-07T07:58:44+00:00"
+    "published": "2026-10-07T18:57:26-04:00",
+    "fetched": "2026-10-08T06:50:37+00:00"
    },
    {
-    "headline": "Tropical depression forms in Gulf, expected to intensify to potential hurricane",
-    "detail": "Tropical Depression 9 is expected to become named Tropical Storm Isaias in the next 24 hours.",
-    "url": "https://abcnews.go.com/US/extreme-heat-continues-west-tropical-disturbance-impacts-gulf/story?id=137034428",
+    "headline": "Trump interrupted by protesters as he fights to rally Texas voters",
+    "detail": "President Donald Trump fought to rally Texas voters behind Senate candidate Ken Paxton as a series of protests disrupted his rally in San Antonio",
+    "url": "https://abcnews.go.com/Politics/wireStory/trump-interrupted-protesters-fights-rally-texas-voters-paxton-137082289",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-10-06T20:35:17-04:00",
-    "fetched": "2026-10-07T07:58:44+00:00"
+    "published": "2026-10-07T23:53:49-04:00",
+    "fetched": "2026-10-08T06:50:37+00:00"
    },
    {
-    "headline": "WATCH: Lawsuit accuses Starbucks of mislabeling 8 'sugar-free' protein drinks",
-    "detail": "Starbucks introduced protein drinks in September 2025 to meet consumer demand for functional beverages and catch up to rivals like Dutch Bros, which launched protein-enhanced coffee drinks in 2024.",
-    "url": "https://abcnews.go.com/video/137036714/",
+    "headline": "WATCH: 'DWTS,' Freddie Jackson, Meghan Markle: Here's what's trending",
+    "detail": "ABC News' Rocsi Diaz takes a look at what's buzzing in pop culture, including couples dancing to Mariah Carey on \"Dancing with the Stars,\" and R&B losing one of its smoothest voices.",
+    "url": "https://abcnews.go.com/video/137076763/",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-10-06T15:37:42-04:00",
-    "fetched": "2026-10-07T07:58:44+00:00"
+    "published": "2026-10-07T17:33:33-04:00",
+    "fetched": "2026-10-08T06:50:37+00:00"
    },
    {
-    "headline": "WATCH: Taylor Swift's 'Patient Zero' debuts at No. 1",
-    "detail": "Hanna Battah shares the buzziest stories of the day in \"GMA\" Pop News.",
-    "url": "https://abcnews.go.com/video/137039228/",
+    "headline": "WATCH: Philly man crowned city's parallel parking champ",
+    "detail": "The competition was fierce as Mario Zucca was crowned Philadelphia's top parallel parker.",
+    "url": "https://abcnews.go.com/video/137075763/",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-10-06T15:02:26-04:00",
-    "fetched": "2026-10-07T07:58:44+00:00"
+    "published": "2026-10-07T15:54:26-04:00",
+    "fetched": "2026-10-08T06:50:37+00:00"
    }
   ]
  }
