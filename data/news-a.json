@@ -4,48 +4,48 @@
    "key": "abc",
    "name": "ABC News Australia",
    "site": "abc.net.au/news",
-   "summary": "The ABC's Australian and international news file is leading with Another NASA crew is coming home. Here's what to expect from their splashdown; Kai Allen shines as Ford gets engine change for Bathurst; Melbourne man accused of spreading Islamic State material granted bail.",
+   "summary": "The ABC's Australian and international news file is leading with Mine backed by US, Australia and Gina Rinehart moves towards construction; NT environmental regulator has 'low confidence' in plan for outback data centre; Two more charged with murder over fatal house party attack.",
    "note": null,
    "items": [
+    {
+     "headline": "Mine backed by US, Australia and Gina Rinehart moves towards construction",
+     "detail": "Mine backed by US, Australia and Gina Rinehart moves towards construction",
+     "url": "https://www.abc.net.au/news/2026-10-08/arafura-nolans-rare-earths-mine-alice-springs-nt-ground-broken/107240942",
+     "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
+     "published": "2026-10-08T07:10:55+00:00",
+     "fetched": "2026-10-08T07:41:15+00:00"
+    },
+    {
+     "headline": "NT environmental regulator has 'low confidence' in plan for outback data centre",
+     "detail": "NT environmental regulator has 'low confidence' in plan for outback data centre",
+     "url": "https://www.abc.net.au/news/2026-10-08/nt-environment-regulator-data-centre-low-level-of-confidence/107242664",
+     "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
+     "published": "2026-10-08T07:01:47+00:00",
+     "fetched": "2026-10-08T07:41:15+00:00"
+    },
+    {
+     "headline": "Two more charged with murder over fatal house party attack",
+     "detail": "Two more charged with murder over fatal house party attack",
+     "url": "https://www.abc.net.au/news/2026-10-08/qld-two-charged-with-murder-bahrs-scrub/107244732",
+     "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
+     "published": "2026-10-08T06:58:28+00:00",
+     "fetched": "2026-10-08T07:41:15+00:00"
+    },
+    {
+     "headline": "Apple's age-verification feature welcomed by Pornhub owners",
+     "detail": "Apple's age-verification feature welcomed by Pornhub owners",
+     "url": "https://www.abc.net.au/news/2026-10-08/age-verified-apple-users-welcomed-back-to-porn-hub/107240740",
+     "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
+     "published": "2026-10-08T06:57:21+00:00",
+     "fetched": "2026-10-08T07:41:15+00:00"
+    },
     {
      "headline": "Another NASA crew is coming home. Here's what to expect from their splashdown",
      "detail": "Another NASA crew is coming home. Here's what to expect from their splashdown",
      "url": "https://www.abc.net.au/news/2026-10-08/nasa-spacex-crew-12-return-to-earth-explained/107239878",
      "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
      "published": "2026-10-08T06:36:29+00:00",
-     "fetched": "2026-10-08T06:50:32+00:00"
-    },
-    {
-     "headline": "Kai Allen shines as Ford gets engine change for Bathurst",
-     "detail": "Kai Allen shines as Ford gets engine change for Bathurst",
-     "url": "https://www.abc.net.au/news/2026-10-08/bathurst-1000-supercars-kai-allen-fastest-practice-thursday/107244458",
-     "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
-     "published": "2026-10-08T06:35:17+00:00",
-     "fetched": "2026-10-08T06:50:32+00:00"
-    },
-    {
-     "headline": "Melbourne man accused of spreading Islamic State material granted bail",
-     "detail": "Melbourne man accused of spreading Islamic State material granted bail",
-     "url": "https://www.abc.net.au/news/2026-10-08/alleged-isis-propagandist-mohamed-bakit-granted-bail/107244368",
-     "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
-     "published": "2026-10-08T06:32:47+00:00",
-     "fetched": "2026-10-08T06:50:32+00:00"
-    },
-    {
-     "headline": "Angus Taylor tries to find his place on the migration middle road",
-     "detail": "Angus Taylor tries to find his place on the migration middle road",
-     "url": "https://www.abc.net.au/news/2026-10-08/angus-taylor-migration-policy-official-costing/107234706",
-     "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
-     "published": "2026-10-08T06:30:17+00:00",
-     "fetched": "2026-10-08T06:50:32+00:00"
-    },
-    {
-     "headline": "Charges dropped against 12yo after alleged bashing of Sunshine shopkeeper",
-     "detail": "Charges dropped against 12yo after alleged bashing of Sunshine shopkeeper",
-     "url": "https://www.abc.net.au/news/2026-10-08/sunshine-assault-charges-dropped-12-year-old-boy/107244378",
-     "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
-     "published": "2026-10-08T06:19:15+00:00",
-     "fetched": "2026-10-08T06:50:32+00:00"
+     "fetched": "2026-10-08T07:41:15+00:00"
     }
    ]
   },
@@ -53,16 +53,24 @@
    "key": "sbs",
    "name": "SBS News Australia",
    "site": "sbs.com.au/news",
-   "summary": "SBS News, covering Australian affairs with a strong multicultural and world focus is leading with Two ships sank. More were struck. What's happening in the Black Sea?; 'Angry and confused': New details emerge about Christa Pike's condition; Sending Christmas gifts this year? Don't miss these Australia Post deadlines.",
+   "summary": "SBS News, covering Australian affairs with a strong multicultural and world focus is leading with What we don't know about the government's private health rebate changes; Two ships sank. More were struck. What's happening in the Black Sea?; 'Angry and confused': New details emerge about Christa Pike's condition.",
    "note": null,
    "items": [
+    {
+     "headline": "What we don't know about the government's private health rebate changes",
+     "detail": "There's a growing backlash over reforms that could affect millions of people, with unanswered questions about older migrants.",
+     "url": "https://www.sbs.com.au/news/article/what-we-dont-know-about-the-governments-private-health-rebate-changes/jdrhg3dsj",
+     "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
+     "published": "2026-10-08T06:57:08+00:00",
+     "fetched": "2026-10-08T07:41:16+00:00"
+    },
     {
      "headline": "Two ships sank. More were struck. What's happening in the Black Sea?",
      "detail": "The Black Sea has become Europe's latest battleground after multiple attacks this week.",
      "url": "https://www.sbs.com.au/news/article/two-ships-sank-more-were-struck-whats-happening-in-the-black-sea/apuy8eu3r",
      "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
      "published": "2026-10-08T06:16:04+00:00",
-     "fetched": "2026-10-08T06:50:33+00:00"
+     "fetched": "2026-10-08T07:41:16+00:00"
     },
     {
      "headline": "'Angry and confused': New details emerge about Christa Pike's condition",
@@ -70,7 +78,7 @@
      "url": "https://www.sbs.com.au/news/article/christa-pike-awake-speaking-what-happens-now/r06zj5982",
      "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
      "published": "2026-10-08T01:29:41+00:00",
-     "fetched": "2026-10-08T06:50:33+00:00"
+     "fetched": "2026-10-08T07:41:16+00:00"
     },
     {
      "headline": "Sending Christmas gifts this year? Don't miss these Australia Post deadlines",
@@ -78,7 +86,7 @@
      "url": "https://www.sbs.com.au/news/article/australia-post-christmas-cut-off-dates-2026/54hwr4304",
      "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
      "published": "2026-10-07T22:26:33+00:00",
-     "fetched": "2026-10-08T06:50:33+00:00"
+     "fetched": "2026-10-08T07:41:16+00:00"
     },
     {
      "headline": "Evicted octogenarian who sparked Spain's housing protests dies",
@@ -86,15 +94,7 @@
      "url": "https://www.sbs.com.au/news/article/maricarmen-abascal-who-sparked-spains-housing-protests-has-died/6xgod4okk",
      "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
      "published": "2026-10-07T20:23:56+00:00",
-     "fetched": "2026-10-08T06:50:33+00:00"
-    },
-    {
-     "headline": "Russian strikes on Ukraine kill at least 25 in a major attack that Kyiv saw coming",
-     "detail": "The Ukrainian president had warned that intelligence services had determined Russia was preparing for a \"massive\" strike.",
-     "url": "https://www.sbs.com.au/news/article/russian-strikes-on-ukraine-kill-at-least-25-in-a-major-attack/vye3uk52v",
-     "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
-     "published": "2026-10-07T19:39:36+00:00",
-     "fetched": "2026-10-08T06:50:33+00:00"
+     "fetched": "2026-10-08T07:41:16+00:00"
     }
    ]
   },
@@ -102,16 +102,24 @@
    "key": "rnz",
    "name": "RNZ New Zealand",
    "site": "rnz.co.nz",
-   "summary": "Radio New Zealand's national news file is leading with Loafers Lodge fire trial: Survivor recounts rescue from burning building; Southland District Council seeks to revoke resource consent for slink skin factory; Man took his own life after paying money to ‘sextortion’ blackmail involving AI-generated woman.",
+   "summary": "Radio New Zealand's national news file is leading with Lake Wakatipu fire fully contained, firefighters stand down; Loafers Lodge fire trial: Survivor recounts rescue from burning building; Southland District Council seeks to revoke resource consent for slink skin factory.",
    "note": null,
    "items": [
+    {
+     "headline": "Lake Wakatipu fire fully contained, firefighters stand down",
+     "detail": "Lake Wakatipu fire fully contained, firefighters stand down",
+     "url": "https://www.rnz.co.nz/news/emergencies_local/1794571/lake-wakatipu-fire-fully-contained-firefighters-stand-down",
+     "source_url": "https://www.rnz.co.nz/rss/national.xml",
+     "published": "2026-10-08T20:18:02+13:00",
+     "fetched": "2026-10-08T07:41:17+00:00"
+    },
     {
      "headline": "Loafers Lodge fire trial: Survivor recounts rescue from burning building",
      "detail": "Loafers Lodge fire trial: Survivor recounts rescue from burning building",
      "url": "https://www.rnz.co.nz/news/crime-and-justice/1795424/loafers-lodge-fire-trial-survivor-recounts-rescue-from-burning-building",
      "source_url": "https://www.rnz.co.nz/rss/national.xml",
      "published": "2026-10-08T19:21:14+13:00",
-     "fetched": "2026-10-08T06:50:33+00:00"
+     "fetched": "2026-10-08T07:41:17+00:00"
     },
     {
      "headline": "Southland District Council seeks to revoke resource consent for slink skin factory",
@@ -119,7 +127,7 @@
      "url": "https://www.rnz.co.nz/news/regional/1795290/southland-district-council-seeks-to-revoke-resource-consent-for-slink-skin-factory",
      "source_url": "https://www.rnz.co.nz/rss/national.xml",
      "published": "2026-10-08T19:01:12+13:00",
-     "fetched": "2026-10-08T06:50:33+00:00"
+     "fetched": "2026-10-08T07:41:17+00:00"
     },
     {
      "headline": "Man took his own life after paying money to ‘sextortion’ blackmail involving AI-generated woman",
@@ -127,7 +135,7 @@
      "url": "https://www.rnz.co.nz/news/crime-and-justice/1787553/man-took-his-own-life-after-paying-money-to-sextortion-blackmail-involving-ai-generated-woman",
      "source_url": "https://www.rnz.co.nz/rss/national.xml",
      "published": "2026-10-08T18:42:54+13:00",
-     "fetched": "2026-10-08T06:50:33+00:00"
+     "fetched": "2026-10-08T07:41:17+00:00"
     },
     {
      "headline": "Are you feeling wealthier?",
@@ -135,15 +143,7 @@
      "url": "https://www.rnz.co.nz/news/personal-finance/1794216/are-you-feeling-wealthier",
      "source_url": "https://www.rnz.co.nz/rss/national.xml",
      "published": "2026-10-08T18:39:26+13:00",
-     "fetched": "2026-10-08T06:50:33+00:00"
-    },
-    {
-     "headline": "Serial rapist, convicted murderer Malcolm Rewa appeals for earlier release",
-     "detail": "Serial rapist, convicted murderer Malcolm Rewa appeals for earlier release",
-     "url": "https://www.rnz.co.nz/news/crime-and-justice/1795055/serial-rapist-convicted-murderer-malcolm-rewa-appeals-for-earlier-release",
-     "source_url": "https://www.rnz.co.nz/rss/national.xml",
-     "published": "2026-10-08T18:24:27+13:00",
-     "fetched": "2026-10-08T06:50:33+00:00"
+     "fetched": "2026-10-08T07:41:17+00:00"
     }
    ]
   },
@@ -151,48 +151,48 @@
    "key": "scmp",
    "name": "South China Morning Post",
    "site": "scmp.com",
-   "summary": "The South China Morning Post, reporting from Hong Kong across Greater China and Asia is leading with Xi-Trump summit outcomes; North Korea decries medical aid, says ‘nothing to give or receive’ from Seoul; US judge blocks release of alleged Beijing agent accused of filming Taiwan leader’s son.",
+   "summary": "The South China Morning Post, reporting from Hong Kong across Greater China and Asia is leading with US AI firm Anthropic enables Chinese-language options for Claude chatbot; Abby Choi’s ex-father-in-law a ‘cunning old fox’ who clung to her wealth, court told; Britain downscales and renames Jerusalem consulate after Israel orders closure.",
    "note": null,
    "items": [
+    {
+     "headline": "US AI firm Anthropic enables Chinese-language options for Claude chatbot",
+     "detail": "US artificial intelligence company Anthropic has introduced Chinese-language options to its Claude chatbot in supported markets, even as it continues to block users from mainland China.",
+     "url": "https://www.scmp.com/tech/big-tech/article/3370154/us-ai-firm-anthropic-enables-chinese-language-options-claude-chatbot?utm_source=rss_feed",
+     "source_url": "https://www.scmp.com/rss/91/feed",
+     "published": "2026-10-08T07:38:25+00:00",
+     "fetched": "2026-10-08T07:41:17+00:00"
+    },
+    {
+     "headline": "Abby Choi’s ex-father-in-law a ‘cunning old fox’ who clung to her wealth, court told",
+     "detail": "The mother of slain Hong Kong socialite Abby Choi Tin-fung has described her daughter’s former father-in-law as a “cunning old fox” who clung to her family’s fortune, rejecting his lawyer’s suggestion that he bought a Rolls-Royce with…",
+     "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370164/abby-chois-ex-father-law-cunning-old-fox-who-clung-her-wealth-court-told?utm_source=rss_feed",
+     "source_url": "https://www.scmp.com/rss/91/feed",
+     "published": "2026-10-08T07:29:53+00:00",
+     "fetched": "2026-10-08T07:41:17+00:00"
+    },
+    {
+     "headline": "Britain downscales and renames Jerusalem consulate after Israel orders closure",
+     "detail": "Britain said on Thursday its ⁠nearly 200-year-old consulate in Jerusalem ⁠would remain operating at a smaller scale, renamed ⁠as the “UK Mission” in the city, after Israel ordered it shut in a dispute over sanctions on settlements.",
+     "url": "https://www.scmp.com/news/world/middle-east/article/3370163/britain-downscales-and-renames-jerusalem-consulate-after-israel-orders-closure?utm_source=rss_feed",
+     "source_url": "https://www.scmp.com/rss/91/feed",
+     "published": "2026-10-08T07:27:19+00:00",
+     "fetched": "2026-10-08T07:41:17+00:00"
+    },
+    {
+     "headline": "Anwar’s push to return Myanmar to Asean sparks criticism over weakened leverage",
+     "detail": "Prime Minister Anwar Ibrahim on Thursday said Malaysia would do “whatever is possible” to strengthen cooperation with Myanmar and fully reintegrate the diplomatically isolated nation into the Asean fold.",
+     "url": "https://www.scmp.com/week-asia/politics/article/3370161/anwars-push-return-myanmar-asean-sparks-criticism-over-weakened-leverage?utm_source=rss_feed",
+     "source_url": "https://www.scmp.com/rss/91/feed",
+     "published": "2026-10-08T07:16:15+00:00",
+     "fetched": "2026-10-08T07:41:17+00:00"
+    },
     {
      "headline": "Xi-Trump summit outcomes",
      "detail": "–",
      "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3370135/xi-trump-summit-outcomes?utm_source=rss_feed",
      "source_url": "https://www.scmp.com/rss/91/feed",
      "published": "2026-10-08T06:30:28+00:00",
-     "fetched": "2026-10-08T06:50:34+00:00"
-    },
-    {
-     "headline": "North Korea decries medical aid, says ‘nothing to give or receive’ from Seoul",
-     "detail": "North Korea’s Kim Yo-jong, the powerful sister of ‌leader Kim Jong-un, denounced on Thursday South Korea’s plans to provide medical equipment aid to Pyongyang, calling it a “political provocation” and violation of its sovereignty.",
-     "url": "https://www.scmp.com/news/asia/east-asia/article/3370150/north-korea-decries-medical-aid-says-nothing-give-or-receive-seoul?utm_source=rss_feed",
-     "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-10-08T06:11:14+00:00",
-     "fetched": "2026-10-08T06:50:34+00:00"
-    },
-    {
-     "headline": "US judge blocks release of alleged Beijing agent accused of filming Taiwan leader’s son",
-     "detail": "A federal judge on Wednesday ordered Wanying “Heather” Zhang be held in custody, after her lawyers – who had fought to keep her out of jail – said she “looks forward to establishing” her innocence at trial.",
-     "url": "https://www.scmp.com/news/china/diplomacy/article/3370146/us-judge-blocks-release-alleged-beijing-agent-accused-filming-taiwan-leaders-son?utm_source=rss_feed",
-     "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-10-08T06:00:13+00:00",
-     "fetched": "2026-10-08T06:50:34+00:00"
-    },
-    {
-     "headline": "German President Steinmeier targets China trip as Berlin sharpens trade stance",
-     "detail": "German President Frank-Walter Steinmeier is planning to visit China in the coming weeks, even as relations between the two countries sour over trade, according to multiple sources familiar with the arrangement.",
-     "url": "https://www.scmp.com/news/china/diplomacy/article/3370140/german-president-steinmeier-targets-china-trip-berlin-sharpens-trade-stance?utm_source=rss_feed",
-     "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-10-08T05:06:24+00:00",
-     "fetched": "2026-10-08T06:50:34+00:00"
-    },
-    {
-     "headline": "Man arrested after red paint splashed at joint office of ‘unhelpful’ lawmakers",
-     "detail": "Hong Kong police have arrested a man for allegedly splashing red paint at the joint office of two lawmakers, accusing them of being unhelpful.",
-     "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370137/man-arrested-after-red-paint-splashed-joint-office-unhelpful-lawmakers?utm_source=rss_feed",
-     "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-10-08T04:49:19+00:00",
-     "fetched": "2026-10-08T06:50:34+00:00"
+     "fetched": "2026-10-08T07:41:17+00:00"
     }
    ]
   },
@@ -200,7 +200,7 @@
    "key": "cnn",
    "name": "CNN",
    "site": "cnn.com",
-   "summary": "CNN's international edition is leading with Pakistan confirms it has troops in Saudi as conflict with Yemen’s Houthi rebels escalates; Why are we so obsessed with the ‘90s?; A few inches – and a fan’s arms -- separated Anthony Volpe from October heroics. Instead, the Yankees are swept by Tampa.",
+   "summary": "CNN's international edition is leading with Pakistan confirms it has troops in Saudi as conflict with Yemen’s Houthi rebels escalates; The October 7 hostages who never made it home alive – and why; Gulf Coast braces for Hurricane Isaias.",
    "note": null,
    "items": [
     {
@@ -209,7 +209,23 @@
      "url": "https://www.cnn.com/2026/10/07/middleeast/houthis-attack-saudi-airports-latam-intl",
      "source_url": "https://www.cnn.com/sitemap/news.xml",
      "published": "2026-10-07T22:11:35+00:00",
-     "fetched": "2026-10-08T06:50:35+00:00"
+     "fetched": "2026-10-08T07:41:18+00:00"
+    },
+    {
+     "headline": "The October 7 hostages who never made it home alive – and why",
+     "detail": "The October 7 hostages who never made it home alive – and why",
+     "url": "https://www.cnn.com/2026/10/08/world/video/october-7-hostages-israel-ldn-digvid",
+     "source_url": "https://www.cnn.com/sitemap/news.xml",
+     "published": "2026-10-08T07:32:04+00:00",
+     "fetched": "2026-10-08T07:41:18+00:00"
+    },
+    {
+     "headline": "Gulf Coast braces for Hurricane Isaias",
+     "detail": "Gulf Coast braces for Hurricane Isaias",
+     "url": "https://www.cnn.com/2026/10/08/weather/live-news/hurricane-isaias-gulf-storm",
+     "source_url": "https://www.cnn.com/sitemap/news.xml",
+     "published": "2026-10-08T07:23:07+00:00",
+     "fetched": "2026-10-08T07:41:18+00:00"
     },
     {
      "headline": "Why are we so obsessed with the ‘90s?",
@@ -217,7 +233,7 @@
      "url": "https://www.cnn.com/2026/10/08/style/90s-obsession-tate-art-fashion",
      "source_url": "https://www.cnn.com/sitemap/news.xml",
      "published": "2026-10-08T06:00:45+00:00",
-     "fetched": "2026-10-08T06:50:35+00:00"
+     "fetched": "2026-10-08T07:41:18+00:00"
     },
     {
      "headline": "A few inches – and a fan’s arms -- separated Anthony Volpe from October heroics. Instead, the Yankees are swept by Tampa",
@@ -225,23 +241,7 @@
      "url": "https://www.cnn.com/2026/10/08/sport/rays-yankees-fan-interference-home-run",
      "source_url": "https://www.cnn.com/sitemap/news.xml",
      "published": "2026-10-08T04:03:43+00:00",
-     "fetched": "2026-10-08T06:50:35+00:00"
-    },
-    {
-     "headline": "US has lost or sustained damage to 81 military aircraft worth up to $3.3 billion in Iran war, congressional report says",
-     "detail": "US has lost or sustained damage to 81 military aircraft worth up to $3.3 billion in Iran war, congressional report says",
-     "url": "https://www.cnn.com/2026/10/08/middleeast/us-iran-war-aircraft-losses-intl-hnk-ml",
-     "source_url": "https://www.cnn.com/sitemap/news.xml",
-     "published": "2026-10-08T05:53:57+00:00",
-     "fetched": "2026-10-08T06:50:35+00:00"
-    },
-    {
-     "headline": "Isaias rapidly intensifies into season’s first Atlantic hurricane as Gulf Coast braces for landfall",
-     "detail": "Isaias rapidly intensifies into season’s first Atlantic hurricane as Gulf Coast braces for landfall",
-     "url": "https://www.cnn.com/2026/10/06/weather/tropical-storm-isaias-hurricane-track-gulf-climate",
-     "source_url": "https://www.cnn.com/sitemap/news.xml",
-     "published": "2026-10-07T03:14:46+00:00",
-     "fetched": "2026-10-08T06:50:35+00:00"
+     "fetched": "2026-10-08T07:41:18+00:00"
     }
    ]
   },
@@ -249,16 +249,24 @@
    "key": "fox",
    "name": "Fox News",
    "site": "foxnews.com",
-   "summary": "Fox News, covering US politics and national affairs is leading with San Diego Padres season ends in disaster after offense completely collapses against Milwaukee Brewers; Anti-Israel protesters label Mamdani a 'traitor,' accuse him of 'genocide' outside Oct 7 vigil; Texas executes Jamaal Howard despite concerns over lethal injection drug used in failed Tennessee execution.",
+   "summary": "Fox News, covering US politics and national affairs is leading with Former corrections officer accused of killing wife, forcing kids to help; San Diego Padres season ends in disaster after offense completely collapses against Milwaukee Brewers; Anti-Israel protesters label Mamdani a 'traitor,' accuse him of 'genocide' outside Oct 7 vigil.",
    "note": null,
    "items": [
+    {
+     "headline": "Former corrections officer accused of killing wife, forcing kids to help",
+     "detail": "A former corrections officer allegedly strangled his wife and forced some of his children to help during the attack, then hid her body in a dumpster.",
+     "url": "https://www.foxnews.com/us/former-corrections-officer-accused-killing-wife-forcing-kids-help",
+     "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+     "published": "2026-10-08T02:49:19-04:00",
+     "fetched": "2026-10-08T07:41:18+00:00"
+    },
     {
      "headline": "San Diego Padres season ends in disaster after offense completely collapses against Milwaukee Brewers",
      "detail": "Fernando Tatis Jr.'s solo homer was San Diego's only hit as the Brewers eliminated the Padres in Game 4 to advance to the NLCS against the Dodgers.",
      "url": "https://www.foxnews.com/outkick-sports/san-diego-padres-season-ends-disaster-offense-completely-collapses-milwaukee-brewers",
      "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
      "published": "2026-10-08T01:26:09-04:00",
-     "fetched": "2026-10-08T06:50:35+00:00"
+     "fetched": "2026-10-08T07:41:18+00:00"
     },
     {
      "headline": "Anti-Israel protesters label Mamdani a 'traitor,' accuse him of 'genocide' outside Oct 7 vigil",
@@ -266,7 +274,7 @@
      "url": "https://www.foxnews.com/politics/anti-israel-protesters-label-mamdani-traitor-accuse-genocide-outside-oct-7-vigil",
      "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
      "published": "2026-10-08T01:12:55-04:00",
-     "fetched": "2026-10-08T06:50:35+00:00"
+     "fetched": "2026-10-08T07:41:18+00:00"
     },
     {
      "headline": "Texas executes Jamaal Howard despite concerns over lethal injection drug used in failed Tennessee execution",
@@ -274,7 +282,7 @@
      "url": "https://www.foxnews.com/us/texas-executes-jamaal-howard-despite-concerns-over-lethal-injection-drug-used-failed-tennessee-execution",
      "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
      "published": "2026-10-07T23:55:09-04:00",
-     "fetched": "2026-10-08T06:50:35+00:00"
+     "fetched": "2026-10-08T07:41:18+00:00"
     },
     {
      "headline": "Rays sweep Yankees in ALDS after controversial spectator interference denies Anthony Volpe's homer",
@@ -282,15 +290,7 @@
      "url": "https://www.foxnews.com/outkick-sports/rays-sweep-yankees-alds-controversial-spectator-interference-denies-anthony-volpe-homer",
      "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
      "published": "2026-10-07T23:37:11-04:00",
-     "fetched": "2026-10-08T06:50:35+00:00"
-    },
-    {
-     "headline": "Dream move within one win of first WNBA Finals appearance since 2013 after overtime victory",
-     "detail": "Angel Reese scored six overtime points and Naz Hillmon's go-ahead layup gave the Atlanta Dream a 2-0 WNBA semifinals lead over the New York Liberty.",
-     "url": "https://www.foxnews.com/outkick-sports/dream-move-within-one-win-first-wnba-finals-appearance-since-2013-after-overtime-victory",
-     "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
-     "published": "2026-10-07T23:09:59-04:00",
-     "fetched": "2026-10-08T06:50:35+00:00"
+     "fetched": "2026-10-08T07:41:18+00:00"
     }
    ]
   },
@@ -307,7 +307,7 @@
      "url": "https://www.wsj.com/world/europe/spains-leader-pins-political-survival-on-public-anger-over-housing-crisis-91438a7a?mod=rss_worldnews",
      "source_url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
      "published": "2026-10-08T02:00:00+00:00",
-     "fetched": "2026-10-08T06:50:36+00:00"
+     "fetched": "2026-10-08T07:41:19+00:00"
     },
     {
      "headline": "Houthis Escalate Attacks on Saudi Airports, Killing 3 and Wounding Dozens",
@@ -315,7 +315,7 @@
      "url": "https://www.wsj.com/world/middle-east/houthis-escalate-attacks-on-saudi-airports-killing-3-and-wounding-dozens-f81ee1ca?mod=rss_worldnews",
      "source_url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
      "published": "2026-10-08T01:57:00+00:00",
-     "fetched": "2026-10-08T06:50:36+00:00"
+     "fetched": "2026-10-08T07:41:19+00:00"
     },
     {
      "headline": "Suspected Iranian Drone Plot Raises Security Questions at U.K. Bases",
@@ -323,7 +323,7 @@
      "url": "https://www.wsj.com/world/suspected-iranian-drone-plot-raises-security-questions-at-u-k-bases-8c979b1f?mod=rss_worldnews",
      "source_url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
      "published": "2026-10-08T01:15:00+00:00",
-     "fetched": "2026-10-08T06:50:36+00:00"
+     "fetched": "2026-10-08T07:41:19+00:00"
     },
     {
      "headline": "The Spy Crisis That Threatens to Defang Germany’s Top Intelligence Agency",
@@ -331,7 +331,7 @@
      "url": "https://www.wsj.com/world/europe/the-spy-crisis-that-threatens-to-defang-germanys-top-intelligence-agency-1ec4c58e?mod=rss_worldnews",
      "source_url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
      "published": "2026-10-07T23:00:00+00:00",
-     "fetched": "2026-10-08T06:50:36+00:00"
+     "fetched": "2026-10-08T07:41:19+00:00"
     },
     {
      "headline": "Rubio Turns to Ancient Greece to Make the Case for ‘America First’",
@@ -339,7 +339,7 @@
      "url": "https://www.wsj.com/politics/policy/rubio-turns-to-ancient-greece-to-make-the-case-for-america-first-dc4bbb06?mod=rss_worldnews",
      "source_url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
      "published": "2026-10-07T20:29:00+00:00",
-     "fetched": "2026-10-08T06:50:36+00:00"
+     "fetched": "2026-10-08T07:41:19+00:00"
     }
    ]
   }

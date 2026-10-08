@@ -1,15 +1,15 @@
 {
- "as_of": "Thursday 08 October 2026, 17:45 AEDT",
+ "as_of": "Thursday 08 October 2026, 18:36 AEDT",
  "btc": {
-  "price": "$82,646",
-  "chg": "-1.98%",
+  "price": "$83,083",
+  "chg": "-1.38%",
   "source": "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd&include_24hr_change=true"
  },
  "btc_crosschecks": [
   {
    "source": "CoinGecko API",
-   "price": "$82,646",
-   "chg": "-1.98%"
+   "price": "$83,083",
+   "chg": "-1.38%"
   }
  ],
  "fx": [
@@ -161,56 +161,56 @@
   {
    "name": "FTSE 100",
    "symbol": "^FTSE",
-   "value": "10,458",
-   "chg": "-0.79%"
+   "value": "10,391",
+   "chg": "-0.65%"
   },
   {
    "name": "DAX",
    "symbol": "^GDAXI",
-   "value": "25,104",
-   "chg": "-1.35%"
+   "value": "24,892",
+   "chg": "-0.84%"
   },
   {
    "name": "CAC 40",
    "symbol": "^FCHI",
-   "value": "7,769.21",
-   "chg": "-1.22%"
+   "value": "7,694.50",
+   "chg": "-0.96%"
   },
   {
    "name": "FTSE MIB",
    "symbol": "FTSEMIB.MI",
-   "value": "49,972",
-   "chg": "-2.51%"
+   "value": "49,404",
+   "chg": "-1.14%"
   },
   {
    "name": "IBEX 35",
    "symbol": "^IBEX",
-   "value": "19,118",
-   "chg": "-1.68%"
+   "value": "18,934",
+   "chg": "-0.96%"
   },
   {
    "name": "EURO STOXX 50",
    "symbol": "^STOXX50E",
-   "value": "6,180.29",
-   "chg": "-1.47%"
+   "value": "6,103.30",
+   "chg": "-1.25%"
   },
   {
    "name": "OMX Stockholm 30",
    "symbol": "^OMX",
-   "value": "3,226.82",
-   "chg": "-1.71%"
+   "value": "3,196.52",
+   "chg": "-0.94%"
   },
   {
    "name": "MOEX Russia",
    "symbol": "IMOEX",
-   "value": "2,319.60",
-   "chg": "-0.76%"
+   "value": "2,318.33",
+   "chg": "-0.82%"
   },
   {
    "name": "DFM General (Dubai)",
    "symbol": "DFMGI.AE",
-   "value": "5,887.70",
-   "chg": "-0.17%"
+   "value": "5,865.37",
+   "chg": "-0.55%"
   },
   {
    "name": "Nikkei 225",
@@ -221,20 +221,20 @@
   {
    "name": "Hang Seng",
    "symbol": "^HSI",
-   "value": "23,864",
-   "chg": "-1.11%"
+   "value": "23,806",
+   "chg": "-1.34%"
   },
   {
    "name": "Shanghai Composite",
    "symbol": "000001.SS",
-   "value": "3,796.83",
-   "chg": "-1.18%"
+   "value": "3,811.90",
+   "chg": "-0.79%"
   },
   {
    "name": "KOSPI",
    "symbol": "^KS11",
-   "value": "6,666.92",
-   "chg": "-2.01%"
+   "value": "6,625.93",
+   "chg": "-2.62%"
   },
   {
    "name": "TAIEX",
@@ -245,14 +245,14 @@
   {
    "name": "SET Index",
    "symbol": "^SET.BK",
-   "value": "1,578.96",
-   "chg": "-0.36%"
+   "value": "1,578.08",
+   "chg": "-0.41%"
   },
   {
    "name": "BSE Sensex",
    "symbol": "^BSESN",
-   "value": "71,935",
-   "chg": "-0.97%"
+   "value": "71,745",
+   "chg": "-1.23%"
   },
   {
    "name": "S&P/ASX 200",
@@ -289,23 +289,23 @@
   {
    "name": "Straits Times",
    "symbol": "^STI",
-   "value": "5,426.60",
-   "chg": "-3.24%"
+   "value": "5,418.09",
+   "chg": "-3.39%"
   },
   {
    "name": "FTSE 250",
    "symbol": "^FTMC",
-   "value": "24,037",
-   "chg": "-0.74%"
+   "value": "23,847",
+   "chg": "-0.79%"
   },
   {
    "name": "FTSE 350",
    "symbol": "^FTLC",
-   "value": "5,705.54",
-   "chg": "-0.78%"
+   "value": "5,666.87",
+   "chg": "-0.68%"
   }
  ],
  "indices_source": "https://finance.yahoo.com/world-indices",
- "indices_asof": "Thursday 08 October 2026, 06:45 UTC",
+ "indices_asof": "Thursday 08 October 2026, 07:36 UTC",
  "indices_asof_label": "Thursday 08 October 2026"
 }

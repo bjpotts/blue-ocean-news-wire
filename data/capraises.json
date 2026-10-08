@@ -3,9 +3,18 @@
   {
    "key": "anz",
    "name": "ANZ",
-   "summary": "ANZ equity capital markets activity captured this run runs to 4 items, led by Health Check: Cowabunga! Downtrodden Cynata shows ninja warrior spirit with capital raise. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
-   "fresh_count": 4,
+   "summary": "ANZ equity capital markets activity captured this run runs to 4 items, led by Torque Metals Raises $25m to Fund Rapid Growth Strategy at Ritz Gold Project. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "fresh_count": 1,
    "items": [
+    {
+     "headline": "Torque Metals Raises $25m to Fund Rapid Growth Strategy at Ritz Gold Project",
+     "detail": "Torque Metals secures $25m to accelerate drilling and resource growth at its Ritz gold project, lifting pro forma cash to $32.7m.",
+     "url": "https://smallcaps.com.au/article/torque-metals-raises-dollar25m-to-fund-rapid-growth-strategy-at-ritz-gold-project",
+     "outlet": "Small Caps",
+     "source_url": "https://smallcaps.com.au/feed",
+     "published": "2026-10-08T01:47:29+00:00",
+     "fetched": "2026-10-08T07:38:34+00:00"
+    },
     {
      "headline": "Health Check: Cowabunga! Downtrodden Cynata shows ninja warrior spirit with capital raise",
      "detail": "Despite its due late-stage stem cell trial failures, Cynata is passing the hat for just over $900,000 in an underwritten ... Read More",
@@ -13,7 +22,7 @@
      "outlet": "Stockhead",
      "source_url": "https://stockhead.com.au/feed/",
      "published": "2026-10-08T01:59:19+00:00",
-     "fetched": "2026-10-08T06:47:44+00:00"
+     "fetched": "2026-10-08T07:38:34+00:00"
     },
     {
      "headline": "Lunch Wrap: ASX loses ground as Maas plunges on Firmus IPO jitters",
@@ -22,7 +31,7 @@
      "outlet": "Stockhead",
      "source_url": "https://stockhead.com.au/feed/",
      "published": "2026-10-08T02:18:26+00:00",
-     "fetched": "2026-10-08T06:47:44+00:00"
+     "fetched": "2026-10-08T07:38:34+00:00"
     },
     {
      "headline": "Tambourah lines up $2.2m to fuel WA exploration push",
@@ -31,34 +40,16 @@
      "outlet": "Stockhead",
      "source_url": "https://stockhead.com.au/feed/",
      "published": "2026-10-08T01:47:45+00:00",
-     "fetched": "2026-10-08T06:47:44+00:00"
-    },
-    {
-     "headline": "Torque Metals Raises $25m to Fund Rapid Growth Strategy at Ritz Gold Project",
-     "detail": "Torque Metals secures $25m to accelerate drilling and resource growth at its Ritz gold project, lifting pro forma cash to $32.7m.",
-     "url": "https://smallcaps.com.au/article/torque-metals-raises-dollar25m-to-fund-rapid-growth-strategy-at-ritz-gold-project",
-     "outlet": "Small Caps",
-     "source_url": "https://smallcaps.com.au/feed",
-     "published": "2026-10-08T01:47:29+00:00",
-     "fetched": "2026-10-08T06:47:44+00:00"
+     "fetched": "2026-10-08T07:38:34+00:00"
     }
    ]
   },
   {
    "key": "asia",
    "name": "Asia (Japan/Singapore/Hong Kong/China)",
-   "summary": "Asia (Japan/Singapore/Hong Kong/China) equity capital markets activity captured this run runs to 4 items, led by ByteDance heads first SCMP Plus Going Global 100 ranking. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
-   "fresh_count": 2,
+   "summary": "Asia (Japan/Singapore/Hong Kong/China) equity capital markets activity captured this run runs to 4 items, led by Japan ‘considering ownership’ of nuclear submarines as regional rivalries worsen. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "fresh_count": 1,
    "items": [
-    {
-     "headline": "ByteDance heads first SCMP Plus Going Global 100 ranking",
-     "detail": "TikTok owner ByteDance is China’s Going Global champion, according to a new SCMP Plus databank tracking mainland companies’ overseas expansion efforts.",
-     "url": "https://www.scmp.com/business/china-business/article/3370010/bytedance-heads-first-scmp-plus-going-global-100-ranking?utm_source=rss_feed",
-     "outlet": "South China Morning Post",
-     "source_url": "https://www.scmp.com/rss/92/feed",
-     "published": "2026-10-08T03:02:05+00:00",
-     "fetched": "2026-10-08T06:49:21+00:00"
-    },
     {
      "headline": "Japan ‘considering ownership’ of nuclear submarines as regional rivalries worsen",
      "detail": "Japan is expected to float the idea of acquiring a fleet of nuclear-powered submarines in revised security documents to be released later this year, with analysts suggesting that Tokyo’s initial aim is to promote discussion of the issue…",
@@ -66,7 +57,16 @@
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/91/feed",
      "published": "2026-10-08T00:00:18+00:00",
-     "fetched": "2026-10-08T06:49:22+00:00"
+     "fetched": "2026-10-08T07:40:09+00:00"
+    },
+    {
+     "headline": "ByteDance heads first SCMP Plus Going Global 100 ranking",
+     "detail": "TikTok owner ByteDance is China’s Going Global champion, according to a new SCMP Plus databank tracking mainland companies’ overseas expansion efforts.",
+     "url": "https://www.scmp.com/business/china-business/article/3370010/bytedance-heads-first-scmp-plus-going-global-100-ranking?utm_source=rss_feed",
+     "outlet": "South China Morning Post",
+     "source_url": "https://www.scmp.com/rss/92/feed",
+     "published": "2026-10-08T03:02:05+00:00",
+     "fetched": "2026-10-08T07:40:08+00:00"
     },
     {
      "headline": "China’s Transsion, Africa’s top phone maker, targets US$500 million Hong Kong listing",
@@ -75,7 +75,7 @@
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
      "published": "2026-10-06T08:28:07+00:00",
-     "fetched": "2026-10-08T06:49:21+00:00"
+     "fetched": "2026-10-08T07:40:08+00:00"
     },
     {
      "headline": "Hong Kong’s big IPO haul",
@@ -84,7 +84,7 @@
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
      "published": "2026-10-06T02:22:01+00:00",
-     "fetched": "2026-10-08T06:49:21+00:00"
+     "fetched": "2026-10-08T07:40:08+00:00"
     }
    ]
   },
@@ -101,7 +101,7 @@
      "outlet": "IPOScoop",
      "source_url": "https://www.iposcoop.com/feed/",
      "published": "2026-10-05T11:22:05+00:00",
-     "fetched": "2026-10-08T06:49:23+00:00"
+     "fetched": "2026-10-08T07:40:10+00:00"
     },
     {
      "headline": "The IPO Buzz: Accelevation (ACCV) Prices IPO at $18 – $2 Below Range – & Stock Dips",
@@ -110,7 +110,7 @@
      "outlet": "IPOScoop",
      "source_url": "https://www.iposcoop.com/feed/",
      "published": "2026-09-29T23:27:54+00:00",
-     "fetched": "2026-10-08T06:49:23+00:00"
+     "fetched": "2026-10-08T07:40:10+00:00"
     },
     {
      "headline": "The IPO Buzz: Oura Postpones IPO Due to Market Conditions",
@@ -119,7 +119,7 @@
      "outlet": "IPOScoop",
      "source_url": "https://www.iposcoop.com/feed/",
      "published": "2026-09-29T11:35:47+00:00",
-     "fetched": "2026-10-08T06:49:23+00:00"
+     "fetched": "2026-10-08T07:40:10+00:00"
     },
     {
      "headline": "Australia says more hikes not off the table after raising rates to 15-year high",
@@ -128,25 +128,16 @@
      "outlet": "CNBC Markets",
      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258",
      "published": "2026-09-29T05:00:58+00:00",
-     "fetched": "2026-10-08T06:49:27+00:00"
+     "fetched": "2026-10-08T07:40:12+00:00"
     }
    ]
   },
   {
    "key": "uk",
    "name": "UK",
-   "summary": "UK equity capital markets activity captured this run runs to 2 items, led by Shein UK revenue hits £2.5bn despite IPO woes. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
-   "fresh_count": 1,
+   "summary": "UK equity capital markets activity captured this run runs to 2 items, led by Zilch leaning towards London IPO as UK fintech calls in bankers. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources. No newer capital markets item has been reported for UK since the last edition, so the same verified item(s) are carried forward.",
+   "fresh_count": 0,
    "items": [
-    {
-     "headline": "Shein UK revenue hits £2.5bn despite IPO woes",
-     "detail": "Fast-fashion giant Shein took in more than £2.5bn in UK revenue last year as it tightens its hold on British shoppers despite its IPO woes.",
-     "url": "https://www.cityam.com/shein-uk-revenue-hits-2-5bn-despite-ipo-woes/",
-     "outlet": "City A.M.",
-     "source_url": "https://www.cityam.com/feed/",
-     "published": "2026-10-07T13:57:32+00:00",
-     "fetched": "2026-10-08T06:49:33+00:00"
-    },
     {
      "headline": "Zilch leaning towards London IPO as UK fintech calls in bankers",
      "detail": "UK fintech Zilch is leaning towards a public debut on the London Stock Exchange as it kickstarts plans for a potential $2bn listing as soon as next year.",
@@ -154,15 +145,24 @@
      "outlet": "City A.M.",
      "source_url": "https://www.cityam.com/category/markets/feed/",
      "published": "2026-09-30T12:42:01+00:00",
-     "fetched": "2026-10-08T06:49:30+00:00"
+     "fetched": "2026-10-08T07:40:13+00:00"
+    },
+    {
+     "headline": "Shein UK revenue hits £2.5bn despite IPO woes",
+     "detail": "Fast-fashion giant Shein took in more than £2.5bn in UK revenue last year as it tightens its hold on British shoppers despite its IPO woes.",
+     "url": "https://www.cityam.com/shein-uk-revenue-hits-2-5bn-despite-ipo-woes/",
+     "outlet": "City A.M.",
+     "source_url": "https://www.cityam.com/feed/",
+     "published": "2026-10-07T13:57:32+00:00",
+     "fetched": "2026-10-08T07:40:14+00:00"
     }
    ]
   },
   {
    "key": "europe",
    "name": "Europe",
-   "summary": "Europe equity capital markets activity captured this run runs to 2 items, led by Avaada Electro Said to Plan $786 Million India IPO in November. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
-   "fresh_count": 2,
+   "summary": "A single verifiable equity capital markets item was found for Europe this run: Avaada Electro Said to Plan $786 Million India IPO in November. No newer capital markets item has been reported for Europe since the last edition, so the same verified item(s) are carried forward.",
+   "fresh_count": 0,
    "items": [
     {
      "headline": "Avaada Electro Said to Plan $786 Million India IPO in November",
@@ -171,16 +171,7 @@
      "outlet": "Bloomberg",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
      "published": "2026-10-08T05:41:52+00:00",
-     "fetched": "2026-10-08T06:49:34+00:00"
-    },
-    {
-     "headline": "Tikehau: Private Markets Entering a More Selective Phase",
-     "detail": "Tikehau Capital Co-Founder Mathieu Chabran says future performance of private credit and private equity will be driven far more by underwriting discipline, downside protection and operational value creation.",
-     "url": "https://www.bloomberg.com/news/videos/2026-10-08/tikehau-private-markets-entering-a-more-selective-phase-video",
-     "outlet": "Bloomberg",
-     "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-08T04:54:59+00:00",
-     "fetched": "2026-10-08T06:49:34+00:00"
+     "fetched": "2026-10-08T07:40:15+00:00"
     }
    ]
   },

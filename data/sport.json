@@ -11,7 +11,7 @@
      "outlet": "Zero Tackle",
      "source_url": "https://www.zerotackle.com/feed/",
      "published": "2026-10-08T05:42:47+00:00",
-     "fetched": "2026-10-08T06:50:46+00:00"
+     "fetched": "2026-10-08T07:41:26+00:00"
     },
     {
      "headline": "V’Landys takes swing at rugby union as Chiefs legal action launched",
@@ -20,7 +20,7 @@
      "outlet": "Zero Tackle",
      "source_url": "https://www.zerotackle.com/feed/",
      "published": "2026-10-08T04:45:58+00:00",
-     "fetched": "2026-10-08T06:50:46+00:00"
+     "fetched": "2026-10-08T07:41:26+00:00"
     },
     {
      "headline": "How every NRL team will be impacted in 2027 by the Rugby League World Cup",
@@ -29,7 +29,7 @@
      "outlet": "Zero Tackle",
      "source_url": "https://www.zerotackle.com/feed/",
      "published": "2026-10-08T03:23:35+00:00",
-     "fetched": "2026-10-08T06:50:46+00:00"
+     "fetched": "2026-10-08T07:41:26+00:00"
     }
    ]
   },
@@ -38,31 +38,31 @@
    "name": "AFL - Australia",
    "items": [
     {
+     "headline": "AFLW TEAMS: Tigers turn to top-ups, Suns veteran dropped, huge Dees blow",
+     "detail": "The teams are in for AFLW round nine's matches",
+     "url": "https://www.afl.com.au/aflw/news/1628982/aflw-teams-round-nine",
+     "outlet": "AFL.com.au",
+     "source_url": "https://www.afl.com.au/rss",
+     "published": "2026-10-08T08:20:00+00:00",
+     "fetched": "2026-10-08T07:41:26+00:00"
+    },
+    {
+     "headline": "Trade Talk RECAP: Seven-club mega deal takes shape, Dees open to moving picks",
+     "detail": "Follow all the news and live updates during the 2026 Continental Tyres AFL Trade Period",
+     "url": "https://www.afl.com.au/news/1628920/trade-talk-live-october-8-all-the-latest-trade-and-free-agency-rumours-ahead-of-the-trade-period",
+     "outlet": "AFL.com.au",
+     "source_url": "https://www.afl.com.au/rss",
+     "published": "2026-10-08T06:57:00+00:00",
+     "fetched": "2026-10-08T07:41:26+00:00"
+    },
+    {
      "headline": "Roos' huge play sets up Blakey call, mega deal talks go on, Dees' offer for Lion",
      "detail": "Check out all the latest trade news from around the League",
      "url": "https://www.afl.com.au/news/1628919/inside-trading-roos-huge-play-sets-up-blakey-call-mega-deal-talks-go-on-dees-offer-for-lion",
      "outlet": "AFL.com.au",
      "source_url": "https://www.afl.com.au/rss",
      "published": "2026-10-08T06:10:00+00:00",
-     "fetched": "2026-10-08T06:50:46+00:00"
-    },
-    {
-     "headline": "Lions aim to defy 'savage' injury list in must-win Hawks clash",
-     "detail": "Brisbane coach Craig Starcevich says his side will throw caution to the wind as it attempts to save its finals prospects",
-     "url": "https://www.afl.com.au/aflw/news/1628980/brisbane-lions-aim-to-defy-savage-injury-hand-in-must-win-aflw-clash-against-hawthorn-hawks",
-     "outlet": "AFL.com.au",
-     "source_url": "https://www.afl.com.au/rss",
-     "published": "2026-10-08T06:07:00+00:00",
-     "fetched": "2026-10-08T06:50:46+00:00"
-    },
-    {
-     "headline": "Trade Talk LIVE: Seven-club mega deal takes shape, Dees open to moving picks",
-     "detail": "Follow all the news and live updates during the 2026 Continental Tyres AFL Trade Period",
-     "url": "https://www.afl.com.au/news/1628920/trade-talk-live-october-8-all-the-latest-trade-and-free-agency-rumours-ahead-of-the-trade-period",
-     "outlet": "AFL.com.au",
-     "source_url": "https://www.afl.com.au/rss",
-     "published": "2026-10-08T05:30:00+00:00",
-     "fetched": "2026-10-08T06:50:46+00:00"
+     "fetched": "2026-10-08T07:41:26+00:00"
     }
    ]
   },
@@ -77,7 +77,7 @@
      "outlet": "Sky Sports Rugby Union",
      "source_url": "https://www.skysports.com/rss/12321",
      "published": "2026-10-06T11:30:00+01:00",
-     "fetched": "2026-10-08T06:50:47+00:00"
+     "fetched": "2026-10-08T07:41:27+00:00"
     }
    ]
   },
@@ -92,7 +92,16 @@
      "outlet": "Sky Sports Golf",
      "source_url": "https://www.skysports.com/rss/12176",
      "published": "2026-10-07T17:15:00+01:00",
-     "fetched": "2026-10-08T06:50:48+00:00"
+     "fetched": "2026-10-08T07:41:28+00:00"
+    },
+    {
+     "headline": "England's Smith starts well at Baycurrent Classic as Bridgeman leads",
+     "detail": "England's Jordan Smith enjoyed a strong start to the Baycurrent Classic with a bogey-free, seven-under 64 leaving him one shot behind first-round leader Jacob Bridgeman in Japan.",
+     "url": "https://www.skysports.com/golf/news/12176/13596364/pga-tour-englands-jordan-smith-starts-well-at-baycurrent-classic-as-jacob-bridgeman-leads-in-japan",
+     "outlet": "Sky Sports Golf",
+     "source_url": "https://www.skysports.com/rss/12176",
+     "published": "2026-10-08T07:45:00+01:00",
+     "fetched": "2026-10-08T07:41:28+00:00"
     },
     {
      "headline": "Garcia targets Ryder Cup return",
@@ -101,7 +110,7 @@
      "outlet": "Sky Sports Golf",
      "source_url": "https://www.skysports.com/rss/12176",
      "published": "2026-10-07T17:48:00+01:00",
-     "fetched": "2026-10-08T06:50:48+00:00"
+     "fetched": "2026-10-08T07:41:28+00:00"
     },
     {
      "headline": "Lifeline for LIV Golf with potential $300m investment",
@@ -110,7 +119,7 @@
      "outlet": "Sky Sports Golf",
      "source_url": "https://www.skysports.com/rss/12176",
      "published": "2026-10-06T09:30:00+01:00",
-     "fetched": "2026-10-08T06:50:48+00:00"
+     "fetched": "2026-10-08T07:41:28+00:00"
     },
     {
      "headline": "Pettersen to make golf comeback - and it may not be a one-off",
@@ -119,7 +128,7 @@
      "outlet": "Sky Sports Golf",
      "source_url": "https://www.skysports.com/rss/12176",
      "published": "2026-10-07T12:45:00+01:00",
-     "fetched": "2026-10-08T06:50:48+00:00"
+     "fetched": "2026-10-08T07:41:28+00:00"
     },
     {
      "headline": "'No excuses' for Reed after injury as he looks to increase Race to Dubai lead",
@@ -128,16 +137,7 @@
      "outlet": "Sky Sports Golf",
      "source_url": "https://www.skysports.com/rss/12176",
      "published": "2026-10-07T07:02:00+01:00",
-     "fetched": "2026-10-08T06:50:48+00:00"
-    },
-    {
-     "headline": "Furyk reveals USA gameplan: 'We should be thinking Ryder Cup all the time!'",
-     "detail": "Team USA captain Jim Furyk has urged his veterans to \"step up\" and take players \"under their wing\" to help them end their Ryder Cup losing streak on European soil.",
-     "url": "https://www.skysports.com/golf/news/12176/13595905/ryder-cup-jim-furyk-urges-team-usa-veterans-to-step-up-to-boost-bid-for-historic-away-win-over-europe-at-adare-manor",
-     "outlet": "Sky Sports Golf",
-     "source_url": "https://www.skysports.com/rss/12176",
-     "published": "2026-10-07T06:00:00+01:00",
-     "fetched": "2026-10-08T06:50:48+00:00"
+     "fetched": "2026-10-08T07:41:28+00:00"
     }
    ]
   },
@@ -152,7 +152,7 @@
      "outlet": "Sky Sports Cricket",
      "source_url": "https://www.skysports.com/rss/12123",
      "published": "2026-10-08T06:00:00+01:00",
-     "fetched": "2026-10-08T06:50:49+00:00"
+     "fetched": "2026-10-08T07:41:29+00:00"
     },
     {
      "headline": "Sky Sports to show England's ODI tri-series in Pakistan",
@@ -161,7 +161,7 @@
      "outlet": "Sky Sports Cricket",
      "source_url": "https://www.skysports.com/rss/12123",
      "published": "2026-10-07T11:00:00+01:00",
-     "fetched": "2026-10-08T06:50:49+00:00"
+     "fetched": "2026-10-08T07:41:29+00:00"
     },
     {
      "headline": "Should 'cracking kid' Bamber be awarded England call-up?",
@@ -170,7 +170,7 @@
      "outlet": "Sky Sports Cricket",
      "source_url": "https://www.skysports.com/rss/12123",
      "published": "2026-10-07T06:00:00+01:00",
-     "fetched": "2026-10-08T06:50:49+00:00"
+     "fetched": "2026-10-08T07:41:29+00:00"
     }
    ]
   },
@@ -185,7 +185,7 @@
      "outlet": "Yahoo Sports",
      "source_url": "https://sports.yahoo.com/nfl/rss.xml",
      "published": "2026-10-08T03:46:17+00:00",
-     "fetched": "2026-10-08T06:50:51+00:00"
+     "fetched": "2026-10-08T07:41:31+00:00"
     },
     {
      "headline": "DeVonta Smith not practicing",
@@ -194,7 +194,7 @@
      "outlet": "Yahoo Sports",
      "source_url": "https://sports.yahoo.com/nfl/rss.xml",
      "published": "2026-10-08T03:28:43+00:00",
-     "fetched": "2026-10-08T06:50:51+00:00"
+     "fetched": "2026-10-08T07:41:31+00:00"
     },
     {
      "headline": "Zach Goedert logs limited practice",
@@ -203,7 +203,7 @@
      "outlet": "Yahoo Sports",
      "source_url": "https://sports.yahoo.com/nfl/rss.xml",
      "published": "2026-10-08T03:18:21+00:00",
-     "fetched": "2026-10-08T06:50:51+00:00"
+     "fetched": "2026-10-08T07:41:31+00:00"
     }
    ]
   },
@@ -212,13 +212,22 @@
    "name": "NBA - US",
    "items": [
     {
+     "headline": "Lakers vs. Kings Preseason Preview: Home sweet home",
+     "detail": "The Lakers will play for the first time at home this preseason against the Kings on Thursday.",
+     "url": "https://sports.yahoo.com/articles/lakers-vs-kings-preseason-preview-052314625.html",
+     "outlet": "Yahoo Sports",
+     "source_url": "https://sports.yahoo.com/nba/rss.xml",
+     "published": "2026-10-08T05:23:14+00:00",
+     "fetched": "2026-10-08T07:41:33+00:00"
+    },
+    {
      "headline": "Pacers 123, Timberwolves 112: New-Look Offense Won’t Be Ignored Even in Loss",
      "detail": "The Wolves’ second preseason game did not go as well as the first, as Minnesota fell to the Pacers",
      "url": "https://sports.yahoo.com/articles/pacers-123-timberwolves-112-look-040010639.html",
      "outlet": "Yahoo Sports",
      "source_url": "https://sports.yahoo.com/nba/rss.xml",
      "published": "2026-10-08T04:00:10+00:00",
-     "fetched": "2026-10-08T06:50:53+00:00"
+     "fetched": "2026-10-08T07:41:33+00:00"
     },
     {
      "headline": "Houston Rockets vs. Dallas Mavericks preseason game preview",
@@ -227,16 +236,7 @@
      "outlet": "Yahoo Sports",
      "source_url": "https://sports.yahoo.com/nba/rss.xml",
      "published": "2026-10-08T04:00:00+00:00",
-     "fetched": "2026-10-08T06:50:53+00:00"
-    },
-    {
-     "headline": "Preseason Game Preview: Knicks vs. Wizards, October 8, 2026",
-     "detail": "The champs return to the Garden to greet Trae Young and Washington’s rebuilt roster.",
-     "url": "https://sports.yahoo.com/articles/preseason-game-preview-knicks-vs-040000010.html",
-     "outlet": "Yahoo Sports",
-     "source_url": "https://sports.yahoo.com/nba/rss.xml",
-     "published": "2026-10-08T04:00:00+00:00",
-     "fetched": "2026-10-08T06:50:53+00:00"
+     "fetched": "2026-10-08T07:41:33+00:00"
     }
    ]
   },
@@ -245,31 +245,31 @@
    "name": "MLB - US",
    "items": [
     {
+     "headline": "Tampa Bay Rays, led by unsung heroes and offseason additions, defeat the Yankees amid chaos in the Bronx to punch a ticket to the ALCS",
+     "detail": "The Rays spent this past offseason shaking up their roster. Now they're headed to the ALCS for the third time in franchise history.",
+     "url": "https://sports.yahoo.com/mlb/article/tampa-bay-rays-led-by-unsung-heroes-and-offseason-additions-defeat-the-yankees-amid-chaos-in-the-bronx-to-punch-a-ticket-to-the-alcs-065239600.html",
+     "outlet": "Yahoo Sports",
+     "source_url": "https://sports.yahoo.com/mlb/rss.xml",
+     "published": "2026-10-08T06:52:39+00:00",
+     "fetched": "2026-10-08T07:41:36+00:00"
+    },
+    {
      "headline": "Fans should get used to idea Aaron Boone will manage Yankees in 2027",
      "detail": "Despite an early playoff exit and only a year left on his contract, fans should get used to the idea that Aaron Boone will manage the Yankees in 2027 for a number of reasons.",
      "url": "https://sports.yahoo.com/articles/fans-used-idea-aaron-boone-061146214.html",
      "outlet": "Yahoo Sports",
      "source_url": "https://sports.yahoo.com/mlb/rss.xml",
      "published": "2026-10-08T06:11:46+00:00",
-     "fetched": "2026-10-08T06:50:55+00:00"
+     "fetched": "2026-10-08T07:41:36+00:00"
     },
     {
      "headline": "Padres star Manny Machado livid after Garrett Mitchell robs potential game-tying home run, helping Brewers advance to NLCS",
-     "detail": "Manny Machado's game-tying home run was so close to clearing the Petco Park wall on Wednesday night.",
+     "detail": "Manny Machado's game-tying home run was so close to clearing the Petco Park wall on Wednesday.",
      "url": "https://sports.yahoo.com/mlb/article/padres-star-manny-machado-livid-after-garrett-mitchell-robs-potential-game-tying-home-run-helping-brewers-advance-to-nlcs-062129830.html",
      "outlet": "Yahoo Sports",
      "source_url": "https://sports.yahoo.com/mlb/rss.xml",
      "published": "2026-10-08T05:48:25+00:00",
-     "fetched": "2026-10-08T06:50:55+00:00"
-    },
-    {
-     "headline": "Aaron Judge looking forward to Yankees front office's response to another playoff exit",
-     "detail": "After the Yankees suffered another early playoff exit following their Game 3 loss to the Rays, Aaron Judge was asked about the front office and what he wants to see as a response this offseason.",
-     "url": "https://sports.yahoo.com/articles/aaron-judge-looking-forward-yankees-054452065.html",
-     "outlet": "Yahoo Sports",
-     "source_url": "https://sports.yahoo.com/mlb/rss.xml",
-     "published": "2026-10-08T05:44:52+00:00",
-     "fetched": "2026-10-08T06:50:55+00:00"
+     "fetched": "2026-10-08T07:41:36+00:00"
     }
    ]
   },
@@ -284,7 +284,7 @@
      "outlet": "Sky Sports F1",
      "source_url": "https://www.skysports.com/rss/12433",
      "published": "2026-10-07T17:00:00+01:00",
-     "fetched": "2026-10-08T06:50:55+00:00"
+     "fetched": "2026-10-08T07:41:36+00:00"
     },
     {
      "headline": "Russell grid penalty confirmed as Mercedes reveal plan to re-evaluate upgrades",
@@ -293,7 +293,7 @@
      "outlet": "Sky Sports F1",
      "source_url": "https://www.skysports.com/rss/12433",
      "published": "2026-10-06T10:06:00+01:00",
-     "fetched": "2026-10-08T06:50:55+00:00"
+     "fetched": "2026-10-08T07:41:36+00:00"
     },
     {
      "headline": "Hamilton: Ferrari have to catch up with rivals on power",
@@ -302,7 +302,7 @@
      "outlet": "Sky Sports F1",
      "source_url": "https://www.skysports.com/rss/12433",
      "published": "2026-10-07T07:00:00+01:00",
-     "fetched": "2026-10-08T06:50:55+00:00"
+     "fetched": "2026-10-08T07:41:36+00:00"
     }
    ]
   },
@@ -311,13 +311,22 @@
    "name": "Tennis - Rest of World",
    "items": [
     {
+     "headline": "Jannik Sinner’s full results from 2026 as he ends his season early due to injury",
+     "detail": "Jannik Sinner has officially closed the curtain on his 2026 season because of his knee injury. It’s a huge blow to the ATP Tour, his...",
+     "url": "https://sports.yahoo.com/articles/jannik-sinner-full-results-2026-070000088.html",
+     "outlet": "Yahoo Sports Tennis",
+     "source_url": "https://sports.yahoo.com/tennis/rss.xml",
+     "published": "2026-10-08T07:00:00+00:00",
+     "fetched": "2026-10-08T07:41:38+00:00"
+    },
+    {
      "headline": "Stefanos Tsitsipas advances to the second round at the Shanghai Masters",
      "detail": "SHANGHAI (AP) — Stefanos Tsitsipas beat qualifier Kimmer Coppejans 6-3, 7-5 on Thursday in a first-round match at the Shanghai Masters, continuing his slow climb back up the ATP rankings.Tsitsipas, who reached a career-high No.",
      "url": "https://sports.yahoo.com/articles/stefanos-tsitsipas-advances-second-round-061308199.html",
      "outlet": "Yahoo Sports Tennis",
      "source_url": "https://sports.yahoo.com/tennis/rss.xml",
      "published": "2026-10-08T06:13:08+00:00",
-     "fetched": "2026-10-08T06:50:56+00:00"
+     "fetched": "2026-10-08T07:41:38+00:00"
     },
     {
      "headline": "Seven Years in the Wilderness: Bernard Tomic Is Back at a Masters 1000",
@@ -326,16 +335,7 @@
      "outlet": "Yahoo Sports Tennis",
      "source_url": "https://sports.yahoo.com/tennis/rss.xml",
      "published": "2026-10-08T03:38:25+00:00",
-     "fetched": "2026-10-08T06:50:56+00:00"
-    },
-    {
-     "headline": "Alex Eala Makes Candid Confession About Pressure From Filipino Fans",
-     "detail": "Alex Eala opens up to Maria Sharapova about the growing pressure of representing the Philippines and managing expectations from Filipino fans.",
-     "url": "https://sports.yahoo.com/articles/alex-eala-makes-candid-confession-021624951.html",
-     "outlet": "Yahoo Sports Tennis",
-     "source_url": "https://sports.yahoo.com/tennis/rss.xml",
-     "published": "2026-10-08T02:16:24+00:00",
-     "fetched": "2026-10-08T06:50:56+00:00"
+     "fetched": "2026-10-08T07:41:38+00:00"
     }
    ]
   }

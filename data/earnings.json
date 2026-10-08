@@ -20,34 +20,16 @@
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
      "published": "2026-10-01T06:00:08+00:00",
-     "fetched": "2026-10-08T06:50:19+00:00"
+     "fetched": "2026-10-08T07:41:02+00:00"
     }
    ]
   },
   {
    "key": "us",
    "name": "US",
-   "summary": "US earnings reporting activity captured this run runs to 5 items, led by Banks Under Pressure from Spiking Yields Ahead of Q3 Results. The remaining items cover the rest of the region's results, guidance and reporting-season flow as reported by the linked sources.",
-   "fresh_count": 5,
+   "summary": "US earnings reporting activity captured this run runs to 5 items, led by After-Hours Earnings Report for October 7, 2026 : APLD, LEVI, RELL, RGP. The remaining items cover the rest of the region's results, guidance and reporting-season flow as reported by the linked sources.",
+   "fresh_count": 3,
    "items": [
-    {
-     "headline": "Banks Under Pressure from Spiking Yields Ahead of Q3 Results",
-     "detail": "Higher interest rates are generally seen as beneficial for the likes of JPMorgan and Wells Fargo, but spiking yields of the type we have been experiencing are negative for these banks from several angles.",
-     "url": "https://www.nasdaq.com/articles/banks-under-pressure-spiking-yields-ahead-q3-results",
-     "outlet": "Nasdaq",
-     "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
-     "published": "2026-10-07T22:10:00+00:00",
-     "fetched": "2026-10-08T06:50:22+00:00"
-    },
-    {
-     "headline": "Pre-Market Earnings Report for October 8, 2026 : PEP, NG, ANGO, HELE, TLRY, BYRN",
-     "detail": "The following companies are expected to report earnings prior to market open on 10/08/2026. Visit our Earnings Calendar for a full list of expected earnings releases.Pepsico, Inc.",
-     "url": "https://www.nasdaq.com/articles/pre-market-earnings-report-october-8-2026-pep-ng-ango-hele-tlry-byrn",
-     "outlet": "Nasdaq",
-     "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
-     "published": "2026-10-07T20:00:01+00:00",
-     "fetched": "2026-10-08T06:50:22+00:00"
-    },
     {
      "headline": "After-Hours Earnings Report for October 7, 2026 : APLD, LEVI, RELL, RGP",
      "detail": "The following companies are expected to report earnings after hours on 10/07/2026.",
@@ -55,7 +37,7 @@
      "outlet": "Nasdaq",
      "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
      "published": "2026-10-07T18:00:01+00:00",
-     "fetched": "2026-10-08T06:50:22+00:00"
+     "fetched": "2026-10-08T07:41:06+00:00"
     },
     {
      "headline": "What Lamb Weston (LW) Said on Its Q1 Earnings Call",
@@ -64,7 +46,7 @@
      "outlet": "Nasdaq",
      "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
      "published": "2026-10-06T15:02:37+00:00",
-     "fetched": "2026-10-08T06:50:22+00:00"
+     "fetched": "2026-10-08T07:41:06+00:00"
     },
     {
      "headline": "Apogee Enterprises Q2 Earnings Call Highlights",
@@ -73,7 +55,25 @@
      "outlet": "Nasdaq",
      "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
      "published": "2026-10-06T15:02:37+00:00",
-     "fetched": "2026-10-08T06:50:22+00:00"
+     "fetched": "2026-10-08T07:41:06+00:00"
+    },
+    {
+     "headline": "Banks Under Pressure from Spiking Yields Ahead of Q3 Results",
+     "detail": "Higher interest rates are generally seen as beneficial for the likes of JPMorgan and Wells Fargo, but spiking yields of the type we have been experiencing are negative for these banks from several angles.",
+     "url": "https://www.nasdaq.com/articles/banks-under-pressure-spiking-yields-ahead-q3-results",
+     "outlet": "Nasdaq",
+     "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
+     "published": "2026-10-07T22:10:00+00:00",
+     "fetched": "2026-10-08T07:41:06+00:00"
+    },
+    {
+     "headline": "Pre-Market Earnings Report for October 8, 2026 : PEP, NG, ANGO, HELE, TLRY, BYRN",
+     "detail": "The following companies are expected to report earnings prior to market open on 10/08/2026. Visit our Earnings Calendar for a full list of expected earnings releases.Pepsico, Inc.",
+     "url": "https://www.nasdaq.com/articles/pre-market-earnings-report-october-8-2026-pep-ng-ango-hele-tlry-byrn",
+     "outlet": "Nasdaq",
+     "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
+     "published": "2026-10-07T20:00:01+00:00",
+     "fetched": "2026-10-08T07:41:06+00:00"
     }
    ]
   },
@@ -87,9 +87,18 @@
   {
    "key": "europe",
    "name": "Europe",
-   "summary": "Europe earnings reporting activity captured this run runs to 2 items, led by Singapore Bank Shares Tumble as Yield Surge Threatens Earnings. The remaining items cover the rest of the region's results, guidance and reporting-season flow as reported by the linked sources.",
-   "fresh_count": 2,
+   "summary": "Europe earnings reporting activity captured this run runs to 2 items, led by Seven & i operating profit falls 11% in second quarter. The remaining items cover the rest of the region's results, guidance and reporting-season flow as reported by the linked sources.",
+   "fresh_count": 1,
    "items": [
+    {
+     "headline": "Seven & i operating profit falls 11% in second quarter",
+     "detail": "Seven & i operating profit falls 11% in second quarter",
+     "url": "https://www.investing.com/news/stock-market-news/seven--i-operating-profit-falls-11-in-second-quarter-4938019",
+     "outlet": "Investing.com",
+     "source_url": "https://www.investing.com/rss/news_25.rss",
+     "published": null,
+     "fetched": "2026-10-08T07:41:08+00:00"
+    },
     {
      "headline": "Singapore Bank Shares Tumble as Yield Surge Threatens Earnings",
      "detail": "A selloff in Singapore bank shares deepened after JPMorgan Chase & Co. warned that surging long bond yields will hurt third-quarter earnings for Southeast Asian lenders.",
@@ -97,16 +106,7 @@
      "outlet": "Bloomberg",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
      "published": "2026-10-08T02:03:35+00:00",
-     "fetched": "2026-10-08T06:50:25+00:00"
-    },
-    {
-     "headline": "Uniqlo operator Fast Retailing posts 32% rise in full-year profit",
-     "detail": "Uniqlo operator Fast Retailing posts 32% rise in full-year profit",
-     "url": "https://www.investing.com/news/stock-market-news/uniqlo-operator-fast-retailing-posts-32-rise-in-fullyear-profit-4937970",
-     "outlet": "Investing.com",
-     "source_url": "https://www.investing.com/rss/news_25.rss",
-     "published": null,
-     "fetched": "2026-10-08T06:50:26+00:00"
+     "fetched": "2026-10-08T07:41:08+00:00"
     }
    ]
   },
