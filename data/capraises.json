@@ -3,61 +3,70 @@
   {
    "key": "anz",
    "name": "ANZ",
-   "summary": "ANZ equity capital markets activity captured this run runs to 4 items, led by Torque Metals Raises $25m to Fund Rapid Growth Strategy at Ritz Gold Project. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
-   "fresh_count": 1,
+   "summary": "ANZ equity capital markets activity captured this run runs to 4 items, led by Lunch Wrap: Pioneer Minerals doubles as Firmus bins $44bn float. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "fresh_count": 4,
    "items": [
     {
-     "headline": "Torque Metals Raises $25m to Fund Rapid Growth Strategy at Ritz Gold Project",
-     "detail": "Torque Metals secures $25m to accelerate drilling and resource growth at its Ritz gold project, lifting pro forma cash to $32.7m.",
-     "url": "https://smallcaps.com.au/article/torque-metals-raises-dollar25m-to-fund-rapid-growth-strategy-at-ritz-gold-project",
-     "outlet": "Small Caps",
-     "source_url": "https://smallcaps.com.au/feed",
-     "published": "2026-10-08T01:47:29+00:00",
-     "fetched": "2026-10-08T07:38:34+00:00"
-    },
-    {
-     "headline": "Health Check: Cowabunga! Downtrodden Cynata shows ninja warrior spirit with capital raise",
-     "detail": "Despite its due late-stage stem cell trial failures, Cynata is passing the hat for just over $900,000 in an underwritten ... Read More",
-     "url": "https://stockhead.com.au/health/health-check-cowabunga-downtrodden-cynata-shows-its-ninja-warrior-spirit-with-capital-raise/",
+     "headline": "Lunch Wrap: Pioneer Minerals doubles as Firmus bins $44bn float",
+     "detail": "The ASX edged higher as Firmus's $44bn float fell apart, while Pioneer Minerals doubled on an Argentine gold-copper play. ... Read More",
+     "url": "https://stockhead.com.au/news/lunch-wrap-pioneer-minerals-doubles-as-firmus-bins-44bn-float/",
      "outlet": "Stockhead",
      "source_url": "https://stockhead.com.au/feed/",
-     "published": "2026-10-08T01:59:19+00:00",
-     "fetched": "2026-10-08T07:38:34+00:00"
+     "published": "2026-10-09T02:09:53+00:00",
+     "fetched": "2026-10-09T07:02:41+00:00"
     },
     {
-     "headline": "Lunch Wrap: ASX loses ground as Maas plunges on Firmus IPO jitters",
-     "detail": "The ASX slipped as miners copped a beating and Maas’ Firmus jackpot turned sour. ... Read More",
-     "url": "https://stockhead.com.au/news/lunch-wrap-asx-loses-ground-as-maas-plunges-on-firmus-ipo-jitters/",
+     "headline": "Wiluna’s gold is coming back to the ASX, and it’s shining a light on nearby juniors",
+     "detail": "Wiluna Mining has launched a $180 million IPO aiming to return a famous WA mine to the ASX, and it ... Read More",
+     "url": "https://stockhead.com.au/resources/wilunas-gold-is-coming-back-to-the-asx-and-its-shining-a-light-on-nearby-juniors/",
      "outlet": "Stockhead",
      "source_url": "https://stockhead.com.au/feed/",
-     "published": "2026-10-08T02:18:26+00:00",
-     "fetched": "2026-10-08T07:38:34+00:00"
+     "published": "2026-10-08T19:15:32+00:00",
+     "fetched": "2026-10-09T07:02:41+00:00"
     },
     {
-     "headline": "Tambourah lines up $2.2m to fuel WA exploration push",
-     "detail": "Tambourah Metals is lining up a $2.2 million shareholder entitlement offer to keep exploration moving across its Western Australian gold ... Read More",
-     "url": "https://stockhead.com.au/resources/tambourah-lines-up-2-2m-to-fuel-wa-exploration-push/",
-     "outlet": "Stockhead",
-     "source_url": "https://stockhead.com.au/feed/",
-     "published": "2026-10-08T01:47:45+00:00",
-     "fetched": "2026-10-08T07:38:34+00:00"
+     "headline": "The ASX isn’t getting an AI giant IPO anymore – that could be a good thing",
+     "detail": "After much hubbub, the planned IPO that AI (hopeful) giant Firmus had…",
+     "url": "https://themarketonline.com.au/the-asx-isnt-getting-an-ai-giant-ipo-anymore-that-could-be-a-good-thing-2026-10-09/",
+     "outlet": "The Market Herald",
+     "source_url": "https://themarketherald.com.au/feed/",
+     "published": "2026-10-08T23:53:52+00:00",
+     "fetched": "2026-10-09T07:02:42+00:00"
+    },
+    {
+     "headline": "Market Open: ASX to rise despite red night on Wall Street; Firmus IPO withdrawn",
+     "detail": "Good morning and welcome to Friday of Week 41. The ASX is…",
+     "url": "https://themarketonline.com.au/market-open-asx-to-rise-despite-red-night-on-wall-street-firmus-ipo-withdrawn-2026-10-09/",
+     "outlet": "The Market Herald",
+     "source_url": "https://themarketherald.com.au/feed/",
+     "published": "2026-10-08T22:01:48+00:00",
+     "fetched": "2026-10-09T07:02:42+00:00"
     }
    ]
   },
   {
    "key": "asia",
    "name": "Asia (Japan/Singapore/Hong Kong/China)",
-   "summary": "Asia (Japan/Singapore/Hong Kong/China) equity capital markets activity captured this run runs to 4 items, led by Japan ‘considering ownership’ of nuclear submarines as regional rivalries worsen. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
-   "fresh_count": 1,
+   "summary": "Asia (Japan/Singapore/Hong Kong/China) equity capital markets activity captured this run runs to 4 items, led by Hong Kong IPO boom at risk as cornerstone backers get cold feet, sources say. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "fresh_count": 2,
    "items": [
     {
-     "headline": "Japan ‘considering ownership’ of nuclear submarines as regional rivalries worsen",
-     "detail": "Japan is expected to float the idea of acquiring a fleet of nuclear-powered submarines in revised security documents to be released later this year, with analysts suggesting that Tokyo’s initial aim is to promote discussion of the issue…",
-     "url": "https://www.scmp.com/week-asia/politics/article/3370099/japan-explores-ownership-nuclear-submarines-regional-rivalries-worsen?utm_source=rss_feed",
+     "headline": "Hong Kong IPO boom at risk as cornerstone backers get cold feet, sources say",
+     "detail": "Exuberance among cornerstone investors in Hong Kong’s booming initial public offering (IPO) market seems to be fading, forcing some issuers that had hoped to list this month to postpone their offerings.",
+     "url": "https://www.scmp.com/business/banking-finance/article/3370173/hong-kong-ipo-boom-risk-cornerstone-backers-get-cold-feet-sources-say?utm_source=rss_feed",
+     "outlet": "South China Morning Post",
+     "source_url": "https://www.scmp.com/rss/92/feed",
+     "published": "2026-10-08T08:11:07+00:00",
+     "fetched": "2026-10-09T07:04:32+00:00"
+    },
+    {
+     "headline": "US probes Harvard, Yale, MIT, other universities over alleged visa fraud, with China focus",
+     "detail": "The Trump administration is launching an investigation into nine US universities over alleged J-1 visa fraud, with officials raising concerns about Chinese scholars and the Chinese government.",
+     "url": "https://www.scmp.com/news/us/article/3370239/us-investigates-9-universities-over-alleged-visa-fraud-focus-china?utm_source=rss_feed",
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-10-08T00:00:18+00:00",
-     "fetched": "2026-10-08T07:40:09+00:00"
+     "published": "2026-10-08T19:05:23+00:00",
+     "fetched": "2026-10-09T07:04:32+00:00"
     },
     {
      "headline": "ByteDance heads first SCMP Plus Going Global 100 ranking",
@@ -66,7 +75,7 @@
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
      "published": "2026-10-08T03:02:05+00:00",
-     "fetched": "2026-10-08T07:40:08+00:00"
+     "fetched": "2026-10-09T07:04:32+00:00"
     },
     {
      "headline": "China’s Transsion, Africa’s top phone maker, targets US$500 million Hong Kong listing",
@@ -75,25 +84,43 @@
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
      "published": "2026-10-06T08:28:07+00:00",
-     "fetched": "2026-10-08T07:40:08+00:00"
-    },
-    {
-     "headline": "Hong Kong’s big IPO haul",
-     "detail": "–",
-     "url": "https://www.scmp.com/plus/business/banking-finance/article/3369852/hong-kongs-big-ipo-haul?utm_source=rss_feed",
-     "outlet": "South China Morning Post",
-     "source_url": "https://www.scmp.com/rss/92/feed",
-     "published": "2026-10-06T02:22:01+00:00",
-     "fetched": "2026-10-08T07:40:08+00:00"
+     "fetched": "2026-10-09T07:04:32+00:00"
     }
    ]
   },
   {
    "key": "us",
    "name": "US",
-   "summary": "US equity capital markets activity captured this run runs to 4 items, led by The IPO Buzz: TRex Bio (TRXB Proposed) Sets Terms for $125 Million IPO. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources. No newer capital markets item has been reported for US since the last edition, so the same verified item(s) are carried forward.",
-   "fresh_count": 0,
+   "summary": "US equity capital markets activity captured this run runs to 4 items, led by The IPO Buzz: TRex Bio (TRXB) Prices IPO at $14 – Low End – to Raise $116.62 Million. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "fresh_count": 3,
    "items": [
+    {
+     "headline": "The IPO Buzz: TRex Bio (TRXB) Prices IPO at $14 – Low End – to Raise $116.62 Million",
+     "detail": "TRex Bio (TRXB) priced its IPO at $14.00 – the low end of its range – and sold 8.33 million shares – the number in the prospectus – to raise $116.62 million on Thursday night, Oct. 8, 2026.",
+     "url": "https://www.iposcoop.com/the-ipo-buzz-trex-bio-trxb-prices-ipo-at-14-low-end-to-raise-116-62-million/",
+     "outlet": "IPOScoop",
+     "source_url": "https://www.iposcoop.com/feed/",
+     "published": "2026-10-09T04:28:50+00:00",
+     "fetched": "2026-10-09T07:04:34+00:00"
+    },
+    {
+     "headline": "The IPO Buzz: Iambic Therapeutics (IAM Proposed) Launches $150 Million IPO",
+     "detail": "Iambic Therapeutics (IAM Proposed), a biotech targeting breast cancer and lung cancer, unveiled the terms for its $150 million IPO early today and launched the deal for pricing next week.",
+     "url": "https://www.iposcoop.com/the-ipo-buzz-iambic-therapeutics-iam-proposed-launches-150-million-ipo/",
+     "outlet": "IPOScoop",
+     "source_url": "https://www.iposcoop.com/feed/",
+     "published": "2026-10-08T12:49:59+00:00",
+     "fetched": "2026-10-09T07:04:34+00:00"
+    },
+    {
+     "headline": "Solid IPO Activity Still Likely into Early 2027",
+     "detail": "Renewed disruptions cooled Q3 IPO counts, but $146B raised YTD already tops 2021's record — and the Nasdaq IPO Pulse signals more room to run into 2027.",
+     "url": "https://www.nasdaq.com/economic-institute/the-print/solid-ipo-activity-still-likely-into-early-2027",
+     "outlet": "Nasdaq",
+     "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=IPOs",
+     "published": "2026-10-08T21:25:19+00:00",
+     "fetched": "2026-10-09T07:04:36+00:00"
+    },
     {
      "headline": "The IPO Buzz: TRex Bio (TRXB Proposed) Sets Terms for $125 Million IPO",
      "detail": "TRex Bio (TRXB Proposed), an Eli Lilly-backed biotech, unveiled the terms for its $125 million IPO early today: 8.33 million shares at a price range of $14.00 to $16.00 to raise $124.95 million, if priced at the $15.00 mid-point of its…",
@@ -101,77 +128,77 @@
      "outlet": "IPOScoop",
      "source_url": "https://www.iposcoop.com/feed/",
      "published": "2026-10-05T11:22:05+00:00",
-     "fetched": "2026-10-08T07:40:10+00:00"
-    },
-    {
-     "headline": "The IPO Buzz: Accelevation (ACCV) Prices IPO at $18 – $2 Below Range – & Stock Dips",
-     "detail": "Accelevation Holdings (ACCV) priced its IPO at $18.00 – $2.00 below range – and sold 30 million shares – the number of shares in the prospectus – to raise $540 million on Tuesday night, Sept. 29, 2026.",
-     "url": "https://www.iposcoop.com/the-ipo-buzz-accelevation-accv-proposed-prices-ipo-at-18-2-below-range/",
-     "outlet": "IPOScoop",
-     "source_url": "https://www.iposcoop.com/feed/",
-     "published": "2026-09-29T23:27:54+00:00",
-     "fetched": "2026-10-08T07:40:10+00:00"
-    },
-    {
-     "headline": "The IPO Buzz: Oura Postpones IPO Due to Market Conditions",
-     "detail": "Oura (OURA Proposed), the maker of the Oura Ring, the world’s smallest smart ring, postponed its $2.1 billion IPO “despite strong demand, due to uncertainty in the IPO market,” the company said early today (Tuesday, Sept. 29, 2026).",
-     "url": "https://www.iposcoop.com/the-ipo-buzz-oura-postpones-ipo-due-to-market-conditions/",
-     "outlet": "IPOScoop",
-     "source_url": "https://www.iposcoop.com/feed/",
-     "published": "2026-09-29T11:35:47+00:00",
-     "fetched": "2026-10-08T07:40:10+00:00"
-    },
-    {
-     "headline": "Australia says more hikes not off the table after raising rates to 15-year high",
-     "detail": "The hike of 25 basis points was in line with expectations by economists polled by Reuters.",
-     "url": "https://www.cnbc.com/2026/09/29/australia-rates-inflation-monetary-policy.html",
-     "outlet": "CNBC Markets",
-     "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258",
-     "published": "2026-09-29T05:00:58+00:00",
-     "fetched": "2026-10-08T07:40:12+00:00"
+     "fetched": "2026-10-09T07:04:34+00:00"
     }
    ]
   },
   {
    "key": "uk",
    "name": "UK",
-   "summary": "UK equity capital markets activity captured this run runs to 2 items, led by Zilch leaning towards London IPO as UK fintech calls in bankers. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources. No newer capital markets item has been reported for UK since the last edition, so the same verified item(s) are carried forward.",
-   "fresh_count": 0,
+   "summary": "UK equity capital markets activity captured this run runs to 3 items, led by Airtel Money set for £5.3bn valuation in biggest London IPO in five years. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "fresh_count": 3,
    "items": [
     {
-     "headline": "Zilch leaning towards London IPO as UK fintech calls in bankers",
-     "detail": "UK fintech Zilch is leaning towards a public debut on the London Stock Exchange as it kickstarts plans for a potential $2bn listing as soon as next year.",
-     "url": "https://www.cityam.com/zilch-leaning-towards-london-ipo-as-uk-fintech-calls-in-bankers/",
-     "outlet": "City A.M.",
-     "source_url": "https://www.cityam.com/category/markets/feed/",
-     "published": "2026-09-30T12:42:01+00:00",
-     "fetched": "2026-10-08T07:40:13+00:00"
-    },
-    {
-     "headline": "Shein UK revenue hits £2.5bn despite IPO woes",
-     "detail": "Fast-fashion giant Shein took in more than £2.5bn in UK revenue last year as it tightens its hold on British shoppers despite its IPO woes.",
-     "url": "https://www.cityam.com/shein-uk-revenue-hits-2-5bn-despite-ipo-woes/",
+     "headline": "Airtel Money set for £5.3bn valuation in biggest London IPO in five years",
+     "detail": "Airtel Money will begin trading today on the London Stock Exchange in what is expected to be the largest initial public offering in the City for five years.",
+     "url": "https://www.cityam.com/airtel-money-set-for-5-3bn-valuation-in-biggest-london-ipo-in-five-years/",
      "outlet": "City A.M.",
      "source_url": "https://www.cityam.com/feed/",
-     "published": "2026-10-07T13:57:32+00:00",
-     "fetched": "2026-10-08T07:40:14+00:00"
+     "published": "2026-10-09T06:41:28+00:00",
+     "fetched": "2026-10-09T07:04:42+00:00"
+    },
+    {
+     "headline": "FCA eyes 90-day redemption rule on illiquid funds to end mass withdrawals",
+     "detail": "The UK’s financial watchdog has proposed changes to retail investment fund rules in a bid to reduce the risk of rushed asset sales during market volatility.",
+     "url": "https://www.cityam.com/fca-eyes-90-day-redemption-rule-on-illiquid-funds-to-end-mass-withdrawals/",
+     "outlet": "City A.M.",
+     "source_url": "https://www.cityam.com/feed/",
+     "published": "2026-10-08T16:05:24+00:00",
+     "fetched": "2026-10-09T07:04:42+00:00"
+    },
+    {
+     "headline": "Google DeepMind’s London AI drug spinout eyes $50bn valuation",
+     "detail": "London-based AI drug discovery firm, Isomorphic Labs, is reportedly seeking a valuation of up to $50bn (£37bn) in fresh funding talks, just five months after raising $2.1bn from investors.",
+     "url": "https://www.cityam.com/google-deepminds-london-ai-drug-spinout-eyes-50bn-valuation/",
+     "outlet": "City A.M.",
+     "source_url": "https://www.cityam.com/feed/",
+     "published": "2026-10-08T12:05:07+00:00",
+     "fetched": "2026-10-09T07:04:42+00:00"
     }
    ]
   },
   {
    "key": "europe",
    "name": "Europe",
-   "summary": "A single verifiable equity capital markets item was found for Europe this run: Avaada Electro Said to Plan $786 Million India IPO in November. No newer capital markets item has been reported for Europe since the last edition, so the same verified item(s) are carried forward.",
-   "fresh_count": 0,
+   "summary": "Europe equity capital markets activity captured this run runs to 3 items, led by Zetwerk Is Said to Plan Up to $525 Million India IPO Next Week. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "fresh_count": 3,
    "items": [
     {
-     "headline": "Avaada Electro Said to Plan $786 Million India IPO in November",
-     "detail": "Avaada Electro Ltd., the solar manufacturing arm of Avaada Group, is planning to launch an initial public offering as early as next month, according to people familiar with the matter.",
-     "url": "https://www.bloomberg.com/news/articles/2026-10-08/avaada-electro-said-to-plan-786-million-india-ipo-in-november",
+     "headline": "Zetwerk Is Said to Plan Up to $525 Million India IPO Next Week",
+     "detail": "Zetwerk Pvt., an Indian manufacturing platform, is preparing to launch an initial public offering as early as next week that may raise as much as $525 million, according to people familiar with the matter.",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-09/zetwerk-is-said-to-plan-up-to-525-million-india-ipo-next-week",
      "outlet": "Bloomberg",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-08T05:41:52+00:00",
-     "fetched": "2026-10-08T07:40:15+00:00"
+     "published": "2026-10-09T06:33:01+00:00",
+     "fetched": "2026-10-09T07:04:43+00:00"
+    },
+    {
+     "headline": "Airtel Money to Debut in London’s Biggest IPO for Five Years",
+     "detail": "Mobile payments firm Airtel Money is set to start trading on the London Stock Exchange later on Friday, a listing that may mark the largest initial public offering for the bourse in five years.",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-09/airtel-money-to-debut-after-london-s-biggest-ipo-in-five-years",
+     "outlet": "Bloomberg",
+     "source_url": "https://feeds.bloomberg.com/markets/news.rss",
+     "published": "2026-10-09T04:40:30+00:00",
+     "fetched": "2026-10-09T07:04:43+00:00"
+    },
+    {
+     "headline": "OpenAI's Revenue Report Deepens AI Bubble Fears, Firmus Shelves IPO",
+     "detail": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia.",
+     "url": "https://www.bloomberg.com/news/videos/2026-10-09/the-asia-trade-10-9-2026-video",
+     "outlet": "Bloomberg",
+     "source_url": "https://feeds.bloomberg.com/markets/news.rss",
+     "published": "2026-10-09T06:08:39+00:00",
+     "fetched": "2026-10-09T07:04:43+00:00"
     }
    ]
   },

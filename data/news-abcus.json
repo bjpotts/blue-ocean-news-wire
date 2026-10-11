@@ -3,48 +3,48 @@
   "key": "abcus",
   "name": "ABC News (US)",
   "site": "abcnews.go.com",
-  "summary": "ABC News in the United States, the network's national and world file is leading with Sheriff, ex-sheriff charged with obstructing justice tied to Kouri Richins case: Docs; WHO officials say unclear how Russia plague lab worker died; Trump interrupted by protesters as he fights to rally Texas voters.",
+  "summary": "ABC News in the United States, the network's national and world file is leading with Hurricane Isaias latest: Storm strengthens to Category 2; LIVE: ABC News Live; Hasan execution will be live-streamed, Pentagon official says.",
   "note": null,
   "items": [
    {
-    "headline": "Sheriff, ex-sheriff charged with obstructing justice tied to Kouri Richins case: Docs",
-    "detail": "A former sheriff of Summit County and the sheriff of neighboring Wasatch County face charges related to Kouri Richins' prosecution, according to defense motions.",
-    "url": "https://abcnews.go.com/US/sheriff-former-sheriff-charged-obstruction-justice-related-kouri/story?id=137079368",
+    "headline": "Hurricane Isaias latest: Storm strengthens to Category 2",
+    "detail": "The storm becomes the first Atlantic hurricane of the season, the latest first hurricane on record, on Thursday.",
+    "url": "https://abcnews.go.com/US/tropical-storm-isaias-forecast-make-landfall-hurricane-friday/story?id=137059483",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-10-07T22:56:08-04:00",
-    "fetched": "2026-10-08T07:41:20+00:00"
+    "published": "2026-10-08T23:13:11-04:00",
+    "fetched": "2026-10-09T07:05:55+00:00"
    },
    {
-    "headline": "WHO officials say unclear how Russia plague lab worker died",
-    "detail": "The WHO said on Wednesday it does not have enough information from Russian authorities to conduct a full risk assessment after the death of a plague laboratory worker.",
-    "url": "https://abcnews.go.com/Health/officials-unclear-russia-plague-lab-worker-died-call/story?id=137032253",
+    "headline": "LIVE: ABC News Live",
+    "detail": "24/7 coverage of breaking news and live events",
+    "url": "https://abcnews.go.com/video/41463246/",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-10-07T18:57:26-04:00",
-    "fetched": "2026-10-08T07:41:20+00:00"
+    "published": "2026-10-08T12:32:06-04:00",
+    "fetched": "2026-10-09T07:05:55+00:00"
    },
    {
-    "headline": "Trump interrupted by protesters as he fights to rally Texas voters",
-    "detail": "President Donald Trump fought to rally Texas voters behind Senate candidate Ken Paxton as a series of protests disrupted his rally in San Antonio",
-    "url": "https://abcnews.go.com/Politics/wireStory/trump-interrupted-protesters-fights-rally-texas-voters-paxton-137082289",
+    "headline": "Hasan execution will be live-streamed, Pentagon official says",
+    "detail": "Hegseth said he would make sure \"people are able to watch it, that it's public.\"",
+    "url": "https://abcnews.go.com/Politics/hegseth-hasan-execution-public/story?id=137110734",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-10-07T23:53:49-04:00",
-    "fetched": "2026-10-08T07:41:20+00:00"
+    "published": "2026-10-08T20:12:43-04:00",
+    "fetched": "2026-10-09T07:05:55+00:00"
    },
    {
-    "headline": "WATCH: 'DWTS,' Freddie Jackson, Meghan Markle: Here's what's trending",
-    "detail": "ABC News' Rocsi Diaz takes a look at what's buzzing in pop culture, including couples dancing to Mariah Carey on \"Dancing with the Stars,\" and R&B losing one of its smoothest voices.",
-    "url": "https://abcnews.go.com/video/137076763/",
+    "headline": "Margaret Hamilton, who led a software team for NASA's Apollo program, dies at 90",
+    "detail": "Margaret Hamilton, a groundbreaking computer scientist who led the team that created the onboard flight software for NASA’s moon-bound Apollo program, has died",
+    "url": "https://abcnews.go.com/Technology/wireStory/margaret-hamilton-led-software-team-nasas-apollo-program-137110168",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-10-07T17:33:33-04:00",
-    "fetched": "2026-10-08T07:41:20+00:00"
+    "published": "2026-10-08T20:11:53-04:00",
+    "fetched": "2026-10-09T07:05:55+00:00"
    },
    {
-    "headline": "WATCH: Philly man crowned city's parallel parking champ",
-    "detail": "The competition was fierce as Mario Zucca was crowned Philadelphia's top parallel parker.",
-    "url": "https://abcnews.go.com/video/137075763/",
+    "headline": "WATCH: Should you take the flu and COVID shots together?",
+    "detail": "Studies show that there is only a slight increase in reaction risks taking flu and COVID shots at the same time.",
+    "url": "https://abcnews.go.com/video/137099259/",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-10-07T15:54:26-04:00",
-    "fetched": "2026-10-08T07:41:20+00:00"
+    "published": "2026-10-08T17:17:09-04:00",
+    "fetched": "2026-10-09T07:05:55+00:00"
    }
   ]
  }
