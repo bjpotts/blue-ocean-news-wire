@@ -3,8 +3,8 @@
   {
    "key": "anz",
    "title": "ANZ Top Performers",
-   "caption": "Source: TradingView Australia market movers, captured Sunday 11 October 2026 at 16:19 AEST, covering the AEST session most recently published at that time. Covers all ASX-listed stocks rather than the ASX 200 alone. Ticker links go to Market Index. New Zealand (NZX) top performers are not available from a reliable linked source.",
-   "fetched": "2026-10-11T16:19:58+11:00",
+   "caption": "Source: TradingView Australia market movers, captured Sunday 11 October 2026 at 22:05 AEST, covering the AEST session most recently published at that time. Covers all ASX-listed stocks rather than the ASX 200 alone. Ticker links go to Market Index. New Zealand (NZX) top performers are not available from a reliable linked source.",
+   "fetched": "2026-10-11T22:05:32+11:00",
    "stale": false,
    "gainer_note": "Europa Metals Limited led the ANZ board for the session, up 19900.00 per cent to $0.2 on reported volume of 0 shares. The move is reported here as captured from TradingView Australia market movers at the time of this build. No company announcement covering it could be found in the local press, so no catalyst is asserted - a common outcome for a thinly traded stock.",
    "gainer_note_sources": [],
@@ -126,6 +126,13 @@
      "vol": "630.24K"
     },
     {
+     "name": "Eagle Mountain Mining Ltd. (EM2)",
+     "url": "https://www.marketindex.com.au/asx/em2",
+     "price": "$0.005",
+     "chg": "-16.67%",
+     "vol": "339.08K"
+    },
+    {
      "name": "Regener8 Resources NL (R8R)",
      "url": "https://www.marketindex.com.au/asx/r8r",
      "price": "$0.08",
@@ -138,13 +145,6 @@
      "price": "$0.007",
      "chg": "-22.22%",
      "vol": "174.08K"
-    },
-    {
-     "name": "Golden Mile Resources Ltd. (G88)",
-     "url": "https://www.marketindex.com.au/asx/g88",
-     "price": "$0.005",
-     "chg": "-16.67%",
-     "vol": "151.23K"
     },
     {
      "name": "Constellation Technologies Limited (CT1)",
@@ -165,8 +165,8 @@
   {
    "key": "japan",
    "title": "Japan Top Performers",
-   "caption": "Source: TradingView Japan market movers, captured Sunday 11 October 2026 at 16:19 AEST, covering the JST session most recently published at that time. Share volumes as reported by TradingView.",
-   "fetched": "2026-10-11T16:19:58+11:00",
+   "caption": "Source: TradingView Japan market movers, captured Sunday 11 October 2026 at 22:05 AEST, covering the JST session most recently published at that time. Share volumes as reported by TradingView.",
+   "fetched": "2026-10-11T22:05:32+11:00",
    "stale": false,
    "gainer_note": "Hybrid Technologies Co.,Ltd. led the Japan board for the session, up 38.28 per cent to \u00a5289 on reported volume of 2.08M shares. The move is reported here as captured from TradingView Japan market movers at the time of this build. No company announcement covering it could be found in the local press, so no catalyst is asserted - a common outcome for a thinly traded stock.",
    "gainer_note_sources": [],
@@ -320,8 +320,8 @@
   {
    "key": "singapore",
    "title": "Singapore Top Performers",
-   "caption": "Source: TradingView Singapore market movers, captured Sunday 11 October 2026 at 16:19 AEST, covering the SGT session most recently published at that time. Share volumes as reported by TradingView.",
-   "fetched": "2026-10-11T16:19:58+11:00",
+   "caption": "Source: TradingView Singapore market movers, captured Sunday 11 October 2026 at 22:05 AEST, covering the SGT session most recently published at that time. Share volumes as reported by TradingView.",
+   "fetched": "2026-10-11T22:05:32+11:00",
    "stale": false,
    "gainer_note": "Ellipsiz Ltd led the Singapore board for the session, up 10.00 per cent to S$0.275 on reported volume of 62K shares. The move is reported here as captured from TradingView Singapore market movers at the time of this build. No company announcement covering it could be found in the local press, so no catalyst is asserted - a common outcome for a thinly traded stock.",
    "gainer_note_sources": [],
@@ -475,8 +475,8 @@
   {
    "key": "hongkong",
    "title": "Hong Kong Top Performers",
-   "caption": "Source: TradingView Hong Kong market movers, captured Sunday 11 October 2026 at 16:19 AEST, covering the HKT session most recently published at that time. Share volumes as reported by TradingView.",
-   "fetched": "2026-10-11T16:19:58+11:00",
+   "caption": "Source: TradingView Hong Kong market movers, captured Sunday 11 October 2026 at 22:05 AEST, covering the HKT session most recently published at that time. Share volumes as reported by TradingView.",
+   "fetched": "2026-10-11T22:05:32+11:00",
    "stale": false,
    "gainer_note": "Simplicity Holding Ltd. led the Hong Kong board for the session, up 807.22 per cent to HK$0.220 on reported volume of 94K shares. The move is reported here as captured from TradingView Hong Kong market movers at the time of this build. No company announcement covering it could be found in the local press, so no catalyst is asserted - a common outcome for a thinly traded stock.",
    "gainer_note_sources": [],

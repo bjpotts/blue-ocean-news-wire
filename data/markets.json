@@ -1,15 +1,15 @@
 {
- "as_of": "Sunday 11 October 2026, 16:19 AEDT",
+ "as_of": "Sunday 11 October 2026, 22:03 AEDT",
  "btc": {
-  "price": "$82,966",
-  "chg": "+0.40%",
+  "price": "$82,923",
+  "chg": "+0.16%",
   "source": "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd&include_24hr_change=true"
  },
  "btc_crosschecks": [
   {
    "source": "CoinGecko API",
-   "price": "$82,966",
-   "chg": "+0.40%"
+   "price": "$82,923",
+   "chg": "+0.16%"
   }
  ],
  "fx": [
@@ -203,8 +203,8 @@
   {
    "name": "MOEX Russia",
    "symbol": "IMOEX",
-   "value": "2,405.54",
-   "chg": "+3.63%"
+   "value": "2,384.59",
+   "chg": "+2.73%"
   },
   {
    "name": "DFM General (Dubai)",
@@ -306,6 +306,6 @@
   }
  ],
  "indices_source": "https://finance.yahoo.com/world-indices",
- "indices_asof": "Sunday 11 October 2026, 05:19 UTC",
+ "indices_asof": "Sunday 11 October 2026, 11:03 UTC",
  "indices_asof_label": "Sunday 11 October 2026"
 }

@@ -8,7 +8,7 @@
    "region": "US",
    "source_url": "https://techcrunch.com/feed/",
    "published": "2026-10-10T21:47:51+00:00",
-   "fetched": "2026-10-11T05:24:03+00:00"
+   "fetched": "2026-10-11T11:11:49+00:00"
   },
   {
    "headline": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
@@ -18,7 +18,17 @@
    "region": "US",
    "source_url": "https://techcrunch.com/feed/",
    "published": "2026-10-10T19:50:00+00:00",
-   "fetched": "2026-10-11T05:24:03+00:00"
+   "fetched": "2026-10-11T11:11:49+00:00"
+  },
+  {
+   "headline": "Learning to use local AI is exciting, overwhelming, and frustrating",
+   "detail": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular.",
+   "outlet": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+   "region": "US",
+   "source_url": "https://www.theverge.com/rss/index.xml",
+   "published": "2026-10-11T07:00:00-04:00",
+   "fetched": "2026-10-11T11:11:50+00:00"
   },
   {
    "headline": "Satya Nadella says we should assume all AI models are ‘compromised’",
@@ -28,17 +38,17 @@
    "region": "US",
    "source_url": "https://www.theverge.com/rss/index.xml",
    "published": "2026-10-10T18:10:17-04:00",
-   "fetched": "2026-10-11T05:24:04+00:00"
+   "fetched": "2026-10-11T11:11:50+00:00"
   },
   {
-   "headline": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-   "detail": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG.",
-   "outlet": "The Verge",
-   "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+   "headline": "AI’s quiet safety gatekeepers are stepping into the spotlight",
+   "detail": "The intensifying AI safety debate is bringing a small group of third-party evaluators into the center of a multitrillion-dollar industry.",
+   "outlet": "CNBC Technology",
+   "url": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html",
    "region": "US",
-   "source_url": "https://www.theverge.com/rss/index.xml",
-   "published": "2026-10-10T14:52:07-04:00",
-   "fetched": "2026-10-11T05:24:04+00:00"
+   "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910",
+   "published": "2026-10-11T11:00:01+00:00",
+   "fetched": "2026-10-11T11:11:50+00:00"
   },
   {
    "headline": "AI may change the price of your Big Mac and groceries — what this means for shoppers",
@@ -48,17 +58,7 @@
    "region": "US",
    "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910",
    "published": "2026-10-11T05:00:01+00:00",
-   "fetched": "2026-10-11T05:24:04+00:00"
-  },
-  {
-   "headline": "Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control",
-   "detail": "Nadella joined other tech moguls and researchers in calling for stronger safeguards and, in some cases, for the pacing of frontier development.",
-   "outlet": "CNBC Technology",
-   "url": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html",
-   "region": "US",
-   "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910",
-   "published": "2026-10-10T20:59:28+00:00",
-   "fetched": "2026-10-11T05:24:04+00:00"
+   "fetched": "2026-10-11T11:11:50+00:00"
   },
   {
    "headline": "One with the world? A new look at brains transformed by psychedelics.",
@@ -68,7 +68,7 @@
    "region": "US",
    "source_url": "https://feeds.arstechnica.com/arstechnica/index",
    "published": "2026-10-10T11:15:35+00:00",
-   "fetched": "2026-10-11T05:24:05+00:00"
+   "fetched": "2026-10-11T11:11:50+00:00"
   },
   {
    "headline": "King warns malicious online actors are evolving tactics",
@@ -78,7 +78,7 @@
    "region": "Europe",
    "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
    "published": "2026-10-10T15:56:32+00:00",
-   "fetched": "2026-10-11T05:24:05+00:00"
+   "fetched": "2026-10-11T11:11:51+00:00"
   },
   {
    "headline": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
@@ -88,17 +88,17 @@
    "region": "Europe",
    "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
    "published": "2026-10-10T10:06:23+00:00",
-   "fetched": "2026-10-11T05:24:05+00:00"
+   "fetched": "2026-10-11T11:11:51+00:00"
   },
   {
-   "headline": "Japan’s Sumitomo Bakelite expands China chip packaging materials output amid AI boom",
-   "detail": "Japanese semiconductor materials giant Sumitomo Bakelite plans to expand production of advanced chip packaging materials in China and Singapore, marking the second such announcement for its Chinese operations in less than four months as…",
+   "headline": "What’s in a name? What China and Trump call AI reveals how they see its future",
+   "detail": "US President Donald Trump wants to banish the word “artificial” from artificial intelligence, saying it makes one of the world’s most consequential technologies sound “fake”.",
    "outlet": "South China Morning Post",
-   "url": "https://www.scmp.com/tech/tech-trends/article/3370468/japans-sumitomo-bakelite-expands-china-chip-packaging-materials-output-amid-ai-boom?utm_source=rss_feed",
+   "url": "https://www.scmp.com/tech/tech-trends/article/3370269/whats-name-what-china-and-trump-call-ai-reveals-how-they-see-its-future?utm_source=rss_feed",
    "region": "Asia",
    "source_url": "https://www.scmp.com/rss/36/feed",
-   "published": "2026-10-11T03:04:32+00:00",
-   "fetched": "2026-10-11T05:24:06+00:00"
+   "published": "2026-10-11T06:00:06+00:00",
+   "fetched": "2026-10-11T11:11:52+00:00"
   }
  ]
 }

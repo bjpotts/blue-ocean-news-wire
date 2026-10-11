@@ -20,16 +20,43 @@
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
      "published": "2026-10-08T11:30:22+00:00",
-     "fetched": "2026-10-11T05:23:56+00:00"
+     "fetched": "2026-10-11T11:11:36+00:00"
     }
    ]
   },
   {
    "key": "us",
    "name": "US",
-   "summary": "US earnings reporting activity captured this run runs to 5 items, led by Estimates Keep Rising as Q3 Earnings Season Takes Center Stage. The remaining items cover the rest of the region's results, guidance and reporting-season flow as reported by the linked sources.",
-   "fresh_count": 5,
+   "summary": "US earnings reporting activity captured this run runs to 5 items, led by Pre-Market Earnings Report for October 9, 2026 : DAL, HOVR. The remaining items cover the rest of the region's results, guidance and reporting-season flow as reported by the linked sources.",
+   "fresh_count": 3,
    "items": [
+    {
+     "headline": "Pre-Market Earnings Report for October 9, 2026 : DAL, HOVR",
+     "detail": "The following companies are expected to report earnings prior to market open on 10/09/2026. Visit our Earnings Calendar for a full list of expected earnings releases.Delta Air Lines, Inc.",
+     "url": "https://www.nasdaq.com/articles/pre-market-earnings-report-october-9-2026-dal-hovr",
+     "outlet": "Nasdaq",
+     "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
+     "published": "2026-10-08T20:00:01+00:00",
+     "fetched": "2026-10-11T11:11:39+00:00"
+    },
+    {
+     "headline": "Value Line Tops Earnings, Extends Dividend Growth Streak to 12 Years",
+     "detail": "Value Line (NASDAQ:VALU) reported higher earnings, increased retained earnings and a 12th consecutive annual dividend increase for its fiscal year ended April 30, 2026, Chairman and Chief Executive Officer Howard Brecher said at the…",
+     "url": "https://www.nasdaq.com/articles/value-line-tops-earnings-extends-dividend-growth-streak-12-years",
+     "outlet": "Nasdaq",
+     "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
+     "published": "2026-10-08T06:01:59+00:00",
+     "fetched": "2026-10-11T11:11:39+00:00"
+    },
+    {
+     "headline": "Banks Under Pressure from Spiking Yields Ahead of Q3 Results",
+     "detail": "Higher interest rates are generally seen as beneficial for the likes of JPMorgan and Wells Fargo, but spiking yields of the type we have been experiencing are negative for these banks from several angles.",
+     "url": "https://www.nasdaq.com/articles/banks-under-pressure-spiking-yields-ahead-q3-results",
+     "outlet": "Nasdaq",
+     "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
+     "published": "2026-10-07T22:10:00+00:00",
+     "fetched": "2026-10-11T11:11:39+00:00"
+    },
     {
      "headline": "Estimates Keep Rising as Q3 Earnings Season Takes Center Stage",
      "detail": "Upcoming reports from the big banks next week will shift the Q3 earnings season into a higher gear, with a total of 29 S&P 500 members on the week's reporting docket.",
@@ -37,7 +64,7 @@
      "outlet": "Nasdaq",
      "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
      "published": "2026-10-09T22:37:00+00:00",
-     "fetched": "2026-10-11T05:23:58+00:00"
+     "fetched": "2026-10-11T11:11:39+00:00"
     },
     {
      "headline": "Palantir’s Rally Puts Wall Street in Catch-Up Mode Ahead of November Earnings",
@@ -46,34 +73,7 @@
      "outlet": "Nasdaq",
      "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
      "published": "2026-10-09T16:00:00+00:00",
-     "fetched": "2026-10-11T05:23:58+00:00"
-    },
-    {
-     "headline": "What Helen of Troy (HELE) Said on Its Q2 Earnings Call",
-     "detail": "3 Fresh Stock Buybacks: These are the Ones to BuyHelen of Troy (NASDAQ:HELE) reported fiscal second-quarter 2027 results that met its sales outlook and exceeded its adjusted earnings expectations, aided by growth in its Home & Outdoor…",
-     "url": "https://www.nasdaq.com/articles/what-helen-troy-hele-said-its-q2-earnings-call",
-     "outlet": "Nasdaq",
-     "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
-     "published": "2026-10-08T15:02:55+00:00",
-     "fetched": "2026-10-11T05:23:58+00:00"
-    },
-    {
-     "headline": "What Tesco (TSCO) Said on Its H1 Earnings Call",
-     "detail": "How to invest in the top grocery stocksTesco (LON:TSCO) reported higher first-half sales, profit, cash flow and earnings per share, while raising its share buyback plan and narrowing its full-year adjusted operating profit outlook toward…",
-     "url": "https://www.nasdaq.com/articles/what-tesco-tsco-said-its-h1-earnings-call",
-     "outlet": "Nasdaq",
-     "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
-     "published": "2026-10-08T12:02:20+00:00",
-     "fetched": "2026-10-11T05:23:58+00:00"
-    },
-    {
-     "headline": "Pre-Market Earnings Report for October 8, 2026 : PEP, NG, ANGO, HELE, TLRY, BYRN",
-     "detail": "The following companies are expected to report earnings prior to market open on 10/08/2026. Visit our Earnings Calendar for a full list of expected earnings releases.Pepsico, Inc.",
-     "url": "https://www.nasdaq.com/articles/pre-market-earnings-report-october-8-2026-pep-ng-ango-hele-tlry-byrn",
-     "outlet": "Nasdaq",
-     "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
-     "published": "2026-10-07T20:00:01+00:00",
-     "fetched": "2026-10-11T05:23:58+00:00"
+     "fetched": "2026-10-11T11:11:39+00:00"
     }
    ]
   },
@@ -87,8 +87,8 @@
   {
    "key": "europe",
    "name": "Europe",
-   "summary": "A single verifiable earnings item was found for Europe this run: Strong Earnings Keep US Stocks in Favor.",
-   "fresh_count": 1,
+   "summary": "A single verifiable earnings item was found for Europe this run: Strong Earnings Keep US Stocks in Favor. No newer earnings item has been reported for Europe since the last edition, so the same verified item(s) are carried forward.",
+   "fresh_count": 0,
    "items": [
     {
      "headline": "Strong Earnings Keep US Stocks in Favor",
@@ -97,7 +97,7 @@
      "outlet": "Bloomberg",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
      "published": "2026-10-10T17:37:41+00:00",
-     "fetched": "2026-10-11T05:24:00+00:00"
+     "fetched": "2026-10-11T11:11:46+00:00"
     }
    ]
   },

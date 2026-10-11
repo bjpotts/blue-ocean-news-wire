@@ -4,48 +4,48 @@
    "key": "abc",
    "name": "ABC News Australia",
    "site": "abc.net.au/news",
-   "summary": "The ABC's Australian and international news file is leading with From evading an abusive marriage to dying from a face lift, this is Nellie Melba; No flights in or out of Riyadh after Houthi attacks on airports; Trump factor could help Democrats win Republican strongholds at midterms.",
+   "summary": "The ABC's Australian and international news file is leading with India releases 'cockroach' leaders as movement calls for more protests; The LARPers escaping algorithims and finding real life in the past; WA moves ahead with plans to create mega-uni amid concerns.",
    "note": null,
    "items": [
     {
-     "headline": "From evading an abusive marriage to dying from a face lift, this is Nellie Melba",
-     "detail": "From evading an abusive marriage to dying from a face lift, this is Nellie Melba",
-     "url": "https://www.abc.net.au/news/2026-10-11/nellie-melba-australian-history-opera/107246446",
+     "headline": "India releases 'cockroach' leaders as movement calls for more protests",
+     "detail": "India releases 'cockroach' leaders as movement calls for more protests",
+     "url": "https://www.abc.net.au/news/2026-10-11/india-releases-cockroach-leaders-calls-for-more-protests/107253752",
      "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
-     "published": "2026-10-11T05:00:00+00:00",
-     "fetched": "2026-10-11T05:24:07+00:00"
+     "published": "2026-10-11T10:04:23+00:00",
+     "fetched": "2026-10-11T11:11:53+00:00"
     },
     {
-     "headline": "No flights in or out of Riyadh after Houthi attacks on airports",
-     "detail": "No flights in or out of Riyadh after Houthi attacks on airports",
-     "url": "https://www.abc.net.au/news/2026-10-11/riyadh-airport-suspends-flights-houthi-attacks-middle-east/107253260",
+     "headline": "The LARPers escaping algorithims and finding real life in the past",
+     "detail": "The LARPers escaping algorithims and finding real life in the past",
+     "url": "https://www.abc.net.au/news/2026-10-11/larp-live-action-role-playing-social-connection-time-travel/107231876",
      "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
-     "published": "2026-10-11T04:49:01+00:00",
-     "fetched": "2026-10-11T05:24:07+00:00"
+     "published": "2026-10-11T09:12:24+00:00",
+     "fetched": "2026-10-11T11:11:53+00:00"
     },
     {
-     "headline": "Trump factor could help Democrats win Republican strongholds at midterms",
-     "detail": "Trump factor could help Democrats win Republican strongholds at midterms",
-     "url": "https://www.abc.net.au/news/2026-10-11/republican-states-like-ohio-in-play-us-midterms/107250786",
+     "headline": "WA moves ahead with plans to create mega-uni amid concerns",
+     "detail": "WA moves ahead with plans to create mega-uni amid concerns",
+     "url": "https://www.abc.net.au/news/2026-10-11/wa-progresses-university-merger-plan/107253400",
      "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
-     "published": "2026-10-11T04:26:50+00:00",
-     "fetched": "2026-10-11T05:24:07+00:00"
+     "published": "2026-10-11T08:45:28+00:00",
+     "fetched": "2026-10-11T11:11:53+00:00"
     },
     {
-     "headline": "Two Carlton AFL players hospitalised in Melbourne",
-     "detail": "Two Carlton AFL players hospitalised in Melbourne",
-     "url": "https://www.abc.net.au/news/2026-10-11/afl-carlton-football-club-players-hospitalised-melbourne/107253326",
+     "headline": "Roos get past Dockers as Blues and Hawks taste victory",
+     "detail": "Roos get past Dockers as Blues and Hawks taste victory",
+     "url": "https://www.abc.net.au/news/2026-10-11/aflw-kangaroos-dockers-blues-swans-hawks-lions/107253652",
      "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
-     "published": "2026-10-11T04:05:44+00:00",
-     "fetched": "2026-10-11T05:24:07+00:00"
+     "published": "2026-10-11T07:32:29+00:00",
+     "fetched": "2026-10-11T11:11:53+00:00"
     },
     {
-     "headline": "Logan man charged with stabbing murder",
-     "detail": "Logan man charged with stabbing murder",
-     "url": "https://www.abc.net.au/news/2026-10-11/logan-man-charged-with-murder-after-32-year-old-dies-in-hospital/107253192",
+     "headline": "Live: Steve Smith takes back-to-back blinders to decimate South Africa",
+     "detail": "Live: Steve Smith takes back-to-back blinders to decimate South Africa",
+     "url": "https://www.abc.net.au/news/2026-10-11/south-africa-australia-kingsmead-test-day-three-live-blog/107252970",
      "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
-     "published": "2026-10-11T03:27:19+00:00",
-     "fetched": "2026-10-11T05:24:07+00:00"
+     "published": "2026-10-11T06:59:57+00:00",
+     "fetched": "2026-10-11T11:11:53+00:00"
     }
    ]
   },
@@ -53,16 +53,32 @@
    "key": "sbs",
    "name": "SBS News Australia",
    "site": "sbs.com.au/news",
-   "summary": "SBS News, covering Australian affairs with a strong multicultural and world focus is leading with Coalition defends migration cuts on economic grounds, rejects One Nation-style bans; One year on, Palestinians say ceasefire has not brought peace; South Melbourne stun Victory to claim Australia Cup.",
+   "summary": "SBS News, covering Australian affairs with a strong multicultural and world focus is leading with 'You better think again': Hanson names Liberal leader she'd prefer over 'smarmy' Taylor; India's 'cockroach' movement leader freed after police detain thousands, lock down Delhi; Coalition defends migration cuts on economic grounds, rejects One Nation-style bans.",
    "note": null,
    "items": [
+    {
+     "headline": "'You better think again': Hanson names Liberal leader she'd prefer over 'smarmy' Taylor",
+     "detail": "The One Nation leader has revealed who she'd like to lead the Liberals — a senior party figure who's no longer in parliament.",
+     "url": "https://www.sbs.com.au/news/article/pauline-hanson-names-liberal-leader-shed-prefer-over-angus-taylor/ij30mronb",
+     "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
+     "published": "2026-10-11T08:26:08+00:00",
+     "fetched": "2026-10-11T11:11:55+00:00"
+    },
+    {
+     "headline": "India's 'cockroach' movement leader freed after police detain thousands, lock down Delhi",
+     "detail": "More than 2,000 people were reportedly detained in India's capital, parts of which were locked down to foil a planned rally.",
+     "url": "https://www.sbs.com.au/news/article/indias-cockroach-movement-leader-freed-after-police-detain-thousands-lock-down-delhi/213knddsa",
+     "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
+     "published": "2026-10-11T06:11:25+00:00",
+     "fetched": "2026-10-11T11:11:55+00:00"
+    },
     {
      "headline": "Coalition defends migration cuts on economic grounds, rejects One Nation-style bans",
      "detail": "The Coalition argues fewer, higher-skilled migrants would strengthen the economy and ease housing pressures.",
      "url": "https://www.sbs.com.au/news/article/coalition-defends-migration-cuts-on-economic-grounds-rejects-one-nation-style-bans/723z7joza",
      "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
      "published": "2026-10-11T04:37:34+00:00",
-     "fetched": "2026-10-11T05:24:08+00:00"
+     "fetched": "2026-10-11T11:11:55+00:00"
     },
     {
      "headline": "One year on, Palestinians say ceasefire has not brought peace",
@@ -70,31 +86,15 @@
      "url": "https://www.sbs.com.au/news/article/one-year-on-palestinians-say-ceasefire-has-not-brought-about-peace/bhci3r3if",
      "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
      "published": "2026-10-11T02:15:57+00:00",
-     "fetched": "2026-10-11T05:24:08+00:00"
+     "fetched": "2026-10-11T11:11:55+00:00"
     },
     {
-     "headline": "South Melbourne stun Victory to claim Australia Cup",
-     "detail": "The semi-professional second-tier club has beaten the A-League side in a penalty shootout.",
+     "headline": "'Open the gates': Hellas boss calls for A-League admission after stunning final win",
+     "detail": "Semi-professional club South Melbourne has beaten an A-League side, prompting calls for entry to the nation's top tier of football.",
      "url": "https://www.sbs.com.au/news/article/south-melbourne-victory-australia-cup-final-2026/8etahrrnr",
      "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
      "published": "2026-10-10T23:50:44+00:00",
-     "fetched": "2026-10-11T05:24:08+00:00"
-    },
-    {
-     "headline": "'Get a new president': Trump attacks Zelenskyy over Russian oil deal",
-     "detail": "Increased Russian strikes continue to pound Ukraine, killing at least 21 in the latest wave.",
-     "url": "https://www.sbs.com.au/news/article/trump-zelenskyy-russia-us-oil-deal/hyxyhzn35",
-     "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
-     "published": "2026-10-10T21:17:15+00:00",
-     "fetched": "2026-10-11T05:24:08+00:00"
-    },
-    {
-     "headline": "Saudi Arabia's Riyadh airport out of action after third attack kills at least 12",
-     "detail": "The Australian embassy has warned travellers away from the country as flights are cancelled and delayed by the \"grave escalation\".",
-     "url": "https://www.sbs.com.au/news/article/saudia-arabia-riyadh-airport-attack-houthi-yemen/g6iygmbir",
-     "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
-     "published": "2026-10-10T20:33:11+00:00",
-     "fetched": "2026-10-11T05:24:08+00:00"
+     "fetched": "2026-10-11T11:11:55+00:00"
     }
    ]
   },
@@ -102,16 +102,32 @@
    "key": "rnz",
    "name": "RNZ New Zealand",
    "site": "rnz.co.nz",
-   "summary": "Radio New Zealand's national news file is leading with Calls for better Dunedin dermatology services after 'debilitating' rare cancer went undiagnosed; Man arrested after allegedly pointing firearm at police officer; New Zealand scientists hope to develop more effective vaccines for older people.",
+   "summary": "Radio New Zealand's national news file is leading with Marine biologist fears effects of increasing carbon dioxide levels on sealife; Loosening of US peptide standards worries NZ expert; Calls for better Dunedin dermatology services after 'debilitating' rare cancer went undiagnosed.",
    "note": null,
    "items": [
+    {
+     "headline": "Marine biologist fears effects of increasing carbon dioxide levels on sealife",
+     "detail": "Marine biologist fears effects of increasing carbon dioxide levels on sealife",
+     "url": "https://www.rnz.co.nz/news/environment/1844890/marine-biologist-fears-effects-of-increasing-carbon-dioxide-levels-on-sealife",
+     "source_url": "https://www.rnz.co.nz/rss/national.xml",
+     "published": "2026-10-11T20:21:59+13:00",
+     "fetched": "2026-10-11T11:11:56+00:00"
+    },
+    {
+     "headline": "Loosening of US peptide standards worries NZ expert",
+     "detail": "Loosening of US peptide standards worries NZ expert",
+     "url": "https://www.rnz.co.nz/news/health/1843828/loosening-of-us-peptide-standards-worries-nz-expert",
+     "source_url": "https://www.rnz.co.nz/rss/national.xml",
+     "published": "2026-10-11T19:12:49+13:00",
+     "fetched": "2026-10-11T11:11:56+00:00"
+    },
     {
      "headline": "Calls for better Dunedin dermatology services after 'debilitating' rare cancer went undiagnosed",
      "detail": "Calls for better Dunedin dermatology services after 'debilitating' rare cancer went undiagnosed",
      "url": "https://www.rnz.co.nz/news/health/1840683/calls-for-better-dunedin-dermatology-services-after-debilitating-rare-cancer-went-undiagnosed",
      "source_url": "https://www.rnz.co.nz/rss/national.xml",
      "published": "2026-10-11T15:44:21+13:00",
-     "fetched": "2026-10-11T05:24:09+00:00"
+     "fetched": "2026-10-11T11:11:56+00:00"
     },
     {
      "headline": "Man arrested after allegedly pointing firearm at police officer",
@@ -119,7 +135,7 @@
      "url": "https://www.rnz.co.nz/news/crime-and-justice/1839291/man-arrested-after-allegedly-pointing-firearm-at-police-officer",
      "source_url": "https://www.rnz.co.nz/rss/national.xml",
      "published": "2026-10-11T14:11:55+13:00",
-     "fetched": "2026-10-11T05:24:09+00:00"
+     "fetched": "2026-10-11T11:11:56+00:00"
     },
     {
      "headline": "New Zealand scientists hope to develop more effective vaccines for older people",
@@ -127,23 +143,7 @@
      "url": "https://www.rnz.co.nz/news/health/1837401/new-zealand-scientists-hope-to-develop-more-effective-vaccines-for-older-people",
      "source_url": "https://www.rnz.co.nz/rss/national.xml",
      "published": "2026-10-11T11:49:06+13:00",
-     "fetched": "2026-10-11T05:24:09+00:00"
-    },
-    {
-     "headline": "National would make completing Year 11 compulsory if back in power",
-     "detail": "National would make completing Year 11 compulsory if back in power",
-     "url": "https://www.rnz.co.nz/news/politics_election-2026/1835765/national-would-make-completing-year-11-compulsory-if-back-in-power",
-     "source_url": "https://www.rnz.co.nz/rss/national.xml",
-     "published": "2026-10-11T11:10:57+13:00",
-     "fetched": "2026-10-11T05:24:09+00:00"
-    },
-    {
-     "headline": "Police appeal for information after serious assault in Māngere",
-     "detail": "Police appeal for information after serious assault in Māngere",
-     "url": "https://www.rnz.co.nz/news/crime-and-justice/1836230/police-appeal-for-information-after-serious-assault-in-mangere",
-     "source_url": "https://www.rnz.co.nz/rss/national.xml",
-     "published": "2026-10-11T10:50:28+13:00",
-     "fetched": "2026-10-11T05:24:09+00:00"
+     "fetched": "2026-10-11T11:11:56+00:00"
     }
    ]
   },
@@ -151,48 +151,48 @@
    "key": "scmp",
    "name": "South China Morning Post",
    "site": "scmp.com",
-   "summary": "The South China Morning Post, reporting from Hong Kong across Greater China and Asia is leading with India’s cockroach party leaders freed as election chief protests mount; Huanggang Port a ‘milestone’ for integrating Hong Kong, Greater Bay Area: John Lee; Paul Chan highlights 4 priorities ahead of Apec finance ministers’ meeting this month.",
+   "summary": "The South China Morning Post, reporting from Hong Kong across Greater China and Asia is leading with The EU’s China dilemma: how to counter Beijing without alienating friends; Pope Leo to undergo surgery for small growth on lung; Hong Kong hiker dies, Singaporean teen discharged after 2 trail emergencies.",
    "note": null,
    "items": [
     {
-     "headline": "India’s cockroach party leaders freed as election chief protests mount",
-     "detail": "A New Delhi court ordered on Sunday the release of three leaders of the Cockroach Janta Party (CJP), including its founder Abhijeet Dipke, their lawyer said, a day after they were detained.",
-     "url": "https://www.scmp.com/news/asia/south-asia/article/3370476/indias-cockroach-party-leaders-freed-election-chief-protests-mount?utm_source=rss_feed",
+     "headline": "The EU’s China dilemma: how to counter Beijing without alienating friends",
+     "detail": "In September, the Jaecoo 7 – a budget SUV from China’s Chery Automobile – made headlines when it shifted more than 10,000 units to become Britain’s bestselling car.",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3370482/eus-china-dilemma-how-counter-beijing-without-alienating-friends?utm_source=rss_feed",
      "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-10-11T05:19:50+00:00",
-     "fetched": "2026-10-11T05:24:09+00:00"
+     "published": "2026-10-11T11:00:14+00:00",
+     "fetched": "2026-10-11T11:11:56+00:00"
     },
     {
-     "headline": "Huanggang Port a ‘milestone’ for integrating Hong Kong, Greater Bay Area: John Lee",
-     "detail": "The revamped Huanggang checkpoint is a “critical milestone” for the connectivity of the Greater Bay Area, Hong Kong’s leader has said, as the city and Shenzhen count down to its launch on Monday.",
-     "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3370474/huanggang-port-milestone-integrating-hong-kong-greater-bay-area-john-lee?utm_source=rss_feed",
+     "headline": "Pope Leo to undergo surgery for small growth on lung",
+     "detail": "Pope Leo said ⁠on Sunday that doctors had detected a small growth on his lung during a recent health check and he would be undergoing surgery this ‌week to remove it, in the first health scare of the 71-year-old pontiff’s tenure.",
+     "url": "https://www.scmp.com/news/world/europe/article/3370499/pope-leo-undergo-surgery-small-growth-lung?utm_source=rss_feed",
      "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-10-11T05:08:51+00:00",
-     "fetched": "2026-10-11T05:24:09+00:00"
+     "published": "2026-10-11T10:58:17+00:00",
+     "fetched": "2026-10-11T11:11:56+00:00"
     },
     {
-     "headline": "Paul Chan highlights 4 priorities ahead of Apec finance ministers’ meeting this month",
-     "detail": "The Apec finance ministers’ meeting in Hong Kong this month will focus on fiscal policies that support livelihoods, digital infrastructure financing, inclusive finance and young financial talent, underlining the city’s role as an…",
-     "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3370472/hong-kong-finance-chief-highlights-4-priorities-ahead-apec-meeting-month?utm_source=rss_feed",
+     "headline": "Hong Kong hiker dies, Singaporean teen discharged after 2 trail emergencies",
+     "detail": "At least two people were airlifted to hospital in the past two days after falling ill while hiking in Hong Kong, with a 17-year-old Singaporean girl discharged and the other dying.",
+     "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3370498/hong-kong-hiker-dies-singaporean-teen-discharged-after-2-trail-emergencies?utm_source=rss_feed",
      "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-10-11T04:22:33+00:00",
-     "fetched": "2026-10-11T05:24:09+00:00"
+     "published": "2026-10-11T10:56:25+00:00",
+     "fetched": "2026-10-11T11:11:56+00:00"
     },
     {
-     "headline": "Unsung turtle conservation heroes in Malaysia’s Sabah unite to fight poachers",
-     "detail": "Roziah Jelali has a tip or two on catching a turtle poacher: carrying a pair of binoculars and having patience in spades are key to doing the job well.",
-     "url": "https://www.scmp.com/week-asia/health-environment/article/3370466/unsung-turtle-conservation-heroes-malaysias-sabah-unite-fight-poachers?utm_source=rss_feed",
+     "headline": "‘Special-forces’ travel: Chinese woman wins admiration after climbing 5 famous peaks in 5 days",
+     "detail": "A woman from southwestern China has climbed five famous mountains in five provinces in five days, earning widespread admiration on social media.",
+     "url": "https://www.scmp.com/news/people-culture/environment/article/3370493/special-forces-travel-chinese-woman-wins-admiration-after-climbing-5-famous-peaks-5-days?utm_source=rss_feed",
      "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-10-11T04:00:28+00:00",
-     "fetched": "2026-10-11T05:24:09+00:00"
+     "published": "2026-10-11T10:00:15+00:00",
+     "fetched": "2026-10-11T11:11:56+00:00"
     },
     {
-     "headline": "Admission scores fall for Hong Kong physiotherapy courses amid jobs crunch",
-     "detail": "Admission scores for physiotherapy degree programmes at three Hong Kong tertiary institutions fell by as much as 10 per cent this year compared with 2025, amid gloomy career prospects in the sector, the latest data shows.",
-     "url": "https://www.scmp.com/news/hong-kong/education/article/3370461/admission-scores-fall-hong-kong-physiotherapy-courses-amid-jobs-crunch?utm_source=rss_feed",
+     "headline": "How Taiwan’s military manpower shortage is undermining its ability to fight",
+     "detail": "Taiwan’s military is grappling with a worsening manpower shortage, with its volunteer staffing rate remaining below the 80 per cent target for a third consecutive year and concerns mounting over the impact on combat readiness, according to…",
+     "url": "https://www.scmp.com/news/china/military/article/3370477/how-taiwans-military-manpower-shortage-undermining-its-ability-fight?utm_source=rss_feed",
      "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-10-11T04:00:20+00:00",
-     "fetched": "2026-10-11T05:24:09+00:00"
+     "published": "2026-10-11T10:00:12+00:00",
+     "fetched": "2026-10-11T11:11:56+00:00"
     }
    ]
   },
@@ -200,48 +200,48 @@
    "key": "cnn",
    "name": "CNN",
    "site": "cnn.com",
-   "summary": "CNN's international edition is leading with Major Houthi attack on Saudi airport kills at least 12, hundreds wounded; Man injured after being struck by ICE vehicle while pursued in enforcement operation and fleeing on foot, officials say; Solving the mystery of ‘Green Boots’ on Mt Everest.",
+   "summary": "CNN's international edition is leading with Pope Leo announces he will undergo surgery to remove lung nodule; What’s next for the investigation into sexual assault allegations at Cornell; AM radio is disappearing from cars. Congress wants to stop that.",
    "note": null,
    "items": [
     {
-     "headline": "Major Houthi attack on Saudi airport kills at least 12, hundreds wounded",
-     "detail": "Major Houthi attack on Saudi airport kills at least 12, hundreds wounded",
-     "url": "https://www.cnn.com/2026/10/10/middleeast/riyadh-airport-saudi-houthis-intl",
+     "headline": "Pope Leo announces he will undergo surgery to remove lung nodule",
+     "detail": "Pope Leo announces he will undergo surgery to remove lung nodule",
+     "url": "https://www.cnn.com/2026/10/11/world/pope-leo-lung-surgery-intl",
      "source_url": "https://www.cnn.com/sitemap/news.xml",
-     "published": "2026-10-10T15:43:56+00:00",
-     "fetched": "2026-10-11T05:24:10+00:00"
+     "published": "2026-10-11T10:58:33+00:00",
+     "fetched": "2026-10-11T11:11:57+00:00"
     },
     {
-     "headline": "Man injured after being struck by ICE vehicle while pursued in enforcement operation and fleeing on foot, officials say",
-     "detail": "Man injured after being struck by ICE vehicle while pursued in enforcement operation and fleeing on foot, officials say",
-     "url": "https://www.cnn.com/2026/10/11/us/man-struck-by-ice-vehicle-houston-hnk",
+     "headline": "What’s next for the investigation into sexual assault allegations at Cornell",
+     "detail": "What’s next for the investigation into sexual assault allegations at Cornell",
+     "url": "https://www.cnn.com/2026/10/11/us/cornell-allegations-investigation-whats-next",
      "source_url": "https://www.cnn.com/sitemap/news.xml",
-     "published": "2026-10-11T04:30:45+00:00",
-     "fetched": "2026-10-11T05:24:10+00:00"
+     "published": "2026-10-11T10:30:45+00:00",
+     "fetched": "2026-10-11T11:11:57+00:00"
     },
     {
-     "headline": "Solving the mystery of ‘Green Boots’ on Mt Everest",
-     "detail": "Solving the mystery of ‘Green Boots’ on Mt Everest",
-     "url": "https://www.cnn.com/2026/10/11/travel/video/green-boots-everest-digvid-hnk",
+     "headline": "AM radio is disappearing from cars. Congress wants to stop that",
+     "detail": "AM radio is disappearing from cars. Congress wants to stop that",
+     "url": "https://www.cnn.com/2026/10/11/business/congress-keeping-am-radio-in-cars",
      "source_url": "https://www.cnn.com/sitemap/news.xml",
-     "published": "2026-10-11T04:00:44+00:00",
-     "fetched": "2026-10-11T05:24:10+00:00"
+     "published": "2026-10-11T10:30:45+00:00",
+     "fetched": "2026-10-11T11:11:57+00:00"
     },
     {
-     "headline": "Philadelphia police officer killed, another injured responding to overnight call of an armed man, suspect in custody",
-     "detail": "Philadelphia police officer killed, another injured responding to overnight call of an armed man, suspect in custody",
-     "url": "https://www.cnn.com/2026/10/10/us/philadelphia-officer-killed",
+     "headline": "Think you can’t live without a smartphone? Why a flip phone might be an upgrade",
+     "detail": "Think you can’t live without a smartphone? Why a flip phone might be an upgrade",
+     "url": "https://www.cnn.com/2026/10/11/health/living-without-a-smartphone-wellness",
      "source_url": "https://www.cnn.com/sitemap/news.xml",
-     "published": "2026-10-10T19:53:42+00:00",
-     "fetched": "2026-10-11T05:24:10+00:00"
+     "published": "2026-10-11T10:30:44+00:00",
+     "fetched": "2026-10-11T11:11:57+00:00"
     },
     {
-     "headline": "Trump’s DOJ probes major TV networks over response to White House ban of CNN",
-     "detail": "Trump’s DOJ probes major TV networks over response to White House ban of CNN",
-     "url": "https://www.cnn.com/2026/10/10/media/trump-doj-probing-tv-networks-nbc-cbs-fox-abc-cnn-white-house",
+     "headline": "Trump says Ukraine should get a new leader as he spars with Zelensky over US-Russia diesel deal",
+     "detail": "Trump says Ukraine should get a new leader as he spars with Zelensky over US-Russia diesel deal",
+     "url": "https://www.cnn.com/2026/10/09/politics/trump-putin-russian-diesel",
      "source_url": "https://www.cnn.com/sitemap/news.xml",
-     "published": "2026-10-11T01:52:13+00:00",
-     "fetched": "2026-10-11T05:24:10+00:00"
+     "published": "2026-10-09T22:34:15+00:00",
+     "fetched": "2026-10-11T11:11:57+00:00"
     }
    ]
   },
@@ -249,48 +249,48 @@
    "key": "fox",
    "name": "Fox News",
    "site": "foxnews.com",
-   "summary": "Fox News, covering US politics and national affairs is leading with Kirby Smart has entered his most dangerous era after Georgia’s aggressive win over Alabama; Trump says he'd 'love' to have Sen. John Fetterman as a Republican amid growing speculation; Alabama's Kalen Deboer incensed at player who 'just cost us the damn game' vs Georgia with boneheaded penalty.",
+   "summary": "Fox News, covering US politics and national affairs is leading with Hero deputy rescues wheelchair-bound grandfather who fell into shark-infested waterway; Flock executive defends crime-fighting cameras as ACLU attorney questions company's motives amid backlash; Prince Edward told girlfriend he wanted 'two wives' before marrying royal family's 'secret weapon': memoir.",
    "note": null,
    "items": [
     {
-     "headline": "Kirby Smart has entered his most dangerous era after Georgia’s aggressive win over Alabama",
-     "detail": "Don't call it meaningless in Tuscaloosa, AL, where Kirby Smart celebrated with his family after Georgia's gritty win over Kalen DeBoer's Alabama.",
-     "url": "https://www.foxnews.com/outkick-sports/kirby-smart-entered-dangerous-era-georgia-aggressive-win-alabama",
+     "headline": "Hero deputy rescues wheelchair-bound grandfather who fell into shark-infested waterway",
+     "detail": "Bodycam footage shows a Volusia County sergeant diving into shark-filled waters near New Smyrna Beach to rescue Bill Von Herbulis from drowning.",
+     "url": "https://www.foxnews.com/us/hero-deputy-rescues-wheelchair-bound-grandfather-fell-shark-infested-waterway",
      "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
-     "published": "2026-10-10T23:58:24-04:00",
-     "fetched": "2026-10-11T05:24:10+00:00"
+     "published": "2026-10-11T07:00:49-04:00",
+     "fetched": "2026-10-11T11:11:58+00:00"
     },
     {
-     "headline": "Trump says he'd 'love' to have Sen. John Fetterman as a Republican amid growing speculation",
-     "detail": "President Donald Trump called Sen. John Fetterman a \"great guy\" and said he would welcome the Pennsylvania Democrat into the Republican Party ranks.",
-     "url": "https://www.foxnews.com/politics/trump-says-hed-love-have-sen-john-fetterman-republican-amid-growing-speculation",
+     "headline": "Flock executive defends crime-fighting cameras as ACLU attorney questions company's motives amid backlash",
+     "detail": "Flock Safety touts dramatically higher crime clearance rates in cities using its cameras, but the ACLU raises serious privacy and constitutional concerns.",
+     "url": "https://www.foxnews.com/politics/flock-executive-defends-crime-fighting-cameras-aclu-attorney-questions-company-motives-amid-backlash",
      "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
-     "published": "2026-10-10T23:46:18-04:00",
-     "fetched": "2026-10-11T05:24:10+00:00"
+     "published": "2026-10-11T07:00:42-04:00",
+     "fetched": "2026-10-11T11:11:58+00:00"
     },
     {
-     "headline": "Alabama's Kalen Deboer incensed at player who 'just cost us the damn game' vs Georgia with boneheaded penalty",
-     "detail": "Alabama Crimson Tide's comeback hopes died when Dijon Lee struck a Georgia player in the face, and Kalen DeBoer's furious reaction said it all.",
-     "url": "https://www.foxnews.com/outkick-sports/alabamas-kalen-deboer-incensed-player-cost-us-damn-game-vs-georgia-boneheaded-penalty",
+     "headline": "Prince Edward told girlfriend he wanted 'two wives' before marrying royal family's 'secret weapon': memoir",
+     "detail": "Ruthie Henshall claims in her memoir that Prince Edward once told her he wished he could have two wives before marrying Sophie, Duchess of Edinburgh.",
+     "url": "https://www.foxnews.com/entertainment/prince-edward-told-girlfriend-he-wanted-two-wives-before-marrying-royal-familys-secret-weapon-memoir",
      "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
-     "published": "2026-10-10T23:42:07-04:00",
-     "fetched": "2026-10-11T05:24:10+00:00"
+     "published": "2026-10-11T07:00:41-04:00",
+     "fetched": "2026-10-11T11:11:58+00:00"
     },
     {
-     "headline": "Trump says he will 'make a decision' on Pentagon's plans to livestream Nidal Hasan's firing squad execution",
-     "detail": "President Donald Trump says he hasn't decided whether Nidal Malik Hasan's firing squad execution at Fort Hood will be livestreamed, weighing deterrence value.",
-     "url": "https://www.foxnews.com/politics/trump-says-he-make-decision-pentagons-plans-livestream-nidal-hasans-firing-squad-execution",
+     "headline": "American Culture Quiz: Test yourself on brisket battles and Hollywood history",
+     "detail": "The American Culture Quiz is a weekly test of our national traits, trends, history and people. This time, test your knowledge of brisket battles, Hollywood history and more.",
+     "url": "https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-brisket-battles-hollywood-history",
      "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
-     "published": "2026-10-10T23:37:40-04:00",
-     "fetched": "2026-10-11T05:24:10+00:00"
+     "published": "2026-10-11T06:00:39-04:00",
+     "fetched": "2026-10-11T11:11:58+00:00"
     },
     {
-     "headline": "Kentucky shocks LSU with second-straight walk-off two-point conversion win in overtime",
-     "detail": "Kentucky Wildcats stun No. 10 LSU Tigers 35-34 in overtime with another dramatic two-point conversion, making FBS history in back-to-back weeks.",
-     "url": "https://www.foxnews.com/outkick-sports/kentucky-shocks-lsu-second-straight-walk-off-two-point-conversion-win-overtime",
+     "headline": "Fort Hood shooter's firing squad could usher in new era of executions across US, expert says",
+     "detail": "Fort Hood shooter Nidal Malik Hasan's firing squad execution could pave the way for more states to adopt the method, a death penalty expert says.",
+     "url": "https://www.foxnews.com/us/fort-hood-shooter-firing-squad-usher-new-era-executions-across-us-expert-says",
      "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
-     "published": "2026-10-10T23:34:23-04:00",
-     "fetched": "2026-10-11T05:24:10+00:00"
+     "published": "2026-10-11T06:00:22-04:00",
+     "fetched": "2026-10-11T11:11:58+00:00"
     }
    ]
   },
@@ -298,16 +298,24 @@
    "key": "wsj",
    "name": "The Wall Street Journal",
    "site": "wsj.com",
-   "summary": "The Wall Street Journal's world news wire is leading with Starving Ukrainians Are Risking Death to Escape Their Front-Line Town; Video Cameras Are Everywhere—and Now They Are Being Hacked for War; At Least 12 Killed, Hundreds Injured at Saudi Airport in Houthi Strikes.",
+   "summary": "The Wall Street Journal's world news wire is leading with The Cameras Designed to Keep Us Safe Are Now Being Used in War; Starving Ukrainians Are Risking Death to Escape Their Front-Line Town; Video Cameras Are Everywhere—and Now They Are Being Hacked for War.",
    "note": null,
    "items": [
+    {
+     "headline": "The Cameras Designed to Keep Us Safe Are Now Being Used in War",
+     "detail": "Plus, Saudi Arabia closes Riyadh’s international airport after Houthi attack, and the wave of unknown donors powering the rise of the new left.",
+     "url": "https://www.wsj.com/world/the-cameras-designed-to-keep-us-safe-are-now-being-used-in-war-7ab1078b?mod=rss_worldnews",
+     "source_url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
+     "published": "2026-10-11T11:01:00+00:00",
+     "fetched": "2026-10-11T11:11:59+00:00"
+    },
     {
      "headline": "Starving Ukrainians Are Risking Death to Escape Their Front-Line Town",
      "detail": "All year, food supplies have dwindled as mines and drones made the road increasingly impassable.",
      "url": "https://www.wsj.com/world/starving-ukrainians-are-risking-death-to-escape-their-front-line-town-69262dbb?mod=rss_worldnews",
      "source_url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
      "published": "2026-10-11T02:00:00+00:00",
-     "fetched": "2026-10-11T05:24:11+00:00"
+     "fetched": "2026-10-11T11:11:59+00:00"
     },
     {
      "headline": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War",
@@ -315,7 +323,7 @@
      "url": "https://www.wsj.com/tech/cybersecurity/video-cameras-webcams-hacked-war-b00b8a24?mod=rss_worldnews",
      "source_url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
      "published": "2026-10-11T00:30:00+00:00",
-     "fetched": "2026-10-11T05:24:11+00:00"
+     "fetched": "2026-10-11T11:11:59+00:00"
     },
     {
      "headline": "At Least 12 Killed, Hundreds Injured at Saudi Airport in Houthi Strikes",
@@ -323,7 +331,7 @@
      "url": "https://www.wsj.com/world/middle-east/iran-backed-houthis-hit-saudi-capitals-airport-in-damaging-new-attack-d4c12236?mod=rss_worldnews",
      "source_url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
      "published": "2026-10-10T23:28:00+00:00",
-     "fetched": "2026-10-11T05:24:11+00:00"
+     "fetched": "2026-10-11T11:11:59+00:00"
     },
     {
      "headline": "Trump Calls On Ukraine to Stop Hitting Russian Refineries—and Replace Zelensky",
@@ -331,15 +339,7 @@
      "url": "https://www.wsj.com/world/trump-calls-on-ukraine-to-stop-hitting-russian-refineriesand-replace-zelensky-cc9bada8?mod=rss_worldnews",
      "source_url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
      "published": "2026-10-10T20:00:00+00:00",
-     "fetched": "2026-10-11T05:24:11+00:00"
-    },
-    {
-     "headline": "India Locks Down Heart of Capital to Thwart Voter Rights Protest",
-     "detail": "The anger over the voting lists has melded with grievances from young Indians struggling to find work.",
-     "url": "https://www.wsj.com/world/india/india-locks-down-heart-of-capital-to-thwart-voter-rights-protest-c7aad7a4?mod=rss_worldnews",
-     "source_url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
-     "published": "2026-10-10T14:34:00+00:00",
-     "fetched": "2026-10-11T05:24:11+00:00"
+     "fetched": "2026-10-11T11:11:59+00:00"
     }
    ]
   }

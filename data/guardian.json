@@ -14,7 +14,7 @@
      "url": "https://www.theguardian.com/world/2026/oct/11/france-violent-attacks-trashings-schools-teenagers",
      "source_url": "https://www.theguardian.com/international/rss",
      "published": "2026-10-11T05:00:17+00:00",
-     "fetched": "2026-10-11T05:24:33+00:00"
+     "fetched": "2026-10-11T11:12:25+00:00"
     },
     {
      "headline": "How a South African billionaire is turning a corner of Somerset into ‘one man’s estate’",
@@ -22,7 +22,7 @@
      "url": "https://www.theguardian.com/news/2026/oct/10/how-a-south-african-billionaire-is-turning-a-corner-of-somerset-into-one-mans-estate",
      "source_url": "https://www.theguardian.com/international/rss",
      "published": "2026-10-10T13:00:58+00:00",
-     "fetched": "2026-10-11T05:24:33+00:00"
+     "fetched": "2026-10-11T11:12:25+00:00"
     },
     {
      "headline": "Trump says Ukraine needs a new leader after diesel deal with Russia",
@@ -30,31 +30,31 @@
      "url": "https://www.theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy",
      "source_url": "https://www.theguardian.com/international/rss",
      "published": "2026-10-10T20:42:55+00:00",
-     "fetched": "2026-10-11T05:24:33+00:00"
+     "fetched": "2026-10-11T11:12:25+00:00"
     },
     {
-     "headline": "Twelve killed and hundreds injured in Houthi attack at Riyadh airport",
-     "detail": "Twelve killed and hundreds injured in Houthi attack at Riyadh airport",
-     "url": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
+     "headline": "‘Cockroach’ party leader released as Delhi braces for second day of protests",
+     "detail": "‘Cockroach’ party leader released as Delhi braces for second day of protests",
+     "url": "https://www.theguardian.com/world/2026/oct/11/cockroach-party-leader-released-delhi-protests-second-day",
      "source_url": "https://www.theguardian.com/international/rss",
-     "published": "2026-10-10T23:37:27+00:00",
-     "fetched": "2026-10-11T05:24:33+00:00"
+     "published": "2026-10-11T06:02:32+00:00",
+     "fetched": "2026-10-11T11:12:25+00:00"
     },
     {
-     "headline": "Developing nations face triple shock from energy crisis, El Niño and borrowing costs, UN warns",
-     "detail": "Developing nations face triple shock from energy crisis, El Niño and borrowing costs, UN warns",
-     "url": "https://www.theguardian.com/business/2026/oct/11/developing-nations-triple-shock-energy-crisis-el-nino-borrowing-costs-un-warns",
+     "headline": "Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment",
+     "detail": "Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment",
+     "url": "https://www.theguardian.com/global-development/2026/oct/11/nuclear-war-and-malicious-use-of-ai-threaten-end-of-humanity-by-2100-says-lancet-assessment",
      "source_url": "https://www.theguardian.com/international/rss",
-     "published": "2026-10-11T04:00:15+00:00",
-     "fetched": "2026-10-11T05:24:33+00:00"
+     "published": "2026-10-10T23:01:09+00:00",
+     "fetched": "2026-10-11T11:12:25+00:00"
     },
     {
-     "headline": "Christa Pike out of hospital and back in prison after botched execution attempt",
-     "detail": "Christa Pike out of hospital and back in prison after botched execution attempt",
-     "url": "https://www.theguardian.com/us-news/2026/oct/10/christa-pike-discharged-back-in-prison",
+     "headline": "US justice department investigating TV networks over Trump pool coverage",
+     "detail": "US justice department investigating TV networks over Trump pool coverage",
+     "url": "https://www.theguardian.com/us-news/2026/oct/11/justice-department-investigates-tv-networks-trump-pool-coverage",
      "source_url": "https://www.theguardian.com/international/rss",
-     "published": "2026-10-10T17:10:29+00:00",
-     "fetched": "2026-10-11T05:24:33+00:00"
+     "published": "2026-10-11T03:15:05+00:00",
+     "fetched": "2026-10-11T11:12:25+00:00"
     }
    ]
   },
@@ -67,12 +67,20 @@
    "note": null,
    "items": [
     {
-     "headline": "Camden council was warned about paedophile nursery worker years before arrest",
-     "detail": "Camden council was warned about paedophile nursery worker years before arrest",
-     "url": "https://www.theguardian.com/society/2026/oct/10/vincent-chan-paedophile-nursery-worker-camden-council-warning-years-before-arrest",
+     "headline": "Middle East crisis live: Houthis warn passengers against using Saudi airport after deadly attack on Riyadh",
+     "detail": "Middle East crisis live: Houthis warn passengers against using Saudi airport after deadly attack on Riyadh",
+     "url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
      "source_url": "https://www.theguardian.com/uk/rss",
-     "published": "2026-10-10T15:00:01+00:00",
-     "fetched": "2026-10-11T05:24:34+00:00"
+     "published": "2026-10-11T11:02:59+00:00",
+     "fetched": "2026-10-11T11:12:25+00:00"
+    },
+    {
+     "headline": "Retrofit schools and consider moving exams to beat extreme heat, says teaching union leader",
+     "detail": "Retrofit schools and consider moving exams to beat extreme heat, says teaching union leader",
+     "url": "https://www.theguardian.com/education/2026/oct/11/schools-exams-extreme-heat-neu-daniel-kebede",
+     "source_url": "https://www.theguardian.com/uk/rss",
+     "published": "2026-10-11T05:00:17+00:00",
+     "fetched": "2026-10-11T11:12:25+00:00"
     },
     {
      "headline": "Christian nationalism in Britain driven by people who seldom go to church, says report",
@@ -80,39 +88,31 @@
      "url": "https://www.theguardian.com/world/2026/oct/11/christian-nationalism-uk-far-right-people-rarely-go-to-church-report",
      "source_url": "https://www.theguardian.com/uk/rss",
      "published": "2026-10-11T05:00:17+00:00",
-     "fetched": "2026-10-11T05:24:34+00:00"
+     "fetched": "2026-10-11T11:12:25+00:00"
     },
     {
-     "headline": "Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment",
-     "detail": "Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment",
-     "url": "https://www.theguardian.com/global-development/2026/oct/11/nuclear-war-and-malicious-use-of-ai-threaten-end-of-humanity-by-2100-says-lancet-assessment",
+     "headline": "Surgeon faces deportation as Home Office revokes refugee status for Syrians",
+     "detail": "Surgeon faces deportation as Home Office revokes refugee status for Syrians",
+     "url": "https://www.theguardian.com/politics/2026/oct/11/surgeon-faces-deportation-syria-uk-home-office-revokes-refugee-status-syrians",
      "source_url": "https://www.theguardian.com/uk/rss",
-     "published": "2026-10-10T23:01:09+00:00",
-     "fetched": "2026-10-11T05:24:34+00:00"
+     "published": "2026-10-11T09:00:22+00:00",
+     "fetched": "2026-10-11T11:12:25+00:00"
     },
     {
-     "headline": "Man dies after jumping into tiger enclosure at Yorkshire zoo",
-     "detail": "Man dies after jumping into tiger enclosure at Yorkshire zoo",
-     "url": "https://www.theguardian.com/world/2026/oct/10/man-suffers-serious-injury-after-jumping-into-zoo-tiger-enclosure",
+     "headline": "Former Irish Olympic swimming coach and child abuser George Gibney to be sentenced",
+     "detail": "Former Irish Olympic swimming coach and child abuser George Gibney to be sentenced",
+     "url": "https://www.theguardian.com/world/2026/oct/11/george-gibney-former-irish-olympic-swimming-coach-to-be-sentenced",
      "source_url": "https://www.theguardian.com/uk/rss",
-     "published": "2026-10-10T17:13:31+00:00",
-     "fetched": "2026-10-11T05:24:34+00:00"
+     "published": "2026-10-11T09:38:01+00:00",
+     "fetched": "2026-10-11T11:12:25+00:00"
     },
     {
-     "headline": "US justice department investigating TV networks over Trump pool coverage",
-     "detail": "US justice department investigating TV networks over Trump pool coverage",
-     "url": "https://www.theguardian.com/us-news/2026/oct/11/justice-department-investigates-tv-networks-trump-pool-coverage",
+     "headline": "‘She was swaying, zoning out’: UK pets poisoned in record numbers by illicit drugs",
+     "detail": "‘She was swaying, zoning out’: UK pets poisoned in record numbers by illicit drugs",
+     "url": "https://www.theguardian.com/society/2026/oct/11/record-number-uk-pets-dogs-ingesting-drugs-parks-streets",
      "source_url": "https://www.theguardian.com/uk/rss",
-     "published": "2026-10-11T03:15:05+00:00",
-     "fetched": "2026-10-11T05:24:34+00:00"
-    },
-    {
-     "headline": "Skies across the UK illuminated by the northern lights",
-     "detail": "Skies across the UK illuminated by the northern lights",
-     "url": "https://www.theguardian.com/science/2026/oct/10/skies-across-the-uk-illuminated-by-the-northern-lights",
-     "source_url": "https://www.theguardian.com/uk/rss",
-     "published": "2026-10-10T22:30:34+00:00",
-     "fetched": "2026-10-11T05:24:34+00:00"
+     "published": "2026-10-11T09:30:22+00:00",
+     "fetched": "2026-10-11T11:12:25+00:00"
     }
    ]
   },
@@ -125,52 +125,52 @@
    "note": null,
    "items": [
     {
+     "headline": "‘Deeply concerning’: Democratic congressional candidate rebukes ICE’s presence in New York",
+     "detail": "‘Deeply concerning’: Democratic congressional candidate rebukes ICE’s presence in New York",
+     "url": "https://www.theguardian.com/us-news/2026/oct/11/darializa-avila-chevalier-nypd-ice-protests-shooting",
+     "source_url": "https://www.theguardian.com/us-news/rss",
+     "published": "2026-10-11T11:00:26+00:00",
+     "fetched": "2026-10-11T11:12:26+00:00"
+    },
+    {
+     "headline": "‘A living hell’: how Los Angeles got taken over by mosquitoes",
+     "detail": "‘A living hell’: how Los Angeles got taken over by mosquitoes",
+     "url": "https://www.theguardian.com/us-news/2026/oct/11/los-angeles-mosquitoes-west-nile-virus-el-nino",
+     "source_url": "https://www.theguardian.com/us-news/rss",
+     "published": "2026-10-11T11:00:25+00:00",
+     "fetched": "2026-10-11T11:12:26+00:00"
+    },
+    {
+     "headline": "‘When you look at the numbers, we win’: the prophetic Texas pastor poised to take Jasmine Crockett’s House seat",
+     "detail": "‘When you look at the numbers, we win’: the prophetic Texas pastor poised to take Jasmine Crockett’s House seat",
+     "url": "https://www.theguardian.com/us-news/2026/oct/11/rev-dr-frederick-douglass-haynes-iii-texas-house",
+     "source_url": "https://www.theguardian.com/us-news/rss",
+     "published": "2026-10-11T10:00:23+00:00",
+     "fetched": "2026-10-11T11:12:26+00:00"
+    },
+    {
+     "headline": "Man accused of child rape set to become police chief in small Louisiana town",
+     "detail": "Man accused of child rape set to become police chief in small Louisiana town",
+     "url": "https://www.theguardian.com/us-news/2026/oct/11/child-rape-police-chief-louisiana",
+     "source_url": "https://www.theguardian.com/us-news/rss",
+     "published": "2026-10-11T09:00:22+00:00",
+     "fetched": "2026-10-11T11:12:26+00:00"
+    },
+    {
+     "headline": "‘Under tremendous strain’: CIA analyst turned spy novelist on a fraying US-UK alliance",
+     "detail": "‘Under tremendous strain’: CIA analyst turned spy novelist on a fraying US-UK alliance",
+     "url": "https://www.theguardian.com/us-news/2026/oct/11/us-uk-special-relationship-david-mccloskey-writer",
+     "source_url": "https://www.theguardian.com/us-news/rss",
+     "published": "2026-10-11T08:00:20+00:00",
+     "fetched": "2026-10-11T11:12:26+00:00"
+    },
+    {
      "headline": "Five people shot and killed in apparent murder-suicide, Georgia police say",
      "detail": "Five people shot and killed in apparent murder-suicide, Georgia police say",
      "url": "https://www.theguardian.com/us-news/2026/oct/10/douglas-georgia-shooting-deaths",
      "source_url": "https://www.theguardian.com/us-news/rss",
      "published": "2026-10-11T00:01:55+00:00",
-     "fetched": "2026-10-11T05:24:35+00:00"
-    },
-    {
-     "headline": "Nine people, including children, dead after mass shooting in Pennsylvania",
-     "detail": "Nine people, including children, dead after mass shooting in Pennsylvania",
-     "url": "https://www.theguardian.com/us-news/2026/oct/10/nine-people-mass-shooting-pennsylvania",
-     "source_url": "https://www.theguardian.com/us-news/rss",
-     "published": "2026-10-10T23:24:52+00:00",
-     "fetched": "2026-10-11T05:24:35+00:00"
-    },
-    {
-     "headline": "Despair after 200-year-old ‘grandmother’ tree toppled for Trump’s border wall: ‘It crushes your heart’",
-     "detail": "Despair after 200-year-old ‘grandmother’ tree toppled for Trump’s border wall: ‘It crushes your heart’",
-     "url": "https://www.theguardian.com/us-news/2026/oct/10/cottonwood-tree-toppling-trump-mexico-border-wall-arizona",
-     "source_url": "https://www.theguardian.com/us-news/rss",
-     "published": "2026-10-10T20:57:32+00:00",
-     "fetched": "2026-10-11T05:24:35+00:00"
-    },
-    {
-     "headline": "Man with gun kills one Philadelphia police officer and injures another",
-     "detail": "Man with gun kills one Philadelphia police officer and injures another",
-     "url": "https://www.theguardian.com/us-news/2026/oct/10/philadelphia-police-officer-killed",
-     "source_url": "https://www.theguardian.com/us-news/rss",
-     "published": "2026-10-10T20:12:34+00:00",
-     "fetched": "2026-10-11T05:24:35+00:00"
-    },
-    {
-     "headline": "US man shoots off-duty ICE agent who allegedly attacked him and daughter",
-     "detail": "US man shoots off-duty ICE agent who allegedly attacked him and daughter",
-     "url": "https://www.theguardian.com/us-news/2026/oct/10/california-man-72-shoots-ice-officer-fresno-off-duty",
-     "source_url": "https://www.theguardian.com/us-news/rss",
-     "published": "2026-10-10T19:03:30+00:00",
-     "fetched": "2026-10-11T05:24:35+00:00"
-    },
-    {
-     "headline": "A replica of Donald Trump’s Oval Office goes for the gold in Washington DC",
-     "detail": "A replica of Donald Trump’s Oval Office goes for the gold in Washington DC",
-     "url": "https://www.theguardian.com/us-news/2026/oct/10/donald-trump-oval-office-replica",
-     "source_url": "https://www.theguardian.com/us-news/rss",
-     "published": "2026-10-10T15:00:00+00:00",
-     "fetched": "2026-10-11T05:24:35+00:00"
+     "fetched": "2026-10-11T11:12:26+00:00"
     }
    ]
   },
@@ -183,12 +183,36 @@
    "note": null,
    "items": [
     {
+     "headline": "Missing Australian hiker Jordan Yap last seen on remote trail found dead in Peru",
+     "detail": "Missing Australian hiker Jordan Yap last seen on remote trail found dead in Peru",
+     "url": "https://www.theguardian.com/australia-news/2026/oct/11/missing-australian-hiker-jordan-yap-last-seen-on-remote-trail-found-dead-in-peru",
+     "source_url": "https://www.theguardian.com/australia-news/rss",
+     "published": "2026-10-11T07:45:31+00:00",
+     "fetched": "2026-10-11T11:12:26+00:00"
+    },
+    {
+     "headline": "A Trump impersonator and opera singers: CPAC was a spectacle, but the right still can’t agree how to take down Labor",
+     "detail": "A Trump impersonator and opera singers: CPAC was a spectacle, but the right still can’t agree how to take down Labor",
+     "url": "https://www.theguardian.com/australia-news/2026/oct/11/a-trump-impersonator-and-opera-singers-cpac-was-a-spectacle-but-the-right-still-cant-agree-how-to-take-down-labor-ntwnfb",
+     "source_url": "https://www.theguardian.com/australia-news/rss",
+     "published": "2026-10-11T06:47:17+00:00",
+     "fetched": "2026-10-11T11:12:26+00:00"
+    },
+    {
+     "headline": "Ben Roberts-Smith attends Canberra event honouring Australian troops who served in Afghanistan",
+     "detail": "Ben Roberts-Smith attends Canberra event honouring Australian troops who served in Afghanistan",
+     "url": "https://www.theguardian.com/australia-news/2026/oct/11/ben-roberts-smith-attends-canberra-event-honouring-australian-troops-who-served-in-afghanistan-ntwnfb",
+     "source_url": "https://www.theguardian.com/australia-news/rss",
+     "published": "2026-10-11T05:27:24+00:00",
+     "fetched": "2026-10-11T11:12:26+00:00"
+    },
+    {
      "headline": "Parents are being crushed by childcare fees. Will Labor ever deliver a universal system?",
      "detail": "Parents are being crushed by childcare fees. Will Labor ever deliver a universal system?",
      "url": "https://www.theguardian.com/australia-news/2026/oct/11/universal-childcare-cost-family-planning-politics",
      "source_url": "https://www.theguardian.com/australia-news/rss",
      "published": "2026-10-11T03:18:27+00:00",
-     "fetched": "2026-10-11T05:24:35+00:00"
+     "fetched": "2026-10-11T11:12:26+00:00"
     },
     {
      "headline": "Sydney travelled, learned a trade and found love in Australia. It might have been a different story under Labor’s migration plan",
@@ -196,23 +220,7 @@
      "url": "https://www.theguardian.com/australia-news/2026/oct/09/as-federal-politicians-vow-to-cut-immigration-regional-queensland-businesses-need-every-hand-we-can-get",
      "source_url": "https://www.theguardian.com/australia-news/rss",
      "published": "2026-10-11T03:02:30+00:00",
-     "fetched": "2026-10-11T05:24:35+00:00"
-    },
-    {
-     "headline": "Blooming beautiful! The Tesselaar tulip festival – in pictures",
-     "detail": "Blooming beautiful! The Tesselaar tulip festival – in pictures",
-     "url": "https://www.theguardian.com/environment/gallery/2026/oct/11/tesselaar-tulip-festival-silvan-victoria-in-pictures",
-     "source_url": "https://www.theguardian.com/australia-news/rss",
-     "published": "2026-10-10T23:00:10+00:00",
-     "fetched": "2026-10-11T05:24:35+00:00"
-    },
-    {
-     "headline": "Pauline Hanson seems more and more like the de facto opposition leader. At CPAC, Angus Taylor warmed the seat for her",
-     "detail": "Pauline Hanson seems more and more like the de facto opposition leader. At CPAC, Angus Taylor warmed the seat for her",
-     "url": "https://www.theguardian.com/australia-news/2026/oct/11/cpac-conference-pauline-hanson-angus-taylor-one-nation-liberals-cooperation-ntwnfb",
-     "source_url": "https://www.theguardian.com/australia-news/rss",
-     "published": "2026-10-10T19:00:09+00:00",
-     "fetched": "2026-10-11T05:24:35+00:00"
+     "fetched": "2026-10-11T11:12:26+00:00"
     },
     {
      "headline": "Regional universities struggle to enrol international students amid visa refusals and heated political rhetoric",
@@ -220,15 +228,7 @@
      "url": "https://www.theguardian.com/australia-news/2026/oct/11/falling-international-student-numbers-australian-universities",
      "source_url": "https://www.theguardian.com/australia-news/rss",
      "published": "2026-10-10T19:00:05+00:00",
-     "fetched": "2026-10-11T05:24:35+00:00"
-    },
-    {
-     "headline": "Australia does not ‘need or want Russian fuel’, Chris Bowen says, after Trump deal to buy diesel from Putin",
-     "detail": "Australia does not ‘need or want Russian fuel’, Chris Bowen says, after Trump deal to buy diesel from Putin",
-     "url": "https://www.theguardian.com/australia-news/2026/oct/10/australia-fuel-chris-bowen-trump-us-russia-diesel-deal-putin",
-     "source_url": "https://www.theguardian.com/australia-news/rss",
-     "published": "2026-10-10T05:01:58+00:00",
-     "fetched": "2026-10-11T05:24:35+00:00"
+     "fetched": "2026-10-11T11:12:26+00:00"
     }
    ]
   },
@@ -246,7 +246,7 @@
      "url": "https://www.theguardian.com/media/2026/oct/10/nara-aziza-smith-influencer-model-actor-mother-four-not-tradwife",
      "source_url": "https://www.theguardian.com/europe/rss",
      "published": "2026-10-10T11:00:56+00:00",
-     "fetched": "2026-10-11T05:24:35+00:00"
+     "fetched": "2026-10-11T11:12:26+00:00"
     },
     {
      "headline": "‘Like a drill going into my eye’: why the mystery over Havana syndrome refuses to die",
@@ -254,7 +254,7 @@
      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/10/havana-syndrome-mystery-cia-russia",
      "source_url": "https://www.theguardian.com/europe/rss",
      "published": "2026-10-10T05:00:48+00:00",
-     "fetched": "2026-10-11T05:24:35+00:00"
+     "fetched": "2026-10-11T11:12:26+00:00"
     },
     {
      "headline": "‘Stab to the heart’: arrest of German ex-spymaster sparks calls for reform",
@@ -262,7 +262,7 @@
      "url": "https://www.theguardian.com/world/2026/oct/11/stab-to-the-heart-arrest-of-german-ex-spymaster-sparks-calls-for-reform",
      "source_url": "https://www.theguardian.com/europe/rss",
      "published": "2026-10-11T05:00:18+00:00",
-     "fetched": "2026-10-11T05:24:35+00:00"
+     "fetched": "2026-10-11T11:12:26+00:00"
     },
     {
      "headline": "Dozens injured and buildings damaged as tornadoes hit Sicily",
@@ -270,23 +270,23 @@
      "url": "https://www.theguardian.com/world/2026/oct/10/tornado-hit-marsala-sicily-injuries-damage",
      "source_url": "https://www.theguardian.com/europe/rss",
      "published": "2026-10-10T11:00:31+00:00",
-     "fetched": "2026-10-11T05:24:35+00:00"
+     "fetched": "2026-10-11T11:12:26+00:00"
     },
     {
-     "headline": "Don’t rebuild the dam: Ukrainian experts urge Unesco to protect site uncovered by Russian sabotage",
-     "detail": "Don’t rebuild the dam: Ukrainian experts urge Unesco to protect site uncovered by Russian sabotage",
-     "url": "https://www.theguardian.com/world/2026/oct/10/ukraine-unesco-great-meadow-dnipro-dont-rebuild-dam",
+     "headline": "Man dies after jumping into tiger enclosure at Yorkshire zoo",
+     "detail": "Man dies after jumping into tiger enclosure at Yorkshire zoo",
+     "url": "https://www.theguardian.com/world/2026/oct/10/man-suffers-serious-injury-after-jumping-into-zoo-tiger-enclosure",
      "source_url": "https://www.theguardian.com/europe/rss",
-     "published": "2026-10-10T10:00:54+00:00",
-     "fetched": "2026-10-11T05:24:35+00:00"
+     "published": "2026-10-10T17:13:31+00:00",
+     "fetched": "2026-10-11T11:12:26+00:00"
     },
     {
-     "headline": "'Gaza is a moral tear in the universe' – Naomi Klein and Astra Taylor",
-     "detail": "'Gaza is a moral tear in the universe' – Naomi Klein and Astra Taylor | Radical Thinking",
-     "url": "https://www.theguardian.com/politics/video/2026/oct/10/gaza-is-a-moral-tear-in-the-universe-naomi-klein-and-astra-taylor-radical-thinking",
+     "headline": "Skies across the UK illuminated by the northern lights",
+     "detail": "Skies across the UK illuminated by the northern lights",
+     "url": "https://www.theguardian.com/science/2026/oct/10/skies-across-the-uk-illuminated-by-the-northern-lights",
      "source_url": "https://www.theguardian.com/europe/rss",
-     "published": "2026-10-10T06:45:50+00:00",
-     "fetched": "2026-10-11T05:24:35+00:00"
+     "published": "2026-10-10T22:30:34+00:00",
+     "fetched": "2026-10-11T11:12:26+00:00"
     }
    ]
   }
