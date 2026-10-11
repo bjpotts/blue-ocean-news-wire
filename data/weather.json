@@ -6,14 +6,14 @@
  "source_url": "https://www.bom.gov.au/nsw/forecasts/sydney.shtml",
  "source_label": "Bureau of Meteorology",
  "obs_url": "https://api.open-meteo.com/v1/forecast?latitude=-33.8688&longitude=151.2093&current=temperature_2m,apparent_temperature,relative_humidity_2m,weather_code,wind_speed_10m,wind_direction_10m,precipitation&daily=temperature_2m_max,temperature_2m_min,precipitation_probability_max&timezone=Australia%2FSydney&forecast_days=1",
- "observed": "6:00 PM, Fri 9 October 2026",
+ "observed": "4:15 PM, Sun 11 October 2026",
  "condition": "Clear",
- "temp": "18.9&deg;C",
- "feels": "17.6&deg;C",
- "humidity": "75%",
- "wind": "19 km/h NE",
- "high": "20.8&deg;C",
- "low": "10.4&deg;C",
- "rain_chance": "0%",
- "fetched": "6:06 PM AEDT, 9 October 2026"
+ "temp": "22.8&deg;C",
+ "feels": "23.1&deg;C",
+ "humidity": "68%",
+ "wind": "13 km/h ENE",
+ "high": "23.9&deg;C",
+ "low": "17.1&deg;C",
+ "rain_chance": "4%",
+ "fetched": "4:24 PM AEDT, 11 October 2026"
 }

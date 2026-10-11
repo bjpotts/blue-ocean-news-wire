@@ -3,8 +3,8 @@
   {
    "key": "anz",
    "title": "ANZ Top Performers",
-   "caption": "Source: TradingView Australia market movers, captured Friday 09 October 2026 at 18:01 AEST, covering the AEST session most recently published at that time. Covers all ASX-listed stocks rather than the ASX 200 alone. Ticker links go to Market Index. New Zealand (NZX) top performers are not available from a reliable linked source.",
-   "fetched": "2026-10-09T18:01:17+11:00",
+   "caption": "Source: TradingView Australia market movers, captured Sunday 11 October 2026 at 16:19 AEST, covering the AEST session most recently published at that time. Covers all ASX-listed stocks rather than the ASX 200 alone. Ticker links go to Market Index. New Zealand (NZX) top performers are not available from a reliable linked source.",
+   "fetched": "2026-10-11T16:19:58+11:00",
    "stale": false,
    "gainer_note": "Europa Metals Limited led the ANZ board for the session, up 19900.00 per cent to $0.2 on reported volume of 0 shares. The move is reported here as captured from TradingView Australia market movers at the time of this build. No company announcement covering it could be found in the local press, so no catalyst is asserted - a common outcome for a thinly traded stock.",
    "gainer_note_sources": [],
@@ -68,18 +68,18 @@
      "vol": "400.00K"
     },
     {
-     "name": "Galilee Energy Limited (GLL)",
-     "url": "https://www.marketindex.com.au/asx/gll",
-     "price": "$0.005",
-     "chg": "+25.00%",
-     "vol": "240.00K"
-    },
-    {
      "name": "Eneco Refresh Limited (ERG)",
      "url": "https://www.marketindex.com.au/asx/erg",
      "price": "$0.022",
      "chg": "+29.41%",
      "vol": "209.93K"
+    },
+    {
+     "name": "AXP Energy Limited (AXP)",
+     "url": "https://www.marketindex.com.au/asx/axp",
+     "price": "$0.005",
+     "chg": "+25.00%",
+     "vol": "200.09K"
     },
     {
      "name": "Europa Metals Limited (EUZ)",
@@ -126,13 +126,6 @@
      "vol": "630.24K"
     },
     {
-     "name": "Eagle Mountain Mining Ltd. (EM2)",
-     "url": "https://www.marketindex.com.au/asx/em2",
-     "price": "$0.005",
-     "chg": "-16.67%",
-     "vol": "339.08K"
-    },
-    {
      "name": "Regener8 Resources NL (R8R)",
      "url": "https://www.marketindex.com.au/asx/r8r",
      "price": "$0.08",
@@ -147,11 +140,18 @@
      "vol": "174.08K"
     },
     {
-     "name": "Energy Technologies Limited (EGY)",
-     "url": "https://www.marketindex.com.au/asx/egy",
-     "price": "$0.02",
+     "name": "Golden Mile Resources Ltd. (G88)",
+     "url": "https://www.marketindex.com.au/asx/g88",
+     "price": "$0.005",
      "chg": "-16.67%",
-     "vol": "100.78K"
+     "vol": "151.23K"
+    },
+    {
+     "name": "Constellation Technologies Limited (CT1)",
+     "url": "https://www.marketindex.com.au/asx/ct1",
+     "price": "$0.0025",
+     "chg": "-16.67%",
+     "vol": "106.67K"
     },
     {
      "name": "Emu NL (EMU)",
@@ -165,8 +165,8 @@
   {
    "key": "japan",
    "title": "Japan Top Performers",
-   "caption": "Source: TradingView Japan market movers, captured Friday 09 October 2026 at 18:01 AEST, covering the JST session most recently published at that time. Share volumes as reported by TradingView.",
-   "fetched": "2026-10-09T18:01:17+11:00",
+   "caption": "Source: TradingView Japan market movers, captured Sunday 11 October 2026 at 16:19 AEST, covering the JST session most recently published at that time. Share volumes as reported by TradingView.",
+   "fetched": "2026-10-11T16:19:58+11:00",
    "stale": false,
    "gainer_note": "Hybrid Technologies Co.,Ltd. led the Japan board for the session, up 38.28 per cent to \u00a5289 on reported volume of 2.08M shares. The move is reported here as captured from TradingView Japan market movers at the time of this build. No company announcement covering it could be found in the local press, so no catalyst is asserted - a common outcome for a thinly traded stock.",
    "gainer_note_sources": [],
@@ -320,76 +320,76 @@
   {
    "key": "singapore",
    "title": "Singapore Top Performers",
-   "caption": "Source: TradingView Singapore market movers, captured Friday 09 October 2026 at 18:01 AEST, covering the SGT session most recently published at that time. Share volumes as reported by TradingView.",
-   "fetched": "2026-10-09T18:01:17+11:00",
+   "caption": "Source: TradingView Singapore market movers, captured Sunday 11 October 2026 at 16:19 AEST, covering the SGT session most recently published at that time. Share volumes as reported by TradingView.",
+   "fetched": "2026-10-11T16:19:58+11:00",
    "stale": false,
-   "gainer_note": "Camsing Healthcare Limited led the Singapore board for the session, up 10.00 per cent to S$0.110 on reported volume of 300 shares. The move is reported here as captured from TradingView Singapore market movers at the time of this build. No company announcement covering it could be found in the local press, so no catalyst is asserted - a common outcome for a thinly traded stock.",
+   "gainer_note": "Ellipsiz Ltd led the Singapore board for the session, up 10.00 per cent to S$0.275 on reported volume of 62K shares. The move is reported here as captured from TradingView Singapore market movers at the time of this build. No company announcement covering it could be found in the local press, so no catalyst is asserted - a common outcome for a thinly traded stock.",
    "gainer_note_sources": [],
-   "loser_note": "Resources Global Development Limited was the steepest decliner on the Singapore board for the session, down 6.25 per cent to S$0.225 on reported volume of 18.4K shares. The move is reported here as captured from TradingView Singapore market movers at the time of this build. No company announcement covering it could be found in the local press, so no catalyst is asserted - a common outcome for a thinly traded stock.",
+   "loser_note": "HL Global Enterprises Limited was the steepest decliner on the Singapore board for the session, down 10.29 per cent to S$0.305 on reported volume of 2K shares. The move is reported here as captured from TradingView Singapore market movers at the time of this build. No company announcement covering it could be found in the local press, so no catalyst is asserted - a common outcome for a thinly traded stock.",
    "loser_note_sources": [],
    "gainers": [
     {
-     "name": "Q & M Dental Group (Singapore) Limited (QC7)",
-     "url": "https://www.tradingview.com/symbols/SGX-QC7/",
-     "price": "S$0.550",
-     "chg": "+4.76%",
-     "vol": "4.71M"
-    },
-    {
      "name": "Aoxin Q&M Dental Group Ltd. (1D4)",
      "url": "https://www.tradingview.com/symbols/SGX-1D4/",
-     "price": "S$0.171",
-     "chg": "+5.56%",
-     "vol": "3.54M"
+     "price": "S$0.174",
+     "chg": "+7.41%",
+     "vol": "5.09M"
     },
     {
      "name": "CNMC Goldmine Holdings Limited (5TP)",
      "url": "https://www.tradingview.com/symbols/SGX-5TP/",
-     "price": "S$1.26",
-     "chg": "+5.88%",
-     "vol": "2.2M"
+     "price": "S$1.27",
+     "chg": "+6.72%",
+     "vol": "2.74M"
     },
     {
-     "name": "Accrelist Ltd. (QZG)",
-     "url": "https://www.tradingview.com/symbols/SGX-QZG/",
-     "price": "S$0.159",
-     "chg": "+6.00%",
-     "vol": "1.15M"
+     "name": "Yanlord Land Group Limited (Z25)",
+     "url": "https://www.tradingview.com/symbols/SGX-Z25/",
+     "price": "S$0.510",
+     "chg": "+5.15%",
+     "vol": "1.64M"
     },
     {
      "name": "Valuetronics Holdings Limited (BN2)",
      "url": "https://www.tradingview.com/symbols/SGX-BN2/",
-     "price": "S$1.010",
-     "chg": "+4.12%",
-     "vol": "1.03M"
-    },
-    {
-     "name": "Nam Cheong Limited (1MZ)",
-     "url": "https://www.tradingview.com/symbols/SGX-1MZ/",
-     "price": "S$0.910",
-     "chg": "+5.20%",
-     "vol": "753.4K"
-    },
-    {
-     "name": "Soilbuild Construction Group Ltd. (ZQM)",
-     "url": "https://www.tradingview.com/symbols/SGX-ZQM/",
-     "price": "S$0.510",
+     "price": "S$1.020",
      "chg": "+5.15%",
-     "vol": "215.1K"
+     "vol": "1.52M"
     },
     {
-     "name": "Tiong Woon Corporation Holding Ltd (BQM)",
-     "url": "https://www.tradingview.com/symbols/SGX-BQM/",
-     "price": "S$0.935",
-     "chg": "+4.47%",
-     "vol": "80.3K"
+     "name": "Tuan Sing Holdings Limited (T24)",
+     "url": "https://www.tradingview.com/symbols/SGX-T24/",
+     "price": "S$0.275",
+     "chg": "+5.77%",
+     "vol": "628K"
     },
     {
      "name": "ASL Marine Holdings Ltd. (A04)",
      "url": "https://www.tradingview.com/symbols/SGX-A04/",
-     "price": "S$0.250",
-     "chg": "+4.17%",
-     "vol": "79.7K"
+     "price": "S$0.255",
+     "chg": "+6.25%",
+     "vol": "103.6K"
+    },
+    {
+     "name": "Ellipsiz Ltd (BIX)",
+     "url": "https://www.tradingview.com/symbols/SGX-BIX/",
+     "price": "S$0.275",
+     "chg": "+10.00%",
+     "vol": "62K"
+    },
+    {
+     "name": "Fuxing China Group Ltd. (AWK)",
+     "url": "https://www.tradingview.com/symbols/SGX-AWK/",
+     "price": "S$0.490",
+     "chg": "+8.89%",
+     "vol": "26K"
+    },
+    {
+     "name": "Tat Seng Packaging Group Ltd (T12)",
+     "url": "https://www.tradingview.com/symbols/SGX-T12/",
+     "price": "S$0.970",
+     "chg": "+5.43%",
+     "vol": "1.3K"
     },
     {
      "name": "Camsing Healthcare Limited (BAC)",
@@ -403,37 +403,30 @@
     {
      "name": "Sheng Siong Group Ltd. (OV8)",
      "url": "https://www.tradingview.com/symbols/SGX-OV8/",
-     "price": "S$2.93",
-     "chg": "-5.18%",
-     "vol": "8.53M"
-    },
-    {
-     "name": "Huationg Global Ltd. (41B)",
-     "url": "https://www.tradingview.com/symbols/SGX-41B/",
-     "price": "S$0.495",
-     "chg": "-3.88%",
-     "vol": "207.6K"
-    },
-    {
-     "name": "Banyan Tree Holdings Limited (B58)",
-     "url": "https://www.tradingview.com/symbols/SGX-B58/",
-     "price": "S$0.455",
-     "chg": "-4.21%",
-     "vol": "86.5K"
+     "price": "S$2.92",
+     "chg": "-5.50%",
+     "vol": "11.5M"
     },
     {
      "name": "GSH Corporation Limited (BDX)",
      "url": "https://www.tradingview.com/symbols/SGX-BDX/",
-     "price": "S$0.200",
-     "chg": "-4.76%",
-     "vol": "53K"
+     "price": "S$0.199",
+     "chg": "-5.24%",
+     "vol": "756K"
     },
     {
-     "name": "Resources Global Development Limited (V7R)",
-     "url": "https://www.tradingview.com/symbols/SGX-V7R/",
-     "price": "S$0.225",
-     "chg": "-6.25%",
-     "vol": "18.4K"
+     "name": "UltraGreen.ai Limited (UGS)",
+     "url": "https://www.tradingview.com/symbols/SGX-UGS/",
+     "price": "S$0.685",
+     "chg": "-4.20%",
+     "vol": "69.8K"
+    },
+    {
+     "name": "Fraser & Neave Ltd. (F99)",
+     "url": "https://www.tradingview.com/symbols/SGX-F99/",
+     "price": "S$1.32",
+     "chg": "-3.65%",
+     "vol": "38.9K"
     },
     {
      "name": "Chemical Industries Far East Ltd. (C05)",
@@ -443,25 +436,32 @@
      "vol": "10.9K"
     },
     {
-     "name": "Southern Alliance Mining Ltd. (QNS)",
-     "url": "https://www.tradingview.com/symbols/SGX-QNS/",
-     "price": "S$0.380",
-     "chg": "-6.17%",
-     "vol": "10K"
-    },
-    {
-     "name": "Sunright Limited (S71)",
-     "url": "https://www.tradingview.com/symbols/SGX-S71/",
-     "price": "S$0.450",
-     "chg": "-3.23%",
-     "vol": "8.4K"
-    },
-    {
      "name": "New Toyo International Holdings Ltd (N08)",
      "url": "https://www.tradingview.com/symbols/SGX-N08/",
      "price": "S$0.196",
      "chg": "-4.39%",
-     "vol": "800"
+     "vol": "3.5K"
+    },
+    {
+     "name": "HL Global Enterprises Limited (AVX)",
+     "url": "https://www.tradingview.com/symbols/SGX-AVX/",
+     "price": "S$0.305",
+     "chg": "-10.29%",
+     "vol": "2K"
+    },
+    {
+     "name": "Vibrant Group Ltd (BIP)",
+     "url": "https://www.tradingview.com/symbols/SGX-BIP/",
+     "price": "S$0.120",
+     "chg": "-5.51%",
+     "vol": "2K"
+    },
+    {
+     "name": "Bund Center Investment Ltd (BTE)",
+     "url": "https://www.tradingview.com/symbols/SGX-BTE/",
+     "price": "S$0.355",
+     "chg": "-4.05%",
+     "vol": "1.7K"
     },
     {
      "name": "LHT Holdings Ltd (BEI)",
@@ -475,69 +475,76 @@
   {
    "key": "hongkong",
    "title": "Hong Kong Top Performers",
-   "caption": "Source: TradingView Hong Kong market movers, captured Friday 09 October 2026 at 18:01 AEST, covering the HKT session most recently published at that time. Share volumes as reported by TradingView.",
-   "fetched": "2026-10-09T18:01:17+11:00",
+   "caption": "Source: TradingView Hong Kong market movers, captured Sunday 11 October 2026 at 16:19 AEST, covering the HKT session most recently published at that time. Share volumes as reported by TradingView.",
+   "fetched": "2026-10-11T16:19:58+11:00",
    "stale": false,
    "gainer_note": "Simplicity Holding Ltd. led the Hong Kong board for the session, up 807.22 per cent to HK$0.220 on reported volume of 94K shares. The move is reported here as captured from TradingView Hong Kong market movers at the time of this build. No company announcement covering it could be found in the local press, so no catalyst is asserted - a common outcome for a thinly traded stock.",
    "gainer_note_sources": [],
-   "loser_note": "Guangdong True Health Medical Technology Development Co. Ltd. Class H was the steepest decliner on the Hong Kong board for the session, down 29.21 per cent to HK$196.8 on reported volume of 239.81K shares. The move is reported here as captured from TradingView Hong Kong market movers at the time of this build. No company announcement covering it could be found in the local press, so no catalyst is asserted - a common outcome for a thinly traded stock.",
+   "loser_note": "Guangdong True Health Medical Technology Development Co. Ltd. Class H was the steepest decliner on the Hong Kong board for the session, down 34.17 per cent to HK$183.0 on reported volume of 361.21K shares. The move is reported here as captured from TradingView Hong Kong market movers at the time of this build. No company announcement covering it could be found in the local press, so no catalyst is asserted - a common outcome for a thinly traded stock.",
    "loser_note_sources": [],
    "gainers": [
     {
      "name": "Beijing Yunji Technology Co. Ltd. Class H (2670)",
      "url": "https://www.tradingview.com/symbols/HKEX-2670/",
-     "price": "HK$7.640",
-     "chg": "+30.60%",
-     "vol": "49.71M"
+     "price": "HK$7.380",
+     "chg": "+26.15%",
+     "vol": "56.05M"
     },
     {
      "name": "KWG Group Holdings Limited (1813)",
      "url": "https://www.tradingview.com/symbols/HKEX-1813/",
-     "price": "HK$0.119",
-     "chg": "+27.96%",
-     "vol": "10.99M"
+     "price": "HK$0.115",
+     "chg": "+23.66%",
+     "vol": "13.08M"
     },
     {
      "name": "Brightstar Technology Group Co., Ltd (8446)",
      "url": "https://www.tradingview.com/symbols/HKEX-8446/",
-     "price": "HK$0.550",
-     "chg": "+52.78%",
-     "vol": "3.85M"
+     "price": "HK$0.580",
+     "chg": "+61.11%",
+     "vol": "4.4M"
+    },
+    {
+     "name": "Republic Healthcare Limited (8357)",
+     "url": "https://www.tradingview.com/symbols/HKEX-8357/",
+     "price": "HK$0.270",
+     "chg": "+37.76%",
+     "vol": "4.36M"
     },
     {
      "name": "BEIJING YUNJI TECHNOLOGY CO LTD (2915)",
      "url": "https://www.tradingview.com/symbols/HKEX-2915/",
-     "price": "HK$7.620",
-     "chg": "+31.72%",
-     "vol": "3.82M"
+     "price": "HK$7.190",
+     "chg": "+24.29%",
+     "vol": "4.21M"
     },
     {
      "name": "Byte Metaverse Holdings Limited (8645)",
      "url": "https://www.tradingview.com/symbols/HKEX-8645/",
      "price": "HK$0.185",
      "chg": "+31.21%",
-     "vol": "3.53M"
+     "vol": "3.62M"
     },
     {
-     "name": "Republic Healthcare Limited (8357)",
-     "url": "https://www.tradingview.com/symbols/HKEX-8357/",
-     "price": "HK$0.255",
-     "chg": "+30.10%",
-     "vol": "3.48M"
+     "name": "IBI Group Holdings Limited (1547)",
+     "url": "https://www.tradingview.com/symbols/HKEX-1547/",
+     "price": "HK$0.280",
+     "chg": "+27.27%",
+     "vol": "1.94M"
+    },
+    {
+     "name": "Moon Inc. (1723)",
+     "url": "https://www.tradingview.com/symbols/HKEX-1723/",
+     "price": "HK$0.680",
+     "chg": "+25.93%",
+     "vol": "1.85M"
     },
     {
      "name": "Sinofortune Financial Holdings Limited (8123)",
      "url": "https://www.tradingview.com/symbols/HKEX-8123/",
-     "price": "HK$0.330",
-     "chg": "+32.00%",
-     "vol": "410.8K"
-    },
-    {
-     "name": "China Sandi Holdings Ltd. TEMP (2934)",
-     "url": "https://www.tradingview.com/symbols/HKEX-2934/",
-     "price": "HK$1.550",
-     "chg": "+41.55%",
-     "vol": "119.81K"
+     "price": "HK$0.340",
+     "chg": "+36.00%",
+     "vol": "475.8K"
     },
     {
      "name": "Simplicity Holding Ltd. (8367)",
@@ -545,78 +552,71 @@
      "price": "HK$0.220",
      "chg": "+807.22%",
      "vol": "94K"
-    },
-    {
-     "name": "Steed Oriental (Holdings) Company Ltd. (8277)",
-     "url": "https://www.tradingview.com/symbols/HKEX-8277/",
-     "price": "HK$0.120",
-     "chg": "+33.33%",
-     "vol": "30K"
     }
    ],
    "losers": [
     {
-     "name": "Rongzun International Holdings Group Limited (1780)",
-     "url": "https://www.tradingview.com/symbols/HKEX-1780/",
-     "price": "HK$5.275",
-     "chg": "-14.71%",
-     "vol": "4.34M"
-    },
-    {
-     "name": "Value Convergence Holdings Limited (821)",
-     "url": "https://www.tradingview.com/symbols/HKEX-821/",
-     "price": "HK$0.490",
-     "chg": "-14.78%",
-     "vol": "3.18M"
-    },
-    {
      "name": "Jufeel International Holdings Limited (8611)",
      "url": "https://www.tradingview.com/symbols/HKEX-8611/",
-     "price": "HK$0.845",
-     "chg": "-17.16%",
-     "vol": "2.79M"
+     "price": "HK$0.785",
+     "chg": "-23.04%",
+     "vol": "9.98M"
+    },
+    {
+     "name": "C.banner International Holdings Ltd. (1028)",
+     "url": "https://www.tradingview.com/symbols/HKEX-1028/",
+     "price": "HK$0.670",
+     "chg": "-16.77%",
+     "vol": "8.15M"
+    },
+    {
+     "name": "Leader Education Limited (1449)",
+     "url": "https://www.tradingview.com/symbols/HKEX-1449/",
+     "price": "HK$1.240",
+     "chg": "-18.69%",
+     "vol": "3.26M"
     },
     {
      "name": "UISEE Technologies (Beijing) Co., Ltd. Class H (1511)",
      "url": "https://www.tradingview.com/symbols/HKEX-1511/",
-     "price": "HK$41.26",
-     "chg": "-17.48%",
-     "vol": "455.65K"
+     "price": "HK$40.36",
+     "chg": "-19.28%",
+     "vol": "701.25K"
     },
     {
      "name": "Guangdong True Health Medical Technology Development Co. Ltd. Class H (2697)",
      "url": "https://www.tradingview.com/symbols/HKEX-2697/",
-     "price": "HK$196.8",
-     "chg": "-29.21%",
-     "vol": "239.81K"
-    },
-    {
-     "name": "StarGlory Holdings Co., Ltd. (8213)",
-     "url": "https://www.tradingview.com/symbols/HKEX-8213/",
-     "price": "HK$0.158",
-     "chg": "-14.59%",
-     "vol": "190K"
-    },
-    {
-     "name": "KING INTERNATIONAL INVT LTD (2938)",
-     "url": "https://www.tradingview.com/symbols/HKEX-2938/",
-     "price": "HK$1.110",
-     "chg": "-14.29%",
-     "vol": "106.02K"
+     "price": "HK$183.0",
+     "chg": "-34.17%",
+     "vol": "361.21K"
     },
     {
      "name": "Gaoyu Finance Group Limited (8221)",
      "url": "https://www.tradingview.com/symbols/HKEX-8221/",
-     "price": "HK$1.695",
-     "chg": "-18.12%",
-     "vol": "85K"
+     "price": "HK$1.600",
+     "chg": "-22.71%",
+     "vol": "175K"
     },
     {
-     "name": "PanAsialum Holdings Co. Ltd. (2078)",
-     "url": "https://www.tradingview.com/symbols/HKEX-2078/",
-     "price": "HK$0.114",
-     "chg": "-14.29%",
-     "vol": "44K"
+     "name": "FY Financial (Shenzhen) Co., Ltd. Class H (8452)",
+     "url": "https://www.tradingview.com/symbols/HKEX-8452/",
+     "price": "HK$0.158",
+     "chg": "-31.00%",
+     "vol": "94K"
+    },
+    {
+     "name": "Fengyinhe Holdings Limited (8030)",
+     "url": "https://www.tradingview.com/symbols/HKEX-8030/",
+     "price": "HK$1.230",
+     "chg": "-18.54%",
+     "vol": "69K"
+    },
+    {
+     "name": "Changmao Biochemical Engineering Co. Ltd. Class H (954)",
+     "url": "https://www.tradingview.com/symbols/HKEX-954/",
+     "price": "HK$0.240",
+     "chg": "-15.79%",
+     "vol": "68K"
     },
     {
      "name": "China Investment Financial Technology Group Limited (8029)",

@@ -75,13 +75,13 @@ def needs_run(edition_cfg):
     if latest is None:
         return True, "no local PDF found; at least one run is overdue"
 
-    # If the latest PDF is from a date that is still in the expected set, the
-    # most recent scheduled run was already produced.
-    if latest in expected:
-        return False, "latest PDF %s matches an expected scheduled run" % latest
-
-    # Otherwise the most recent expected run is newer than the latest PDF.
+    # Find any scheduled run date that does not have a PDF on or after it.
+    # This catches gaps: if Sat is missed but a later manual run exists, we
+    # still want to backfill Saturday before moving on.
     missing = [d for d in sorted(expected) if d > latest]
+    if not missing:
+        return False, "latest PDF %s covers all scheduled runs so far" % latest
+
     return True, "missed scheduled runs: %s" % ", ".join(str(d) for d in missing)
 
 

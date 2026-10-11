@@ -4,48 +4,48 @@
    "key": "nbc",
    "name": "NBC News",
    "site": "nbcnews.com",
-   "summary": "NBC News, covering US national news and politics is leading with Sparks fly as Abdul El-Sayed and Mike Rogers face off in first Michigan Senate debate; Raffensperger says he hasn't spoken to Trump since 2021 call asking him to 'find' votes; Texas Senate candidate James Talarico off the trail with the flu.",
+   "summary": "NBC News, covering US national news and politics is leading with Hurricane Isaias kills at least four people as millions are still under threat; Trump says he’ll decide whether to livestream the execution of Fort Hood shooter Nidal Hasan; Justice Department investigating major TV networks over suspending pool coverage of Trump.",
    "note": null,
    "items": [
     {
-     "headline": "Sparks fly as Abdul El-Sayed and Mike Rogers face off in first Michigan Senate debate",
-     "detail": "Facing questions about gas prices, the war in Iran and tariffs, the candidates frequently exchanged insults amid a high-stakes campaign.",
-     "url": "https://www.nbcnews.com/politics/2026-election/sparks-fly-abdul-el-sayed-mike-rogers-first-michigan-senate-debate-rcna599866",
+     "headline": "Hurricane Isaias kills at least four people as millions are still under threat",
+     "detail": "Hurricane Isaias leaves at least four people dead, with millions still facing threats of torrential rains, flooding and tornadoes.",
+     "url": "https://www.nbcnews.com/video/hurricane-isaias-kills-at-least-four-people-as-millions-are-still-under-threat-271395909614",
      "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
-     "published": "2026-10-09T00:42:31+00:00",
-     "fetched": "2026-10-09T07:05:55+00:00"
+     "published": "2026-10-10T22:10:40+00:00",
+     "fetched": "2026-10-11T05:24:12+00:00"
     },
     {
-     "headline": "Raffensperger says he hasn't spoken to Trump since 2021 call asking him to 'find' votes",
-     "detail": "Georgia Secretary of State Brad Raffensberger (R), who President Trump called after the 2020 election to “find\" him more than 11,000 votes, tells NBC News that ballots in the state will be counted securely and accurately.",
-     "url": "https://www.nbcnews.com/meet-the-press/video/raffensperger-says-he-hasn-t-spoken-to-trump-since-2021-call-asking-him-to-find-votes-271287365919",
+     "headline": "Trump says he’ll decide whether to livestream the execution of Fort Hood shooter Nidal Hasan",
+     "detail": "President Donald Trump said Saturday that he hasn’t yet made a final decision on whether to livestream the execution of former Army Maj.",
+     "url": "https://www.nbcnews.com/politics/donald-trump/trump-execution-fort-hood-livestream-rcna602672",
      "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
-     "published": "2026-10-08T20:47:18+00:00",
-     "fetched": "2026-10-09T07:05:55+00:00"
+     "published": "2026-10-10T18:15:17+00:00",
+     "fetched": "2026-10-11T05:24:12+00:00"
     },
     {
-     "headline": "Texas Senate candidate James Talarico off the trail with the flu",
-     "detail": "In final stretch of the Texas Senate race, Talarico has not appeared in person since Sept. 26; he is expected to be back this weekend.",
-     "url": "https://www.nbcnews.com/politics/2026-election/james-talarico-flu-texas-senate-rcna602277",
+     "headline": "Justice Department investigating major TV networks over suspending pool coverage of Trump",
+     "detail": "The Justice Department said it is investigating five major TV broadcast networks for potentially violating federal antitrust laws after the networks temporarily declined to provide pool coverage of President Donald Trump, a department…",
+     "url": "https://www.nbcnews.com/politics/politics-news/justice-department-investigating-major-tv-networks-suspending-pool-cov-rcna602717",
      "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
-     "published": "2026-10-08T19:53:52+00:00",
-     "fetched": "2026-10-09T07:05:55+00:00"
+     "published": "2026-10-11T02:39:03+00:00",
+     "fetched": "2026-10-11T05:24:12+00:00"
     },
     {
-     "headline": "MAHA fractures deepen as some RFK Jr. followers turn into harsh critics",
-     "detail": "A scorecard from MAHA activists suggests the Trump administration has broken most of its promises to the movement. The “burn feels especially raw,” one prominent activist said.",
-     "url": "https://www.nbcnews.com/health/health-news/trump-rfk-jr-maha-promises-scorecard-pesticides-food-safety-rcna601905",
+     "headline": "Shooter kills 8 at family home in Pennsylvania before turning gun on self, Erie police say",
+     "detail": "A man killed seven family members and a family friend at a home in Erie, Pennsylvania, on Friday night before dying of an apparent self-inflicted gunshot wound, officials said.",
+     "url": "https://www.nbcnews.com/news/us-news/erie-pennsylvania-mass-shooting-rcna602669",
      "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
-     "published": "2026-10-08T16:43:55+00:00",
-     "fetched": "2026-10-09T07:05:55+00:00"
+     "published": "2026-10-10T17:39:59+00:00",
+     "fetched": "2026-10-11T05:24:12+00:00"
     },
     {
-     "headline": "USS Abraham Lincoln sailors reunite with loved ones after nearly a year away",
-     "detail": "Thousands of sailors and Marines aboard the USS Abraham Lincoln returned home after a record-long deployment. They got a chance to hug their loved ones, and some new dads got a chance to hold their babies for the first time.",
-     "url": "https://www.nbcnews.com/nightly-news/video/uss-abraham-lincoln-sailors-reunite-with-loved-ones-after-nearly-a-year-away-271301701942",
+     "headline": "Bracing for the midterms, Trump says he will be blamed if Republicans lose",
+     "detail": "CLARKSVILLE, Tenn. — Even as he makes a case that Republicans should win the midterm congressional elections, President Donald Trump is bracing for the fallout should they lose.",
+     "url": "https://www.nbcnews.com/politics/donald-trump/bracing-midterms-trump-says-will-blamed-republicans-lose-rcna602512",
      "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
-     "published": "2026-10-08T23:52:19+00:00",
-     "fetched": "2026-10-09T07:05:55+00:00"
+     "published": "2026-10-11T00:31:24+00:00",
+     "fetched": "2026-10-11T05:24:12+00:00"
     }
    ]
   },
@@ -53,48 +53,48 @@
    "key": "thehill",
    "name": "The Hill",
    "site": "thehill.com",
-   "summary": "The Hill, reporting on Congress, the White House and US policy is leading with Arlington County sues to block Trump arch after project gets key approval; Second Maine Senate debate takes testy turn: 3 takeaways; Michigan Senate debate goes off the rails: 4 takeaways.",
+   "summary": "The Hill, reporting on Congress, the White House and US policy is leading with Trump continues red state campaign swing with Montana, Arizona rallies next week; Trump says he will ‘ultimately make decision’ on Fort Hood shooter execution livestream; GOP lawmakers reject U.S.-Russia diesel deal, Trump's Zelensky comments.",
    "note": null,
    "items": [
     {
-     "headline": "Arlington County sues to block Trump arch after project gets key approval",
-     "detail": "Arlington County has filed a lawsuit to block President Trump’s proposed triumphal arch following the project's approval by the U.S. Commission of Fine Arts in April.",
-     "url": "https://thehill.com/regulation/court-battles/6138098-arlington-county-trump-arch-lawsuit/",
+     "headline": "Trump continues red state campaign swing with Montana, Arizona rallies next week",
+     "detail": "President Trump will continue his red state campaign swing with recently announced rallies in Montana and Arizona slated for this week with important races in each state just under a month away.",
+     "url": "https://thehill.com/homenews/campaign/6140976-trump-rallies-montana-arizona/",
      "source_url": "https://thehill.com/news/feed/",
-     "published": "2026-10-09T02:46:56+00:00",
-     "fetched": "2026-10-09T07:05:56+00:00"
+     "published": "2026-10-11T02:42:36+00:00",
+     "fetched": "2026-10-11T05:24:13+00:00"
     },
     {
-     "headline": "Second Maine Senate debate takes testy turn: 3 takeaways",
-     "detail": "Republican Sen. Susan Collins and Democrat Troy Jackson squared off Thursday in the second Maine Senate debate of the week, sparring over the Iran war and high prices as their battleground race barrels toward Election Day.",
-     "url": "https://thehill.com/homenews/campaign/6138012-second-maine-senate-debate-collins-jackson-takeaways/",
+     "headline": "Trump says he will ‘ultimately make decision’ on Fort Hood shooter execution livestream",
+     "detail": "President Trump said he will “make a decision ultimately” on whether to livestream the execution by firing squad of convicted Fort Hood shooter Nidal Hasan following GOP backlash.",
+     "url": "https://thehill.com/homenews/administration/6140915-trump-reviews-hasan-execution-plan/",
      "source_url": "https://thehill.com/news/feed/",
-     "published": "2026-10-09T02:17:40+00:00",
-     "fetched": "2026-10-09T07:05:56+00:00"
+     "published": "2026-10-10T23:59:18+00:00",
+     "fetched": "2026-10-11T05:24:13+00:00"
     },
     {
-     "headline": "Michigan Senate debate goes off the rails: 4 takeaways",
-     "detail": "Republican Mike Rogers and Democrat Abdul El-Sayed's first Senate debate in Michigan turned so contentious it even extended off camera.",
-     "url": "https://thehill.com/homenews/campaign/6137958-michigan-senate-debate-el-sayed-rogers-takeaways/",
+     "headline": "GOP lawmakers reject U.S.-Russia diesel deal, Trump's Zelensky comments",
+     "detail": "Several Republicans voiced objections to the Trump administration Russian diesel deal and President Trump's suggestion that Ukraine needed a new leader. When asked about the deal, Sen.",
+     "url": "https://thehill.com/homenews/senate/6140871-republicans-oppose-trump-russian-diesel-deal/",
      "source_url": "https://thehill.com/news/feed/",
-     "published": "2026-10-09T02:01:03+00:00",
-     "fetched": "2026-10-09T07:05:56+00:00"
+     "published": "2026-10-10T23:09:54+00:00",
+     "fetched": "2026-10-11T05:24:13+00:00"
     },
     {
-     "headline": "Trump says Minnesotans should 'fight back' against Somali immigrants",
-     "detail": "President Trump said Thursday that Minnesotans should “fight back” against Somali immigrants following previous attacks against the group. “The once Great State of Minnesota is being taken over by Somali Immigrants.",
-     "url": "https://thehill.com/homenews/administration/6138039-trump-somali-immigrants-minnesota/",
+     "headline": "Bipartisan bill barring U.S. purchase of Russian oil on the horizon: Fitzpatrick",
+     "detail": "Rep. Brian Fitzpatrick (R-Pa.) announced on Saturday he would be introducing a bipartisan bill aimed at stopping President Trump from lifting sanctions on Russian oil amid global fuel shortages.",
+     "url": "https://thehill.com/homenews/house/6140830-fitzpatrick-bill-block-russian-oil/",
      "source_url": "https://thehill.com/news/feed/",
-     "published": "2026-10-09T01:39:17+00:00",
-     "fetched": "2026-10-09T07:05:56+00:00"
+     "published": "2026-10-10T22:02:33+00:00",
+     "fetched": "2026-10-11T05:24:13+00:00"
     },
     {
-     "headline": "Fiery Georgia Senate debate gets personal: 4 takeaways",
-     "detail": "The first debate for Georgia Senate on Thursday evening quickly devolved into a string of personal attacks and campaign talking points as Sen. Jon Ossoff (D) and Rep.",
-     "url": "https://thehill.com/homenews/campaign/6138009-georgia-senate-debate-ossoff-collins-takeaways/",
+     "headline": "Pentagon updates death toll of troops during Iran war to 21",
+     "detail": "The Pentagon updated the American service member death toll of the U.S. military’s operations against Iran to 21 late Friday, raising the tally in the department’s public database.",
+     "url": "https://thehill.com/policy/defense/6140821-pentagon-updates-iran-death-tally/",
      "source_url": "https://thehill.com/news/feed/",
-     "published": "2026-10-09T01:37:35+00:00",
-     "fetched": "2026-10-09T07:05:56+00:00"
+     "published": "2026-10-10T21:59:35+00:00",
+     "fetched": "2026-10-11T05:24:13+00:00"
     }
    ]
   },
@@ -102,48 +102,48 @@
    "key": "time",
    "name": "Time",
    "site": "time.com",
-   "summary": "Time magazine, covering US and world affairs is leading with 60 Million Children Have Been Automatically Enrolled in Trump Accounts. Here’s What Parents Should Know; Exclusive: Senate Investigation Challenges Big Tech’s Case for AI Data Centers; The Atlantic Has Its First Hurricane of the Season. Here's What To Know.",
+   "summary": "Time magazine, covering US and world affairs is leading with Trump Says U.S. May Join Saudi Strikes on Houthis After Riyadh Airport Attacks; Under the Gun: Understanding America’s Defense Spending Paradox; Paternity Leave Is More Than a Perk. It Builds a Baby’s Brain.",
    "note": null,
    "items": [
     {
-     "headline": "60 Million Children Have Been Automatically Enrolled in Trump Accounts. Here’s What Parents Should Know",
-     "detail": "Here's how the investment accounts for children work, and how you can claim one for your child.",
-     "url": "https://time.com/article/2026/10/08/trump-accounts-automatic-enrollment-children-investment/",
+     "headline": "Trump Says U.S. May Join Saudi Strikes on Houthis After Riyadh Airport Attacks",
+     "detail": "Attacks on Saudi airports have killed several people and disrupted hundreds of flights, prompting Washington to consider a larger military role in Yemen.",
+     "url": "https://time.com/article/2026/10/10/trump-says-u-s-may-join-saudi-strikes-on-houthis-after-riyadh-airport-attacks/",
      "source_url": "https://time.com/feed/",
-     "published": "2026-10-08T22:38:49+00:00",
-     "fetched": "2026-10-09T07:05:56+00:00"
+     "published": "2026-10-10T21:22:07+00:00",
+     "fetched": "2026-10-11T05:24:13+00:00"
     },
     {
-     "headline": "Exclusive: Senate Investigation Challenges Big Tech’s Case for AI Data Centers",
-     "detail": "The report argues that major tech firms are misleading the public about the costs and benefits of the projects.",
-     "url": "https://time.com/article/2026/10/08/senate-investigation-ai-data-centers/",
+     "headline": "Under the Gun: Understanding America’s Defense Spending Paradox",
+     "detail": "\"How is it possible that the most expensive military in the history of the world doesn’t have enough ammunition to fight a war?\" asks Joshua Keating.",
+     "url": "https://time.com/article/2026/10/10/understanding-america-defense-spending-paradox/",
      "source_url": "https://time.com/feed/",
-     "published": "2026-10-08T19:56:08+00:00",
-     "fetched": "2026-10-09T07:05:56+00:00"
+     "published": "2026-10-10T18:41:44+00:00",
+     "fetched": "2026-10-11T05:24:13+00:00"
     },
     {
-     "headline": "The Atlantic Has Its First Hurricane of the Season. Here's What To Know",
-     "detail": "The Atlantic has its first hurricane of the season.",
-     "url": "https://time.com/article/2026/10/08/hurricane-isaias-what-to-know/",
+     "headline": "Paternity Leave Is More Than a Perk. It Builds a Baby’s Brain",
+     "detail": "Paternity leave and a father’s engagement during infancy is associated with better cognitive, social, and emotional regulation outcomes for the child, writes Alvin Thomas.",
+     "url": "https://time.com/article/2026/10/10/paternity-leave-is-more-than-a-perk-it-builds-a-baby-s-brain/",
      "source_url": "https://time.com/feed/",
-     "published": "2026-10-08T19:28:57+00:00",
-     "fetched": "2026-10-09T07:05:56+00:00"
+     "published": "2026-10-10T10:00:04+00:00",
+     "fetched": "2026-10-11T05:24:13+00:00"
     },
     {
-     "headline": "Eye Cells May Have Been Rejuvenated for the First Time in People",
-     "detail": "An experimental therapy addresses aging cells in the eye that can lead to vision loss.",
-     "url": "https://time.com/article/2026/10/08/eye-cells-rejuvenated-for-the-first-time-in-people/",
+     "headline": "Are Firing Squad Executions Seeing a Revival in the U.S.?",
+     "detail": "Supply-chain issues and a series of botched executions involving lethal injection are causing officials to weigh alternative options for carrying out the death penalty.",
+     "url": "https://time.com/article/2026/10/10/firing-squad-execution-lethal-injection-christa-pike-fort-hood-shooter/",
      "source_url": "https://time.com/feed/",
-     "published": "2026-10-08T19:20:04+00:00",
-     "fetched": "2026-10-09T07:05:56+00:00"
+     "published": "2026-10-10T11:00:00+00:00",
+     "fetched": "2026-10-11T05:24:13+00:00"
     },
     {
-     "headline": "The Great Healthcare Cost Hike Is Here",
-     "detail": "\"Here’s how the looming healthcare hike will impact insurance costs, wherever you get your coverage,\" write Neale Mahoney and Abigail Sanchez.",
-     "url": "https://time.com/article/2026/10/08/the-great-healthcare-cost-hike-is-here/",
+     "headline": "Trump Taps Katie Zacharia to Replace Karoline Leavitt as White House Press Secretary",
+     "detail": "Zacharia, a conservative commentator, will succeed Karoline Leavitt in the position.",
+     "url": "https://time.com/article/2026/10/09/katie-zacharia-white-house-press-secretary-leavitt-trump/",
      "source_url": "https://time.com/feed/",
-     "published": "2026-10-08T18:59:22+00:00",
-     "fetched": "2026-10-09T07:05:56+00:00"
+     "published": "2026-10-09T18:46:53+00:00",
+     "fetched": "2026-10-11T05:24:13+00:00"
     }
    ]
   },
@@ -151,48 +151,48 @@
    "key": "variety",
    "name": "Variety",
    "site": "variety.com",
-   "summary": "Variety, on the business of entertainment is leading with ‘Avatar: Seven Havens’ Takes the Franchise in an Intriguing, Postapocalyptic New Direction: TV Review; Italy’s RAI Inks Major Deal for High-Profile, Female-Led Titles With Beta Film Ahead of Mipcom (EXCLUSIVE); Indian Crime Drama ‘Chaar Yaar’ Sets Global Premiere on Prime Video (EXCLUSIVE).",
+   "summary": "Variety, on the business of entertainment is leading with ‘Midday Meal’ Review: Touching Iranian Drama Charts a Teacher’s Desperate Acts to Provide for His School; ‘SNL’ Weekend Update Brutally Mocks Trump for Losing Nobel Peace Prize; ‘SNL’ Host Shane Gillis Drops Accidental ‘F-Bomb’ During Dr. Seuss Sketch.",
    "note": null,
    "items": [
     {
-     "headline": "‘Avatar: Seven Havens’ Takes the Franchise in an Intriguing, Postapocalyptic New Direction: TV Review",
-     "detail": "This summer, the Avatar franchise reintroduced itself by revisiting its most iconic character: Aang, the namesake of “Avatar: The Last Airbender” and the original protagonist of a story now in its third decade.",
-     "url": "https://variety.com/2026/tv/reviews/avatar-seven-havens-review-1236906002/",
+     "headline": "‘Midday Meal’ Review: Touching Iranian Drama Charts a Teacher’s Desperate Acts to Provide for His School",
+     "detail": "“Midday Meal” isn’t necessarily about the art of cooking, but it is in part about the rituals of food, rituals which become more precious with scarcity.",
+     "url": "https://variety.com/2026/film/reviews/midday-meal-review-1236907939/",
      "source_url": "https://variety.com/feed/",
-     "published": "2026-10-09T07:00:00+00:00",
-     "fetched": "2026-10-09T07:05:56+00:00"
+     "published": "2026-10-11T04:49:44+00:00",
+     "fetched": "2026-10-11T05:24:13+00:00"
     },
     {
-     "headline": "Italy’s RAI Inks Major Deal for High-Profile, Female-Led Titles With Beta Film Ahead of Mipcom (EXCLUSIVE)",
-     "detail": "Italian public broadcaster RAI has acquired a slate of international, female-led drama series from Beta Film ahead of Mipcom.",
-     "url": "https://variety.com/2026/tv/global/italy-rai-beta-film-barton-vet-mozart-mozart-mipcom-1236905546/",
+     "headline": "‘SNL’ Weekend Update Brutally Mocks Trump for Losing Nobel Peace Prize",
+     "detail": "Following a clunky cold open, host Shane Gillis’s flop of a monologue and the comic dropping an accidental F-bomb during a Dr.",
+     "url": "https://variety.com/2026/tv/news/snl-weekend-update-mocks-trump-losing-nobel-peace-prize-1236907971/",
      "source_url": "https://variety.com/feed/",
-     "published": "2026-10-09T06:28:05+00:00",
-     "fetched": "2026-10-09T07:05:56+00:00"
+     "published": "2026-10-11T04:49:37+00:00",
+     "fetched": "2026-10-11T05:24:13+00:00"
     },
     {
-     "headline": "Indian Crime Drama ‘Chaar Yaar’ Sets Global Premiere on Prime Video (EXCLUSIVE)",
-     "detail": "“Chaar Yaar,” an eight-episode Hindi-language crime drama about four Mumbai friends who stumble into the city’s underworld, is headed for a worldwide launch on Prime Video.",
-     "url": "https://variety.com/2026/tv/news/indian-crime-drama-chaar-yaar-premiere-prime-video-1236906316/",
+     "headline": "‘SNL’ Host Shane Gillis Drops Accidental ‘F-Bomb’ During Dr. Seuss Sketch",
+     "detail": "Shane Gillis accidentally dropped an F-bomb during a Dr. Seuss-inspired sketch during his “SNL” hosting stint.",
+     "url": "https://variety.com/2026/tv/news/shane-gillis-drops-accidental-f-bomb-snl-dr-seuss-sketch-1236907951/",
      "source_url": "https://variety.com/feed/",
-     "published": "2026-10-09T06:25:00+00:00",
-     "fetched": "2026-10-09T07:05:56+00:00"
+     "published": "2026-10-11T04:22:19+00:00",
+     "fetched": "2026-10-11T05:24:13+00:00"
     },
     {
-     "headline": "Annecy Sci-Fi Animation ‘Pilgrims,’ From ‘Japan Sinks: 2020’ Director Heo Pyoungkang, Lands at EST N8 (EXCLUSIVE)",
-     "detail": "“Pilgrims,” a Korean sci-fi animated feature that played Annecy and took a prize at Bucheon, has been picked up for worldwide sales by EST N8. It is the first animated title for the film financing, sales and distribution company.",
-     "url": "https://variety.com/2026/film/markets-festivals/annecy-sci-fi-animation-pilgrims-est-n8-1236906340/",
+     "headline": "Shane Gillis Bombs ‘SNL’ Monologue (Again): ‘You’re Either Gay or You’re Hitler’",
+     "detail": "Shane Gillis returned to host “Saturday Night Live” for the third time since his 2019 firing, emerging in a matching black T-shirt and pants for a meandering monologue about needing to lose weight and being miserable (and trying to be…",
+     "url": "https://variety.com/2026/tv/news/snl-shane-gillis-bombs-monologue-again-hitler-misogyny-1236907937/",
      "source_url": "https://variety.com/feed/",
-     "published": "2026-10-09T06:12:07+00:00",
-     "fetched": "2026-10-09T07:05:56+00:00"
+     "published": "2026-10-11T04:00:17+00:00",
+     "fetched": "2026-10-11T05:24:13+00:00"
     },
     {
-     "headline": "John Hannah Solves Crimes – and Escapes Mobility Scooters – in ‘Benidorm Is Murder’: ‘Sunshine When the World Is So Cloudy’",
-     "detail": "In “Benidorm Is Murder,” shady deeds are being committed under the scorching sun.",
-     "url": "https://variety.com/2026/tv/global/john-hannah-carolina-becquer-benidorm-is-murder-zdf-studios-1236905757/",
+     "headline": "Pete Hegseth Is Unhinged in ‘SNL’ Cold Open Mocking Christa Pike’s Botched Execution and RFK Jr.",
+     "detail": "Colin Jost returned as an especially rowdy Pete Hegseth in this week’s “Saturday Night Live” cold open, welcoming home sailors aboard the USS Abraham Lincoln after nearly a year at sea. The Oct.",
+     "url": "https://variety.com/2026/tv/news/snl-pete-hegseth-operation-epic-fury-1236907876/",
      "source_url": "https://variety.com/feed/",
-     "published": "2026-10-09T06:00:09+00:00",
-     "fetched": "2026-10-09T07:05:56+00:00"
+     "published": "2026-10-11T03:48:56+00:00",
+     "fetched": "2026-10-11T05:24:13+00:00"
     }
    ]
   },
@@ -200,48 +200,48 @@
    "key": "bloomberg",
    "name": "Bloomberg",
    "site": "bloomberg.com",
-   "summary": "Bloomberg's markets and business file is leading with Copper Set for Weekly Gain on China’s Return and Supply Concerns; Zetwerk Is Said to Plan Up to $525 Million India IPO Next Week; Yuan Hits Four-Year High Versus Basket as PBOC Backs FX Policy.",
+   "summary": "Bloomberg's markets and business file is leading with Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Talks; China Issues Draft Standards for Remanufactured Automotive Parts; India’s Rupee Defense Raises Question of How Far RBI Will Go.",
    "note": null,
    "items": [
     {
-     "headline": "Copper Set for Weekly Gain on China’s Return and Supply Concerns",
-     "detail": "Copper headed for a weekly gain, as signs of Chinese demand and a possible supply disruption at a Chilean mine boosted the metal.",
-     "url": "https://www.bloomberg.com/news/articles/2026-10-09/copper-set-for-weekly-gain-on-china-s-return-and-supply-concerns",
+     "headline": "Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Talks",
+     "detail": "Taiwanese President Lai Ching-te called on democracies in the region to unite against threats to stability, as the island faces pressure from Beijing and concerns that US President Donald Trump’s rapprochement with China could come at…",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-10/taiwan-s-lai-urges-democracies-to-unite-after-trump-xi-summit",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-09T02:37:20+00:00",
-     "fetched": "2026-10-09T07:05:58+00:00"
+     "published": "2026-10-10T03:35:41+00:00",
+     "fetched": "2026-10-11T05:24:14+00:00"
     },
     {
-     "headline": "Zetwerk Is Said to Plan Up to $525 Million India IPO Next Week",
-     "detail": "Zetwerk Pvt., an Indian manufacturing platform, is preparing to launch an initial public offering as early as next week that may raise as much as $525 million, according to people familiar with the matter.",
-     "url": "https://www.bloomberg.com/news/articles/2026-10-09/zetwerk-is-said-to-plan-up-to-525-million-india-ipo-next-week",
+     "headline": "China Issues Draft Standards for Remanufactured Automotive Parts",
+     "detail": "China released draft rules that would establish nationwide requirements for automotive-parts remanufacturing, including standards for the sourcing of used components, product quality, traceability and market oversight.",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-11/china-issues-draft-standards-for-remanufactured-automotive-parts",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-09T06:33:01+00:00",
-     "fetched": "2026-10-09T07:05:58+00:00"
+     "published": "2026-10-11T03:21:56+00:00",
+     "fetched": "2026-10-11T05:24:14+00:00"
     },
     {
-     "headline": "Yuan Hits Four-Year High Versus Basket as PBOC Backs FX Policy",
-     "detail": "The yuan advanced to a four-year high against a basket of its trading partners’ currencies after the People’s Bank of China rejected claims of undervaluation and defended its exchange-rate management.",
-     "url": "https://www.bloomberg.com/news/articles/2026-10-09/yuan-hits-four-year-high-versus-basket-as-pboc-backs-fx-policy",
+     "headline": "India’s Rupee Defense Raises Question of How Far RBI Will Go",
+     "detail": "The Reserve Bank of India is broadening its defenses to steady the rupee, taking some of its strongest measures since the 2013 taper tantrum.",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-11/india-s-rupee-defense-raises-question-of-how-far-rbi-will-go",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-09T06:31:51+00:00",
-     "fetched": "2026-10-09T07:05:58+00:00"
+     "published": "2026-10-11T03:00:03+00:00",
+     "fetched": "2026-10-11T05:24:14+00:00"
     },
     {
-     "headline": "Indonesia Cuts Travel Spending as Energy Costs Pressure Budget",
-     "detail": "Indonesia is tightening government spending toward year-end, ordering ministries and agencies to cut unspent travel allocations by 30% as higher oil prices and costly flagship programs put pressure on the budget.",
-     "url": "https://www.bloomberg.com/news/articles/2026-10-09/indonesia-cuts-travel-spending-as-energy-costs-pressure-budget",
+     "headline": "Once-Hot AI Trade Leaves Korean Stocks Struggling for Buyers",
+     "detail": "South Korea spent much of this year as a poster child of the scorching global AI trade. Now, by almost every measure, the $4.3 trillion stock market is rapidly losing relevance with investors.",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-11/once-hot-ai-trade-leaves-korean-stocks-struggling-for-buyers",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-09T06:24:06+00:00",
-     "fetched": "2026-10-09T07:05:58+00:00"
+     "published": "2026-10-11T00:00:00+00:00",
+     "fetched": "2026-10-11T05:24:14+00:00"
     },
     {
-     "headline": "Luxury Stock Bulls Have to Wait Longer for a Revival",
-     "detail": "It seems there’ll be few fireworks to spark a strong year-end for luxury’s biggest names, leaving investors to wait until 2027 for any potential upswing.",
-     "url": "https://www.bloomberg.com/news/articles/2026-10-09/luxury-stock-bulls-have-to-wait-longer-for-a-revival",
+     "headline": "AI Debt Issuance Defies Rising Yields as SpaceX, Broadcom Plan Major Deals",
+     "detail": "When financing gets more expensive, companies usually slow down their bond sales. Tech companies have instead been ramping up this year, and talk this week of potential big financings from SpaceX and Broadcom Inc.",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-10/ai-issuers-are-upending-longstanding-safety-valve-credit-weekly",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-09T06:17:06+00:00",
-     "fetched": "2026-10-09T07:05:58+00:00"
+     "published": "2026-10-10T19:00:00+00:00",
+     "fetched": "2026-10-11T05:24:14+00:00"
     }
    ]
   },
@@ -249,48 +249,48 @@
    "key": "bbc",
    "name": "BBC",
    "site": "bbc.com",
-   "summary": "The BBC's world news service is leading with Suspect linked to Monaco bomb attack on millionaire speaks to BBC; Firing squad execution to be livestreamed, Pentagon says; ICE agent shoots man in New York City.",
+   "summary": "The BBC's world news service is leading with 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal; Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh; Young men live in fear of being snatched off the streets and sold to Myanmar's army.",
    "note": null,
    "items": [
     {
-     "headline": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
-     "detail": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
-     "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
+     "headline": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+     "detail": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+     "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-     "published": "2026-10-08T23:11:10+00:00",
-     "fetched": "2026-10-09T07:05:58+00:00"
+     "published": "2026-10-11T01:41:29+00:00",
+     "fetched": "2026-10-11T05:24:14+00:00"
     },
     {
-     "headline": "Firing squad execution to be livestreamed, Pentagon says",
-     "detail": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
-     "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+     "headline": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
+     "detail": "Saudi and US officials blame the attack on Yemen's Houthis, who have not commented on the latest strike.",
+     "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-     "published": "2026-10-09T07:05:05+00:00",
-     "fetched": "2026-10-09T07:05:58+00:00"
+     "published": "2026-10-11T03:57:22+00:00",
+     "fetched": "2026-10-11T05:24:14+00:00"
     },
     {
-     "headline": "ICE agent shoots man in New York City",
-     "detail": "The mayor of New York expressed outrage at the shooting which the Department of Homeland Security said happened during the arrest of a \"criminal illegal alien\".",
-     "url": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
+     "headline": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+     "detail": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
+     "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-     "published": "2026-10-09T04:26:19+00:00",
-     "fetched": "2026-10-09T07:05:58+00:00"
+     "published": "2026-10-10T22:13:08+00:00",
+     "fetched": "2026-10-11T05:24:14+00:00"
     },
     {
-     "headline": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-     "detail": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
-     "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+     "headline": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+     "detail": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+     "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-     "published": "2026-10-08T16:31:29+00:00",
-     "fetched": "2026-10-09T07:05:58+00:00"
+     "published": "2026-10-10T20:51:12+00:00",
+     "fetched": "2026-10-11T05:24:14+00:00"
     },
     {
-     "headline": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
-     "detail": "South Africa has experienced recurrent outbreaks of violence, often targeting migrants from neighbouring countries.",
-     "url": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
+     "headline": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+     "detail": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
+     "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-     "published": "2026-10-09T04:44:22+00:00",
-     "fetched": "2026-10-09T07:05:58+00:00"
+     "published": "2026-10-10T17:44:26+00:00",
+     "fetched": "2026-10-11T05:24:14+00:00"
     }
    ]
   },
@@ -298,48 +298,48 @@
    "key": "france24",
    "name": "France 24",
    "site": "france24.com",
-   "summary": "France 24's English service, reporting from Paris on Europe, Africa and the Middle East is leading with Tens of thousands march in Madrid to mourn pensioner whose eviction sparked housing protests; Morocco and Senegal await AFCON final verdict after arbitration hearing; Brazil’s Flavio Bolsonaro wins third-place candidate’s support against Lula.",
+   "summary": "France 24's English service, reporting from Paris on Europe, Africa and the Middle East is leading with Live : Saudi Arabia vows 'decisive response' after deadly Houthi strike on Riyadh airport; SPOTLIGHT; At least twelve killed, multiple people wounded in attack on Riyadh airport.",
    "note": null,
    "items": [
     {
-     "headline": "Tens of thousands march in Madrid to mourn pensioner whose eviction sparked housing protests",
-     "detail": "Tens of thousands of protesters joined a march in Madrid Thursday to mark the death of 87-year-old retiree Maricarmen Abascal, whose eviction from her apartment in the Spanish capital in September sparked a wave of housing protests that…",
-     "url": "https://www.france24.com/en/europe/20261009-tens-of-thousands-march-in-madrid-to-mourn-pensioner-whose-eviction-sparked-housing-protests",
+     "headline": "Live : Saudi Arabia vows 'decisive response' after deadly Houthi strike on Riyadh airport",
+     "detail": "Saudi Arabia vowed to retaliate against Yemen’s Houthi rebels on Sunday after a strike on Riyadh’s international airport killed a dozen people and wounded more than 300, marking the kingdom's deadliest strike in a decade.",
+     "url": "https://www.france24.com/en/middle-east/20261011-live-saudi-arabia-vows-decisive-response-after-deadly-houthi-strike-on-riyadh-airport",
      "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-10-09T06:45:35+00:00",
-     "fetched": "2026-10-09T07:05:58+00:00"
+     "published": "2026-10-11T05:04:26+00:00",
+     "fetched": "2026-10-11T05:24:15+00:00"
     },
     {
-     "headline": "Morocco and Senegal await AFCON final verdict after arbitration hearing",
-     "detail": "Thursday saw the Court of Arbitration for Sport hold a long-awaited hearing in Lausanne, as sport's highest court considered Senegal's appeal over the decision to award Morocco this year's Africa Cup of Nations title.",
-     "url": "https://www.france24.com/en/sport/20261009-morocco-and-senegal-await-afcon-final-verdict-after-arbitration-hearing",
+     "headline": "SPOTLIGHT",
+     "detail": "Adam Barron is an independent Middle East political analyst and consultant, specialising primarily in Yemen, where he has reported from the capital, Sanaa, for The Economist. He writes for Foreign Policy and The Atlantic.",
+     "url": "https://www.france24.com/en/tv-shows/spotlight/20261010-spotlight",
      "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-10-09T05:44:52+00:00",
-     "fetched": "2026-10-09T07:05:58+00:00"
+     "published": "2026-10-10T18:22:23+00:00",
+     "fetched": "2026-10-11T05:24:15+00:00"
     },
     {
-     "headline": "Brazil’s Flavio Bolsonaro wins third-place candidate’s support against Lula",
-     "detail": "Brazil's right-wing presidential candidate Flavio Bolsonaro secured third-place finisher Augusto Cury's endorsement on Thursday, strengthening his position against incumbent Luiz Inacio Lula da Silva ahead of the runoff.",
-     "url": "https://www.france24.com/en/americas/20261009-brazil-flavio-bolsonaro-third-place-candidate-lula",
+     "headline": "At least twelve killed, multiple people wounded in attack on Riyadh airport",
+     "detail": "At least twelve people were killed in an attack on Riyadh's King Khalid International Airport on Saturday, including an Egyptian flight attendant, according to a medical source at a local hospital.",
+     "url": "https://www.france24.com/en/middle-east/20261010-riyadh-airport-suspends-operations-after-attack-leaves-multiple-people-wounded",
      "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-10-09T02:34:06+00:00",
-     "fetched": "2026-10-09T07:05:58+00:00"
+     "published": "2026-10-10T18:03:32+00:00",
+     "fetched": "2026-10-11T05:24:15+00:00"
     },
     {
-     "headline": "Families reunited as USS Lincoln returns from troubled 10-month deployment",
-     "detail": "The USS Lincoln docked in California on Thursday ending a record deployment of 265 days of uninterrupted time at sea marked by reports of deteriorating conditions onboard.",
-     "url": "https://www.france24.com/en/americas/20261009-families-reunited-as-uss-lincoln-comes-home-after-troubled-gulf-deployment",
+     "headline": "Convicted murderer Christa Pike leaves hospital, returns to prison after botched execution",
+     "detail": "Christa Pike's lawyers on Saturday said that the 50-year-old convicted murderer has been discharged from the hospital and returned to prison.",
+     "url": "https://www.france24.com/en/americas/20261010-convicted-murderer-christa-pike-leaves-hospital-returns-to-prison-after-botched-execution",
      "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-10-09T00:13:02+00:00",
-     "fetched": "2026-10-09T07:05:58+00:00"
+     "published": "2026-10-10T17:41:10+00:00",
+     "fetched": "2026-10-11T05:24:15+00:00"
     },
     {
-     "headline": "US files new torture charges against Venezuela's Nicolas Maduro and wife Cilia Flores",
-     "detail": "The United States on Thursday charged ousted Venezuelan president Nicolas Maduro and his wife Cilia Flores with conspiracy to commit torture, adding to drug trafficking and firearms charges.",
-     "url": "https://www.france24.com/en/americas/20261008-us-files-new-torture-charges-venezuela-nicolas-maduro-cilia-flores",
+     "headline": "🔴 Live: Trump lashes out at Zelensky, says Ukraine needs new president who will agree to end war",
+     "detail": "🔴 Live: Trump lashes out at Zelensky, says Ukraine needs new president who will agree to end war",
+     "url": "https://www.france24.com/en/europe/20261010-live-russian-strikes-on-ukraine-zaporizhzhia-kill-least-seven-including-children",
      "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-10-08T23:56:36+00:00",
-     "fetched": "2026-10-09T07:05:58+00:00"
+     "published": "2026-10-10T17:39:46+00:00",
+     "fetched": "2026-10-11T05:24:15+00:00"
     }
    ]
   },
@@ -347,55 +347,54 @@
    "key": "aljazeera",
    "name": "Al Jazeera",
    "site": "aljazeera.com",
-   "summary": "Al Jazeera English, with strong Middle East and Africa coverage is leading with Afghanistan’s emerald miners struggle with tools but attract global buyers; Trump says US will not strike Iran before midterm elections; Brazilian Supreme Court judge issues arrest warrant for Eduardo Bolsonaro.",
+   "summary": "Al Jazeera English, with strong Middle East and Africa coverage is leading with US opens antitrust probe into TV networks halting Trump coverage; Hurricane Isaias kills four, leaves 650,000 without power in Florida; ICE agent in New York shooting also involved in assault of pregnant woman.",
    "note": null,
    "items": [
     {
-     "headline": "Afghanistan’s emerald miners struggle with tools but attract global buyers",
-     "detail": "Afghan miners endure harsh conditions, relying on basic tools to extract precious emeralds in Panjshir's steep valleys.",
-     "url": "https://www.aljazeera.com/news/2026/10/9/afghanistans-emerald-miners-struggle-with-tools-but-attract-global-buyers?traffic_source=rss",
+     "headline": "US opens antitrust probe into TV networks halting Trump coverage",
+     "detail": "Department of Justice says it's investigating whether the White House press pool's decision violated antitrust laws.",
+     "url": "https://www.aljazeera.com/news/2026/10/11/us-opens-antitrust-probe-into-tv-networks-halting-trump-coverage?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
-     "published": "2026-10-09T06:36:48+00:00",
-     "fetched": "2026-10-09T07:05:58+00:00"
+     "published": "2026-10-11T04:30:10+00:00",
+     "fetched": "2026-10-11T05:24:15+00:00"
     },
     {
-     "headline": "Trump says US will not strike Iran before midterm elections",
-     "detail": "Oil prices drop as Trump dismisses speculation of pre-midterm military action against Iran.",
-     "url": "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss",
+     "headline": "Hurricane Isaias kills four, leaves 650,000 without power in Florida",
+     "detail": "Hurricane Isaias has killed four people and left more than 650,000 people without power.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-isaias-is-here-us?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
-     "published": "2026-10-09T06:22:07+00:00",
-     "fetched": "2026-10-09T07:05:58+00:00"
+     "published": "2026-10-11T04:28:51+00:00",
+     "fetched": "2026-10-11T05:24:15+00:00"
     },
     {
-     "headline": "Brazilian Supreme Court judge issues arrest warrant for Eduardo Bolsonaro",
-     "detail": "Arrest warrant for presidential candidate's brother is issued weeks before Brazil's runoff election.",
-     "url": "https://www.aljazeera.com/news/2026/10/9/brazilian-supreme-court-judge-issues-arrest-warrant-for-eduardo-bolsonaro?traffic_source=rss",
+     "headline": "ICE agent in New York shooting also involved in assault of pregnant woman",
+     "detail": "An ICE agent involved in the Oct 8 shooting in New York was also filmed during a controversial arrest in Minneapolis.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/ice-agent-in-new-york-shooting-also-involved-in-assault-of-pregnant-woman?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
-     "published": "2026-10-09T06:19:56+00:00",
-     "fetched": "2026-10-09T07:05:58+00:00"
+     "published": "2026-10-11T04:10:08+00:00",
+     "fetched": "2026-10-11T05:24:15+00:00"
     },
     {
-     "headline": "From Aden to Sanaa, Yemenis struggle to deal with soaring living costs",
-     "detail": "As fighting intensifies, Yemenis face a deepening economic crisis, with unpaid salaries and rising prices.",
-     "url": "https://www.aljazeera.com/economy/2026/10/9/from-aden-to-sanaa-yemenis-struggle-to-deal-with-soaring-living-costs?traffic_source=rss",
+     "headline": "Taiz hospitals near collapse as Houthis tighten siege: Yemen government",
+     "detail": "Medical services in Taiz risk shutting down as fuel, medicines, and supplies run alarmingly low under Houthi blockade.",
+     "url": "https://www.aljazeera.com/news/2026/10/11/taiz-hospitals-near-collapse-as-houthis-tighten-siege-yemen-government?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
-     "published": "2026-10-09T05:53:04+00:00",
-     "fetched": "2026-10-09T07:05:58+00:00"
+     "published": "2026-10-11T03:41:58+00:00",
+     "fetched": "2026-10-11T05:24:15+00:00"
     },
     {
-     "headline": "How October 7 changed Lebanon and Hezbollah’s political reality",
-     "detail": "Analysts say Hezbollah's decision on October 8 to join a 'war of support' for Gaza changed Lebanon's political reality.",
-     "url": "https://www.aljazeera.com/news-analysis/2026/10/9/how-october-7-changed-lebanon-and-hezbollahs-political-reality?traffic_source=rss",
+     "headline": "US forces disable ship ‘attempting to run’ Iran blockade in Gulf of Oman",
+     "detail": "US military jet strikes stern of commercial cargo ship 'without harming the crew', CENTCOM says.",
+     "url": "https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
-     "published": "2026-10-09T05:52:49+00:00",
-     "fetched": "2026-10-09T07:05:58+00:00"
+     "published": "2026-10-11T03:13:53+00:00",
+     "fetched": "2026-10-11T05:24:15+00:00"
     }
    ]
   }
  ],
  "blocked": [
-  "news.com.au",
   "theaustralian.com.au"
  ],
- "blocked_checked_at": "2026-10-09T07:06:02+00:00"
+ "blocked_checked_at": "2026-10-11T05:24:17+00:00"
 }

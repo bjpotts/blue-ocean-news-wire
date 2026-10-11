@@ -1,104 +1,104 @@
 {
  "items": [
   {
-   "headline": "President Trump awards Big Tech donors with nation’s highest science prizes",
-   "detail": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.",
+   "headline": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+   "detail": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
    "outlet": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
+   "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
    "region": "US",
    "source_url": "https://techcrunch.com/feed/",
-   "published": "2026-10-08T22:33:59+00:00",
-   "fetched": "2026-10-09T07:05:47+00:00"
+   "published": "2026-10-10T21:47:51+00:00",
+   "fetched": "2026-10-11T05:24:03+00:00"
   },
   {
-   "headline": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-   "detail": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+   "headline": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+   "detail": "Is Apple hoping to get into the AI-generated podcast business?",
    "outlet": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+   "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
    "region": "US",
    "source_url": "https://techcrunch.com/feed/",
-   "published": "2026-10-08T21:00:00+00:00",
-   "fetched": "2026-10-09T07:05:47+00:00"
+   "published": "2026-10-10T19:50:00+00:00",
+   "fetched": "2026-10-11T05:24:03+00:00"
   },
   {
-   "headline": "US plans livestream of execution by firing squad",
-   "detail": "The United States' execution of the Fort Hood shooter will be livestreamed, anonymous officials from the Defense Department told the BBC and Associated Press.",
+   "headline": "Satya Nadella says we should assume all AI models are ‘compromised’",
+   "detail": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks.",
    "outlet": "The Verge",
-   "url": "https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
    "region": "US",
    "source_url": "https://www.theverge.com/rss/index.xml",
-   "published": "2026-10-08T18:32:04-04:00",
-   "fetched": "2026-10-09T07:05:47+00:00"
+   "published": "2026-10-10T18:10:17-04:00",
+   "fetched": "2026-10-11T05:24:04+00:00"
   },
   {
-   "headline": "Anthropic launches free AI security scans for open-source projects",
-   "detail": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner.",
+   "headline": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+   "detail": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG.",
    "outlet": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+   "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
    "region": "US",
    "source_url": "https://www.theverge.com/rss/index.xml",
-   "published": "2026-10-08T17:53:51-04:00",
-   "fetched": "2026-10-09T07:05:47+00:00"
+   "published": "2026-10-10T14:52:07-04:00",
+   "fetched": "2026-10-11T05:24:04+00:00"
   },
   {
-   "headline": "'Real boss of India?': Elon Musk takes aim at Indian billionaire Ambani as Starlink launch stalls",
-   "detail": "Musk claimed Starlink was not being allowed to launch in India despite spending five years complying with every single law and requirement of the government.",
+   "headline": "AI may change the price of your Big Mac and groceries — what this means for shoppers",
+   "detail": "As retailers turn to AI tools to streamline operations, experts warn that collecting more detailed consumer data increases the risk of personalized pricing.",
    "outlet": "CNBC Technology",
-   "url": "https://www.cnbc.com/2026/10/09/musk-starlink-ambani-india-us.html",
+   "url": "https://www.cnbc.com/2026/10/11/ai-dynamic-pricing-shoppers-groceries.html",
    "region": "US",
    "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910",
-   "published": "2026-10-09T04:11:59+00:00",
-   "fetched": "2026-10-09T07:05:48+00:00"
+   "published": "2026-10-11T05:00:01+00:00",
+   "fetched": "2026-10-11T05:24:04+00:00"
   },
   {
-   "headline": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility",
-   "detail": "Nvidia-backed Australian AI data center operator Firmus has withdrawn its planned IPO amid market volatility.",
+   "headline": "Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control",
+   "detail": "Nadella joined other tech moguls and researchers in calling for stronger safeguards and, in some cases, for the pacing of frontier development.",
    "outlet": "CNBC Technology",
-   "url": "https://www.cnbc.com/2026/10/09/nvidia-ai-firmus-ipo-.html",
+   "url": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html",
    "region": "US",
    "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910",
-   "published": "2026-10-09T03:51:15+00:00",
-   "fetched": "2026-10-09T07:05:48+00:00"
+   "published": "2026-10-10T20:59:28+00:00",
+   "fetched": "2026-10-11T05:24:04+00:00"
   },
   {
-   "headline": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
-   "detail": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
+   "headline": "One with the world? A new look at brains transformed by psychedelics.",
+   "detail": "One with the world? A new look at brains transformed by psychedelics.",
    "outlet": "Ars Technica",
-   "url": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
+   "url": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
    "region": "US",
    "source_url": "https://feeds.arstechnica.com/arstechnica/index",
-   "published": "2026-10-08T21:37:32+00:00",
-   "fetched": "2026-10-09T07:05:48+00:00"
+   "published": "2026-10-10T11:15:35+00:00",
+   "fetched": "2026-10-11T05:24:05+00:00"
   },
   {
-   "headline": "'Careless use of AI is the real threat - not the ghost stories'",
-   "detail": "Meredith Whittaker says the tech has been misunderstood, in an exclusive interview with BBC Global Women.",
+   "headline": "King warns malicious online actors are evolving tactics",
+   "detail": "The King spoke of \"threats to our international order\" in a letter marking the 10th anniversary of the National Cyber Security Centre.",
    "outlet": "BBC Technology",
-   "url": "https://www.bbc.co.uk/news/articles/cjzxz9yp1kq9o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&at_campaign=rss",
    "region": "Europe",
    "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-   "published": "2026-10-09T07:05:01+00:00",
-   "fetched": "2026-10-09T07:05:48+00:00"
+   "published": "2026-10-10T15:56:32+00:00",
+   "fetched": "2026-10-11T05:24:05+00:00"
   },
   {
-   "headline": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
-   "detail": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
+   "headline": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+   "detail": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
    "outlet": "BBC Technology",
-   "url": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
    "region": "Europe",
    "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-   "published": "2026-10-09T04:06:23+00:00",
-   "fetched": "2026-10-09T07:05:48+00:00"
+   "published": "2026-10-10T10:06:23+00:00",
+   "fetched": "2026-10-11T05:24:05+00:00"
   },
   {
-   "headline": "Can China match up with Meta’s Muse in race to harness AI agents?",
-   "detail": "Meta Platforms’ breakout Muse personal AI agent is shining a spotlight on a new battleground in artificial intelligence – one in which China’s biggest internet companies are already jostling for position.",
+   "headline": "Japan’s Sumitomo Bakelite expands China chip packaging materials output amid AI boom",
+   "detail": "Japanese semiconductor materials giant Sumitomo Bakelite plans to expand production of advanced chip packaging materials in China and Singapore, marking the second such announcement for its Chinese operations in less than four months as…",
    "outlet": "South China Morning Post",
-   "url": "https://www.scmp.com/tech/big-tech/article/3370123/can-china-match-metas-muse-race-harness-ai-agents?utm_source=rss_feed",
+   "url": "https://www.scmp.com/tech/tech-trends/article/3370468/japans-sumitomo-bakelite-expands-china-chip-packaging-materials-output-amid-ai-boom?utm_source=rss_feed",
    "region": "Asia",
    "source_url": "https://www.scmp.com/rss/36/feed",
-   "published": "2026-10-08T14:00:08+00:00",
-   "fetched": "2026-10-09T07:05:49+00:00"
+   "published": "2026-10-11T03:04:32+00:00",
+   "fetched": "2026-10-11T05:24:06+00:00"
   }
  ]
 }
