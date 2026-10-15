@@ -4,48 +4,48 @@
    "key": "nbc",
    "name": "NBC News",
    "site": "nbcnews.com",
-   "summary": "NBC News, covering US national news and politics is leading with Major attack on Saudi airport kills 12 and leads Trump to weigh joining fight; Pope Leo says he will undergo surgery to remove a nodule on his lung; Hurricane Isaias kills at least four people as millions are still under threat.",
+   "summary": "NBC News, covering US national news and politics is leading with Energy prices rise after Trump’s ‘energy ceasefire’ fails to move Russia or Ukraine; Key inflation reports will reveal read on U.S. economy ahead of midterms; RJ Mitte, actor best known for playing Walter White Jr. on ‘Breaking Bad,’ dies at 34.",
    "note": null,
    "items": [
     {
-     "headline": "Major attack on Saudi airport kills 12 and leads Trump to weigh joining fight",
-     "detail": "The deadliest attack on a Gulf Arab state since the start of the Iran war raised new questions Sunday about whether the United States might be about to join another conflict in the region.",
-     "url": "https://www.nbcnews.com/world/middle-east/saudi-airport-attack-trump-us-join-fight-houthis-rcna602744",
+     "headline": "Energy prices rise after Trump’s ‘energy ceasefire’ fails to move Russia or Ukraine",
+     "detail": "Oil and gas prices rose Monday after an “energy ceasefire” announced by President Donald Trump on Sunday failed to gain traction.",
+     "url": "https://www.nbcnews.com/business/energy/oil-prices-trump-energy-ceasefire-fails-rcna603031",
      "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
-     "published": "2026-10-11T10:09:11+00:00",
-     "fetched": "2026-10-11T11:12:00+00:00"
+     "published": "2026-10-12T19:15:00+00:00",
+     "fetched": "2026-10-13T07:06:34+00:00"
     },
     {
-     "headline": "Pope Leo says he will undergo surgery to remove a nodule on his lung",
-     "detail": "Pope Leo XIV announced Sunday that he will undergo surgery to remove an early-stage nodule on his lung.",
-     "url": "https://www.nbcnews.com/world/pope-leo-xiv/pope-leo-undergo-surgery-remove-nodule-lung-rcna602747",
+     "headline": "Key inflation reports will reveal read on U.S. economy ahead of midterms",
+     "detail": "Two key reports on consumer and producer pricing will provide a final read on the U.S. economy before the midterms. NBC News’ Allie Canal details what to watch as the reports are released.",
+     "url": "https://www.nbcnews.com/video/key-inflation-reports-will-reveal-read-on-u-s-economy-ahead-of-midterms-271472197526",
      "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
-     "published": "2026-10-11T10:34:53+00:00",
-     "fetched": "2026-10-11T11:12:00+00:00"
+     "published": "2026-10-13T00:11:37+00:00",
+     "fetched": "2026-10-13T07:06:34+00:00"
     },
     {
-     "headline": "Hurricane Isaias kills at least four people as millions are still under threat",
-     "detail": "Hurricane Isaias leaves at least four people dead, with millions still facing threats of torrential rains, flooding and tornadoes.",
-     "url": "https://www.nbcnews.com/video/hurricane-isaias-kills-at-least-four-people-as-millions-are-still-under-threat-271395909614",
+     "headline": "RJ Mitte, actor best known for playing Walter White Jr. on ‘Breaking Bad,’ dies at 34",
+     "detail": "Mitte played the son of the teacher-turned-meth producer in the hit series.",
+     "url": "https://www.nbcnews.com/news/obituaries/rj-mitte-walter-white-jr-breaking-bad-dies-34-rcna603081",
      "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
-     "published": "2026-10-10T22:10:40+00:00",
-     "fetched": "2026-10-11T11:12:00+00:00"
+     "published": "2026-10-12T21:03:14+00:00",
+     "fetched": "2026-10-13T07:06:34+00:00"
     },
     {
-     "headline": "Justice Department investigating major TV networks over suspending pool coverage of Trump",
-     "detail": "The Justice Department said it is investigating five major TV broadcast networks for potentially violating federal antitrust laws after the networks temporarily declined to provide pool coverage of President Donald Trump, a department…",
-     "url": "https://www.nbcnews.com/politics/politics-news/justice-department-investigating-major-tv-networks-suspending-pool-cov-rcna602717",
+     "headline": "Omar’s home searched as part of federal criminal investigation",
+     "detail": "Federal agents carried out a search warrant on Democratic Congresswoman Ilhan Omar’s home in Washington as part of a federal criminal investigation. NBC News’ Kelly O’Donnell reports.",
+     "url": "https://www.nbcnews.com/nightly-news/video/omar-s-home-searched-as-part-of-federal-criminal-investigation-271468101583",
      "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
-     "published": "2026-10-11T02:39:03+00:00",
-     "fetched": "2026-10-11T11:12:00+00:00"
+     "published": "2026-10-12T22:54:05+00:00",
+     "fetched": "2026-10-13T07:06:34+00:00"
     },
     {
-     "headline": "Shooter kills 8 at family home in Pennsylvania before turning gun on self, Erie police say",
-     "detail": "A man killed seven family members and a family friend at a home in Erie, Pennsylvania, on Friday night before dying of an apparent self-inflicted gunshot wound, officials said.",
-     "url": "https://www.nbcnews.com/news/us-news/erie-pennsylvania-mass-shooting-rcna602669",
+     "headline": "One dead at Six Flags park in Georgia",
+     "detail": "An emergency on the Goliath roller coaster at the Six Flags outside Atlanta led to evacuations from the ride and passengers having to climb a steep descent. Authorities say one person was killed at the park and several others injured.",
+     "url": "https://www.nbcnews.com/nightly-news/video/one-dead-at-six-flags-park-in-georgia-271468101719",
      "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
-     "published": "2026-10-10T17:39:59+00:00",
-     "fetched": "2026-10-11T11:12:00+00:00"
+     "published": "2026-10-12T23:05:15+00:00",
+     "fetched": "2026-10-13T07:06:34+00:00"
     }
    ]
   },
@@ -53,48 +53,48 @@
    "key": "thehill",
    "name": "The Hill",
    "site": "thehill.com",
-   "summary": "The Hill, reporting on Congress, the White House and US policy is leading with GOP sees House prospects grow bleaker as districts shift to blue; The Memo: As Trump lavishes cash on voters, ethics experts raise alarm; Trump continues red state campaign swing with Montana, Arizona rallies next week.",
+   "summary": "The Hill, reporting on Congress, the White House and US policy is leading with Newsom backs California ballot measure that cancels out billionaire tax proposal; Sanders calls for artificial superintelligence ban after OpenAI CEO interview; Mamdani: citizenship ‘should not be weaponized’ against Omar.",
    "note": null,
    "items": [
     {
-     "headline": "GOP sees House prospects grow bleaker as districts shift to blue",
-     "detail": "Less than a month out from the midterm elections, the landscape for House Republicans grows grimmer by the day. President Trump’s approval ratings are low and sinking.",
-     "url": "https://thehill.com/homenews/house/6140021-gop-house-majority-threatened/",
+     "headline": "Newsom backs California ballot measure that cancels out billionaire tax proposal",
+     "detail": "California Gov. Gavin Newsom (D) endorsed a ballot measure that, if approved by voters, would cancel out the ballot measure proposal that would impose a one-time tax on the Golden State's billionaires.",
+     "url": "https://thehill.com/homenews/campaign/6144461-newsom-endorses-prop42-billionaire-tax/",
      "source_url": "https://thehill.com/news/feed/",
-     "published": "2026-10-11T10:00:00+00:00",
-     "fetched": "2026-10-11T11:12:01+00:00"
+     "published": "2026-10-13T03:00:52+00:00",
+     "fetched": "2026-10-13T07:06:35+00:00"
     },
     {
-     "headline": "The Memo: As Trump lavishes cash on voters, ethics experts raise alarm",
-     "detail": "President Trump is doing everything he can to win favor with a dissatisfied electorate before the midterms — including promising money.",
-     "url": "https://thehill.com/homenews/analysis/6139169-gop-midterm-check-proposal/",
+     "headline": "Sanders calls for artificial superintelligence ban after OpenAI CEO interview",
+     "detail": "Sen. Bernie Sanders (I-Vt.) on Monday called for permanently banning artificial superintelligence in response to recent remarks made by OpenAI CEO Sam Altman.",
+     "url": "https://thehill.com/homenews/senate/6144432-sanders-calls-ai-ban/",
      "source_url": "https://thehill.com/news/feed/",
-     "published": "2026-10-11T10:00:00+00:00",
-     "fetched": "2026-10-11T11:12:01+00:00"
+     "published": "2026-10-13T02:34:16+00:00",
+     "fetched": "2026-10-13T07:06:35+00:00"
     },
     {
-     "headline": "Trump continues red state campaign swing with Montana, Arizona rallies next week",
-     "detail": "President Trump will continue his red state campaign swing with recently announced rallies in Montana and Arizona slated for this week with important races in each state just under a month away.",
-     "url": "https://thehill.com/homenews/campaign/6140976-trump-rallies-montana-arizona/",
+     "headline": "Mamdani: citizenship ‘should not be weaponized’ against Omar",
+     "detail": "New York City Mayor Zohran Mamdani (D) on Monday slammed the federal search of Rep. Ilhan Omar's (D-Minn.) Washington, D.C., home, saying that her citizenship \"should not be weaponized\" against her.",
+     "url": "https://thehill.com/homenews/house/6144397-mamdani-slams-omar-home-raid/",
      "source_url": "https://thehill.com/news/feed/",
-     "published": "2026-10-11T02:42:36+00:00",
-     "fetched": "2026-10-11T11:12:01+00:00"
+     "published": "2026-10-13T01:56:27+00:00",
+     "fetched": "2026-10-13T07:06:35+00:00"
     },
     {
-     "headline": "Trump says he will ‘ultimately make decision’ on Fort Hood shooter execution livestream",
-     "detail": "President Trump said he will “make a decision ultimately” on whether to livestream the execution by firing squad of convicted Fort Hood shooter Nidal Hasan following GOP backlash.",
-     "url": "https://thehill.com/homenews/administration/6140915-trump-reviews-hasan-execution-plan/",
+     "headline": "Trump repeatedly attacks Minnesota, Omar during Ohio campaign stop",
+     "detail": "President Trump repeatedly brought up Minnesota and Rep. Ilhan Omar (D-Minn.) on Monday night while stumping for Republicans in Ohio ahead of the midterms.",
+     "url": "https://thehill.com/homenews/6144416-trump-attacks-omar-ohio/",
      "source_url": "https://thehill.com/news/feed/",
-     "published": "2026-10-10T23:59:18+00:00",
-     "fetched": "2026-10-11T11:12:01+00:00"
+     "published": "2026-10-13T01:48:31+00:00",
+     "fetched": "2026-10-13T07:06:35+00:00"
     },
     {
-     "headline": "GOP lawmakers reject US-Russia diesel deal, Trump's Zelensky comments",
-     "detail": "Several Republicans voiced objections to the Trump administration Russian diesel deal and President Trump's suggestion that Ukraine needed a new leader. When asked about the deal, Sen.",
-     "url": "https://thehill.com/homenews/senate/6140871-republicans-oppose-trump-russian-diesel-deal/",
+     "headline": "Spicer says he's ‘absolutely’ concerned about Kansas Senate race",
+     "detail": "Former White House press secretary Sean Spicer on Monday said he is \"absolutely\" concerned about Republicans losing the Kansas Senate race, which election handicappers say could flip in favor of the Democrats.",
+     "url": "https://thehill.com/homenews/campaign/6144357-spicer-worries-kansas-senate/",
      "source_url": "https://thehill.com/news/feed/",
-     "published": "2026-10-10T23:09:54+00:00",
-     "fetched": "2026-10-11T11:12:01+00:00"
+     "published": "2026-10-13T01:03:52+00:00",
+     "fetched": "2026-10-13T07:06:35+00:00"
     }
    ]
   },
@@ -102,48 +102,48 @@
    "key": "time",
    "name": "Time",
    "site": "time.com",
-   "summary": "Time magazine, covering US and world affairs is leading with The Benefits of Prescribing Food as Medicine; Trump Says U.S. May Join Saudi Strikes on Houthis After Riyadh Airport Attacks; Under the Gun: Understanding America’s Defense Spending Paradox.",
+   "summary": "Time magazine, covering US and world affairs is leading with Rep. Ilhan Omar Says She Will ‘Not Be Silenced’ After Federal Agents Raid Her Home; Republicans Denounce Trump’s Diesel Deal With Russia’s Putin Amid Mounting Backlash; How Trump’s Policies Are Testing Farmers’ Loyalty Ahead of Midterms.",
    "note": null,
    "items": [
     {
-     "headline": "The Benefits of Prescribing Food as Medicine",
-     "detail": "To transform the health of the American population, healthy food should be something we can prescribe, writes Dr. Sadiya Khan.",
-     "url": "https://time.com/article/2026/10/11/the-benefits-of-prescribing-food-as-medicine/",
+     "headline": "Rep. Ilhan Omar Says She Will ‘Not Be Silenced’ After Federal Agents Raid Her Home",
+     "detail": "Democratic leaders have condemned the raid on Omar’s home as \"deeply disturbing.\"",
+     "url": "https://time.com/article/2026/10/12/Ilhan-omar-home-raid-federal-agents-immigration-allegations-democrats-response/",
      "source_url": "https://time.com/feed/",
-     "published": "2026-10-11T10:00:04+00:00",
-     "fetched": "2026-10-11T11:12:01+00:00"
+     "published": "2026-10-12T17:41:53+00:00",
+     "fetched": "2026-10-13T07:06:36+00:00"
     },
     {
-     "headline": "Trump Says U.S. May Join Saudi Strikes on Houthis After Riyadh Airport Attacks",
-     "detail": "Attacks on Saudi airports have killed several people and disrupted hundreds of flights, prompting Washington to consider a larger military role in Yemen.",
-     "url": "https://time.com/article/2026/10/10/trump-says-u-s-may-join-saudi-strikes-on-houthis-after-riyadh-airport-attacks/",
+     "headline": "Republicans Denounce Trump’s Diesel Deal With Russia’s Putin Amid Mounting Backlash",
+     "detail": "\"We were very clear that Russia is the aggressor. Russia is the one who can end this war by backing out of [the] territory they occupied,\" said one GOP Senator.",
+     "url": "https://time.com/article/2026/10/12/republicans-democrats-call-for-trump-to-reverse-course-on-russia-diesel-deal/",
      "source_url": "https://time.com/feed/",
-     "published": "2026-10-10T21:22:07+00:00",
-     "fetched": "2026-10-11T11:12:01+00:00"
+     "published": "2026-10-12T13:49:38+00:00",
+     "fetched": "2026-10-13T07:06:36+00:00"
     },
     {
-     "headline": "Under the Gun: Understanding America’s Defense Spending Paradox",
-     "detail": "\"How is it possible that the most expensive military in the history of the world doesn’t have enough ammunition to fight a war?\" asks Joshua Keating.",
-     "url": "https://time.com/article/2026/10/10/understanding-america-defense-spending-paradox/",
+     "headline": "How Trump’s Policies Are Testing Farmers’ Loyalty Ahead of Midterms",
+     "detail": "Farmers interviewed by TIME describe how the economic consequences of Trump's policies are now reaching their day-to-day operations.",
+     "url": "https://time.com/article/2026/10/12/trump-policies-are-testing-farmers-loyalty-ahead-of-midterms/",
      "source_url": "https://time.com/feed/",
-     "published": "2026-10-10T18:41:44+00:00",
-     "fetched": "2026-10-11T11:12:01+00:00"
+     "published": "2026-10-12T11:28:27+00:00",
+     "fetched": "2026-10-13T07:06:36+00:00"
     },
     {
-     "headline": "Paternity Leave Is More Than a Perk. It Builds a Baby’s Brain",
-     "detail": "Paternity leave and a father’s engagement during infancy is associated with better cognitive, social, and emotional regulation outcomes for the child, writes Alvin Thomas.",
-     "url": "https://time.com/article/2026/10/10/paternity-leave-is-more-than-a-perk-it-builds-a-baby-s-brain/",
+     "headline": "What to Know About the Controversy Surrounding Kimberly Guilfoyle",
+     "detail": "The Trump Administration is reportedly considering firing the ambassador to Greece after alleged improper conduct.",
+     "url": "https://time.com/article/2026/10/12/kimberly-guilfoyle-controversy-explainer-trump-rubio/",
      "source_url": "https://time.com/feed/",
-     "published": "2026-10-10T10:00:04+00:00",
-     "fetched": "2026-10-11T11:12:01+00:00"
+     "published": "2026-10-12T10:00:10+00:00",
+     "fetched": "2026-10-13T07:06:36+00:00"
     },
     {
-     "headline": "Are Firing Squad Executions Seeing a Revival in the U.S.?",
-     "detail": "Supply-chain issues and a series of botched executions involving lethal injection are causing officials to weigh alternative options for carrying out the death penalty.",
-     "url": "https://time.com/article/2026/10/10/firing-squad-execution-lethal-injection-christa-pike-fort-hood-shooter/",
+     "headline": "The Case for Shifting Mental Health Care From Institutions to Communities",
+     "detail": "Institutionalized mental health care is “outdated” and “a human rights issue hiding in plain sight,” write Anura Kumara Dissanayake and Tedros Adhanom Ghebreyesus.",
+     "url": "https://time.com/article/2026/10/12/the-case-for-shifting-mental-health-care-from-institutions-to-communities/",
      "source_url": "https://time.com/feed/",
-     "published": "2026-10-10T11:00:00+00:00",
-     "fetched": "2026-10-11T11:12:01+00:00"
+     "published": "2026-10-12T10:00:04+00:00",
+     "fetched": "2026-10-13T07:06:36+00:00"
     }
    ]
   },
@@ -151,48 +151,48 @@
    "key": "variety",
    "name": "Variety",
    "site": "variety.com",
-   "summary": "Variety, on the business of entertainment is leading with AI-Native Studios Can Create Original IP While Traditional Studios Keep Their Edge, VFX Veteran Hong Jae Cheol Says at Busan; ‘12.12: The Day’ Director Kim Sung-soo Says AI ‘Shows What’s in Your Imagination’; Keanu Reeves-Voiced Stop-Motion Samurai Film ‘Hidari’ Looks for New Partner After U.S. Talks Stall.",
+   "summary": "Variety, on the business of entertainment is leading with Sony Pictures Imageworks’ Michelle Grady and ILM’s Janet Lewin on Bad Bosses and Changing Studio Culture: ‘Culture Is What You Tolerate’; ‘Bloodsuckers’ Team Reunites on ‘Body in the Closet’ on Warner Bros. Title With Comedian Axel Åhman Eyed for the Lead Role (EXCLUSIVE); Toni Collette’s Directorial Debut ‘The Best Of’ Among 75 Projects Backed by Screen Australia.",
    "note": null,
    "items": [
     {
-     "headline": "AI-Native Studios Can Create Original IP While Traditional Studios Keep Their Edge, VFX Veteran Hong Jae Cheol Says at Busan",
-     "detail": "Small, AI-native companies running automated pipelines can develop their own intellectual property, while traditional studios hold on to their advantages in established franchises, production infrastructure, talent and distribution,…",
-     "url": "https://variety.com/2026/film/markets-festivals/ai-native-studios-create-original-ip-vfx-veteran-busan-1236908092/",
+     "headline": "Sony Pictures Imageworks’ Michelle Grady and ILM’s Janet Lewin on Bad Bosses and Changing Studio Culture: ‘Culture Is What You Tolerate’",
+     "detail": "TURIN, Italy — “Culture is what you tolerate,” said Sony Pictures Imageworks president Michelle Grady, reflecting on bad bosses and how studios build a workplace where people can thrive.",
+     "url": "https://variety.com/2026/global/global/michelle-grady-janet-lewin-bad-bosses-view-conference-1236909211/",
      "source_url": "https://variety.com/feed/",
-     "published": "2026-10-11T10:33:16+00:00",
-     "fetched": "2026-10-11T11:12:02+00:00"
+     "published": "2026-10-13T06:34:35+00:00",
+     "fetched": "2026-10-13T07:06:36+00:00"
     },
     {
-     "headline": "‘12.12: The Day’ Director Kim Sung-soo Says AI ‘Shows What’s in Your Imagination’",
-     "detail": "Kim Sung-soo, director of Korean box office hit “12.12: The Day,” once saw AI as a destroyer of the film industry.",
-     "url": "https://variety.com/2026/film/markets-festivals/12-12-the-day-director-kim-sung-soo-ai-craft-1236908089/",
+     "headline": "‘Bloodsuckers’ Team Reunites on ‘Body in the Closet’ on Warner Bros. Title With Comedian Axel Åhman Eyed for the Lead Role (EXCLUSIVE)",
+     "detail": "Axel Åhman is set to star in the upcoming series “Body in the Closet” produced for Warner Bros. International Television Production Finland. He’ll play Staffan, an audience services employee at a theatre.",
+     "url": "https://variety.com/2026/tv/global/comedian-axel-ahman-body-in-the-closet-bloodsuckers-1236908857/",
      "source_url": "https://variety.com/feed/",
-     "published": "2026-10-11T10:18:24+00:00",
-     "fetched": "2026-10-11T11:12:02+00:00"
+     "published": "2026-10-13T05:54:10+00:00",
+     "fetched": "2026-10-13T07:06:36+00:00"
     },
     {
-     "headline": "Keanu Reeves-Voiced Stop-Motion Samurai Film ‘Hidari’ Looks for New Partner After U.S. Talks Stall",
-     "detail": "Japan’s Dwarf Studios is looking for a new partner for “Hidari,” the stop-motion samurai film voiced by Keanu Reeves, after talks with a U.S.",
-     "url": "https://variety.com/2026/film/markets-festivals/keanu-reeves-hidari-new-partner-us-talks-stall-1236908055/",
+     "headline": "Toni Collette’s Directorial Debut ‘The Best Of’ Among 75 Projects Backed by Screen Australia",
+     "detail": "Toni Collette will make her feature directing debut with “The Best Of,” her screen version of Graeme Simsion’s bestselling novel, which is one of 75 projects sharing more than AUD16.9 million ($11.7 million) in production and development…",
+     "url": "https://variety.com/2026/film/news/toni-collette-directorial-debut-75-projects-screen-australia-1236909731/",
      "source_url": "https://variety.com/feed/",
-     "published": "2026-10-11T10:10:29+00:00",
-     "fetched": "2026-10-11T11:12:02+00:00"
+     "published": "2026-10-13T04:21:46+00:00",
+     "fetched": "2026-10-13T07:06:36+00:00"
     },
     {
-     "headline": "‘Between Two Lovers’ Review: Nanako Hirose’s Contentious Family Drama Examines an Ill-Fated Throuple",
-     "detail": "The sophomore feature from Hirokazu Kore-eda protégé Nanako Hirose, “Between Two Lovers” tackles a variety of potential hot-button issues, from polyamorous relationships to same-sex parenting, in its contemporary Japanese setting.",
-     "url": "https://variety.com/2026/film/reviews/between-two-lovers-review-1236908080/",
+     "headline": "Jeremy Renner Says ‘Avengers: Doomsday’ Superheroes ‘Will Probably Lose’ Without Hawkeye: ‘They Didn’t Call Me, So It’s Their Fault’",
+     "detail": "The full list of MCU characters who will appear in “Avengers: Doomsday” may still be a mystery, but Jeremy Renner has made it clear he didn’t return as Hawkeye — and says The Avengers “will probably lose” as a result. “No, no, no, no.",
+     "url": "https://variety.com/2026/film/news/jeremy-renner-avengers-doomsday-will-lose-without-hawkeye-1236909728/",
      "source_url": "https://variety.com/feed/",
-     "published": "2026-10-11T09:38:38+00:00",
-     "fetched": "2026-10-11T11:12:02+00:00"
+     "published": "2026-10-13T04:20:02+00:00",
+     "fetched": "2026-10-13T07:06:36+00:00"
     },
     {
-     "headline": "‘SNL U.K.’ Cold Open Sees Reunion Between Prince William and Kate and Prince Harry and Meghan (With Some Help From Former Prince Andrew): ‘They Must Want Us to Be Royals Again!’",
-     "detail": "“SNL U.K.” once again skewered the royal family in this week’s cold open, showing a contentious reunion between Prince William and Kate and Prince Harry and Meghan at Sandringham Estate.",
-     "url": "https://variety.com/2026/tv/global/snl-uk-prince-william-kate-reunite-prince-harry-meghan-1236908054/",
+     "headline": "‘Other Mommy’ Nips ‘Verity’ in Photo Finish for U.K., Ireland Box Office Summit",
+     "detail": "Universal’s horror entry “Other Mommy,” directed by Rob Savage and starring Jessica Chastain and Jay Duplass, squeaked to the top of the U.K. and Ireland box office in a dead heat, debuting at No. 1 with £1.97 million ($2.66 million).",
+     "url": "https://variety.com/2026/film/box-office/other-mommy-verity-uk-ireland-box-office-1236909721/",
      "source_url": "https://variety.com/feed/",
-     "published": "2026-10-11T09:13:04+00:00",
-     "fetched": "2026-10-11T11:12:02+00:00"
+     "published": "2026-10-13T04:10:47+00:00",
+     "fetched": "2026-10-13T07:06:36+00:00"
     }
    ]
   },
@@ -200,48 +200,48 @@
    "key": "bloomberg",
    "name": "Bloomberg",
    "site": "bloomberg.com",
-   "summary": "Bloomberg's markets and business file is leading with Singapore F1 Race Draws Near-Record Turnout Despite Choking Haze; Banque du Caire Offers 30% Stake in Egypt’s Second IPO in Month; Jefferies Says Found Fraud in $900 Million of Radiant Deals.",
+   "summary": "Bloomberg's markets and business file is leading with Modi Says India Is The Mother Of Democracy; India and the Reordered World; Modi Pitches India as Reliable Partner: Speech in Hindi.",
    "note": null,
    "items": [
     {
-     "headline": "Singapore F1 Race Draws Near-Record Turnout Despite Choking Haze",
-     "detail": "Singapore’s Formula 1 Grand Prix race saw a near-record turnout, bucking concerns that one of the worst regional haze in recent years would threaten the event.",
-     "url": "https://www.bloomberg.com/news/articles/2026-10-11/singapore-f1-race-draws-near-record-turnout-despite-choking-haze",
+     "headline": "Modi Says India Is The Mother Of Democracy",
+     "detail": "Speaking at the Bloomberg's New Economic Forum, India's Prime Minister Narendra Modi said that India is the mother of democracy where a wide range of issues are debated openly.",
+     "url": "https://www.bloomberg.com/news/videos/2026-10-13/modi-says-india-is-the-mother-of-democracy-video",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-11T10:28:12+00:00",
-     "fetched": "2026-10-11T11:12:03+00:00"
+     "published": "2026-10-13T06:51:33+00:00",
+     "fetched": "2026-10-13T07:06:39+00:00"
     },
     {
-     "headline": "Banque du Caire Offers 30% Stake in Egypt’s Second IPO in Month",
-     "detail": "Banque du Caire will sell a 30% stake via Egypt’s stock exchange, a long-awaited state-asset sale that would also be the country’s second major initial public offering in a month.",
-     "url": "https://www.bloomberg.com/news/articles/2026-10-11/banque-du-caire-offers-30-stake-in-egypt-s-second-ipo-in-month",
+     "headline": "India and the Reordered World",
+     "detail": "Bloomberg's Stephanie Flanders, Chetna Kumar, John Micklethwait and Mishal Husain discuss India’s role amid shifting global power, trade and technology at the 2026 Bloomberg New Economy Forum in New Delhi. (Source: Bloomberg)",
+     "url": "https://www.bloomberg.com/news/videos/2026-10-13/india-and-the-reordered-world-video",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-11T08:47:33+00:00",
-     "fetched": "2026-10-11T11:12:03+00:00"
+     "published": "2026-10-13T06:46:58+00:00",
+     "fetched": "2026-10-13T07:06:39+00:00"
     },
     {
-     "headline": "Jefferies Says Found Fraud in $900 Million of Radiant Deals",
-     "detail": "A Jefferies-run fund said in court proceedings that it has evidence of alleged fraudulent conduct by iron ore traders Radiant World and Sapphire Minmetals in receivables-financing deals with a face value of almost $900 million.",
-     "url": "https://www.bloomberg.com/news/articles/2026-10-10/jefferies-says-it-found-fraud-in-900-million-of-radiant-deals",
+     "headline": "Modi Pitches India as Reliable Partner: Speech in Hindi",
+     "detail": "Indian Prime Minister Narendra Modi says global supply chains, trade and technology are increasingly being used as tools of coercion, and declared that his country stands apart.",
+     "url": "https://www.bloomberg.com/news/videos/2026-10-13/modi-pitches-india-as-reliable-partner-speech-in-hindi-video",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-10T15:03:27+00:00",
-     "fetched": "2026-10-11T11:12:03+00:00"
+     "published": "2026-10-13T06:44:25+00:00",
+     "fetched": "2026-10-13T07:06:39+00:00"
     },
     {
-     "headline": "India Protests Set to Continue Despite Heavy Delhi Security",
-     "detail": "Parts of New Delhi remained under tight security for a second straight day as protesters pressed ahead with their demand for the resignation of India’s top election official over a contentious revision of voter rolls.",
-     "url": "https://www.bloomberg.com/news/articles/2026-10-11/indian-cockroaches-plan-new-protest-amid-heavy-delhi-security",
+     "headline": "Human Intelligence in a Hostile World",
+     "detail": "Tom Orlik, Chief Economist, Bloomberg Economics examines the role of human intelligence in navigating an increasingly hostile world at the 2026 Bloomberg New Economy Forum in New Delhi. (Source: Bloomberg)",
+     "url": "https://www.bloomberg.com/news/videos/2026-10-13/human-intelligence-in-a-hostile-world-video",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-11T05:24:47+00:00",
-     "fetched": "2026-10-11T11:12:03+00:00"
+     "published": "2026-10-13T06:44:08+00:00",
+     "fetched": "2026-10-13T07:06:39+00:00"
     },
     {
-     "headline": "Healey Plans Short-Term UK Budget Giveaways to Limit Fiscal Pain",
-     "detail": "Chancellor of the Exchequer John Healey wants to help British voters with the cost of living while staying within the limits of his country’s stretched public finances.",
-     "url": "https://www.bloomberg.com/news/articles/2026-10-11/healey-plans-short-term-uk-budget-giveaways-to-limit-fiscal-pain",
+     "headline": "LVMH Sales in Mainland China Fall by Double Digits",
+     "detail": "LVMH's sales in mainland China dropped by double digits in the third quarter, adding to doubts about the durability of a broader luxury recovery. Bloomberg's Angelina Rascouet reports. (Source: Bloomberg)",
+     "url": "https://www.bloomberg.com/news/videos/2026-10-13/lvmh-sales-in-mainland-china-fall-by-double-digits-video",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-11T06:00:00+00:00",
-     "fetched": "2026-10-11T11:12:03+00:00"
+     "published": "2026-10-13T06:39:33+00:00",
+     "fetched": "2026-10-13T07:06:39+00:00"
     }
    ]
   },
@@ -249,48 +249,48 @@
    "key": "bbc",
    "name": "BBC",
    "site": "bbc.com",
-   "summary": "The BBC's world news service is leading with 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal; Pope Leo to have surgery after lump found on lung; Young men live in fear of being snatched off the streets and sold to Myanmar's army.",
+   "summary": "The BBC's world news service is leading with Russia's offensive ability is broken, Kyiv's former top general tells BBC; Breaking Bad actor RJ Mitte dies aged 34; Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says.",
    "note": null,
    "items": [
     {
-     "headline": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-     "detail": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
-     "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+     "headline": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
+     "detail": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
+     "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-     "published": "2026-10-11T01:41:29+00:00",
-     "fetched": "2026-10-11T11:12:03+00:00"
+     "published": "2026-10-13T05:02:34+00:00",
+     "fetched": "2026-10-13T07:06:39+00:00"
     },
     {
-     "headline": "Pope Leo to have surgery after lump found on lung",
-     "detail": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
-     "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+     "headline": "Breaking Bad actor RJ Mitte dies aged 34",
+     "detail": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
+     "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-     "published": "2026-10-11T11:06:02+00:00",
-     "fetched": "2026-10-11T11:12:03+00:00"
+     "published": "2026-10-13T06:26:05+00:00",
+     "fetched": "2026-10-13T07:06:39+00:00"
     },
     {
-     "headline": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
-     "detail": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
-     "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+     "headline": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+     "detail": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
+     "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-     "published": "2026-10-10T22:13:08+00:00",
-     "fetched": "2026-10-11T11:12:03+00:00"
+     "published": "2026-10-12T21:20:51+00:00",
+     "fetched": "2026-10-13T07:06:39+00:00"
     },
     {
-     "headline": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
-     "detail": "Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday.",
-     "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+     "headline": "One dead and several hurt after rollercoaster incident at Six Flags",
+     "detail": "Aerial footage at the park after the incident shows a stuck rollercoaster with riders being helped off.",
+     "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-     "published": "2026-10-11T11:11:42+00:00",
-     "fetched": "2026-10-11T11:12:03+00:00"
+     "published": "2026-10-13T02:26:21+00:00",
+     "fetched": "2026-10-13T07:06:39+00:00"
     },
     {
-     "headline": "US justice department investigates TV networks over Trump pool coverage",
-     "detail": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
-     "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+     "headline": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
+     "detail": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
+     "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-     "published": "2026-10-11T05:05:43+00:00",
-     "fetched": "2026-10-11T11:12:03+00:00"
+     "published": "2026-10-12T05:00:52+00:00",
+     "fetched": "2026-10-13T07:06:39+00:00"
     }
    ]
   },
@@ -298,48 +298,48 @@
    "key": "france24",
    "name": "France 24",
    "site": "france24.com",
-   "summary": "France 24's English service, reporting from Paris on Europe, Africa and the Middle East is leading with 🔴Pope Leo says will undergo surgery for early-stage lung nodule; Trump says Ukraine needs new president who will agree to end war; Spain: Sánchez and Feijóo launch campaigns.",
+   "summary": "France 24's English service, reporting from Paris on Europe, Africa and the Middle East is leading with Russia says Europe bought $320 billion in hydrocarbons since 2022; 'Breaking Bad' actor and disability activist RJ Mitte dies aged 34; Pope Leo to enter hospital on Tuesday for surgery on lung nodule this week.",
    "note": null,
    "items": [
     {
-     "headline": "🔴Pope Leo says will undergo surgery for early-stage lung nodule",
-     "detail": "🔴Pope Leo says will undergo surgery for early-stage lung nodule",
-     "url": "https://www.france24.com/en/europe/20261011-pope-leo-says-will-undergo-surgery-for-early-stage-lung-nodule",
+     "headline": "Russia says Europe bought $320 billion in hydrocarbons since 2022",
+     "detail": "Russia said on Monday that European Union countries had bought $320.7 billion worth of its energy resources since 2022, despite sanctions over the war in Ukraine.",
+     "url": "https://www.france24.com/en/europe/20261013-russia-says-europe-bought-320-billion-in-hydrocarbons-since-2022",
      "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-10-11T10:35:34+00:00",
-     "fetched": "2026-10-11T11:12:03+00:00"
+     "published": "2026-10-13T03:10:12+00:00",
+     "fetched": "2026-10-13T07:06:40+00:00"
     },
     {
-     "headline": "Trump says Ukraine needs new president who will agree to end war",
-     "detail": "US President Donald Trump on Saturday urged Ukraine to replace Volodymyr Zelensky with a new leader, criticising him over strikes on Russian oil refineries that have contributed to high diesel prices ahead of the US midterm elections.",
-     "url": "https://www.france24.com/en/video/20261011-trump-says-ukraine-needs-new-president-who-will-agree-to-end-war",
+     "headline": "'Breaking Bad' actor and disability activist RJ Mitte dies aged 34",
+     "detail": "\"Breaking Bad\" actor RJ Mitte, who played Walter White Jr. in the hit US television series, has died aged 34, his representatives said Monday.",
+     "url": "https://www.france24.com/en/americas/20261013-breaking-bad-actor-and-disability-activist-rj-mitte-dies-aged-34",
      "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-10-11T10:28:56+00:00",
-     "fetched": "2026-10-11T11:12:03+00:00"
+     "published": "2026-10-13T01:43:04+00:00",
+     "fetched": "2026-10-13T07:06:40+00:00"
     },
     {
-     "headline": "Spain: Sánchez and Feijóo launch campaigns",
-     "detail": "Although Spain's general election is set to take place on November 29, the battle has already begun.",
-     "url": "https://www.france24.com/en/video/20261011-spain-s%C3%A1nchez-and-feij%C3%B3o-launch-campaigns",
+     "headline": "Pope Leo to enter hospital on Tuesday for surgery on lung nodule this week",
+     "detail": "Pope Leo XIV is expected to undergo surgery to remove a lung nodule this week at Rome’s Gemelli hospital, with doctors anticipating a recovery of about seven days.",
+     "url": "https://www.france24.com/en/europe/20261012-what-we-know-about-pope-leo-xiv-planned-lung-operation-this-week",
      "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-10-11T10:23:38+00:00",
-     "fetched": "2026-10-11T11:12:03+00:00"
+     "published": "2026-10-12T22:20:59+00:00",
+     "fetched": "2026-10-13T07:06:40+00:00"
     },
     {
-     "headline": "Ukraine ready to halt refinery strikes if Moscow stops energy attacks, Zelensky says",
-     "detail": "Ukrainian President Volodymyr Zelensky on Sunday said Kyiv was ready halt strikes Russian oil refineries if Moscow stopped attacks on Ukrainian energy infrastructure.",
-     "url": "https://www.france24.com/en/europe/20261011-ukraine-ready-halt-refinery-strikes-if-moscow-stops-energy-attacks-zelensky-says",
+     "headline": "French supermarkets suffer refrigerator shutdown after 'unprecedented' cyberattack",
+     "detail": "Major French supermarket chains on Monday said they were hit by a cyberattack that caused their refrigerators to shoot up in temperature in hundreds of stores, forcing spoiled food to be thrown away and raising concerns about food…",
+     "url": "https://www.france24.com/en/french-supermarkets-suffer-refrigerator-shutdown-after-unprecedented-cyberattack",
      "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-10-11T10:21:07+00:00",
-     "fetched": "2026-10-11T11:12:03+00:00"
+     "published": "2026-10-12T21:27:53+00:00",
+     "fetched": "2026-10-13T07:06:40+00:00"
     },
     {
-     "headline": "Trump, Zelensky clash over diesel deal as Russian strikes kill 21",
-     "detail": "US President Donald Trump and Ukrainian leader Volodymyr Zelensky traded barbs Saturday after Washington moved to ease sanctions on Russian diesel and Moscow's continued strikes on Ukraine killed at least 21 people, including four children.",
-     "url": "https://www.france24.com/en/video/20261011-trump-zelensky-clash-over-diesel-deal-as-russian-strikes-kill-21",
+     "headline": "DR Congo’s former president Kabila to lead new movement with M23 rebels",
+     "detail": "Former DR Congo president Joseph Kabila announced a new political-military alliance with Rwanda-backed M23 rebels on Monday, despite being sentenced to death in absentia for alleged complicity with the group.",
+     "url": "https://www.france24.com/en/africa/20261012-dr-congo-former-president-joseph-kabila-to-lead-new-movement-with-m23-rebels",
      "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-10-11T10:10:20+00:00",
-     "fetched": "2026-10-11T11:12:03+00:00"
+     "published": "2026-10-12T21:27:41+00:00",
+     "fetched": "2026-10-13T07:06:40+00:00"
     }
    ]
   },
@@ -347,48 +347,48 @@
    "key": "aljazeera",
    "name": "Al Jazeera",
    "site": "aljazeera.com",
-   "summary": "Al Jazeera English, with strong Middle East and Africa coverage is leading with Mohamed Salah sets Turkish Super Lig record for Trabzonspor; Yemen fighting expands as Houthis attack Saudi airport: What to know; Fear and uncertainty for civilians as Yemen’s capital comes under attack.",
+   "summary": "Al Jazeera English, with strong Middle East and Africa coverage is leading with Emir says Qatar has shown resilience in face of ‘exceptional events’; Malaysia’s Firefly cancels flights to Singapore over haze from Indonesia; Imran Khan’s PTI braces to fight federal takeover of Khyber Pakhtunkhwa.",
    "note": null,
    "items": [
     {
-     "headline": "Mohamed Salah sets Turkish Super Lig record for Trabzonspor",
-     "detail": "Salah becomes first player with 10 goal contributions, seven goals and three assists after Trabzonspor beat Samsunspor.",
-     "url": "https://www.aljazeera.com/sports/2026/10/11/mohamed-salah-sets-turkish-super-lig-record-for-trabzonspor?traffic_source=rss",
+     "headline": "Emir says Qatar has shown resilience in face of ‘exceptional events’",
+     "detail": "Sheikh Tamim bin Hamad Al Thani says Qatar has demonstrated its strength and cohesion.",
+     "url": "https://www.aljazeera.com/news/2026/10/13/qatari-emir-says-country-has-faced-exceptional-circumstances?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
-     "published": "2026-10-11T10:48:34+00:00",
-     "fetched": "2026-10-11T11:12:03+00:00"
+     "published": "2026-10-13T06:42:58+00:00",
+     "fetched": "2026-10-13T07:06:40+00:00"
     },
     {
-     "headline": "Yemen fighting expands as Houthis attack Saudi airport: What to know",
-     "detail": "Saudi coalition blames Houthi group for the missile strike on the main international airport in Riyadh.",
-     "url": "https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know?traffic_source=rss",
+     "headline": "Malaysia’s Firefly cancels flights to Singapore over haze from Indonesia",
+     "detail": "Move comes as haze from Indonesian fires makes Singapore and Kuala Lumpur the world’s most polluted cities.",
+     "url": "https://www.aljazeera.com/news/2026/10/13/malaysias-firefly-cancels-flights-to-singapore-over-transboundary-haze?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
-     "published": "2026-10-11T10:45:15+00:00",
-     "fetched": "2026-10-11T11:12:03+00:00"
+     "published": "2026-10-13T06:42:02+00:00",
+     "fetched": "2026-10-13T07:06:40+00:00"
     },
     {
-     "headline": "Fear and uncertainty for civilians as Yemen’s capital comes under attack",
-     "detail": "Sanaa has faced intense bombing since the Yemeni government announced a campaign to take the capital from the Houthis.",
-     "url": "https://www.aljazeera.com/news-analysis/2026/10/11/fear-and-uncertainty-for-civilians-as-yemens-capital-comes-under-attack?traffic_source=rss",
+     "headline": "Imran Khan’s PTI braces to fight federal takeover of Khyber Pakhtunkhwa",
+     "detail": "Islamabad says the PTI failed to lead the fight against armed groups, but analysts question the takeover.",
+     "url": "https://www.aljazeera.com/news/2026/10/13/imran-khans-pti-braces-to-fight-federal-takeover-of-khyber-pakhtunkhwa?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
-     "published": "2026-10-11T10:42:35+00:00",
-     "fetched": "2026-10-11T11:12:03+00:00"
+     "published": "2026-10-13T06:32:43+00:00",
+     "fetched": "2026-10-13T07:06:40+00:00"
     },
     {
-     "headline": "Modi is in trouble",
-     "detail": "The CJP protests sweeping through the country have exposed India’s hollowed-out democracy.",
-     "url": "https://www.aljazeera.com/opinions/2026/10/11/modi-is-in-trouble?traffic_source=rss",
+     "headline": "Middle East and Central Asia’s economy to shrink in 2026 amid war, IMF says",
+     "detail": "Iraq, Bahrain, Kuwait and Qatar face double-digit declines in GDP amid the fallout from the US-Israel war on Iran.",
+     "url": "https://www.aljazeera.com/economy/2026/10/13/middle-east-and-central-asias-economy-to-shrink-in-2026-amid-war-imf-says?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
-     "published": "2026-10-11T10:31:45+00:00",
-     "fetched": "2026-10-11T11:12:03+00:00"
+     "published": "2026-10-13T05:59:48+00:00",
+     "fetched": "2026-10-13T07:06:40+00:00"
     },
     {
-     "headline": "Marco Bezzecchi wins in Indonesia as Martin takes MotoGP lead",
-     "detail": "Bezzecchi's win, the 300th victory for an Italian in MotoGP, also kept his faint championship ​hopes alive.",
-     "url": "https://www.aljazeera.com/sports/2026/10/11/indonesia-gp-motogp-bezzecchi-martin-world-championship?traffic_source=rss",
+     "headline": "Michael Jordan’s ‘Last Dance’ NBA Finals jersey sells for record $14m",
+     "detail": "The basketball memorabilia ranks as the second-largest sale in history ⁠⁠among game-worn sports jerseys.",
+     "url": "https://www.aljazeera.com/sports/2026/10/13/michael-jordans-last-dance-nba-finals-jersey-sells-for-record-14m?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
-     "published": "2026-10-11T10:28:08+00:00",
-     "fetched": "2026-10-11T11:12:03+00:00"
+     "published": "2026-10-13T05:55:19+00:00",
+     "fetched": "2026-10-13T07:06:40+00:00"
     }
    ]
   }
@@ -397,5 +397,5 @@
   "news.com.au",
   "theaustralian.com.au"
  ],
- "blocked_checked_at": "2026-10-11T11:12:05+00:00"
+ "blocked_checked_at": "2026-10-13T07:06:43+00:00"
 }

@@ -1,104 +1,104 @@
 {
  "items": [
   {
-   "headline": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-   "detail": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+   "headline": "Meta releases its first frontier model, Muse Wonder",
+   "detail": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
    "outlet": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+   "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
    "region": "US",
    "source_url": "https://techcrunch.com/feed/",
-   "published": "2026-10-10T21:47:51+00:00",
-   "fetched": "2026-10-11T11:11:49+00:00"
+   "published": "2026-10-12T17:56:56+00:00",
+   "fetched": "2026-10-13T07:06:18+00:00"
   },
   {
-   "headline": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-   "detail": "Is Apple hoping to get into the AI-generated podcast business?",
+   "headline": "WindBorne wins a hefty US Air Force contract for its balloon data",
+   "detail": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
    "outlet": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+   "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
    "region": "US",
    "source_url": "https://techcrunch.com/feed/",
-   "published": "2026-10-10T19:50:00+00:00",
-   "fetched": "2026-10-11T11:11:49+00:00"
+   "published": "2026-10-12T17:19:14+00:00",
+   "fetched": "2026-10-13T07:06:18+00:00"
   },
   {
-   "headline": "Learning to use local AI is exciting, overwhelming, and frustrating",
-   "detail": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular.",
+   "headline": "The Social Reckoning is flopping at the box office",
+   "detail": "As important as some of the messages in The Social Reckoning are, the movie has been drastically underperforming at the box office.",
    "outlet": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+   "url": "https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy",
    "region": "US",
    "source_url": "https://www.theverge.com/rss/index.xml",
-   "published": "2026-10-11T07:00:00-04:00",
-   "fetched": "2026-10-11T11:11:50+00:00"
+   "published": "2026-10-12T17:20:57-04:00",
+   "fetched": "2026-10-13T07:06:18+00:00"
   },
   {
-   "headline": "Satya Nadella says we should assume all AI models are ‘compromised’",
-   "detail": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks.",
+   "headline": "Meta has some Wonder Full new AI models",
+   "detail": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the…",
    "outlet": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
    "region": "US",
    "source_url": "https://www.theverge.com/rss/index.xml",
-   "published": "2026-10-10T18:10:17-04:00",
-   "fetched": "2026-10-11T11:11:50+00:00"
+   "published": "2026-10-12T13:00:00-04:00",
+   "fetched": "2026-10-13T07:06:18+00:00"
   },
   {
-   "headline": "AI’s quiet safety gatekeepers are stepping into the spotlight",
-   "detail": "The intensifying AI safety debate is bringing a small group of third-party evaluators into the center of a multitrillion-dollar industry.",
+   "headline": "Cyber attack hits hundreds of French supermarkets, heating fridges to 122°F and sparking fires",
+   "detail": "Hackers targeted hundreds of French supermarkets in a large-scale cyberattack, causing refrigerators to overheat, spoiling food, and sparking fires.",
    "outlet": "CNBC Technology",
-   "url": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html",
+   "url": "https://www.cnbc.com/2026/10/13/france-supermarket-hack-cyberattack-fridges-fires.html",
    "region": "US",
    "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910",
-   "published": "2026-10-11T11:00:01+00:00",
-   "fetched": "2026-10-11T11:11:50+00:00"
+   "published": "2026-10-13T06:44:00+00:00",
+   "fetched": "2026-10-13T07:06:18+00:00"
   },
   {
-   "headline": "AI may change the price of your Big Mac and groceries — what this means for shoppers",
-   "detail": "As retailers turn to AI tools to streamline operations, experts warn that collecting more detailed consumer data increases the risk of personalized pricing.",
+   "headline": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
+   "detail": "The IMF says risks in the government bond market have worsened and that yields could jump sharply and disorderly.",
    "outlet": "CNBC Technology",
-   "url": "https://www.cnbc.com/2026/10/11/ai-dynamic-pricing-shoppers-groceries.html",
+   "url": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
    "region": "US",
    "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910",
-   "published": "2026-10-11T05:00:01+00:00",
-   "fetched": "2026-10-11T11:11:50+00:00"
+   "published": "2026-10-13T04:54:07+00:00",
+   "fetched": "2026-10-13T07:06:18+00:00"
   },
   {
-   "headline": "One with the world? A new look at brains transformed by psychedelics.",
-   "detail": "One with the world? A new look at brains transformed by psychedelics.",
+   "headline": "39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania",
+   "detail": "39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania",
    "outlet": "Ars Technica",
-   "url": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
+   "url": "https://arstechnica.com/health/2026/10/39-year-old-unvaccinated-woman-becomes-6th-measles-death-in-pennsylvania/",
    "region": "US",
    "source_url": "https://feeds.arstechnica.com/arstechnica/index",
-   "published": "2026-10-10T11:15:35+00:00",
-   "fetched": "2026-10-11T11:11:50+00:00"
+   "published": "2026-10-12T21:54:35+00:00",
+   "fetched": "2026-10-13T07:06:20+00:00"
   },
   {
-   "headline": "King warns malicious online actors are evolving tactics",
-   "detail": "The King spoke of \"threats to our international order\" in a letter marking the 10th anniversary of the National Cyber Security Centre.",
+   "headline": "Bumble shares soar after report dating firm in $1bn takeover talks",
+   "detail": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn.",
    "outlet": "BBC Technology",
-   "url": "https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
    "region": "Europe",
    "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-   "published": "2026-10-10T15:56:32+00:00",
-   "fetched": "2026-10-11T11:11:51+00:00"
+   "published": "2026-10-13T01:50:47+00:00",
+   "fetched": "2026-10-13T07:06:21+00:00"
   },
   {
-   "headline": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-   "detail": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
+   "headline": "AI minister warns 'likely' UK's cyber defences will be breached",
+   "detail": "Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks.",
    "outlet": "BBC Technology",
-   "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
    "region": "Europe",
    "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-   "published": "2026-10-10T10:06:23+00:00",
-   "fetched": "2026-10-11T11:11:51+00:00"
+   "published": "2026-10-12T15:03:42+00:00",
+   "fetched": "2026-10-13T07:06:21+00:00"
   },
   {
-   "headline": "What’s in a name? What China and Trump call AI reveals how they see its future",
-   "detail": "US President Donald Trump wants to banish the word “artificial” from artificial intelligence, saying it makes one of the world’s most consequential technologies sound “fake”.",
+   "headline": "Mainland Chinese traders boost Hong Kong stock buying for fourth month as AI bets surge",
+   "detail": "Mainland Chinese investors bought more Hong Kong stocks than they sold for a fourth consecutive month in September, with purchases accelerating despite persistent headwinds from elevated US Treasury yields and oil prices.",
    "outlet": "South China Morning Post",
-   "url": "https://www.scmp.com/tech/tech-trends/article/3370269/whats-name-what-china-and-trump-call-ai-reveals-how-they-see-its-future?utm_source=rss_feed",
+   "url": "https://www.scmp.com/business/china-business/article/3370564/mainland-chinese-traders-boost-hong-kong-stock-buying-4th-month-ai-bets-surge?utm_source=rss_feed",
    "region": "Asia",
    "source_url": "https://www.scmp.com/rss/36/feed",
-   "published": "2026-10-11T06:00:06+00:00",
-   "fetched": "2026-10-11T11:11:52+00:00"
+   "published": "2026-10-13T02:00:13+00:00",
+   "fetched": "2026-10-13T07:06:22+00:00"
   }
  ]
 }

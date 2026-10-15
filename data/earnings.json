@@ -3,9 +3,19 @@
   {
    "key": "anz",
    "name": "ANZ",
-   "summary": "No Company earnings reports available.",
+   "summary": "A single verifiable earnings item was found for ANZ this run: ASX Today: XJO kicks off Week 42 in a better mood ahead of US Q3 earnings buzz; US CPI data. No newer earnings item has been reported for ANZ since the last edition, so the same verified item(s) are carried forward.",
    "fresh_count": 0,
-   "items": []
+   "items": [
+    {
+     "headline": "ASX Today: XJO kicks off Week 42 in a better mood ahead of US Q3 earnings buzz; US CPI data",
+     "detail": "The ASX 200 was up +0.7% heading into the final ten minutes…",
+     "url": "https://themarketonline.com.au/asx-today-xjo-kicks-off-week-42-in-a-better-mood-ahead-of-us-q3-earnings-buzz-us-cpi-data-2026-10-12/",
+     "outlet": "The Market Herald",
+     "source_url": "https://themarketherald.com.au/feed/",
+     "published": "2026-10-12T04:55:33+00:00",
+     "fetched": "2026-10-13T07:05:18+00:00"
+    }
+   ]
   },
   {
    "key": "asia",
@@ -20,16 +30,25 @@
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
      "published": "2026-10-08T11:30:22+00:00",
-     "fetched": "2026-10-11T11:11:36+00:00"
+     "fetched": "2026-10-13T07:06:05+00:00"
     }
    ]
   },
   {
    "key": "us",
    "name": "US",
-   "summary": "US earnings reporting activity captured this run runs to 5 items, led by Pre-Market Earnings Report for October 9, 2026 : DAL, HOVR. The remaining items cover the rest of the region's results, guidance and reporting-season flow as reported by the linked sources.",
+   "summary": "US earnings reporting activity captured this run runs to 5 items, led by Pre-Market Earnings Report for October 13, 2026 : JPM, JNJ, UNH, GS, WFC, C, DPZ, ACI, FBK. The remaining items cover the rest of the region's results, guidance and reporting-season flow as reported by the linked sources.",
    "fresh_count": 3,
    "items": [
+    {
+     "headline": "Pre-Market Earnings Report for October 13, 2026 : JPM, JNJ, UNH, GS, WFC, C, DPZ, ACI, FBK",
+     "detail": "The following companies are expected to report earnings prior to market open on 10/13/2026.",
+     "url": "https://www.nasdaq.com/articles/pre-market-earnings-report-october-13-2026-jpm-jnj-unh-gs-wfc-c-dpz-aci-fbk",
+     "outlet": "Nasdaq",
+     "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
+     "published": "2026-10-12T20:00:01+00:00",
+     "fetched": "2026-10-13T07:06:09+00:00"
+    },
     {
      "headline": "Pre-Market Earnings Report for October 9, 2026 : DAL, HOVR",
      "detail": "The following companies are expected to report earnings prior to market open on 10/09/2026. Visit our Earnings Calendar for a full list of expected earnings releases.Delta Air Lines, Inc.",
@@ -37,7 +56,7 @@
      "outlet": "Nasdaq",
      "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
      "published": "2026-10-08T20:00:01+00:00",
-     "fetched": "2026-10-11T11:11:39+00:00"
+     "fetched": "2026-10-13T07:06:09+00:00"
     },
     {
      "headline": "Value Line Tops Earnings, Extends Dividend Growth Streak to 12 Years",
@@ -46,16 +65,7 @@
      "outlet": "Nasdaq",
      "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
      "published": "2026-10-08T06:01:59+00:00",
-     "fetched": "2026-10-11T11:11:39+00:00"
-    },
-    {
-     "headline": "Banks Under Pressure from Spiking Yields Ahead of Q3 Results",
-     "detail": "Higher interest rates are generally seen as beneficial for the likes of JPMorgan and Wells Fargo, but spiking yields of the type we have been experiencing are negative for these banks from several angles.",
-     "url": "https://www.nasdaq.com/articles/banks-under-pressure-spiking-yields-ahead-q3-results",
-     "outlet": "Nasdaq",
-     "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
-     "published": "2026-10-07T22:10:00+00:00",
-     "fetched": "2026-10-11T11:11:39+00:00"
+     "fetched": "2026-10-13T07:06:09+00:00"
     },
     {
      "headline": "Estimates Keep Rising as Q3 Earnings Season Takes Center Stage",
@@ -64,7 +74,7 @@
      "outlet": "Nasdaq",
      "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
      "published": "2026-10-09T22:37:00+00:00",
-     "fetched": "2026-10-11T11:11:39+00:00"
+     "fetched": "2026-10-13T07:06:09+00:00"
     },
     {
      "headline": "Palantir’s Rally Puts Wall Street in Catch-Up Mode Ahead of November Earnings",
@@ -73,7 +83,7 @@
      "outlet": "Nasdaq",
      "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
      "published": "2026-10-09T16:00:00+00:00",
-     "fetched": "2026-10-11T11:11:39+00:00"
+     "fetched": "2026-10-13T07:06:09+00:00"
     }
    ]
   },
@@ -87,19 +97,9 @@
   {
    "key": "europe",
    "name": "Europe",
-   "summary": "A single verifiable earnings item was found for Europe this run: Strong Earnings Keep US Stocks in Favor. No newer earnings item has been reported for Europe since the last edition, so the same verified item(s) are carried forward.",
+   "summary": "No Company earnings reports available.",
    "fresh_count": 0,
-   "items": [
-    {
-     "headline": "Strong Earnings Keep US Stocks in Favor",
-     "detail": "PNC Asset Management Chief Investment Officer Amanda Agati tells Bloomberg This Weekend that strong corporate fundamentals and resilient consumer spending could support US stocks as investors head into third-quarter earnings season.",
-     "url": "https://www.bloomberg.com/news/videos/2026-10-10/strong-earnings-keep-us-stocks-in-favor-video",
-     "outlet": "Bloomberg",
-     "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-10T17:37:41+00:00",
-     "fetched": "2026-10-11T11:11:46+00:00"
-    }
-   ]
+   "items": []
   },
   {
    "key": "rest",
