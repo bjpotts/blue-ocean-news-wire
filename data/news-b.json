@@ -4,48 +4,48 @@
    "key": "nbc",
    "name": "NBC News",
    "site": "nbcnews.com",
-   "summary": "NBC News, covering US national news and politics is leading with Energy prices rise after Trump’s ‘energy ceasefire’ fails to move Russia or Ukraine; Key inflation reports will reveal read on U.S. economy ahead of midterms; RJ Mitte, actor best known for playing Walter White Jr. on ‘Breaking Bad,’ dies at 34.",
+   "summary": "NBC News, covering US national news and politics is leading with Kansas voters stress affordability as key issue in competitive Senate race; Lawmaker reportedly loses leg as car ramming stuns Australia; Tampa Bay Rays advance to World Series, will face Milwaukee Brewers.",
    "note": null,
    "items": [
     {
-     "headline": "Energy prices rise after Trump’s ‘energy ceasefire’ fails to move Russia or Ukraine",
-     "detail": "Oil and gas prices rose Monday after an “energy ceasefire” announced by President Donald Trump on Sunday failed to gain traction.",
-     "url": "https://www.nbcnews.com/business/energy/oil-prices-trump-energy-ceasefire-fails-rcna603031",
+     "headline": "Kansas voters stress affordability as key issue in competitive Senate race",
+     "detail": "President Donald Trump is headed to Kansas in support of incumbent GOP Sen. Roger Marshall, who is in a tight race against his Democratic challenger, Adam Hamilton.",
+     "url": "https://www.nbcnews.com/now/video/kansas-voters-stress-affordability-as-key-issue-in-competitive-senate-race-271824453567",
      "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
-     "published": "2026-10-12T19:15:00+00:00",
-     "fetched": "2026-10-13T07:06:34+00:00"
+     "published": "2026-10-19T17:19:16+00:00",
+     "fetched": "2026-10-20T12:09:48+00:00"
     },
     {
-     "headline": "Key inflation reports will reveal read on U.S. economy ahead of midterms",
-     "detail": "Two key reports on consumer and producer pricing will provide a final read on the U.S. economy before the midterms. NBC News’ Allie Canal details what to watch as the reports are released.",
-     "url": "https://www.nbcnews.com/video/key-inflation-reports-will-reveal-read-on-u-s-economy-ahead-of-midterms-271472197526",
+     "headline": "Lawmaker reportedly loses leg as car ramming stuns Australia",
+     "detail": "An Australian lawmaker was in critical but stable condition Tuesday after being hit by a car in what authorities said was a deliberate attack, shocking a nation where political violence is extremely rare.",
+     "url": "https://www.nbcnews.com/world/asia/australia-lawmaker-car-ramming-attack-helen-haines-leg-driver-charged-rcna604526",
      "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
-     "published": "2026-10-13T00:11:37+00:00",
-     "fetched": "2026-10-13T07:06:34+00:00"
+     "published": "2026-10-20T10:00:35+00:00",
+     "fetched": "2026-10-20T12:09:48+00:00"
     },
     {
-     "headline": "RJ Mitte, actor best known for playing Walter White Jr. on ‘Breaking Bad,’ dies at 34",
-     "detail": "Mitte played the son of the teacher-turned-meth producer in the hit series.",
-     "url": "https://www.nbcnews.com/news/obituaries/rj-mitte-walter-white-jr-breaking-bad-dies-34-rcna603081",
+     "headline": "Tampa Bay Rays advance to World Series, will face Milwaukee Brewers",
+     "detail": "The Tampa Bay Rays will play the Milwaukee Brewers in the 2026 World Series after the Rays defeated the Cleveland Guardians to win the American League Championship Series.",
+     "url": "https://www.nbcnews.com/sports/mlb/tampa-bay-rays-world-series-milwaukee-brewers-result-guardians-rcna604268",
      "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
-     "published": "2026-10-12T21:03:14+00:00",
-     "fetched": "2026-10-13T07:06:34+00:00"
+     "published": "2026-10-20T03:07:13+00:00",
+     "fetched": "2026-10-20T12:09:48+00:00"
     },
     {
-     "headline": "Omar’s home searched as part of federal criminal investigation",
-     "detail": "Federal agents carried out a search warrant on Democratic Congresswoman Ilhan Omar’s home in Washington as part of a federal criminal investigation. NBC News’ Kelly O’Donnell reports.",
-     "url": "https://www.nbcnews.com/nightly-news/video/omar-s-home-searched-as-part-of-federal-criminal-investigation-271468101583",
+     "headline": "Paxton and Talarico campaign in Texas and the NBA’s second apron dilemma: Morning Rundown",
+     "detail": "A first-of-its-kind NBC News analysis looks into students’ YouTube activity during school.",
+     "url": "https://www.nbcnews.com/news/us-news/paxton-talarico-texas-nba-second-apron-morning-rundown-rcna604528",
      "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
-     "published": "2026-10-12T22:54:05+00:00",
-     "fetched": "2026-10-13T07:06:34+00:00"
+     "published": "2026-10-20T11:18:16+00:00",
+     "fetched": "2026-10-20T12:09:48+00:00"
     },
     {
-     "headline": "One dead at Six Flags park in Georgia",
-     "detail": "An emergency on the Goliath roller coaster at the Six Flags outside Atlanta led to evacuations from the ride and passengers having to climb a steep descent. Authorities say one person was killed at the park and several others injured.",
-     "url": "https://www.nbcnews.com/nightly-news/video/one-dead-at-six-flags-park-in-georgia-271468101719",
+     "headline": "‘Scandalous’ to say Ukrainians are dying due to U.S. pulling support, Rubio says",
+     "detail": "U.S. envoys were expected to meet with Ukrainian President Volodymyr Zelenskyy in Norway on Tuesday, as Kyiv scrambles to respond to an American pressure campaign that has been allied with moves aimed at courting the Kremlin.",
+     "url": "https://www.nbcnews.com/world/ukraine/ukraine-us-support-rubio-scandalous-zelenskyy-meeting-trump-oslo-rcna604530",
      "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
-     "published": "2026-10-12T23:05:15+00:00",
-     "fetched": "2026-10-13T07:06:34+00:00"
+     "published": "2026-10-20T10:59:44+00:00",
+     "fetched": "2026-10-20T12:09:48+00:00"
     }
    ]
   },
@@ -53,48 +53,48 @@
    "key": "thehill",
    "name": "The Hill",
    "site": "thehill.com",
-   "summary": "The Hill, reporting on Congress, the White House and US policy is leading with Newsom backs California ballot measure that cancels out billionaire tax proposal; Sanders calls for artificial superintelligence ban after OpenAI CEO interview; Mamdani: citizenship ‘should not be weaponized’ against Omar.",
+   "summary": "The Hill, reporting on Congress, the White House and US policy is leading with Trump approval at record low 31 percent ahead of midterms: Survey; How did being a good teammate become so controversial?; Inside the monthslong federal investigation of Rep. Ilhan Omar.",
    "note": null,
    "items": [
     {
-     "headline": "Newsom backs California ballot measure that cancels out billionaire tax proposal",
-     "detail": "California Gov. Gavin Newsom (D) endorsed a ballot measure that, if approved by voters, would cancel out the ballot measure proposal that would impose a one-time tax on the Golden State's billionaires.",
-     "url": "https://thehill.com/homenews/campaign/6144461-newsom-endorses-prop42-billionaire-tax/",
+     "headline": "Trump approval at record low 31 percent ahead of midterms: Survey",
+     "detail": "President Trump's approval rating on Monday reached a new record low with two weeks left until the November midterm elections, when Republicans could lose the House and Senate to Democrats.",
+     "url": "https://thehill.com/homenews/administration/6159609-trump-approval-record-low-reuters-ipsos/",
      "source_url": "https://thehill.com/news/feed/",
-     "published": "2026-10-13T03:00:52+00:00",
-     "fetched": "2026-10-13T07:06:35+00:00"
+     "published": "2026-10-20T11:43:13+00:00",
+     "fetched": "2026-10-20T12:09:48+00:00"
     },
     {
-     "headline": "Sanders calls for artificial superintelligence ban after OpenAI CEO interview",
-     "detail": "Sen. Bernie Sanders (I-Vt.) on Monday called for permanently banning artificial superintelligence in response to recent remarks made by OpenAI CEO Sam Altman.",
-     "url": "https://thehill.com/homenews/senate/6144432-sanders-calls-ai-ban/",
+     "headline": "How did being a good teammate become so controversial?",
+     "detail": "Athletes cannot be celebrated for speaking out when their views fit comfortably within worldviews compatible with the establishment, but then become professionally expendable when they say something that makes others uncomfortable.",
+     "url": "https://thehill.com/opinion/campaign/6157833-buckner-cunningham-job-debate/",
      "source_url": "https://thehill.com/news/feed/",
-     "published": "2026-10-13T02:34:16+00:00",
-     "fetched": "2026-10-13T07:06:35+00:00"
+     "published": "2026-10-20T11:30:00+00:00",
+     "fetched": "2026-10-20T12:09:48+00:00"
     },
     {
-     "headline": "Mamdani: citizenship ‘should not be weaponized’ against Omar",
-     "detail": "New York City Mayor Zohran Mamdani (D) on Monday slammed the federal search of Rep. Ilhan Omar's (D-Minn.) Washington, D.C., home, saying that her citizenship \"should not be weaponized\" against her.",
-     "url": "https://thehill.com/homenews/house/6144397-mamdani-slams-omar-home-raid/",
+     "headline": "Inside the monthslong federal investigation of Rep. Ilhan Omar",
+     "detail": "Scott Johnson, a retired Minnesota attorney and co-founder of Powerline Blog, first began looking into Omar in 2016.",
+     "url": "https://thehill.com/homenews/6158481-inside-the-monthslong-federal-investigation-of-rep-ilhan-omar/",
      "source_url": "https://thehill.com/news/feed/",
-     "published": "2026-10-13T01:56:27+00:00",
-     "fetched": "2026-10-13T07:06:35+00:00"
+     "published": "2026-10-20T11:22:49+00:00",
+     "fetched": "2026-10-20T12:09:48+00:00"
     },
     {
-     "headline": "Trump repeatedly attacks Minnesota, Omar during Ohio campaign stop",
-     "detail": "President Trump repeatedly brought up Minnesota and Rep. Ilhan Omar (D-Minn.) on Monday night while stumping for Republicans in Ohio ahead of the midterms.",
-     "url": "https://thehill.com/homenews/6144416-trump-attacks-omar-ohio/",
+     "headline": "5 hottest midterm battlegrounds two weeks out from Election Day",
+     "detail": "In today’s issue: Election Day is fast approaching with voters now able to cast early ballots in many states throughout the country.",
+     "url": "https://thehill.com/newsletters/morning-report/6159616-midterm-battlegrounds-trump-kansas-rally-france-unrest/",
      "source_url": "https://thehill.com/news/feed/",
-     "published": "2026-10-13T01:48:31+00:00",
-     "fetched": "2026-10-13T07:06:35+00:00"
+     "published": "2026-10-20T11:14:15+00:00",
+     "fetched": "2026-10-20T12:09:48+00:00"
     },
     {
-     "headline": "Spicer says he's ‘absolutely’ concerned about Kansas Senate race",
-     "detail": "Former White House press secretary Sean Spicer on Monday said he is \"absolutely\" concerned about Republicans losing the Kansas Senate race, which election handicappers say could flip in favor of the Democrats.",
-     "url": "https://thehill.com/homenews/campaign/6144357-spicer-worries-kansas-senate/",
+     "headline": "Why can't I afford life? Boomer prosperity is masking a weak economy.",
+     "detail": "So which party has a better plan for addressing this problem and getting you a fair shot at the American Dream? The bad news is, the answer is \"neither.\"",
+     "url": "https://thehill.com/opinion/finance/6158420-boomers-vs-millennials-wealth-gap/",
      "source_url": "https://thehill.com/news/feed/",
-     "published": "2026-10-13T01:03:52+00:00",
-     "fetched": "2026-10-13T07:06:35+00:00"
+     "published": "2026-10-20T11:00:00+00:00",
+     "fetched": "2026-10-20T12:09:48+00:00"
     }
    ]
   },
@@ -102,48 +102,48 @@
    "key": "time",
    "name": "Time",
    "site": "time.com",
-   "summary": "Time magazine, covering US and world affairs is leading with Rep. Ilhan Omar Says She Will ‘Not Be Silenced’ After Federal Agents Raid Her Home; Republicans Denounce Trump’s Diesel Deal With Russia’s Putin Amid Mounting Backlash; How Trump’s Policies Are Testing Farmers’ Loyalty Ahead of Midterms.",
+   "summary": "Time magazine, covering US and world affairs is leading with Why Satire Is No Laughing Matter; Offbeat Thriller Phony Is Something Genuinely New on TV; Why Young Indians Are Fearful About the Future of the World’s Largest Democracy.",
    "note": null,
    "items": [
     {
-     "headline": "Rep. Ilhan Omar Says She Will ‘Not Be Silenced’ After Federal Agents Raid Her Home",
-     "detail": "Democratic leaders have condemned the raid on Omar’s home as \"deeply disturbing.\"",
-     "url": "https://time.com/article/2026/10/12/Ilhan-omar-home-raid-federal-agents-immigration-allegations-democrats-response/",
+     "headline": "Why Satire Is No Laughing Matter",
+     "detail": "Sacha Baron Cohen on the power of comedy in a serious time",
+     "url": "https://time.com/article/2026/10/20/sacha-baron-cohen-on-satire/",
      "source_url": "https://time.com/feed/",
-     "published": "2026-10-12T17:41:53+00:00",
-     "fetched": "2026-10-13T07:06:36+00:00"
+     "published": "2026-10-20T12:00:08+00:00",
+     "fetched": "2026-10-20T12:09:48+00:00"
     },
     {
-     "headline": "Republicans Denounce Trump’s Diesel Deal With Russia’s Putin Amid Mounting Backlash",
-     "detail": "\"We were very clear that Russia is the aggressor. Russia is the one who can end this war by backing out of [the] territory they occupied,\" said one GOP Senator.",
-     "url": "https://time.com/article/2026/10/12/republicans-democrats-call-for-trump-to-reverse-course-on-russia-diesel-deal/",
+     "headline": "Offbeat Thriller Phony Is Something Genuinely New on TV",
+     "detail": "Best miscategorized as a thriller, this offbeat Hulu series starring Connie Britton and Sam Nivola delightfully upends expectations",
+     "url": "https://time.com/article/2026/10/20/phony-review-hulu/",
      "source_url": "https://time.com/feed/",
-     "published": "2026-10-12T13:49:38+00:00",
-     "fetched": "2026-10-13T07:06:36+00:00"
+     "published": "2026-10-20T12:00:04+00:00",
+     "fetched": "2026-10-20T12:09:48+00:00"
     },
     {
-     "headline": "How Trump’s Policies Are Testing Farmers’ Loyalty Ahead of Midterms",
-     "detail": "Farmers interviewed by TIME describe how the economic consequences of Trump's policies are now reaching their day-to-day operations.",
-     "url": "https://time.com/article/2026/10/12/trump-policies-are-testing-farmers-loyalty-ahead-of-midterms/",
+     "headline": "Why Young Indians Are Fearful About the Future of the World’s Largest Democracy",
+     "detail": "Q&A: Historian and novelist Mukul Kesavan says Modi's 'aura of menace and authority has dissipated'",
+     "url": "https://time.com/article/2026/10/20/why-young-indians-are-fearful-about-the-future-of-the-world-s-largest-democracy/",
      "source_url": "https://time.com/feed/",
-     "published": "2026-10-12T11:28:27+00:00",
-     "fetched": "2026-10-13T07:06:36+00:00"
+     "published": "2026-10-20T11:55:59+00:00",
+     "fetched": "2026-10-20T12:09:48+00:00"
     },
     {
-     "headline": "What to Know About the Controversy Surrounding Kimberly Guilfoyle",
-     "detail": "The Trump Administration is reportedly considering firing the ambassador to Greece after alleged improper conduct.",
-     "url": "https://time.com/article/2026/10/12/kimberly-guilfoyle-controversy-explainer-trump-rubio/",
+     "headline": "Trump Open to ‘Denuclearization’ Summit with Putin and Xi",
+     "detail": "Putin had initially called for a summit with the two other leaders but focused on the Ukraine war.",
+     "url": "https://time.com/article/2026/10/20/trump-summit-putin-xi-russia-china-ukraine-nuclear-weapons/",
      "source_url": "https://time.com/feed/",
-     "published": "2026-10-12T10:00:10+00:00",
-     "fetched": "2026-10-13T07:06:36+00:00"
+     "published": "2026-10-20T10:00:05+00:00",
+     "fetched": "2026-10-20T12:09:48+00:00"
     },
     {
-     "headline": "The Case for Shifting Mental Health Care From Institutions to Communities",
-     "detail": "Institutionalized mental health care is “outdated” and “a human rights issue hiding in plain sight,” write Anura Kumara Dissanayake and Tedros Adhanom Ghebreyesus.",
-     "url": "https://time.com/article/2026/10/12/the-case-for-shifting-mental-health-care-from-institutions-to-communities/",
+     "headline": "Europe Braces for a Russian Winter",
+     "detail": "Vladimir Putin is now determined to escalate, not only against Ukraine but also against the Europeans who have done so much to keep Kyiv in the fight.",
+     "url": "https://time.com/article/2026/10/20/ukraine-putin-europe-winter-war/",
      "source_url": "https://time.com/feed/",
-     "published": "2026-10-12T10:00:04+00:00",
-     "fetched": "2026-10-13T07:06:36+00:00"
+     "published": "2026-10-20T10:00:00+00:00",
+     "fetched": "2026-10-20T12:09:48+00:00"
     }
    ]
   },
@@ -151,48 +151,48 @@
    "key": "variety",
    "name": "Variety",
    "site": "variety.com",
-   "summary": "Variety, on the business of entertainment is leading with Sony Pictures Imageworks’ Michelle Grady and ILM’s Janet Lewin on Bad Bosses and Changing Studio Culture: ‘Culture Is What You Tolerate’; ‘Bloodsuckers’ Team Reunites on ‘Body in the Closet’ on Warner Bros. Title With Comedian Axel Åhman Eyed for the Lead Role (EXCLUSIVE); Toni Collette’s Directorial Debut ‘The Best Of’ Among 75 Projects Backed by Screen Australia.",
+   "summary": "Variety, on the business of entertainment is leading with Spotify Removes 50 Million AI Slop Tracks from Recommendations This Year; Podcasters Amy Poehler, Khloe Kardashian, Monica Lewinsky Among Winners at Signal Awards (EXCLUSIVE); Christina Applegate Reveals She Was Misdiagnosed With MS: ‘I’m Back at Square One’ and It’s a ‘Mindf—’.",
    "note": null,
    "items": [
     {
-     "headline": "Sony Pictures Imageworks’ Michelle Grady and ILM’s Janet Lewin on Bad Bosses and Changing Studio Culture: ‘Culture Is What You Tolerate’",
-     "detail": "TURIN, Italy — “Culture is what you tolerate,” said Sony Pictures Imageworks president Michelle Grady, reflecting on bad bosses and how studios build a workplace where people can thrive.",
-     "url": "https://variety.com/2026/global/global/michelle-grady-janet-lewin-bad-bosses-view-conference-1236909211/",
+     "headline": "Spotify Removes 50 Million AI Slop Tracks from Recommendations This Year",
+     "detail": "Spotify’s quest to curb the chaos AI-generated music has brought onto the platform has caused it to remove 50 million AI slop tracks from users’ recommendations, a new figure shared Tuesday as part of the company’s public insights into how…",
+     "url": "https://variety.com/2026/music/news/spotify-removes-50-million-ai-slop-tracks-recommendations-1236917108/",
      "source_url": "https://variety.com/feed/",
-     "published": "2026-10-13T06:34:35+00:00",
-     "fetched": "2026-10-13T07:06:36+00:00"
+     "published": "2026-10-20T12:00:00+00:00",
+     "fetched": "2026-10-20T12:09:50+00:00"
     },
     {
-     "headline": "‘Bloodsuckers’ Team Reunites on ‘Body in the Closet’ on Warner Bros. Title With Comedian Axel Åhman Eyed for the Lead Role (EXCLUSIVE)",
-     "detail": "Axel Åhman is set to star in the upcoming series “Body in the Closet” produced for Warner Bros. International Television Production Finland. He’ll play Staffan, an audience services employee at a theatre.",
-     "url": "https://variety.com/2026/tv/global/comedian-axel-ahman-body-in-the-closet-bloodsuckers-1236908857/",
+     "headline": "Podcasters Amy Poehler, Khloe Kardashian, Monica Lewinsky Among Winners at Signal Awards (EXCLUSIVE)",
+     "detail": "The Signal Awards, which is in its fifth year of honoring podcasts, has revealed this year’s recipients, including “Good Hang With Amy Poehler,” “Reclaiming With Monica Lewinsky” and “Khloé in Wonder Land,” which are among the dozens of…",
+     "url": "https://variety.com/2026/tv/news/signal-awards-winners-amy-poehler-khloe-kardashian-podcasts-1236916909/",
      "source_url": "https://variety.com/feed/",
-     "published": "2026-10-13T05:54:10+00:00",
-     "fetched": "2026-10-13T07:06:36+00:00"
+     "published": "2026-10-20T12:00:00+00:00",
+     "fetched": "2026-10-20T12:09:50+00:00"
     },
     {
-     "headline": "Toni Collette’s Directorial Debut ‘The Best Of’ Among 75 Projects Backed by Screen Australia",
-     "detail": "Toni Collette will make her feature directing debut with “The Best Of,” her screen version of Graeme Simsion’s bestselling novel, which is one of 75 projects sharing more than AUD16.9 million ($11.7 million) in production and development…",
-     "url": "https://variety.com/2026/film/news/toni-collette-directorial-debut-75-projects-screen-australia-1236909731/",
+     "headline": "Christina Applegate Reveals She Was Misdiagnosed With MS: ‘I’m Back at Square One’ and It’s a ‘Mindf—’",
+     "detail": "Christina Applegate returned to her podcast, “MeSsy,” on Tuesday with some shocking news: She was misdiagnosed with multiple sclerosis.",
+     "url": "https://variety.com/2026/tv/news/christina-applegate-misdiagnosed-ms-1236917323/",
      "source_url": "https://variety.com/feed/",
-     "published": "2026-10-13T04:21:46+00:00",
-     "fetched": "2026-10-13T07:06:36+00:00"
+     "published": "2026-10-20T11:53:21+00:00",
+     "fetched": "2026-10-20T12:09:50+00:00"
     },
     {
-     "headline": "Jeremy Renner Says ‘Avengers: Doomsday’ Superheroes ‘Will Probably Lose’ Without Hawkeye: ‘They Didn’t Call Me, So It’s Their Fault’",
-     "detail": "The full list of MCU characters who will appear in “Avengers: Doomsday” may still be a mystery, but Jeremy Renner has made it clear he didn’t return as Hawkeye — and says The Avengers “will probably lose” as a result. “No, no, no, no.",
-     "url": "https://variety.com/2026/film/news/jeremy-renner-avengers-doomsday-will-lose-without-hawkeye-1236909728/",
+     "headline": "Emily Watson Joins ‘The Drive,’ Inspired by JFK Assassination, as Exec Producer (EXCLUSIVE)",
+     "detail": "Two-time Oscar nominee Emily Watson has joined the Oscar-qualified short film “The Drive” as executive producer, lending her support to husband-and-wife filmmaking team David Arrow and Amber Paul as the film enters awards season.",
+     "url": "https://variety.com/2026/film/global/emily-watson-joins-the-drive-as-exec-producer-1236917310/",
      "source_url": "https://variety.com/feed/",
-     "published": "2026-10-13T04:20:02+00:00",
-     "fetched": "2026-10-13T07:06:36+00:00"
+     "published": "2026-10-20T11:11:26+00:00",
+     "fetched": "2026-10-20T12:09:50+00:00"
     },
     {
-     "headline": "‘Other Mommy’ Nips ‘Verity’ in Photo Finish for U.K., Ireland Box Office Summit",
-     "detail": "Universal’s horror entry “Other Mommy,” directed by Rob Savage and starring Jessica Chastain and Jay Duplass, squeaked to the top of the U.K. and Ireland box office in a dead heat, debuting at No. 1 with £1.97 million ($2.66 million).",
-     "url": "https://variety.com/2026/film/box-office/other-mommy-verity-uk-ireland-box-office-1236909721/",
+     "headline": "Evolution Mallorca Brings Back Script Lab Pitches With ‘Sirat’ Producer and Oscar Winner Kim Magnusson Among Jury Members",
+     "detail": "This year’s Evolution Mallorca, held on the Spanish island between Oct. 28 and NoV. 4, is bringing back Evolution Pitch, the pitching component of its Script Lab program as part of the festival’s 15th edition.",
+     "url": "https://variety.com/2026/film/global/evolution-mallorca-script-lab-pitches-sirat-producer-jury-1236917228/",
      "source_url": "https://variety.com/feed/",
-     "published": "2026-10-13T04:10:47+00:00",
-     "fetched": "2026-10-13T07:06:36+00:00"
+     "published": "2026-10-20T11:02:52+00:00",
+     "fetched": "2026-10-20T12:09:50+00:00"
     }
    ]
   },
@@ -200,48 +200,48 @@
    "key": "bloomberg",
    "name": "Bloomberg",
    "site": "bloomberg.com",
-   "summary": "Bloomberg's markets and business file is leading with Modi Says India Is The Mother Of Democracy; India and the Reordered World; Modi Pitches India as Reliable Partner: Speech in Hindi.",
+   "summary": "Bloomberg's markets and business file is leading with US Futures Slip as Neocloud IPO Elice Flops, SpaceX Results Loom; Partners Group Cuts Management Fees Before Fund Overhaul; Corn Rises From Two-Month Low After Recent Drop Seen Overdone.",
    "note": null,
    "items": [
     {
-     "headline": "Modi Says India Is The Mother Of Democracy",
-     "detail": "Speaking at the Bloomberg's New Economic Forum, India's Prime Minister Narendra Modi said that India is the mother of democracy where a wide range of issues are debated openly.",
-     "url": "https://www.bloomberg.com/news/videos/2026-10-13/modi-says-india-is-the-mother-of-democracy-video",
+     "headline": "US Futures Slip as Neocloud IPO Elice Flops, SpaceX Results Loom",
+     "detail": "The return of artificial-intelligence angst pushed Nasdaq futures lower on Tuesday, as South Korean neocloud company Elice Inc.’s debut tanked, spurring concern about the sustainability of the global AI boom.",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-20/us-futures-slip-as-neocloud-ipo-elice-flops-spacex-results-loom",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-13T06:51:33+00:00",
-     "fetched": "2026-10-13T07:06:39+00:00"
+     "published": "2026-10-20T11:57:42+00:00",
+     "fetched": "2026-10-20T12:09:50+00:00"
     },
     {
-     "headline": "India and the Reordered World",
-     "detail": "Bloomberg's Stephanie Flanders, Chetna Kumar, John Micklethwait and Mishal Husain discuss India’s role amid shifting global power, trade and technology at the 2026 Bloomberg New Economy Forum in New Delhi. (Source: Bloomberg)",
-     "url": "https://www.bloomberg.com/news/videos/2026-10-13/india-and-the-reordered-world-video",
+     "headline": "Partners Group Cuts Management Fees Before Fund Overhaul",
+     "detail": "Partners Group Holding AG is reducing management fees at a key evergreen fund as it seeks investor approval to revamp the private equity vehicle.",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-20/partners-group-cuts-management-fees-at-key-fund-before-overhaul",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-13T06:46:58+00:00",
-     "fetched": "2026-10-13T07:06:39+00:00"
+     "published": "2026-10-20T09:22:47+00:00",
+     "fetched": "2026-10-20T12:09:50+00:00"
     },
     {
-     "headline": "Modi Pitches India as Reliable Partner: Speech in Hindi",
-     "detail": "Indian Prime Minister Narendra Modi says global supply chains, trade and technology are increasingly being used as tools of coercion, and declared that his country stands apart.",
-     "url": "https://www.bloomberg.com/news/videos/2026-10-13/modi-pitches-india-as-reliable-partner-speech-in-hindi-video",
+     "headline": "Corn Rises From Two-Month Low After Recent Drop Seen Overdone",
+     "detail": "Corn futures edged higher in Chicago amid technical signals that its five-day losing streak was overdone.",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-20/corn-faces-longest-losing-streak-since-early-2025-on-weak-demand",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-13T06:44:25+00:00",
-     "fetched": "2026-10-13T07:06:39+00:00"
+     "published": "2026-10-20T04:11:23+00:00",
+     "fetched": "2026-10-20T12:09:50+00:00"
     },
     {
-     "headline": "Human Intelligence in a Hostile World",
-     "detail": "Tom Orlik, Chief Economist, Bloomberg Economics examines the role of human intelligence in navigating an increasingly hostile world at the 2026 Bloomberg New Economy Forum in New Delhi. (Source: Bloomberg)",
-     "url": "https://www.bloomberg.com/news/videos/2026-10-13/human-intelligence-in-a-hostile-world-video",
+     "headline": "US Heading for a Slowdown, Not a Recession, Says Crossmark’s Fernandez",
+     "detail": "Victoria Fernandez, chief market strategist at Crossmark Global Investments, explains the factors she sees pointing to a slowdown in the US economy and markets. She speaks on “Bloomberg Surveillance.” (Source: Bloomberg)",
+     "url": "https://www.bloomberg.com/news/videos/2026-10-20/us-heading-for-a-slowdown-not-a-recession-crossmark-video",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-13T06:44:08+00:00",
-     "fetched": "2026-10-13T07:06:39+00:00"
+     "published": "2026-10-20T11:43:46+00:00",
+     "fetched": "2026-10-20T12:09:50+00:00"
     },
     {
-     "headline": "LVMH Sales in Mainland China Fall by Double Digits",
-     "detail": "LVMH's sales in mainland China dropped by double digits in the third quarter, adding to doubts about the durability of a broader luxury recovery. Bloomberg's Angelina Rascouet reports. (Source: Bloomberg)",
-     "url": "https://www.bloomberg.com/news/videos/2026-10-13/lvmh-sales-in-mainland-china-fall-by-double-digits-video",
+     "headline": "Maersk, Hateco Plan $3.5 Billion Vietnam Freight Network",
+     "detail": "A.P. Moller-Maersk A/S, the world’s No. 2 container carrier, signed an agreement with Vietnamese conglomerate Hateco to develop a railway freight terminal network in Vietnam during President To Lam’s official visit to Denmark.",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-20/maersk-hateco-plan-3-5-billion-vietnam-rail-freight-project",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-13T06:39:33+00:00",
-     "fetched": "2026-10-13T07:06:39+00:00"
+     "published": "2026-10-20T08:06:16+00:00",
+     "fetched": "2026-10-20T12:09:50+00:00"
     }
    ]
   },
@@ -249,48 +249,48 @@
    "key": "bbc",
    "name": "BBC",
    "site": "bbc.com",
-   "summary": "The BBC's world news service is leading with Russia's offensive ability is broken, Kyiv's former top general tells BBC; Breaking Bad actor RJ Mitte dies aged 34; Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says.",
+   "summary": "The BBC's world news service is leading with Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence; Man charged with attack on Australian MP as suspect's father says she is family friend; Suspect arrested after historic town hall set alight - French media.",
    "note": null,
    "items": [
     {
-     "headline": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-     "detail": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
-     "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
+     "headline": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence",
+     "detail": "The US secretary of state rejects accusations Ukrainians were dying because the US was withholding intelligence.",
+     "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-     "published": "2026-10-13T05:02:34+00:00",
-     "fetched": "2026-10-13T07:06:39+00:00"
+     "published": "2026-10-20T12:08:41+00:00",
+     "fetched": "2026-10-20T12:09:51+00:00"
     },
     {
-     "headline": "Breaking Bad actor RJ Mitte dies aged 34",
-     "detail": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
-     "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
+     "headline": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+     "detail": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
+     "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-     "published": "2026-10-13T06:26:05+00:00",
-     "fetched": "2026-10-13T07:06:39+00:00"
+     "published": "2026-10-20T11:25:35+00:00",
+     "fetched": "2026-10-20T12:09:51+00:00"
     },
     {
-     "headline": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-     "detail": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
-     "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+     "headline": "Suspect arrested after historic town hall set alight - French media",
+     "detail": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
+     "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-     "published": "2026-10-12T21:20:51+00:00",
-     "fetched": "2026-10-13T07:06:39+00:00"
+     "published": "2026-10-20T11:47:39+00:00",
+     "fetched": "2026-10-20T12:09:51+00:00"
     },
     {
-     "headline": "One dead and several hurt after rollercoaster incident at Six Flags",
-     "detail": "Aerial footage at the park after the incident shows a stuck rollercoaster with riders being helped off.",
-     "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
+     "headline": "Seventh day of violent clashes between Albanian protesters and police",
+     "detail": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.",
+     "url": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-     "published": "2026-10-13T02:26:21+00:00",
-     "fetched": "2026-10-13T07:06:39+00:00"
+     "published": "2026-10-20T02:45:05+00:00",
+     "fetched": "2026-10-20T12:09:51+00:00"
     },
     {
-     "headline": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
-     "detail": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
-     "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
+     "headline": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
+     "detail": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.",
+     "url": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-     "published": "2026-10-12T05:00:52+00:00",
-     "fetched": "2026-10-13T07:06:39+00:00"
+     "published": "2026-10-20T03:10:39+00:00",
+     "fetched": "2026-10-20T12:09:51+00:00"
     }
    ]
   },
@@ -298,48 +298,48 @@
    "key": "france24",
    "name": "France 24",
    "site": "france24.com",
-   "summary": "France 24's English service, reporting from Paris on Europe, Africa and the Middle East is leading with Russia says Europe bought $320 billion in hydrocarbons since 2022; 'Breaking Bad' actor and disability activist RJ Mitte dies aged 34; Pope Leo to enter hospital on Tuesday for surgery on lung nodule this week.",
+   "summary": "France 24's English service, reporting from Paris on Europe, Africa and the Middle East is leading with 'Very poor communicators: Macron & his govt fail to address 'genuine concerns of the French people'; France imposes curfews after weekend violence, but is it too much or too little?; Horror and disbelief after lawmaker attacked in rural Australia.",
    "note": null,
    "items": [
     {
-     "headline": "Russia says Europe bought $320 billion in hydrocarbons since 2022",
-     "detail": "Russia said on Monday that European Union countries had bought $320.7 billion worth of its energy resources since 2022, despite sanctions over the war in Ukraine.",
-     "url": "https://www.france24.com/en/europe/20261013-russia-says-europe-bought-320-billion-in-hydrocarbons-since-2022",
+     "headline": "'Very poor communicators: Macron & his govt fail to address 'genuine concerns of the French people'",
+     "detail": "Annette Young is pleased to welcome Dr Joseph Downing, Senior Lecturer International Relations and Politics at Aston University.",
+     "url": "https://www.france24.com/en/very-poor-communicators-macron-his-govt-fail-to-address-genuine-concerns-of-the-french-people",
      "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-10-13T03:10:12+00:00",
-     "fetched": "2026-10-13T07:06:40+00:00"
+     "published": "2026-10-20T11:49:16+00:00",
+     "fetched": "2026-10-20T12:09:51+00:00"
     },
     {
-     "headline": "'Breaking Bad' actor and disability activist RJ Mitte dies aged 34",
-     "detail": "\"Breaking Bad\" actor RJ Mitte, who played Walter White Jr. in the hit US television series, has died aged 34, his representatives said Monday.",
-     "url": "https://www.france24.com/en/americas/20261013-breaking-bad-actor-and-disability-activist-rj-mitte-dies-aged-34",
+     "headline": "France imposes curfews after weekend violence, but is it too much or too little?",
+     "detail": "PRESS REVIEW – Tuesday, October 20: We look at reactions from the French press after President Emmanuel Macron's government announces a curfew in parts of the country.",
+     "url": "https://www.france24.com/en/tv-shows/press-review/20261020-france-imposes-curfews-after-weekend-violence-but-is-it-too-much-or-too-little",
      "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-10-13T01:43:04+00:00",
-     "fetched": "2026-10-13T07:06:40+00:00"
+     "published": "2026-10-20T11:47:03+00:00",
+     "fetched": "2026-10-20T12:09:51+00:00"
     },
     {
-     "headline": "Pope Leo to enter hospital on Tuesday for surgery on lung nodule this week",
-     "detail": "Pope Leo XIV is expected to undergo surgery to remove a lung nodule this week at Rome’s Gemelli hospital, with doctors anticipating a recovery of about seven days.",
-     "url": "https://www.france24.com/en/europe/20261012-what-we-know-about-pope-leo-xiv-planned-lung-operation-this-week",
+     "headline": "Horror and disbelief after lawmaker attacked in rural Australia",
+     "detail": "A rural Australian town felt a mix of horror and disbelief on Tuesday after a highly respected lawmaker was gravely injured in what looked to be a targeted attack.",
+     "url": "https://www.france24.com/en/video/20261020-horror-and-disbelief-after-lawmaker-attacked-in-rural-australia",
      "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-10-12T22:20:59+00:00",
-     "fetched": "2026-10-13T07:06:40+00:00"
+     "published": "2026-10-20T10:26:39+00:00",
+     "fetched": "2026-10-20T12:09:51+00:00"
     },
     {
-     "headline": "French supermarkets suffer refrigerator shutdown after 'unprecedented' cyberattack",
-     "detail": "Major French supermarket chains on Monday said they were hit by a cyberattack that caused their refrigerators to shoot up in temperature in hundreds of stores, forcing spoiled food to be thrown away and raising concerns about food…",
-     "url": "https://www.france24.com/en/french-supermarkets-suffer-refrigerator-shutdown-after-unprecedented-cyberattack",
+     "headline": "Kenyan cult leader guilty on all charges over 191 starvation deaths",
+     "detail": "A self-proclaimed Kenyan preacher and his associates were on Monday found guilty of murdering 190 children and one adult in an infamous starvation cult.",
+     "url": "https://www.france24.com/en/video/20261020-kenyan-cult-leader-guilty-on-all-charges-over-191-starvation-deaths",
      "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-10-12T21:27:53+00:00",
-     "fetched": "2026-10-13T07:06:40+00:00"
+     "published": "2026-10-20T10:25:08+00:00",
+     "fetched": "2026-10-20T12:09:51+00:00"
     },
     {
-     "headline": "DR Congo’s former president Kabila to lead new movement with M23 rebels",
-     "detail": "Former DR Congo president Joseph Kabila announced a new political-military alliance with Rwanda-backed M23 rebels on Monday, despite being sentenced to death in absentia for alleged complicity with the group.",
-     "url": "https://www.france24.com/en/africa/20261012-dr-congo-former-president-joseph-kabila-to-lead-new-movement-with-m23-rebels",
+     "headline": "Indonesia continues to battle wildfires, with nearly 2 million hectares burned",
+     "detail": "Fires in Indonesia have burned through more than 1.9 million hectares of land, according to new data, as the country battles its worst wildfire season in a decade.",
+     "url": "https://www.france24.com/en/tv-shows/down-to-earth/20261020-indonesia-continues-to-battle-wildfires-with-nearly-2-million-hectares-burned",
      "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-10-12T21:27:41+00:00",
-     "fetched": "2026-10-13T07:06:40+00:00"
+     "published": "2026-10-20T10:23:27+00:00",
+     "fetched": "2026-10-20T12:09:51+00:00"
     }
    ]
   },
@@ -347,48 +347,48 @@
    "key": "aljazeera",
    "name": "Al Jazeera",
    "site": "aljazeera.com",
-   "summary": "Al Jazeera English, with strong Middle East and Africa coverage is leading with Emir says Qatar has shown resilience in face of ‘exceptional events’; Malaysia’s Firefly cancels flights to Singapore over haze from Indonesia; Imran Khan’s PTI braces to fight federal takeover of Khyber Pakhtunkhwa.",
+   "summary": "Al Jazeera English, with strong Middle East and Africa coverage is leading with UK to deploy Typhoon jets to help defend Saudi Arabia from Houthi attacks; Australian MP Helen Haines remains in critical condition after car attack; Myanmar’s detained ex-leader Suu Kyi receives package from King Charles III.",
    "note": null,
    "items": [
     {
-     "headline": "Emir says Qatar has shown resilience in face of ‘exceptional events’",
-     "detail": "Sheikh Tamim bin Hamad Al Thani says Qatar has demonstrated its strength and cohesion.",
-     "url": "https://www.aljazeera.com/news/2026/10/13/qatari-emir-says-country-has-faced-exceptional-circumstances?traffic_source=rss",
+     "headline": "UK to deploy Typhoon jets to help defend Saudi Arabia from Houthi attacks",
+     "detail": "Ministry of Defence says warplanes will operate in 'defensive role' and not be used to attack Yemeni group.",
+     "url": "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
-     "published": "2026-10-13T06:42:58+00:00",
-     "fetched": "2026-10-13T07:06:40+00:00"
+     "published": "2026-10-20T11:37:43+00:00",
+     "fetched": "2026-10-20T12:09:51+00:00"
     },
     {
-     "headline": "Malaysia’s Firefly cancels flights to Singapore over haze from Indonesia",
-     "detail": "Move comes as haze from Indonesian fires makes Singapore and Kuala Lumpur the world’s most polluted cities.",
-     "url": "https://www.aljazeera.com/news/2026/10/13/malaysias-firefly-cancels-flights-to-singapore-over-transboundary-haze?traffic_source=rss",
+     "headline": "Australian MP Helen Haines remains in critical condition after car attack",
+     "detail": "Australian MP Helen Haines lost a leg and remains in critical condition after a car attack outside her office.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/australian-mp-helen-haines-remains-in-critical-condition-after-car-attack-2?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
-     "published": "2026-10-13T06:42:02+00:00",
-     "fetched": "2026-10-13T07:06:40+00:00"
+     "published": "2026-10-20T11:29:35+00:00",
+     "fetched": "2026-10-20T12:09:51+00:00"
     },
     {
-     "headline": "Imran Khan’s PTI braces to fight federal takeover of Khyber Pakhtunkhwa",
-     "detail": "Islamabad says the PTI failed to lead the fight against armed groups, but analysts question the takeover.",
-     "url": "https://www.aljazeera.com/news/2026/10/13/imran-khans-pti-braces-to-fight-federal-takeover-of-khyber-pakhtunkhwa?traffic_source=rss",
+     "headline": "Myanmar’s detained ex-leader Suu Kyi receives package from King Charles III",
+     "detail": "Military-backed government says it delivered two books and diplomatic correspondence to Aung San Suu Kyi.",
+     "url": "https://www.aljazeera.com/news/2026/10/20/myanmars-detained-ex-leader-suu-kyi-receives-package-from-king-charles-iii?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
-     "published": "2026-10-13T06:32:43+00:00",
-     "fetched": "2026-10-13T07:06:40+00:00"
+     "published": "2026-10-20T11:07:55+00:00",
+     "fetched": "2026-10-20T12:09:51+00:00"
     },
     {
-     "headline": "Middle East and Central Asia’s economy to shrink in 2026 amid war, IMF says",
-     "detail": "Iraq, Bahrain, Kuwait and Qatar face double-digit declines in GDP amid the fallout from the US-Israel war on Iran.",
-     "url": "https://www.aljazeera.com/economy/2026/10/13/middle-east-and-central-asias-economy-to-shrink-in-2026-amid-war-imf-says?traffic_source=rss",
+     "headline": "Masoud Pezeshkian: Peace, Not Surrender",
+     "detail": "Iranian President Masoud Pezeshkian on sanctions, regional conflict, US-Israel tensions and his call for Muslim unity.",
+     "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/10/20/masoud-pezeshkian-peace-not-surrender?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
-     "published": "2026-10-13T05:59:48+00:00",
-     "fetched": "2026-10-13T07:06:40+00:00"
+     "published": "2026-10-20T11:02:31+00:00",
+     "fetched": "2026-10-20T12:09:51+00:00"
     },
     {
-     "headline": "Michael Jordan’s ‘Last Dance’ NBA Finals jersey sells for record $14m",
-     "detail": "The basketball memorabilia ranks as the second-largest sale in history ⁠⁠among game-worn sports jerseys.",
-     "url": "https://www.aljazeera.com/sports/2026/10/13/michael-jordans-last-dance-nba-finals-jersey-sells-for-record-14m?traffic_source=rss",
+     "headline": "France’s growing debt woes: How bond markets set countries’ borrowing costs",
+     "detail": "France's rising debt is unnerving investors, but countries such as the US and Japan owe even greater sums.",
+     "url": "https://www.aljazeera.com/economy/2026/10/20/frances-growing-debt-woes-how-bond-markets-set-countries-borrowing-costs?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
-     "published": "2026-10-13T05:55:19+00:00",
-     "fetched": "2026-10-13T07:06:40+00:00"
+     "published": "2026-10-20T10:53:01+00:00",
+     "fetched": "2026-10-20T12:09:51+00:00"
     }
    ]
   }
@@ -397,5 +397,5 @@
   "news.com.au",
   "theaustralian.com.au"
  ],
- "blocked_checked_at": "2026-10-13T07:06:43+00:00"
+ "blocked_checked_at": "2026-10-20T12:09:52+00:00"
 }

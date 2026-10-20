@@ -1,104 +1,104 @@
 {
  "items": [
   {
-   "headline": "Meta releases its first frontier model, Muse Wonder",
-   "detail": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+   "headline": "Spotify launches paid podcast memberships with perks beyond bonus content",
+   "detail": "Spotify's new paid memberships let podcasters offer fans exclusive perks, including ad-free listening, early access, and bonus content, while keeping 90% of the revenue.",
    "outlet": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+   "url": "https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/",
    "region": "US",
    "source_url": "https://techcrunch.com/feed/",
-   "published": "2026-10-12T17:56:56+00:00",
-   "fetched": "2026-10-13T07:06:18+00:00"
+   "published": "2026-10-20T12:00:00+00:00",
+   "fetched": "2026-10-20T12:09:40+00:00"
   },
   {
-   "headline": "WindBorne wins a hefty US Air Force contract for its balloon data",
-   "detail": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+   "headline": "Oura adds new fitness metrics to show how workouts impact your body",
+   "detail": "While Oura has largely dominated the smart ring market for years, rivals like RingConn and Ultrahuman are emerging to dethrone it, putting pressure on the company to keep innovating.",
    "outlet": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+   "url": "https://techcrunch.com/2026/10/20/oura-is-launching-two-new-ways-to-track-and-understand-activity/",
    "region": "US",
    "source_url": "https://techcrunch.com/feed/",
-   "published": "2026-10-12T17:19:14+00:00",
-   "fetched": "2026-10-13T07:06:18+00:00"
+   "published": "2026-10-20T12:00:00+00:00",
+   "fetched": "2026-10-20T12:09:40+00:00"
   },
   {
-   "headline": "The Social Reckoning is flopping at the box office",
-   "detail": "As important as some of the messages in The Social Reckoning are, the movie has been drastically underperforming at the box office.",
+   "headline": "Spotify’s new podcast memberships let you pay for extra perks",
+   "detail": "Spotify is enabling podcast creators to earn more money through the platform by providing their fans with a way to pay to access exclusive content.",
    "outlet": "The Verge",
-   "url": "https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy",
+   "url": "https://www.theverge.com/entertainment/1013606/spotify-podcast-memberships-paid-subscription-launch",
    "region": "US",
    "source_url": "https://www.theverge.com/rss/index.xml",
-   "published": "2026-10-12T17:20:57-04:00",
-   "fetched": "2026-10-13T07:06:18+00:00"
+   "published": "2026-10-20T08:00:00-04:00",
+   "fetched": "2026-10-20T12:09:40+00:00"
   },
   {
-   "headline": "Meta has some Wonder Full new AI models",
-   "detail": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the…",
+   "headline": "Some Google Home Speakers caught downloading hundreds of gigs of data",
+   "detail": "Some Google Home Speaker owners are currently experiencing an issue in which hundreds of gigabytes of data are being continuously downloaded to their device in the background.",
    "outlet": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+   "url": "https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download",
    "region": "US",
    "source_url": "https://www.theverge.com/rss/index.xml",
-   "published": "2026-10-12T13:00:00-04:00",
-   "fetched": "2026-10-13T07:06:18+00:00"
+   "published": "2026-10-20T06:16:47-04:00",
+   "fetched": "2026-10-20T12:09:40+00:00"
   },
   {
-   "headline": "Cyber attack hits hundreds of French supermarkets, heating fridges to 122°F and sparking fires",
-   "detail": "Hackers targeted hundreds of French supermarkets in a large-scale cyberattack, causing refrigerators to overheat, spoiling food, and sparking fires.",
+   "headline": "AI rally fades away from Wall Street as a tiny IPO makes big waves",
+   "detail": "Here are the key things investors need to know to start the trading day.",
    "outlet": "CNBC Technology",
-   "url": "https://www.cnbc.com/2026/10/13/france-supermarket-hack-cyberattack-fridges-fires.html",
+   "url": "https://www.cnbc.com/2026/10/20/ai-rally-fades-elice-ipo-dives.html",
    "region": "US",
    "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910",
-   "published": "2026-10-13T06:44:00+00:00",
-   "fetched": "2026-10-13T07:06:18+00:00"
+   "published": "2026-10-20T11:34:03+00:00",
+   "fetched": "2026-10-20T12:09:41+00:00"
   },
   {
-   "headline": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
-   "detail": "The IMF says risks in the government bond market have worsened and that yields could jump sharply and disorderly.",
+   "headline": "HSBC CEO warns the AI boom won’t make every data center a good bet",
+   "detail": "Data center campuses house the servers that power AI and cloud computing.",
    "outlet": "CNBC Technology",
-   "url": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
+   "url": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
    "region": "US",
    "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910",
-   "published": "2026-10-13T04:54:07+00:00",
-   "fetched": "2026-10-13T07:06:18+00:00"
+   "published": "2026-10-20T10:39:17+00:00",
+   "fetched": "2026-10-20T12:09:41+00:00"
   },
   {
-   "headline": "39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania",
-   "detail": "39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania",
+   "headline": "Visiting Slate’s first showroom as its $25,000 electric truck nears production",
+   "detail": "Visiting Slate’s first showroom as its $25,000 electric truck nears production",
    "outlet": "Ars Technica",
-   "url": "https://arstechnica.com/health/2026/10/39-year-old-unvaccinated-woman-becomes-6th-measles-death-in-pennsylvania/",
+   "url": "https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/",
    "region": "US",
    "source_url": "https://feeds.arstechnica.com/arstechnica/index",
-   "published": "2026-10-12T21:54:35+00:00",
-   "fetched": "2026-10-13T07:06:20+00:00"
+   "published": "2026-10-20T11:00:16+00:00",
+   "fetched": "2026-10-20T12:09:41+00:00"
   },
   {
-   "headline": "Bumble shares soar after report dating firm in $1bn takeover talks",
-   "detail": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn.",
+   "headline": "Revolut outage hits 'multiple services' as thousands of users report app issues",
+   "detail": "Some users of the British neobank reported being unable to make some payments or access funds in its app on Tuesday.",
    "outlet": "BBC Technology",
-   "url": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
    "region": "Europe",
    "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-   "published": "2026-10-13T01:50:47+00:00",
-   "fetched": "2026-10-13T07:06:21+00:00"
+   "published": "2026-10-20T08:46:00+00:00",
+   "fetched": "2026-10-20T12:09:41+00:00"
   },
   {
-   "headline": "AI minister warns 'likely' UK's cyber defences will be breached",
-   "detail": "Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks.",
+   "headline": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
+   "detail": "Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail.",
    "outlet": "BBC Technology",
-   "url": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
    "region": "Europe",
    "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-   "published": "2026-10-12T15:03:42+00:00",
-   "fetched": "2026-10-13T07:06:21+00:00"
+   "published": "2026-10-19T21:12:30+00:00",
+   "fetched": "2026-10-20T12:09:41+00:00"
   },
   {
-   "headline": "Mainland Chinese traders boost Hong Kong stock buying for fourth month as AI bets surge",
-   "detail": "Mainland Chinese investors bought more Hong Kong stocks than they sold for a fourth consecutive month in September, with purchases accelerating despite persistent headwinds from elevated US Treasury yields and oil prices.",
+   "headline": "Who is Yuki Chen, China’s ‘superstar’ hacker who just joined AI leader Z.ai?",
+   "detail": "Yuki Chen, a prolific Chinese cybersecurity researcher, has joined leading Chinese artificial intelligence model company Z.ai as the country’s AI sector grapples with the technology’s growing impact on global cyberspace.",
    "outlet": "South China Morning Post",
-   "url": "https://www.scmp.com/business/china-business/article/3370564/mainland-chinese-traders-boost-hong-kong-stock-buying-4th-month-ai-bets-surge?utm_source=rss_feed",
+   "url": "https://www.scmp.com/tech/tech-trends/article/3371530/who-yuki-chen-chinas-superstar-hacker-who-just-joined-ai-leader-zai",
    "region": "Asia",
    "source_url": "https://www.scmp.com/rss/36/feed",
-   "published": "2026-10-13T02:00:13+00:00",
-   "fetched": "2026-10-13T07:06:22+00:00"
+   "published": "2026-10-20T11:30:06+00:00",
+   "fetched": "2026-10-20T12:09:42+00:00"
   }
  ]
 }
