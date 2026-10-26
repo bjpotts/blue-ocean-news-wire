@@ -13,7 +13,7 @@
      "outlet": "Small Caps",
      "source_url": "https://smallcaps.com.au/feed",
      "published": "2026-10-26T03:01:22+00:00",
-     "fetched": "2026-10-26T13:34:38+00:00"
+     "fetched": "2026-10-26T14:20:35+00:00"
     },
     {
      "headline": "Pureprofile Posts Record Quarterly Revenue as Platform Sales Double",
@@ -22,14 +22,14 @@
      "outlet": "Small Caps",
      "source_url": "https://smallcaps.com.au/feed",
      "published": "2026-10-26T02:05:56+00:00",
-     "fetched": "2026-10-26T13:34:38+00:00"
+     "fetched": "2026-10-26T14:20:35+00:00"
     }
    ]
   },
   {
    "key": "asia",
    "name": "Asia (Japan/Singapore/Hong Kong/China)",
-   "summary": "Asia (Japan/Singapore/Hong Kong/China) earnings reporting activity captured this run runs to 2 items, led by Chinese biotech giant WuXi AppTec raises 2026 outlook after profit surge. The remaining items cover the rest of the region's results, guidance and reporting-season flow as reported by the linked sources. No newer earnings item has been reported for Asia (Japan/Singapore/Hong Kong/China) since the last edition, so the same verified item(s) are carried forward.",
+   "summary": "Asia (Japan/Singapore/Hong Kong/China) earnings reporting activity captured this run runs to 3 items, led by Chinese biotech giant WuXi AppTec raises 2026 outlook after profit surge. The remaining items cover the rest of the region's results, guidance and reporting-season flow as reported by the linked sources. No newer earnings item has been reported for Asia (Japan/Singapore/Hong Kong/China) since the last edition, so the same verified item(s) are carried forward.",
    "fresh_count": 0,
    "items": [
     {
@@ -39,7 +39,16 @@
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
      "published": "2026-10-26T13:04:15+00:00",
-     "fetched": "2026-10-26T13:35:18+00:00"
+     "fetched": "2026-10-26T14:20:36+00:00"
+    },
+    {
+     "headline": "Anthropic’s IPO filing shows explosive growth, risks and staggering costs",
+     "detail": "Anthropic disclosed steep losses and red-hot revenue growth in ⁠its US IPO filing on Monday, as it laid out its ambition to build AI systems capable of reshaping the global economy despite the high costs of developing the technology.",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3372202/anthropics-ipo-filing-shows-explosive-growth-risks-and-staggering-costs",
+     "outlet": "South China Morning Post",
+     "source_url": "https://www.scmp.com/rss/91/feed",
+     "published": "2026-10-26T13:53:04+00:00",
+     "fetched": "2026-10-26T14:20:37+00:00"
     },
     {
      "headline": "Why China’s new estimate on Greenland ice loss speed is 55% lower than America’s",
@@ -48,7 +57,7 @@
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/91/feed",
      "published": "2026-10-26T10:19:46+00:00",
-     "fetched": "2026-10-26T13:35:19+00:00"
+     "fetched": "2026-10-26T14:20:37+00:00"
     }
    ]
   },
@@ -65,7 +74,7 @@
      "outlet": "Nasdaq",
      "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
      "published": "2026-10-24T15:05:00+00:00",
-     "fetched": "2026-10-26T13:35:22+00:00"
+     "fetched": "2026-10-26T14:20:38+00:00"
     },
     {
      "headline": "What Comfort Systems USA (FIX) Said on Its Q3 Earnings Call",
@@ -74,7 +83,7 @@
      "outlet": "Nasdaq",
      "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
      "published": "2026-10-23T18:04:54+00:00",
-     "fetched": "2026-10-26T13:35:22+00:00"
+     "fetched": "2026-10-26T14:20:38+00:00"
     },
     {
      "headline": "Byline Bancorp Q3 Earnings Call Highlights",
@@ -83,7 +92,7 @@
      "outlet": "Nasdaq",
      "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
      "published": "2026-10-23T18:04:52+00:00",
-     "fetched": "2026-10-26T13:35:22+00:00"
+     "fetched": "2026-10-26T14:20:38+00:00"
     },
     {
      "headline": "Woori Bank Q3 Earnings Call Highlights",
@@ -92,7 +101,7 @@
      "outlet": "Nasdaq",
      "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
      "published": "2026-10-23T17:04:39+00:00",
-     "fetched": "2026-10-26T13:35:22+00:00"
+     "fetched": "2026-10-26T14:20:38+00:00"
     },
     {
      "headline": "What SLB (SLB) Said on Its Q3 Earnings Call",
@@ -101,7 +110,7 @@
      "outlet": "Nasdaq",
      "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
      "published": "2026-10-23T17:04:38+00:00",
-     "fetched": "2026-10-26T13:35:22+00:00"
+     "fetched": "2026-10-26T14:20:38+00:00"
     }
    ]
   },
@@ -115,19 +124,9 @@
   {
    "key": "europe",
    "name": "Europe",
-   "summary": "A single verifiable earnings item was found for Europe this run: Anthropic files for Nasdaq IPO as revenue jumps to $16.3 billion. No newer earnings item has been reported for Europe since the last edition, so the same verified item(s) are carried forward.",
+   "summary": "No Company earnings reports available.",
    "fresh_count": 0,
-   "items": [
-    {
-     "headline": "Anthropic files for Nasdaq IPO as revenue jumps to $16.3 billion",
-     "detail": "Anthropic files for Nasdaq IPO as revenue jumps to $16.3 billion",
-     "url": "https://www.investing.com/news/stock-market-news/anthropic-files-for-nasdaq-ipo-as-revenue-jumps-to-163-billion-4972842",
-     "outlet": "Investing.com",
-     "source_url": "https://www.investing.com/rss/news_25.rss",
-     "published": null,
-     "fetched": "2026-10-26T13:35:25+00:00"
-    }
-   ]
+   "items": []
   },
   {
    "key": "rest",

@@ -3,8 +3,8 @@
   {
    "key": "china",
    "title": "China (Mainland) Top Performers",
-   "caption": "Source: TradingView Mainland China market movers, captured Tuesday 27 October 2026 at 00:31 AEST, covering the CST session most recently published at that time. Mainland boards run daily move limits, so clustering of moves at exactly the cap is normal rather than a data error.",
-   "fetched": "2026-10-27T00:31:40+11:00",
+   "caption": "Source: TradingView Mainland China market movers, captured Tuesday 27 October 2026 at 01:18 AEST, covering the CST session most recently published at that time. Mainland boards run daily move limits, so clustering of moves at exactly the cap is normal rather than a data error.",
+   "fetched": "2026-10-27T01:18:43+11:00",
    "stale": false,
    "gainer_note": "China Post Technology Co., Ltd. Class A led the China (Mainland) board for the session, up 20.01 per cent to CN\u00a534.66 on reported volume of 9.84M shares. The move is reported here as captured from TradingView Mainland China market movers at the time of this build. No company announcement covering it could be found in the local press, so no catalyst is asserted - a common outcome for a thinly traded stock.",
    "gainer_note_sources": [],
@@ -158,181 +158,181 @@
   {
    "key": "us",
    "title": "US Top Performers",
-   "caption": "Source: Yahoo Finance US market movers, captured Tuesday 27 October 2026 at 00:31 AEST, covering the ET session most recently published at that time. Share volumes as reported by Yahoo Finance.",
-   "fetched": "2026-10-27T00:31:40+11:00",
+   "caption": "Source: Yahoo Finance US market movers, captured Tuesday 27 October 2026 at 01:18 AEST, covering the ET session most recently published at that time. Share volumes as reported by Yahoo Finance.",
+   "fetched": "2026-10-27T01:18:43+11:00",
    "stale": false,
-   "gainer_note": "Robert Half Inc. led the US board for the session, up 21.74 per cent to $45.87 on reported volume of 6.898M shares. Reported alongside the move, Simply Wall Street on 26 October 2026:",
+   "gainer_note": "Surgery Partners, Inc. led the US board for the session, up 46.06 per cent to $23.00 on reported volume of 31.008M shares. Reported alongside the move, Stock Titan on 27 October 2026:",
    "gainer_note_sources": [
     {
-     "title": "Robert Half Inc. (NYSE:RHI) Just Reported And Analysts Have Been Lifting Their Price Targets - Simply Wall Street",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWWRYQ053eVFURF9JMUFISlBXamFQLTdxSWNwQWNESmROWER3Y1o5QnJYOTF2UUhGTW1Uam9EbTh4eUIwenJJMUJpSmdfajItMHdNY2FKVW5wQmRtQzVVS1ducDlxak4wZjd1OXhNdEp1RmVBSzZXX1o2WTRFeHliVmlTa2hIclVyRzNaU1kxQ1BQZmtQanNVM2dmbk42SFllV0sxTDR5Y1c4bnJOdGlZYjRoUHlTdTdKY29FQnMxWjBXLXhFdlJvSVdXR1BCZ0NPUnJEadIB2gFBVV95cUxNRm9sZEQtdHhJM3ctUFc1ZER4YklvSkt3ZlhzZzNJUHlrWVBFMEpqV0hLMUxpbkRub01yRFg1NUw2TFg3eU1JV0VBM29lY01aOVhuVDBNLXZkVENhTU9rSUgyVVh6djk0TUJGVmJBWjUyYWZ5dFNKMUFVOE9MSTUtd1NiN1YxUVJsaDFIb3RyNWExdTNDRXA4aklMRnJrb0JfRUhKc2gzeG1JeE0wdEgwci02azQzbjV3Qk56bEF2WFhTTzFDdi0yS0hSZ1dINDlRUHlZcFJLRDNTdw?oc=5",
-     "publisher": "Simply Wall Street",
-     "published": "2026-10-26T02:40:17+11:00"
+     "title": "Merger supporters report about 38.15% beneficial ownership in Surgery Partners (SGRY). - Stock Titan",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRWZ5TExsQUtTT2FNSG1EOXNzVGpXUl9DRlh0bFh1c1dyRHpGbjg1MGc1bE50elRqSnYyRDRsV0NYRTAydk5XampyMXQ5bHRmLTFJWVMtZHdPVng5czVYVFpnLW84U3AzVldGWVZ2eGRGaWdZYkh6cWFDY2tHS3RhU2ZFUUF0VDlvZXRQcHdERW5ReThnNU5lYVd6bWdwaHQ4X1JNeU42bnZ1TE51LTlublJzVXc3TXhuRThub0JReTBaR2J2SVRmNEF3?oc=5",
+     "publisher": "Stock Titan",
+     "published": "2026-10-27T00:27:32+11:00"
     }
    ],
-   "loser_note": "LKQ Corporation was the steepest decliner on the US board for the session, down 22.47 per cent to $17.42 on reported volume of 23.406M shares. Reported alongside the move, MarketBeat on 26 October 2026:",
+   "loser_note": "XP Inc. was the steepest decliner on the US board for the session, down 51.02 per cent to $14.90 on reported volume of 39.602M shares. Reported alongside the move, MarketBeat on 25 October 2026:",
    "loser_note_sources": [
     {
-     "title": "LKQ Corporation $LKQ Stock Position Lifted by Leeward Investments LLC MA - MarketBeat",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcDJKT1RwUTZJUVF0cXl1LVhWYVAzSnR0bXlGcnVaYWpPNTVYNktLbkx1R3FJVm9ITmYzX1N6TTlDRmZZQXF3STJfZ3hMbVFaODhxVWZDTlJ3R0lzNGJWUWo0YWhVbnZaMHdUVmpXSzk2NE90NHBEOGhudktHcXFzcWZUeDhJc01JZGdfNnZTcXk1cVQ3cEh3SUU0eEdWWWJ2U0gzazYyTmRUUjN6UnVzYlNSeGdvYVliNU5hMXlZY19PR2xzbEJJdlhZbFM?oc=5",
+     "title": "XP Inc. (NASDAQ:XP) Stock Has Consensus Price Target of $28.80 According to Analysts - MarketBeat",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNS3R4RkI1ZGE0a250WDVSdGlfRWFjUDdZWE9IZDJ2UHlwR1pEcmx4R1JsNWw3N3hnNDhuV09lUEJXQ3dtRi0tWEVXbHFGWkNOQVdMaWhoV0djd2JDZjQwVUNuXzVMRFRXMWpBRnZaODNpWng3NW9GV3FHY2FCWDFKNkllc1YxcFdES054ZU04LUFWbHliNXB6NnNkdVZEUkN0Y2lQUFV1NElLSW43M3dNTloyamZmU2gxbEVnQk90RzhjaTJQSUpqdEtTNllmYmdwc0RsbGlQS2dOMFU?oc=5",
      "publisher": "MarketBeat",
-     "published": "2026-10-26T20:56:43+11:00"
+     "published": "2026-10-25T22:42:07+11:00"
     }
    ],
    "gainers": [
     {
-     "name": "Venture Global, Inc. (VG)",
-     "url": "https://finance.yahoo.com/quote/VG/",
-     "price": "$14.00",
-     "chg": "+9.29%",
-     "vol": "22.624M"
+     "name": "Surgery Partners, Inc. (SGRY)",
+     "url": "https://finance.yahoo.com/quote/SGRY/",
+     "price": "$23.00",
+     "chg": "+46.06%",
+     "vol": "31.008M"
     },
     {
-     "name": "Crown Castle Inc. (CCI)",
-     "url": "https://finance.yahoo.com/quote/CCI/",
-     "price": "$85.97",
-     "chg": "+9.06%",
-     "vol": "17.324M"
+     "name": "Range Resources Corporation (RRC)",
+     "url": "https://finance.yahoo.com/quote/RRC/",
+     "price": "$52.93",
+     "chg": "+16.27%",
+     "vol": "7.395M"
     },
     {
-     "name": "Maplebear Inc. (CART)",
-     "url": "https://finance.yahoo.com/quote/CART/",
-     "price": "$56.44",
-     "chg": "+9.21%",
-     "vol": "16.098M"
+     "name": "Xencor, Inc. (XNCR)",
+     "url": "https://finance.yahoo.com/quote/XNCR/",
+     "price": "$30.42",
+     "chg": "+20.83%",
+     "vol": "4.262M"
     },
     {
-     "name": "Genmab A/S (GMAB)",
-     "url": "https://finance.yahoo.com/quote/GMAB/",
-     "price": "$43.79",
-     "chg": "+9.48%",
-     "vol": "13.001M"
+     "name": "Liquidia Corporation (LQDA)",
+     "url": "https://finance.yahoo.com/quote/LQDA/",
+     "price": "$45.42",
+     "chg": "+6.48%",
+     "vol": "998,765"
     },
     {
-     "name": "Netskope, Inc. (NTSK)",
-     "url": "https://finance.yahoo.com/quote/NTSK/",
-     "price": "$24.28",
-     "chg": "+9.37%",
-     "vol": "8.809M"
+     "name": "PBF Energy Inc. (PBF)",
+     "url": "https://finance.yahoo.com/quote/PBF/",
+     "price": "$80.85",
+     "chg": "+6.14%",
+     "vol": "534,254"
     },
     {
-     "name": "Robert Half Inc. (RHI)",
-     "url": "https://finance.yahoo.com/quote/RHI/",
-     "price": "$45.87",
-     "chg": "+21.74%",
-     "vol": "6.898M"
-    },
-    {
-     "name": "SailPoint, Inc. (SAIL)",
-     "url": "https://finance.yahoo.com/quote/SAIL/",
-     "price": "$21.79",
-     "chg": "+8.62%",
-     "vol": "6.399M"
-    },
-    {
-     "name": "Fastly, Inc. (FSLY)",
-     "url": "https://finance.yahoo.com/quote/FSLY/",
-     "price": "$24.41",
-     "chg": "+8.73%",
-     "vol": "4.987M"
-    },
-    {
-     "name": "Zai Lab Limited (ZLAB)",
-     "url": "https://finance.yahoo.com/quote/ZLAB/",
-     "price": "$24.03",
-     "chg": "+9.03%",
-     "vol": "3.691M"
-    },
-    {
-     "name": "Noble Corporation plc (NE)",
-     "url": "https://finance.yahoo.com/quote/NE/",
-     "price": "$47.70",
-     "chg": "+8.53%",
-     "vol": "2.003M"
-    }
-   ],
-   "losers": [
-    {
-     "name": "Bloom Energy Corporation (BE)",
-     "url": "https://finance.yahoo.com/quote/BE/",
-     "price": "$193.30",
-     "chg": "-11.24%",
-     "vol": "36.016M"
-    },
-    {
-     "name": "Flagstar Bank, National Association (FLG)",
-     "url": "https://finance.yahoo.com/quote/FLG/",
-     "price": "$10.38",
-     "chg": "-9.27%",
-     "vol": "24.247M"
-    },
-    {
-     "name": "LKQ Corporation (LKQ)",
-     "url": "https://finance.yahoo.com/quote/LKQ/",
-     "price": "$17.42",
-     "chg": "-22.47%",
-     "vol": "23.406M"
-    },
-    {
-     "name": "Tango Therapeutics, Inc. (TNGX)",
-     "url": "https://finance.yahoo.com/quote/TNGX/",
-     "price": "$23.34",
-     "chg": "-16.43%",
-     "vol": "15.853M"
-    },
-    {
-     "name": "SLM Corporation (SLM)",
-     "url": "https://finance.yahoo.com/quote/SLM/",
-     "price": "$19.42",
-     "chg": "-10.78%",
-     "vol": "12.98M"
-    },
-    {
-     "name": "Credo Technology Group Holding Ltd (CRDO)",
-     "url": "https://finance.yahoo.com/quote/CRDO/",
-     "price": "$147.29",
-     "chg": "-9.51%",
-     "vol": "12.677M"
+     "name": "Oruka Therapeutics, Inc. (ORKA)",
+     "url": "https://finance.yahoo.com/quote/ORKA/",
+     "price": "$89.52",
+     "chg": "+11.69%",
+     "vol": "368,138"
     },
     {
      "name": "Corcept Therapeutics Incorporated (CORT)",
      "url": "https://finance.yahoo.com/quote/CORT/",
-     "price": "$85.86",
-     "chg": "-20.13%",
-     "vol": "3.099M"
+     "price": "$91.31",
+     "chg": "+6.34%",
+     "vol": "311,841"
     },
     {
-     "name": "GPGI, Inc. (GPGI)",
-     "url": "https://finance.yahoo.com/quote/GPGI/",
-     "price": "$11.34",
-     "chg": "-9.64%",
-     "vol": "1.727M"
+     "name": "Delek US Holdings, Inc. (DK)",
+     "url": "https://finance.yahoo.com/quote/DK/",
+     "price": "$78.77",
+     "chg": "+5.86%",
+     "vol": "278,920"
     },
     {
      "name": "Comfort Systems USA, Inc. (FIX)",
      "url": "https://finance.yahoo.com/quote/FIX/",
-     "price": "$1,160.86",
-     "chg": "-9.26%",
-     "vol": "1.368M"
+     "price": "$1,230.32",
+     "chg": "+5.98%",
+     "vol": "146,918"
     },
     {
-     "name": "Regencell Bioscience Holdings Limited (RGC)",
-     "url": "https://finance.yahoo.com/quote/RGC/",
-     "price": "$7.67",
-     "chg": "-21.81%",
-     "vol": "476,525"
+     "name": "Par Pacific Holdings, Inc. (PARR)",
+     "url": "https://finance.yahoo.com/quote/PARR/",
+     "price": "$82.06",
+     "chg": "+6.36%",
+     "vol": "108,138"
+    }
+   ],
+   "losers": [
+    {
+     "name": "Nu Holdings Ltd. (NU)",
+     "url": "https://finance.yahoo.com/quote/NU/",
+     "price": "$12.15",
+     "chg": "-19.89%",
+     "vol": "127.749M"
+    },
+    {
+     "name": "Ita\u00fa Unibanco Holding S.A. (ITUB)",
+     "url": "https://finance.yahoo.com/quote/ITUB/",
+     "price": "$7.35",
+     "chg": "-24.03%",
+     "vol": "53.8M"
+    },
+    {
+     "name": "XP Inc. (XP)",
+     "url": "https://finance.yahoo.com/quote/XP/",
+     "price": "$14.90",
+     "chg": "-51.02%",
+     "vol": "39.602M"
+    },
+    {
+     "name": "Petr\u00f3leo Brasileiro S.A. - Petrobras (PBR)",
+     "url": "https://finance.yahoo.com/quote/PBR/",
+     "price": "$21.53",
+     "chg": "-17.70%",
+     "vol": "32.029M"
+    },
+    {
+     "name": "Petr\u00f3leo Brasileiro S.A. - Petrobras (PBR-A)",
+     "url": "https://finance.yahoo.com/quote/PBR-A/",
+     "price": "$19.00",
+     "chg": "-19.25%",
+     "vol": "14.019M"
+    },
+    {
+     "name": "PagSeguro Digital Ltd. (PAGS)",
+     "url": "https://finance.yahoo.com/quote/PAGS/",
+     "price": "$8.52",
+     "chg": "-25.52%",
+     "vol": "7.142M"
+    },
+    {
+     "name": "Ultrapar Participa\u00e7\u00f5es S.A. (UGP)",
+     "url": "https://finance.yahoo.com/quote/UGP/",
+     "price": "$6.31",
+     "chg": "-18.48%",
+     "vol": "4.807M"
+    },
+    {
+     "name": "Telef\u00f4nica Brasil S.A. (VIV)",
+     "url": "https://finance.yahoo.com/quote/VIV/",
+     "price": "$10.92",
+     "chg": "-15.74%",
+     "vol": "1.519M"
+    },
+    {
+     "name": "TIM S.A. (TIMB)",
+     "url": "https://finance.yahoo.com/quote/TIMB/",
+     "price": "$16.83",
+     "chg": "-12.21%",
+     "vol": "918,507"
+    },
+    {
+     "name": "Companhia Paranaense de Energia (ELPC)",
+     "url": "https://finance.yahoo.com/quote/ELPC/",
+     "price": "$12.06",
+     "chg": "-13.30%",
+     "vol": "892,674"
     }
    ]
   },
   {
    "key": "uk",
    "title": "UK (London) Top Performers",
-   "caption": "Source: TradingView United Kingdom market movers, captured Tuesday 27 October 2026 at 00:31 AEST, covering the BST session most recently published at that time. Prices quoted in pence (GBX) as displayed by the exchange. Smaller caps may be Aquis-listed rather than LSE main market.",
-   "fetched": "2026-10-27T00:31:40+11:00",
+   "caption": "Source: TradingView United Kingdom market movers, captured Tuesday 27 October 2026 at 01:18 AEST, covering the BST session most recently published at that time. Prices quoted in pence (GBX) as displayed by the exchange. Smaller caps may be Aquis-listed rather than LSE main market.",
+   "fetched": "2026-10-27T01:18:43+11:00",
    "stale": false,
    "gainer_note": "AIQ Limited led the UK (London) board for the session, up 40.83 per cent to 8.45p on reported volume of 45.91K shares. The move is reported here as captured from TradingView United Kingdom market movers at the time of this build. No company announcement covering it could be found in the local press, so no catalyst is asserted - a common outcome for a thinly traded stock.",
    "gainer_note_sources": [],
-   "loser_note": "Sareum Holdings plc was the steepest decliner on the UK (London) board for the session, down 34.64 per cent to 18.0p on reported volume of 2.94M shares. Reported alongside the move, Proactive financial news on 26 October 2026:",
+   "loser_note": "Sareum Holdings plc was the steepest decliner on the UK (London) board for the session, down 37.27 per cent to 17.3p on reported volume of 3.04M shares. Reported alongside the move, Proactive financial news on 26 October 2026:",
    "loser_note_sources": [
     {
      "title": "Sareum shares plunge as much as 49% after discounted \u00a33.2 million fundraise - Proactive financial news",
@@ -343,60 +343,60 @@
    ],
    "gainers": [
     {
+     "name": "First Class Metals Plc (FCM)",
+     "url": "https://www.tradingview.com/symbols/LSE-FCM/",
+     "price": "2.84p",
+     "chg": "+9.23%",
+     "vol": "5.59M"
+    },
+    {
      "name": "Kendrick Resources PLC (KEN)",
      "url": "https://www.tradingview.com/symbols/LSE-KEN/",
-     "price": "4.95p",
-     "chg": "+23.75%",
-     "vol": "4.47M"
+     "price": "5.00p",
+     "chg": "+25.00%",
+     "vol": "4.49M"
     },
     {
      "name": "Atlantic Lithium Limited. (ALL)",
      "url": "https://www.tradingview.com/symbols/LSE-ALL/",
-     "price": "15.83p",
-     "chg": "+13.85%",
-     "vol": "3.51M"
-    },
-    {
-     "name": "Helix Exploration Plc (HEX)",
-     "url": "https://www.tradingview.com/symbols/LSE-HEX/",
-     "price": "30.28p",
-     "chg": "+11.12%",
-     "vol": "2.65M"
+     "price": "15.80p",
+     "chg": "+13.67%",
+     "vol": "3.57M"
     },
     {
      "name": "Pensana Plc (PRE)",
      "url": "https://www.tradingview.com/symbols/LSE-PRE/",
-     "price": "46.00p",
-     "chg": "+25.68%",
-     "vol": "2.64M"
+     "price": "45.00p",
+     "chg": "+22.95%",
+     "vol": "3.01M"
+    },
+    {
+     "name": "Helix Exploration Plc (HEX)",
+     "url": "https://www.tradingview.com/symbols/LSE-HEX/",
+     "price": "30.36p",
+     "chg": "+11.42%",
+     "vol": "2.72M"
     },
     {
      "name": "Blackbird PLC (BIRD)",
      "url": "https://www.tradingview.com/symbols/LSE-BIRD/",
-     "price": "3.72p",
-     "chg": "+18.10%",
-     "vol": "1.34M"
+     "price": "3.59p",
+     "chg": "+13.93%",
+     "vol": "1.62M"
     },
     {
      "name": "Critical Metals Plc (CRTM)",
      "url": "https://www.tradingview.com/symbols/LSE-CRTM/",
-     "price": "97.8p",
-     "chg": "+19.29%",
-     "vol": "472.25K"
-    },
-    {
-     "name": "European Metals Holdings Ltd (EMH)",
-     "url": "https://www.tradingview.com/symbols/LSE-EMH/",
-     "price": "7.50p",
-     "chg": "+10.29%",
-     "vol": "335.13K"
+     "price": "98.0p",
+     "chg": "+19.51%",
+     "vol": "533.29K"
     },
     {
      "name": "Computacenter Plc (CCC)",
      "url": "https://www.tradingview.com/symbols/LSE-CCC/",
-     "price": "5,040p",
-     "chg": "+9.80%",
-     "vol": "312.96K"
+     "price": "5,055p",
+     "chg": "+10.13%",
+     "vol": "327.06K"
     },
     {
      "name": "Cora Gold Ltd. (CORA)",
@@ -417,16 +417,16 @@
     {
      "name": "Georgina Energy plc (GEX)",
      "url": "https://www.tradingview.com/symbols/LSE-GEX/",
-     "price": "8.30p",
-     "chg": "-11.70%",
-     "vol": "10.19M"
+     "price": "8.29p",
+     "chg": "-11.81%",
+     "vol": "10.4M"
     },
     {
      "name": "Sareum Holdings plc (SAR)",
      "url": "https://www.tradingview.com/symbols/LSE-SAR/",
-     "price": "18.0p",
-     "chg": "-34.64%",
-     "vol": "2.94M"
+     "price": "17.3p",
+     "chg": "-37.27%",
+     "vol": "3.04M"
     },
     {
      "name": "Aura Renewable Acquisitions PLC (ARA)",
@@ -436,11 +436,18 @@
      "vol": "348.5K"
     },
     {
-     "name": "Cirata Plc (CRTA)",
-     "url": "https://www.tradingview.com/symbols/LSE-CRTA/",
-     "price": "4.50p",
-     "chg": "-16.97%",
-     "vol": "337.03K"
+     "name": "Eden Biosolutions PLC (EDEN)",
+     "url": "https://www.tradingview.com/symbols/LSE-EDEN/",
+     "price": "2.20p",
+     "chg": "-10.20%",
+     "vol": "229.99K"
+    },
+    {
+     "name": "KR1 Plc (KR1)",
+     "url": "https://www.tradingview.com/symbols/LSE-KR1/",
+     "price": "22.0p",
+     "chg": "-10.20%",
+     "vol": "223.47K"
     },
     {
      "name": "B90 Holdings plc (B90)",
@@ -450,18 +457,11 @@
      "vol": "125.51K"
     },
     {
-     "name": "Diales Group PLC (DIAL)",
-     "url": "https://www.tradingview.com/symbols/LSE-DIAL/",
-     "price": "28.7p",
-     "chg": "-11.75%",
-     "vol": "124.3K"
-    },
-    {
      "name": "Alkemy Capital Investments Plc (ALK)",
      "url": "https://www.tradingview.com/symbols/LSE-ALK/",
-     "price": "205p",
-     "chg": "-11.06%",
-     "vol": "36.05K"
+     "price": "207p",
+     "chg": "-10.20%",
+     "vol": "83.03K"
     },
     {
      "name": "Safestay Plc (SSTY)",

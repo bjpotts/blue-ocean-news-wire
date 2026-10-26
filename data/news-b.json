@@ -4,24 +4,16 @@
    "key": "nbc",
    "name": "NBC News",
    "site": "nbcnews.com",
-   "summary": "NBC News, covering US national news and politics is leading with Trump and Obama rally supporters in key battleground states ahead of midterms; Send your questions for Steve Kornacki on the midterm elections; Brazilian President Lula wins a historic fourth term.",
+   "summary": "NBC News, covering US national news and politics is leading with Anthropic releases IPO filing ahead of highly-anticipated stock debut; Brazilian President Lula wins a historic fourth term; Send your questions for Steve Kornacki on the midterm elections.",
    "note": null,
    "items": [
     {
-     "headline": "Trump and Obama rally supporters in key battleground states ahead of midterms",
-     "detail": "President Trump and former President Obama both took to Michigan this weekend to rally supporters in the key battleground state ahead of midterms. NBC News’ Shaquille Brewster reports from Michigan.",
-     "url": "https://www.nbcnews.com/nightly-news/video/trump-and-obama-rally-supporters-in-key-battleground-states-ahead-of-midterms-272200773800",
+     "headline": "Anthropic releases IPO filing ahead of highly-anticipated stock debut",
+     "detail": "Artificial intelligence startup Anthropic unveils its first public IPO filing ahead of what is expected to be one of the largest stock debuts in history.",
+     "url": "https://www.nbcnews.com/business/markets/anthropic-releases-ipo-filing-ahead-highly-anticipated-stock-debut-rcna605676",
      "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
-     "published": "2026-10-25T22:49:25+00:00",
-     "fetched": "2026-10-26T13:35:37+00:00"
-    },
-    {
-     "headline": "Send your questions for Steve Kornacki on the midterm elections",
-     "detail": "Election Day is quickly approaching and, with just over a week to go, Steve Kornacki is ready to answer your questions.",
-     "url": "https://www.nbcnews.com/politics/elections/send-questions-steve-kornacki-midterm-elections-rcna605264",
-     "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
-     "published": "2026-10-23T22:17:39+00:00",
-     "fetched": "2026-10-26T13:35:37+00:00"
+     "published": "2026-10-26T13:12:04+00:00",
+     "fetched": "2026-10-26T14:20:53+00:00"
     },
     {
      "headline": "Brazilian President Lula wins a historic fourth term",
@@ -29,15 +21,23 @@
      "url": "https://www.nbcnews.com/video/brazilian-president-lula-wins-a-historic-fourth-term-272213573962",
      "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
      "published": "2026-10-26T09:35:12+00:00",
-     "fetched": "2026-10-26T13:35:37+00:00"
+     "fetched": "2026-10-26T14:20:53+00:00"
     },
     {
-     "headline": "Anthropic releases IPO filing ahead of highly-anticipated stock debut",
-     "detail": "Artificial intelligence startup Anthropic unveils its first public IPO filing ahead of what is expected to be one of the largest stock debuts in history.",
-     "url": "https://www.nbcnews.com/business/markets/anthropic-releases-ipo-filing-ahead-highly-anticipated-stock-debut-rcna605676",
+     "headline": "Send your questions for Steve Kornacki on the midterm elections",
+     "detail": "Election Day is quickly approaching and, with just over a week to go, Steve Kornacki is ready to answer your questions.",
+     "url": "https://www.nbcnews.com/politics/elections/send-questions-steve-kornacki-midterm-elections-rcna605264",
      "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
-     "published": "2026-10-26T13:12:04+00:00",
-     "fetched": "2026-10-26T13:35:37+00:00"
+     "published": "2026-10-23T22:17:39+00:00",
+     "fetched": "2026-10-26T14:20:53+00:00"
+    },
+    {
+     "headline": "Police arrest a 15-year-old in shooting near Florida A&M stadium",
+     "detail": "Police have arrested a 15-year-old boy in connection with the mass shooting near Florida A&M University’s Bragg Memorial Stadium. NBC News' George Solis reports the latest updates on the investigation and the charges against the suspect.",
+     "url": "https://www.nbcnews.com/now/video/police-arrest-suspect-in-shooting-near-florida-a-m-stadium-272217669952",
+     "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
+     "published": "2026-10-26T12:37:48+00:00",
+     "fetched": "2026-10-26T14:20:53+00:00"
     },
     {
      "headline": "Police arrest a 15-year-old in shooting near Florida A&M stadium that injured 12",
@@ -45,7 +45,7 @@
      "url": "https://www.nbcnews.com/news/us-news/police-arrest-teenager-shooting-florida-stadium-rcna605677",
      "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
      "published": "2026-10-26T12:10:38+00:00",
-     "fetched": "2026-10-26T13:35:37+00:00"
+     "fetched": "2026-10-26T14:20:53+00:00"
     }
    ]
   },
@@ -53,48 +53,48 @@
    "key": "thehill",
    "name": "The Hill",
    "site": "thehill.com",
-   "summary": "The Hill, reporting on Congress, the White House and US policy is leading with What is voter roll-off and could it play a role in who wins the election this year?; McConnell: Latest Trump bid to end Russia, Ukraine war 'certain to fail’; Corruption might not be the winning issue Democrats expect.",
+   "summary": "The Hill, reporting on Congress, the White House and US policy is leading with The problem with 'woke' businesses: Good intentions don't pay the bills.; Jeffries: Democrats will deal with Hegseth if Trump doesn't; AI giant Anthropic files to make stock market debut.",
    "note": null,
    "items": [
     {
-     "headline": "What is voter roll-off and could it play a role in who wins the election this year?",
-     "detail": "When the votes are finally tallied at the end of an election, it's normal to see the total number of votes cast in the races at the top of the ticket are slightly higher compared to the races at the bottom. It's known as voter roll-off.",
-     "url": "https://thehill.com/homenews/campaign/6170909-what-is-voter-roll-off-and-could-it-play-a-role-in-who-wins-the-election-this-year/",
+     "headline": "The problem with 'woke' businesses: Good intentions don't pay the bills.",
+     "detail": "Starting a business to advance a cause is perfectly fine. But expecting that cause to keep the business alive is another matter entirely.",
+     "url": "https://thehill.com/opinion/finance/6169207-progressive-ideology-financial-strain/",
      "source_url": "https://thehill.com/news/feed/",
-     "published": "2026-10-26T13:02:06+00:00",
-     "fetched": "2026-10-26T13:35:37+00:00"
+     "published": "2026-10-26T14:00:00+00:00",
+     "fetched": "2026-10-26T14:20:53+00:00"
     },
     {
-     "headline": "McConnell: Latest Trump bid to end Russia, Ukraine war 'certain to fail’",
-     "detail": "Former Senate GOP Leader Mitch McConnell (R-Ky.) is warning that President Trump’s efforts to end war between Moscow and Ukraine by “coddling” Russian President Vladimir Putin and limiting assistance to Kyiv is “certain to fail.”…",
-     "url": "https://thehill.com/homenews/senate/6171768-mitch-mcconnell-donald-trump-russia-ukraine/",
+     "headline": "Jeffries: Democrats will deal with Hegseth if Trump doesn't",
+     "detail": "Democratic House Leader Hakeem Jeffries (D-N.Y.) said Democrats will run Defense Secretary Pete Hegseth “out of town” if they take the majority in the November midterms.",
+     "url": "https://thehill.com/homenews/house/6172006-jeffries-democrats-hegseth-impeachment/",
      "source_url": "https://thehill.com/news/feed/",
-     "published": "2026-10-26T13:00:04+00:00",
-     "fetched": "2026-10-26T13:35:37+00:00"
+     "published": "2026-10-26T13:57:23+00:00",
+     "fetched": "2026-10-26T14:20:53+00:00"
     },
     {
-     "headline": "Corruption might not be the winning issue Democrats expect",
-     "detail": "Democrats should remember that throughout American history, it has seldom been easy to turn the perceived corruption of one party into an electoral advantage for the other.",
-     "url": "https://thehill.com/opinion/campaign/6169407-voters-skeptical-washington-corruption/",
+     "headline": "AI giant Anthropic files to make stock market debut",
+     "detail": "Anthropic publicly filed for an initial public offering (IPO) on Monday morning in what is expected to be a historic stock market debut.",
+     "url": "https://thehill.com/policy/technology/6171816-anthropic-files-for-ai-ipo/",
      "source_url": "https://thehill.com/news/feed/",
-     "published": "2026-10-26T13:00:00+00:00",
-     "fetched": "2026-10-26T13:35:37+00:00"
+     "published": "2026-10-26T13:47:35+00:00",
+     "fetched": "2026-10-26T14:20:53+00:00"
     },
     {
-     "headline": "Live updates: Trump, Vance head to reliably red states to engage GOP base",
-     "detail": "With eight days to go before the midterms, President Trump will head to one of the most reliably red states — Mississippi — to campaign for Republican Sen. Cindy Hyde-Smith, as Democrats see a sliver of optimism in the state.",
-     "url": "https://thehill.com/homenews/state-watch/6171272-live-updates-trump-midterm-elections-iran/",
+     "headline": "Trump praises 'proud, resilient' Libyan people after labeling country 'terror-infested'",
+     "detail": "President Trump on Sunday praised Libya's \"proud, resilient\" people after calling the African country \"terror-infested\" at a rally in Georgia.",
+     "url": "https://thehill.com/homenews/administration/6171751-trump-praises-libyan-people/",
      "source_url": "https://thehill.com/news/feed/",
-     "published": "2026-10-26T12:57:14+00:00",
-     "fetched": "2026-10-26T13:35:37+00:00"
+     "published": "2026-10-26T13:30:41+00:00",
+     "fetched": "2026-10-26T14:20:53+00:00"
     },
     {
-     "headline": "Open enrollment begins: What Medicare beneficiaries need to know for 2027",
-     "detail": "From GLP-1 drug prices to higher deductibles, several Medicare changes could affect seniors' wallets in 2027.",
-     "url": "https://thehill.com/policy/healthcare/6171704-open-enrollment-begins-what-medicare-beneficiaries-need-to-know-for-2027/",
+     "headline": "Trump and Vance accelerate downward political spiral",
+     "detail": "Senior political analyst Juan Williams criticizes several candidates in the 2026 midterm elections for employing increasingly unethical and deceptive political advertising tactics.",
+     "url": "https://thehill.com/opinion/campaign/6170572-scummy-political-advertising-lies/",
      "source_url": "https://thehill.com/news/feed/",
-     "published": "2026-10-26T12:57:01+00:00",
-     "fetched": "2026-10-26T13:35:37+00:00"
+     "published": "2026-10-26T13:30:00+00:00",
+     "fetched": "2026-10-26T14:20:53+00:00"
     }
    ]
   },
@@ -102,16 +102,24 @@
    "key": "time",
    "name": "Time",
    "site": "time.com",
-   "summary": "Time magazine, covering US and world affairs is leading with How Japan's Reforms on Imperial Succession Affect Its Monarchy; AI Colonies Are Coming; Israel's Choice.",
+   "summary": "Time magazine, covering US and world affairs is leading with TIME Is Looking For the World’s Top GreenTech Companies of 2027; How Japan's Reforms on Imperial Succession Affect Its Monarchy; AI Colonies Are Coming.",
    "note": null,
    "items": [
+    {
+     "headline": "TIME Is Looking For the World’s Top GreenTech Companies of 2027",
+     "detail": "—Mike Mareen—Getty Images In 2027, TIME will publish its third annual ranking of the World's Top GreenTech Companies in partnership with Statista, a leading international provider of market and consumer data and rankings.",
+     "url": "https://time.com/article/2026/10/26/worlds-top-greentech-companies-2027-search/",
+     "source_url": "https://time.com/feed/",
+     "published": "2026-10-26T13:49:02+00:00",
+     "fetched": "2026-10-26T14:20:54+00:00"
+    },
     {
      "headline": "How Japan's Reforms on Imperial Succession Affect Its Monarchy",
      "detail": "New policies expand the pool of eligible successors to the throne but maintain that they must be male.",
      "url": "https://time.com/article/2026/10/26/japan-imperial-succession-new-policies-monarchy-hisahito-aiko/",
      "source_url": "https://time.com/feed/",
      "published": "2026-10-26T12:06:55+00:00",
-     "fetched": "2026-10-26T13:35:38+00:00"
+     "fetched": "2026-10-26T14:20:54+00:00"
     },
     {
      "headline": "AI Colonies Are Coming",
@@ -119,7 +127,7 @@
      "url": "https://time.com/article/2026/10/26/ai-colonies-are-coming/",
      "source_url": "https://time.com/feed/",
      "published": "2026-10-26T11:00:04+00:00",
-     "fetched": "2026-10-26T13:35:38+00:00"
+     "fetched": "2026-10-26T14:20:54+00:00"
     },
     {
      "headline": "Israel's Choice",
@@ -127,7 +135,7 @@
      "url": "https://time.com/article/2026/10/26/israel-election/",
      "source_url": "https://time.com/feed/",
      "published": "2026-10-26T11:00:04+00:00",
-     "fetched": "2026-10-26T13:35:38+00:00"
+     "fetched": "2026-10-26T14:20:54+00:00"
     },
     {
      "headline": "In Maine, a Toss-Up Senate Race Is About the Incumbent and Not Much Else",
@@ -135,15 +143,7 @@
      "url": "https://time.com/article/2026/10/26/in-maine-a-toss-up-senate-race-is-about-the-incumbent-and-not-much-else/",
      "source_url": "https://time.com/feed/",
      "published": "2026-10-26T11:00:00+00:00",
-     "fetched": "2026-10-26T13:35:38+00:00"
-    },
-    {
-     "headline": "Exiled Opposition Leader María Corina Machado Returns to Venezuela",
-     "detail": "The Nobel laureate returned to Caracas as Venezuelans demand elections while she remained sidelined from negotiations over the country’s democratic transition.",
-     "url": "https://time.com/article/2026/10/26/venezuela-maria-corina-machado-return-opposition-election-democracy/",
-     "source_url": "https://time.com/feed/",
-     "published": "2026-10-26T10:30:00+00:00",
-     "fetched": "2026-10-26T13:35:38+00:00"
+     "fetched": "2026-10-26T14:20:54+00:00"
     }
    ]
   },
@@ -151,16 +151,24 @@
    "key": "variety",
    "name": "Variety",
    "site": "variety.com",
-   "summary": "Variety, on the business of entertainment is leading with Stefan Djordjevic’s ‘Wind, Talk to Me’ Wins Best Film, Best Director and Best Debut at Adriatic Film & TV Awards; As His Doc ‘Rather’ Starts Streaming for Free on YouTube, Dan Rather Is More Concerned Than Ever About the Future of Journalism, Especially at CBS News: ‘The Wreckage Is Everywhere’ (EXCLUSIVE); Japanese Director Naomi Kawase to Lead Doha Film Festival Jury.",
+   "summary": "Variety, on the business of entertainment is leading with Juno Temple, Joey King and James McAvoy to Star in Sci-Fi Comedy Film ‘Almost You’ From ‘Ted Lasso’ Director Matt Lipsey (EXCLUSIVE); Stefan Djordjevic’s ‘Wind, Talk to Me’ Wins Best Film, Best Director and Best Debut at Adriatic Film & TV Awards; As His Doc ‘Rather’ Starts Streaming for Free on YouTube, Dan Rather Is More Concerned Than Ever About the Future of Journalism, Especially at CBS News: ‘The Wreckage Is Everywhere’ (EXCLUSIVE).",
    "note": null,
    "items": [
+    {
+     "headline": "Juno Temple, Joey King and James McAvoy to Star in Sci-Fi Comedy Film ‘Almost You’ From ‘Ted Lasso’ Director Matt Lipsey (EXCLUSIVE)",
+     "detail": "Juno Temple (“Ted Lasso,” “Fargo”), Joey King (“We Were the Lucky Ones,” “The Act”) and James McAvoy (“The Last King of Scotland,” “Atonement”) are set to star in the upcoming — and somewhat timely — sci-fi AI comedy movie “Almost You.”…",
+     "url": "https://variety.com/2026/film/global/juno-temple-joey-king-james-mcavoy-sci-fi-comedy-almost-you-1236931063/",
+     "source_url": "https://variety.com/feed/",
+     "published": "2026-10-26T14:00:00+00:00",
+     "fetched": "2026-10-26T14:20:55+00:00"
+    },
     {
      "headline": "Stefan Djordjevic’s ‘Wind, Talk to Me’ Wins Best Film, Best Director and Best Debut at Adriatic Film & TV Awards",
      "detail": "Serbian filmmaker Stefan Djordjevic’s documentary-drama “Wind, Talk to Me” won best film at the Adriatic Film & TV Awards on Saturday evening in Porto Montenegro, Tivat, Montenegro.",
      "url": "https://variety.com/2026/film/global/stefan-djordjevic-wind-talk-to-me-adriatic-film-tv-awards-1236931100/",
      "source_url": "https://variety.com/feed/",
      "published": "2026-10-26T13:05:27+00:00",
-     "fetched": "2026-10-26T13:35:38+00:00"
+     "fetched": "2026-10-26T14:20:55+00:00"
     },
     {
      "headline": "As His Doc ‘Rather’ Starts Streaming for Free on YouTube, Dan Rather Is More Concerned Than Ever About the Future of Journalism, Especially at CBS News: ‘The Wreckage Is Everywhere’ (EXCLUSIVE)",
@@ -168,7 +176,7 @@
      "url": "https://variety.com/2026/tv/news/dan-rather-streaming-journalism-future-cbs-news-1236930962/",
      "source_url": "https://variety.com/feed/",
      "published": "2026-10-26T13:00:00+00:00",
-     "fetched": "2026-10-26T13:35:38+00:00"
+     "fetched": "2026-10-26T14:20:55+00:00"
     },
     {
      "headline": "Japanese Director Naomi Kawase to Lead Doha Film Festival Jury",
@@ -176,7 +184,7 @@
      "url": "https://variety.com/2026/film/festivals/japanese-director-kawase-naomi-doha-film-festival-jury-1236931056/",
      "source_url": "https://variety.com/feed/",
      "published": "2026-10-26T12:30:55+00:00",
-     "fetched": "2026-10-26T13:35:38+00:00"
+     "fetched": "2026-10-26T14:20:55+00:00"
     },
     {
      "headline": "Chris Brown Sentenced to Eight Months in Prison, Suspended for 12 Months, for ‘Vicious and Unprovoked’ Attack at U.K. Nightclub",
@@ -184,15 +192,7 @@
      "url": "https://variety.com/2026/music/global/chris-brown-sentenced-attack-london-nightclub-1236931029/",
      "source_url": "https://variety.com/feed/",
      "published": "2026-10-26T12:16:52+00:00",
-     "fetched": "2026-10-26T13:35:38+00:00"
-    },
-    {
-     "headline": "‘You Can See Everything’ to Play at Italy’s Torino Film Festival With Nathan Fielder and Lance Oppenheim in Tow as Buzzy Doc Starts International Launch",
-     "detail": "Nathan Fielder and Lance Oppenheim’s buzzy Elizabeth Holmes doc “You Can See Everything” is set to launch into Italy from the Torino Film Festival with the directors expected in tow. After world premiering in the U.S.",
-     "url": "https://variety.com/2026/film/festivals/you-can-see-everything-torino-film-festival-international-1236931059/",
-     "source_url": "https://variety.com/feed/",
-     "published": "2026-10-26T12:10:27+00:00",
-     "fetched": "2026-10-26T13:35:38+00:00"
+     "fetched": "2026-10-26T14:20:55+00:00"
     }
    ]
   },
@@ -200,48 +200,48 @@
    "key": "bloomberg",
    "name": "Bloomberg",
    "site": "bloomberg.com",
-   "summary": "Bloomberg's markets and business file is leading with Brazil Markets Suffer Rout After Lula’s Improbable Election Win; Surgery Partners to Be Acquired by Bon Secours for $5.7 Billion; Surging Natural Gas Price Tests Europe’s Appetite for Action.",
+   "summary": "Bloomberg's markets and business file is leading with Soybeans and Coffee Slump as Brazilian Election Hits Currency; Latest Oil Market News and Analysis for Oct. 26; CoreWeave Rout Sends Warning Sign to Rest of Stock Market.",
    "note": null,
    "items": [
     {
-     "headline": "Brazil Markets Suffer Rout After Lula’s Improbable Election Win",
-     "detail": "Brazilian markets suffered steep losses after President Luiz Inácio Lula da Silva pulled off a stunning comeback to defeat Flávio Bolsonaro, the right-wing candidate that many investors preferred.",
-     "url": "https://www.bloomberg.com/news/articles/2026-10-26/brazil-markets-brace-for-rout-on-lula-s-improbable-election-win",
+     "headline": "Soybeans and Coffee Slump as Brazilian Election Hits Currency",
+     "detail": "Major agricultural commodities slumped as President Luiz Inácio Lula da Silva’s surprise election win in Brazil hit the nation’s currency, boosting export prospects for the crop trading giant.",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-26/soybeans-hit-2-month-low-as-lula-s-win-lifts-china-trade-outlook",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-26T01:21:55+00:00",
-     "fetched": "2026-10-26T13:35:40+00:00"
-    },
-    {
-     "headline": "Surgery Partners to Be Acquired by Bon Secours for $5.7 Billion",
-     "detail": "Surgery Partners will be acquired by an affiliate of Bon Secours Mercy Health for an enterprise value of $5.7 billion, and the surgery group’s private equity backer Bain Capital will continue to hold a stake in the new entity.",
-     "url": "https://www.bloomberg.com/news/articles/2026-10-26/surgery-partners-to-be-acquired-by-bon-secours-for-5-7-billion",
-     "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-26T13:14:58+00:00",
-     "fetched": "2026-10-26T13:35:40+00:00"
-    },
-    {
-     "headline": "Surging Natural Gas Price Tests Europe’s Appetite for Action",
-     "detail": "Benchmark futures are back at crisis levels, but the policy response isn’t there yet.",
-     "url": "https://www.bloomberg.com/news/newsletters/2026-10-26/surging-natural-gas-price-tests-europe-s-appetite-for-action",
-     "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-26T13:11:59+00:00",
-     "fetched": "2026-10-26T13:35:40+00:00"
+     "published": "2026-10-26T03:18:39+00:00",
+     "fetched": "2026-10-26T14:20:56+00:00"
     },
     {
      "headline": "Latest Oil Market News and Analysis for Oct. 26",
-     "detail": "Oil retreated as the US and Iran stuck to familiar rhetoric in their conflict, and as military leaders from various countries in the region flew to Iran in a bid to revive peace talks.",
+     "detail": "Oil fell as top regional security officials flew to Tehran in a bid to defuse tensions and revive talks aimed at preventing a broader flare-up in the Middle East.",
      "url": "https://www.bloomberg.com/news/articles/2026-10-25/latest-oil-market-news-and-analysis-for-oct-26",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
      "published": "2026-10-25T22:04:00+00:00",
-     "fetched": "2026-10-26T13:35:40+00:00"
+     "fetched": "2026-10-26T14:20:56+00:00"
     },
     {
-     "headline": "Couche-Tard (ATD) Makes Bid Valuing Cumberland Farms Up to $8 Billion: Times",
-     "detail": "Canadian convenience store operator Alimentation Couche-Tard Inc. made a new bid to acquire Cumberland Farms Ltd., according to the London-based Times, and analysts say such a deal would make sense.",
-     "url": "https://www.bloomberg.com/news/articles/2026-10-26/couche-tard-atd-makes-bid-valuing-cumberland-farms-up-to-8-billion-times",
+     "headline": "CoreWeave Rout Sends Warning Sign to Rest of Stock Market",
+     "detail": "Wall Street strategists are warning that declines in shares of AI cloud-computing providers will spill into other corners of the tech trade, potentially dragging the US stock market down to its June lows.",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-26/coreweave-rout-sends-warning-sign-to-rest-of-the-stock-market",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-26T12:53:34+00:00",
-     "fetched": "2026-10-26T13:35:40+00:00"
+     "published": "2026-10-26T09:24:43+00:00",
+     "fetched": "2026-10-26T14:20:56+00:00"
+    },
+    {
+     "headline": "Belgian Deputy Prime Minister Open to BNP Paribas Stake Sale",
+     "detail": "Belgian Deputy Prime Minister David Clarinval sees the country’s 5.7% stake in BNP Paribas SA as non-strategic and suggested he would be open selling some or all of the holding.",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-26/belgian-deputy-prime-minister-open-to-bnp-paribas-stake-sale",
+     "source_url": "https://feeds.bloomberg.com/markets/news.rss",
+     "published": "2026-10-26T13:56:56+00:00",
+     "fetched": "2026-10-26T14:20:56+00:00"
+    },
+    {
+     "headline": "Bain-Backed Surgery Partners Purchased in $5.7 Billion Deal",
+     "detail": "Surgery Partners Inc. will be acquired by an affiliate of Bon Secours Mercy Health for an enterprise value of $5.7 billion, giving one of the country’s largest nonprofit hospital systems a deeper reach into outpatient surgical care.",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-26/surgery-partners-to-be-acquired-by-bon-secours-for-5-7-billion",
+     "source_url": "https://feeds.bloomberg.com/markets/news.rss",
+     "published": "2026-10-26T13:14:58+00:00",
+     "fetched": "2026-10-26T14:20:56+00:00"
     }
    ]
   },
@@ -249,48 +249,48 @@
    "key": "bbc",
    "name": "BBC",
    "site": "bbc.com",
-   "summary": "The BBC's world news service is leading with Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement; Venezuelan opposition leader María Machado returns after months in exile; Anthropic unveils details of planned historic stock market debut.",
+   "summary": "The BBC's world news service is leading with Lula wins fourth term in dramatic Brazil election comeback; Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement; Anthropic warns of AI's 'risks to humanity' ahead of blockbuster share listing.",
    "note": null,
    "items": [
+    {
+     "headline": "Lula wins fourth term in dramatic Brazil election comeback",
+     "detail": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
+     "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+     "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+     "published": "2026-10-26T13:54:21+00:00",
+     "fetched": "2026-10-26T14:20:56+00:00"
+    },
     {
      "headline": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
      "detail": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
      "published": "2026-10-26T12:52:16+00:00",
-     "fetched": "2026-10-26T13:35:40+00:00"
+     "fetched": "2026-10-26T14:20:56+00:00"
     },
     {
-     "headline": "Venezuelan opposition leader María Machado returns after months in exile",
-     "detail": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-     "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-     "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-     "published": "2026-10-26T05:20:19+00:00",
-     "fetched": "2026-10-26T13:35:40+00:00"
-    },
-    {
-     "headline": "Anthropic unveils details of planned historic stock market debut",
+     "headline": "Anthropic warns of AI's 'risks to humanity' ahead of blockbuster share listing",
      "detail": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
      "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-     "published": "2026-10-26T13:27:43+00:00",
-     "fetched": "2026-10-26T13:35:40+00:00"
+     "published": "2026-10-26T14:15:01+00:00",
+     "fetched": "2026-10-26T14:20:56+00:00"
     },
     {
-     "headline": "Australian murderer loses bid to eat Vegemite in prison",
-     "detail": "Andre McKechnie, who murdered a property developer, argued it was his right to enjoy Australian culture.",
-     "url": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss",
+     "headline": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
+     "detail": "The R&B star previously pleaded guilty to affray, after attacking a music producer with a glass bottle.",
+     "url": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-     "published": "2026-10-26T04:05:28+00:00",
-     "fetched": "2026-10-26T13:35:40+00:00"
+     "published": "2026-10-26T14:16:09+00:00",
+     "fetched": "2026-10-26T14:20:56+00:00"
     },
     {
-     "headline": "Nurse killed in attack while responding to Ebola alert in DR Congo",
-     "detail": "Local youths reportedly accused the health workers of contaminating water sources and spreading Ebola.",
-     "url": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
+     "headline": "US Marine indicted for murder and robbery of woman in Japan",
+     "detail": "Prosecutors have indicted Devin Jacob Ballard for a killing that has caused outrage in Japan, local media reports.",
+     "url": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-     "published": "2026-10-26T12:57:58+00:00",
-     "fetched": "2026-10-26T13:35:40+00:00"
+     "published": "2026-10-26T14:13:18+00:00",
+     "fetched": "2026-10-26T14:20:56+00:00"
     }
    ]
   },
@@ -298,48 +298,48 @@
    "key": "france24",
    "name": "France 24",
    "site": "france24.com",
-   "summary": "France 24's English service, reporting from Paris on Europe, Africa and the Middle East is leading with Belgrade in rapture as Serbian students topple Vucic in historic election; Live: France will maintain order without state of emergency, but it’s not off the table, Macron says; Israel braces for national elections seen as a referendum on Netanyahu.",
+   "summary": "France 24's English service, reporting from Paris on Europe, Africa and the Middle East is leading with Serbia's Vucic concedes defeat to the student-led movement: What's next?; Lula wins fourth term: What are the reactions in Brazil?; Bolsonaro's refusal to concede underscores ‘serious’ challenges to Brazil's democratic institutions.",
    "note": null,
    "items": [
     {
-     "headline": "Belgrade in rapture as Serbian students topple Vucic in historic election",
-     "detail": "Serbia's student-led movement declared victory in parliamentary elections Sunday ending 14 years in power for Aleksandar Vucic's right-wing populist party.",
-     "url": "https://www.france24.com/en/video/20261026-belgrade-in-rapture-as-serbian-students-topple-vucic-in-historic-election",
+     "headline": "Serbia's Vucic concedes defeat to the student-led movement: What's next?",
+     "detail": "Serbia's student-led protest movement won a historic victory in parliamentary ⁠election, ending the ​long rule of Aleksandar Vucic and sparking mass celebrations. But their yet-to-be named leaders face a long list of issues.",
+     "url": "https://www.france24.com/en/serbia-s-vucic-concedes-defeat-to-the-student-led-movement-what-s-next",
      "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-10-26T13:19:40+00:00",
-     "fetched": "2026-10-26T13:35:40+00:00"
+     "published": "2026-10-26T14:12:08+00:00",
+     "fetched": "2026-10-26T14:20:56+00:00"
     },
     {
-     "headline": "Live: France will maintain order without state of emergency, but it’s not off the table, Macron says",
-     "detail": "President Emmanuel Macron on Monday said public order will be maintained in France without the need for a state of emergency, while noting that it was not “off-limits or taboo” if “things were to deteriorate\".",
-     "url": "https://www.france24.com/en/france/20261026-live-france-will-maintain-order-without-state-of-emergency-but-it-s-not-off-the-table-macron-says",
+     "headline": "Lula wins fourth term: What are the reactions in Brazil?",
+     "detail": "Brazil's leftist President Luiz Inacio Lula da Silva was re-elected against all expectations on Sunday (October 25), but his conservative rival Flavio Bolsonaro refused to accept the loss and said he would seek to have the vote annulled.",
+     "url": "https://www.france24.com/en/lula-wins-fourth-term-what-are-the-reactions-in-brazil",
      "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-10-26T12:47:12+00:00",
-     "fetched": "2026-10-26T13:35:40+00:00"
+     "published": "2026-10-26T14:04:39+00:00",
+     "fetched": "2026-10-26T14:20:56+00:00"
     },
     {
-     "headline": "Israel braces for national elections seen as a referendum on Netanyahu",
-     "detail": "Israelis are preparing to head to the polls on Tuesday (October 27) in the first elections since the October 7th attacks in 2023.",
-     "url": "https://www.france24.com/en/israel-braces-for-national-elections-seen-as-a-referendum-on-netanyahu",
+     "headline": "Bolsonaro's refusal to concede underscores ‘serious’ challenges to Brazil's democratic institutions",
+     "detail": "Annette Young is pleased to welcome Dr Pedro Perfeito da Silva, Latin American specialist at the University of Exeter.",
+     "url": "https://www.france24.com/en/bolsonaro-s-refusal-to-concede-underscores-serious-challenges-to-brazil-s-democratic-institutions",
      "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-10-26T12:35:55+00:00",
-     "fetched": "2026-10-26T13:35:40+00:00"
+     "published": "2026-10-26T13:53:15+00:00",
+     "fetched": "2026-10-26T14:20:56+00:00"
     },
     {
-     "headline": "Football: Who will win the 2026 Ballon d'Or?",
-     "detail": "The competition for this year's Ballon d'Or is tougher than ever. Who will succeed Ousmane Dembélé? Kylian Mbappé, Lamine Yamal and Harry Kane lead a star-studded field. FRANCE 24's Emily Boyle has more.",
-     "url": "https://www.france24.com/en/video/20261026-football-who-will-win-the-2026-ballon-d-or",
+     "headline": "Will Netanyahu's security promise win him this election?",
+     "detail": "Since the beginning of his political career, Benjamin Netanyahu, Israel's longest-serving prime minister, has campaigned on a promise that he is the only one who will keep the Jewish state safe.",
+     "url": "https://www.france24.com/en/video/20261026-will-netanyahu-s-security-promise-win-him-this-election",
      "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-10-26T12:33:28+00:00",
-     "fetched": "2026-10-26T13:35:40+00:00"
+     "published": "2026-10-26T13:52:32+00:00",
+     "fetched": "2026-10-26T14:20:56+00:00"
     },
     {
-     "headline": "Macron vows ‘concrete’ measures to address student demands after unrest",
-     "detail": "French President Emmanuel Macron on Monday said the government will announce \"concrete and strong\" measures to address the demands by high school students after their protests demanding better education conditions triggered weeks of…",
-     "url": "https://www.france24.com/en/france/20261026-macron-vows-concrete-measures-to-address-student-demands-after-unrest",
+     "headline": "Lula wins Brazil election but faces uphill battle to govern",
+     "detail": "Luiz Inacio Lula da Silva's narrow election victory on Sunday has dealt a blow to Brazil's far right, but deep political divisions remain.",
+     "url": "https://www.france24.com/en/americas/20261026-lula-wins-brazil-election-but-faces-uphill-battle-to-govern",
      "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-10-26T12:25:21+00:00",
-     "fetched": "2026-10-26T13:35:40+00:00"
+     "published": "2026-10-26T13:38:09+00:00",
+     "fetched": "2026-10-26T14:20:56+00:00"
     }
    ]
   },
@@ -347,16 +347,24 @@
    "key": "aljazeera",
    "name": "Al Jazeera",
    "site": "aljazeera.com",
-   "summary": "Al Jazeera English, with strong Middle East and Africa coverage is leading with US foreign aid to Israel highlighted in campaign ad in support of El-Sayed; Israel expands expulsions in occupied West Bank to cement control; Who are the Israeli candidates trying to unseat Netanyahu?.",
+   "summary": "Al Jazeera English, with strong Middle East and Africa coverage is leading with The Price of Protest; US foreign aid to Israel highlighted in campaign ad in support of El-Sayed; Israel expands expulsions in occupied West Bank to cement control.",
    "note": null,
    "items": [
+    {
+     "headline": "The Price of Protest",
+     "detail": "What does it cost an athlete to take a stand?",
+     "url": "https://www.aljazeera.com/video/game-theory/2026/10/26/the-price-of-protest?traffic_source=rss",
+     "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
+     "published": "2026-10-26T14:01:08+00:00",
+     "fetched": "2026-10-26T14:20:56+00:00"
+    },
     {
      "headline": "US foreign aid to Israel highlighted in campaign ad in support of El-Sayed",
      "detail": "A new political campaign ad in support of US Senate candidate Abdul El-Sayed is generating conversation online.",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/us-foreign-aid-to-israel-highlighted-in-campaign-ad-in-support-of-el-sayed?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
      "published": "2026-10-26T13:20:23+00:00",
-     "fetched": "2026-10-26T13:35:40+00:00"
+     "fetched": "2026-10-26T14:20:56+00:00"
     },
     {
      "headline": "Israel expands expulsions in occupied West Bank to cement control",
@@ -364,7 +372,7 @@
      "url": "https://www.aljazeera.com/news/2026/10/26/israel-expands-occupied-west-bank-expulsions-to-cement-control?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
      "published": "2026-10-26T13:11:08+00:00",
-     "fetched": "2026-10-26T13:35:40+00:00"
+     "fetched": "2026-10-26T14:20:56+00:00"
     },
     {
      "headline": "Who are the Israeli candidates trying to unseat Netanyahu?",
@@ -372,7 +380,7 @@
      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/who-are-the-israeli-candidates-trying-to-unseat-netanyahu?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
      "published": "2026-10-26T13:02:29+00:00",
-     "fetched": "2026-10-26T13:35:40+00:00"
+     "fetched": "2026-10-26T14:20:56+00:00"
     },
     {
      "headline": "How did Lula beat Bolsonaro after losing Brazil’s first-round election?",
@@ -380,15 +388,7 @@
      "url": "https://www.aljazeera.com/news/2026/10/26/how-did-lula-beat-bolsonaro-after-losing-brazils-first-round-election?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
      "published": "2026-10-26T13:02:22+00:00",
-     "fetched": "2026-10-26T13:35:40+00:00"
-    },
-    {
-     "headline": "Has Pakistan reopened its border with Iran for trade?",
-     "detail": "Traders say some exports are crossing border after a weeklong halt, but Tehran says its cargo is not getting through.",
-     "url": "https://www.aljazeera.com/news/2026/10/26/has-pakistan-reopened-its-border-with-iran-for-trade?traffic_source=rss",
-     "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
-     "published": "2026-10-26T13:01:16+00:00",
-     "fetched": "2026-10-26T13:35:40+00:00"
+     "fetched": "2026-10-26T14:20:56+00:00"
     }
    ]
   }
@@ -397,5 +397,5 @@
   "news.com.au",
   "theaustralian.com.au"
  ],
- "blocked_checked_at": "2026-10-26T13:35:41+00:00"
+ "blocked_checked_at": "2026-10-26T14:20:58+00:00"
 }

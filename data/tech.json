@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "headline": "Matiks raises $10M to expand its math and puzzle gaming platform",
+   "detail": "Matiks has introduced a new platform for users to create games using AI.",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/",
+   "region": "US",
+   "source_url": "https://techcrunch.com/feed/",
+   "published": "2026-10-26T14:08:04+00:00",
+   "fetched": "2026-10-26T14:20:42+00:00"
+  },
+  {
    "headline": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)",
    "detail": "Eligible Turo hosts will also get a one-month free trial of Tesla's FSD software.",
    "outlet": "TechCrunch",
@@ -8,17 +18,17 @@
    "region": "US",
    "source_url": "https://techcrunch.com/feed/",
    "published": "2026-10-26T12:58:40+00:00",
-   "fetched": "2026-10-26T13:35:28+00:00"
+   "fetched": "2026-10-26T14:20:42+00:00"
   },
   {
-   "headline": "The best apps for tracking your reading and discovering new books",
-   "detail": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.",
-   "outlet": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+   "headline": "Kevin Roose is AGI-pilled. Why aren’t you?",
+   "detail": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry.",
+   "outlet": "The Verge",
+   "url": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
    "region": "US",
-   "source_url": "https://techcrunch.com/feed/",
-   "published": "2026-10-26T01:10:00+00:00",
-   "fetched": "2026-10-26T13:35:28+00:00"
+   "source_url": "https://www.theverge.com/rss/index.xml",
+   "published": "2026-10-26T10:00:00-04:00",
+   "fetched": "2026-10-26T14:20:42+00:00"
   },
   {
    "headline": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI",
@@ -28,27 +38,17 @@
    "region": "US",
    "source_url": "https://www.theverge.com/rss/index.xml",
    "published": "2026-10-26T09:32:49-04:00",
-   "fetched": "2026-10-26T13:35:28+00:00"
+   "fetched": "2026-10-26T14:20:42+00:00"
   },
   {
-   "headline": "Can AI help solve the COBOL code crisis?",
-   "detail": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down.",
-   "outlet": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
-   "region": "US",
-   "source_url": "https://www.theverge.com/rss/index.xml",
-   "published": "2026-10-26T09:15:00-04:00",
-   "fetched": "2026-10-26T13:35:28+00:00"
-  },
-  {
-   "headline": "Anthropic IPO live updates: AI lab lost $80.7 billion in first half of 2026",
+   "headline": "Anthropic IPO live updates: How the Amodei siblings, co-founders control voting shares",
    "detail": "All the details from Anthropic's IPO prospectus with the Securities and Exchange Commission.",
    "outlet": "CNBC Technology",
    "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
    "region": "US",
    "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910",
-   "published": "2026-10-26T13:35:18+00:00",
-   "fetched": "2026-10-26T13:35:28+00:00"
+   "published": "2026-10-26T14:12:09+00:00",
+   "fetched": "2026-10-26T14:20:43+00:00"
   },
   {
    "headline": "Fanatics teams up with OpenAI for new AI-powered shopping suggestion feature",
@@ -58,7 +58,7 @@
    "region": "US",
    "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910",
    "published": "2026-10-26T13:02:37+00:00",
-   "fetched": "2026-10-26T13:35:28+00:00"
+   "fetched": "2026-10-26T14:20:43+00:00"
   },
   {
    "headline": "From impulse purchase to pocket studio: The M-Vave FM-1",
@@ -68,17 +68,17 @@
    "region": "US",
    "source_url": "https://feeds.arstechnica.com/arstechnica/index",
    "published": "2026-10-26T11:00:15+00:00",
-   "fetched": "2026-10-26T13:35:29+00:00"
+   "fetched": "2026-10-26T14:20:44+00:00"
   },
   {
-   "headline": "Anthropic unveils details of planned historic stock market debut",
+   "headline": "Anthropic warns of AI's 'risks to humanity' ahead of blockbuster share listing",
    "detail": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
    "outlet": "BBC Technology",
    "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
    "region": "Europe",
    "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-   "published": "2026-10-26T13:27:43+00:00",
-   "fetched": "2026-10-26T13:35:29+00:00"
+   "published": "2026-10-26T14:15:01+00:00",
+   "fetched": "2026-10-26T14:20:44+00:00"
   },
   {
    "headline": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
@@ -88,7 +88,7 @@
    "region": "Europe",
    "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
    "published": "2026-10-25T23:44:34+00:00",
-   "fetched": "2026-10-26T13:35:29+00:00"
+   "fetched": "2026-10-26T14:20:44+00:00"
   },
   {
    "headline": "Apple iPhone Duo price premiums evaporate in China’s scalper market",
@@ -98,7 +98,7 @@
    "region": "Asia",
    "source_url": "https://www.scmp.com/rss/36/feed",
    "published": "2026-10-26T12:30:12+00:00",
-   "fetched": "2026-10-26T13:35:30+00:00"
+   "fetched": "2026-10-26T14:20:45+00:00"
   }
  ]
 }

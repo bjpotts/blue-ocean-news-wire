@@ -3,8 +3,8 @@
   {
    "key": "anz",
    "name": "ANZ",
-   "summary": "A single verifiable equity capital markets item was found for ANZ this run: Vita Resources to undertake SPP to raise funds to support Ninnis gold project. No newer capital markets item has been reported for ANZ since the last edition, so the same verified item(s) are carried forward.",
-   "fresh_count": 0,
+   "summary": "ANZ equity capital markets activity captured this run runs to 4 items, led by Vita Resources to undertake SPP to raise funds to support Ninnis gold project. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "fresh_count": 4,
    "items": [
     {
      "headline": "Vita Resources to undertake SPP to raise funds to support Ninnis gold project",
@@ -13,16 +13,52 @@
      "outlet": "The Market Herald",
      "source_url": "https://themarketherald.com.au/feed/",
      "published": "2026-10-22T23:53:25+00:00",
-     "fetched": "2026-10-26T13:33:03+00:00"
+     "fetched": "2026-10-26T14:20:15+00:00"
+    },
+    {
+     "headline": "Matrix Critical Minerals LimitedMTX — A$12M IPO",
+     "detail": "Upcoming Exploration and development of rare earth metals and commercial production of mixed rare earth carbonate. IPO raising A$12M at $0.200, expected to list Monday, November 23, 2026 (stage: OPEN).",
+     "url": "https://www.mtxcm.com.au/",
+     "outlet": "Small Caps",
+     "source_url": "https://smallcaps.com.au/",
+     "published": "2026-10-27T01:20:26.033096",
+     "fetched": "2026-10-26T14:20:26+00:00"
+    },
+    {
+     "headline": "Rio de Oro Corp LtdRDO — A$30M IPO",
+     "detail": "Upcoming Mining exploration IPO raising A$30M at $0.400, expected to list Monday, November 30, 2026 (stage: OPEN).",
+     "url": "https://riodeoro.com.au/",
+     "outlet": "Small Caps",
+     "source_url": "https://smallcaps.com.au/",
+     "published": "2026-10-27T01:20:26.033113",
+     "fetched": "2026-10-26T14:20:26+00:00"
+    },
+    {
+     "headline": "M Battery Materials LimitedMBM — A$25M IPO",
+     "detail": "Upcoming Mineral exploration (graphite and vanadium battery materials projects in Queensland, Australia) IPO raising A$25M at $0.500, expected to list Wednesday, December 2, 2026 (stage: OPEN).",
+     "url": "https://mbatterymaterials.com.au/",
+     "outlet": "Small Caps",
+     "source_url": "https://smallcaps.com.au/",
+     "published": "2026-10-27T01:20:26.033134",
+     "fetched": "2026-10-26T14:20:26+00:00"
     }
    ]
   },
   {
    "key": "asia",
    "name": "Asia (Japan/Singapore/Hong Kong/China)",
-   "summary": "Asia (Japan/Singapore/Hong Kong/China) equity capital markets activity captured this run runs to 3 items, led by Dongshan Precision retail IPO undersubscribed as Hong Kong mega listing flops: sources. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources. No newer capital markets item has been reported for Asia (Japan/Singapore/Hong Kong/China) since the last edition, so the same verified item(s) are carried forward.",
-   "fresh_count": 0,
+   "summary": "Asia (Japan/Singapore/Hong Kong/China) equity capital markets activity captured this run runs to 4 items, led by Anthropic’s IPO filing shows explosive growth, risks and staggering costs. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "fresh_count": 1,
    "items": [
+    {
+     "headline": "Anthropic’s IPO filing shows explosive growth, risks and staggering costs",
+     "detail": "Anthropic disclosed steep losses and red-hot revenue growth in ⁠its US IPO filing on Monday, as it laid out its ambition to build AI systems capable of reshaping the global economy despite the high costs of developing the technology.",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3372202/anthropics-ipo-filing-shows-explosive-growth-risks-and-staggering-costs",
+     "outlet": "South China Morning Post",
+     "source_url": "https://www.scmp.com/rss/91/feed",
+     "published": "2026-10-26T13:53:04+00:00",
+     "fetched": "2026-10-26T14:20:27+00:00"
+    },
     {
      "headline": "Dongshan Precision retail IPO undersubscribed as Hong Kong mega listing flops: sources",
      "detail": "Chinese printed circuit board maker Suzhou Dongshan Precision Manufacturing Co failed to excite retail investors in Hong Kong, making it one of the least popular mega initial public offerings (IPOs) in the city so far this year.",
@@ -30,7 +66,7 @@
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
      "published": "2026-10-23T11:01:11+00:00",
-     "fetched": "2026-10-26T13:34:20+00:00"
+     "fetched": "2026-10-26T14:20:26+00:00"
     },
     {
      "headline": "Hong Kong sees last-minute IPO cancellations amid increased regulatory checks, weak market",
@@ -39,16 +75,16 @@
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
      "published": "2026-10-21T09:01:10+00:00",
-     "fetched": "2026-10-26T13:34:20+00:00"
+     "fetched": "2026-10-26T14:20:26+00:00"
     },
     {
-     "headline": "The Weeknd’s ‘Hong Kong’ captures nostalgia for bygone era, video director says",
-     "detail": "A new viral song by Canadian singer The Weeknd, “Hong Kong”, is a love letter to the city, the director of the accompanying video has said, adding that he believes nostalgia for the late 1980s and early 1990s era is the secret ingredient…",
-     "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372168/weeknds-hong-kong-captures-nostalgia-bygone-era-video-director-says",
+     "headline": "Hong Kong proposes more homes, less office space at Hung Hom harbourfront",
+     "detail": "Hong Kong authorities have proposed raising the residential share of a Hung Hom harbourfront development to more than 60 per cent by cutting commercial floor space, citing “strong doubts” over market demand for offices.",
+     "url": "https://www.scmp.com/news/hong-kong/society/article/3372204/hong-kong-proposes-more-homes-less-office-space-hung-hom-harbourfront",
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-10-26T09:12:48+00:00",
-     "fetched": "2026-10-26T13:34:21+00:00"
+     "published": "2026-10-26T14:04:32+00:00",
+     "fetched": "2026-10-26T14:20:27+00:00"
     }
    ]
   },
@@ -65,7 +101,7 @@
      "outlet": "IPOScoop",
      "source_url": "https://www.iposcoop.com/feed/",
      "published": "2026-10-24T00:18:50+00:00",
-     "fetched": "2026-10-26T13:34:22+00:00"
+     "fetched": "2026-10-26T14:20:28+00:00"
     },
     {
      "headline": "The IPO Buzz: Lycia Therapeutics (LYCA) Upsizes IPO & Prices it at $18 Top – & Stock Pops",
@@ -74,7 +110,7 @@
      "outlet": "IPOScoop",
      "source_url": "https://www.iposcoop.com/feed/",
      "published": "2026-10-23T00:02:05+00:00",
-     "fetched": "2026-10-26T13:34:22+00:00"
+     "fetched": "2026-10-26T14:20:28+00:00"
     },
     {
      "headline": "The IPO Buzz: Lycia Therapeutics (LYCA Proposed) Sets Terms for $250 Million IPO",
@@ -83,7 +119,7 @@
      "outlet": "IPOScoop",
      "source_url": "https://www.iposcoop.com/feed/",
      "published": "2026-10-20T10:57:05+00:00",
-     "fetched": "2026-10-26T13:34:22+00:00"
+     "fetched": "2026-10-26T14:20:28+00:00"
     },
     {
      "headline": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
@@ -92,7 +128,7 @@
      "outlet": "CNBC Markets",
      "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258",
      "published": "2026-10-16T22:33:05+00:00",
-     "fetched": "2026-10-26T13:34:25+00:00"
+     "fetched": "2026-10-26T14:20:30+00:00"
     }
    ]
   },
@@ -109,7 +145,7 @@
      "outlet": "City A.M.",
      "source_url": "https://www.cityam.com/category/markets/feed/",
      "published": "2026-10-23T07:46:57+00:00",
-     "fetched": "2026-10-26T13:34:28+00:00"
+     "fetched": "2026-10-26T14:20:31+00:00"
     },
     {
      "headline": "Starling founder Anne Boden offloads stake at slashed £1.7bn valuation",
@@ -118,42 +154,33 @@
      "outlet": "City A.M.",
      "source_url": "https://www.cityam.com/category/markets/feed/",
      "published": "2026-10-20T11:58:34+00:00",
-     "fetched": "2026-10-26T13:34:28+00:00"
+     "fetched": "2026-10-26T14:20:31+00:00"
     },
     {
-     "headline": "Sheikh Mansour doubles down on Manchester City with £100m injection despite legal row",
-     "detail": "Sheikh Mansour has reaffirmed his commitment to City Football Group despite Manchester City’s ongoing legal battle with the Premier League by investing a further £100m.",
-     "url": "https://www.cityam.com/sheikh-mansour-doubles-down-on-manchester-city-with-100m-injection-despite-legal-row/",
+     "headline": "Anthropic reveals $80bn loss as AI giant files for blockbuster IPO",
+     "detail": "Anthropic has revealed an $80.7bn (£60bn) first-half loss as the AI giant filed for a blockbuster US stock market listing that could value the company at up to $2 trillion.",
+     "url": "https://www.cityam.com/anthropic-reveals-80bn-loss-as-ai-giant-files-for-blockbuster-ipo/",
      "outlet": "City A.M.",
      "source_url": "https://www.cityam.com/feed/",
-     "published": "2026-10-26T13:28:14+00:00",
-     "fetched": "2026-10-26T13:34:31+00:00"
+     "published": "2026-10-26T14:03:56+00:00",
+     "fetched": "2026-10-26T14:20:31+00:00"
     }
    ]
   },
   {
    "key": "europe",
    "name": "Europe",
-   "summary": "Europe equity capital markets activity captured this run runs to 2 items, led by Anthropic Is Said to Plan Public Filing for Mega-IPO Monday. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources. No newer capital markets item has been reported for Europe since the last edition, so the same verified item(s) are carried forward.",
+   "summary": "A single verifiable equity capital markets item was found for Europe this run: US Stocks Gain as Investors Parse Anthropic IPO Filing. No newer capital markets item has been reported for Europe since the last edition, so the same verified item(s) are carried forward.",
    "fresh_count": 0,
    "items": [
     {
-     "headline": "Anthropic Is Said to Plan Public Filing for Mega-IPO Monday",
-     "detail": "Anthropic PBC is planning to file publicly for an initial public offering Monday at around 9 a.m.",
-     "url": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-is-said-to-plan-public-filing-for-mega-ipo-monday",
+     "headline": "US Stocks Gain as Investors Parse Anthropic IPO Filing",
+     "detail": "US stocks gained on Monday as investors digest Anthropic PBC’s filing for its initial public offering and look forward to key big tech earnings this week as well as the Federal Reserve’s next decision on Wednesday.",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-26/us-stock-futures-gain-ahead-of-big-tech-earnings-fed-decision",
      "outlet": "Bloomberg",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-26T11:53:38+00:00",
-     "fetched": "2026-10-26T13:34:35+00:00"
-    },
-    {
-     "headline": "Egypt’s Banque du Caire Prices IPO at Top End, Eyes $648 Million",
-     "detail": "Banque du Caire priced its initial public offering at the top end of the marketed range, signaling strong demand for one of Egypt’s biggest-ever listings, which could raise around $648 million.",
-     "url": "https://www.bloomberg.com/news/articles/2026-10-26/banque-du-caire-says-ipo-priced-at-top-end-of-range",
-     "outlet": "Bloomberg",
-     "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-26T07:26:47+00:00",
-     "fetched": "2026-10-26T13:34:35+00:00"
+     "published": "2026-10-26T12:38:56+00:00",
+     "fetched": "2026-10-26T14:20:32+00:00"
     }
    ]
   },

@@ -3,7 +3,7 @@
   "key": "abcus",
   "name": "ABC News (US)",
   "site": "abcnews.go.com",
-  "summary": "ABC News in the United States, the network's national and world file is leading with These key Senate races will determine which party controls the body next year; WATCH: Obama, Trump rally in battleground state Michigan; Trump critic Lula wins reelection in Brazil, securing fourth presidential term.",
+  "summary": "ABC News in the United States, the network's national and world file is leading with These key Senate races will determine which party controls the body next year; Anthropic formally files for IPO in major step for AI company; Amy Acton says Trump, Vance should 'look at the facts' after Ramaswamy attack ad.",
   "note": null,
   "items": [
    {
@@ -12,23 +12,23 @@
     "url": "https://abcnews.go.com/Politics/key-senate-races-determine-party-controls-body-year/story?id=137301095",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
     "published": "2026-10-26T07:05:37-04:00",
-    "fetched": "2026-10-26T13:35:37+00:00"
+    "fetched": "2026-10-26T14:20:53+00:00"
    },
    {
-    "headline": "WATCH: Obama, Trump rally in battleground state Michigan",
-    "detail": "The former and current presidents campaigned for their respective party's candidates in the critical Michigan Senate race.",
-    "url": "https://abcnews.go.com/video/137565866/",
+    "headline": "Anthropic formally files for IPO in major step for AI company",
+    "detail": "Anthropic, the company behind chatbot Claude, has been among the leaders in AI development.",
+    "url": "https://abcnews.go.com/Business/anthropic-formally-files-initial-public-stock-offering-major/story?id=137570700",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-10-26T09:23:15-04:00",
-    "fetched": "2026-10-26T13:35:37+00:00"
+    "published": "2026-10-26T09:41:51-04:00",
+    "fetched": "2026-10-26T14:20:53+00:00"
    },
    {
-    "headline": "Trump critic Lula wins reelection in Brazil, securing fourth presidential term",
-    "detail": "Brazil’s President Luiz Inácio Lula da Silva, a vocal critic of U.S.",
-    "url": "https://abcnews.go.com/Business/wireStory/brazil-faces-tense-lula-bolsonaro-runoff-us-influence-137548341",
+    "headline": "Amy Acton says Trump, Vance should 'look at the facts' after Ramaswamy attack ad",
+    "detail": "Ohio Democratic Amy Acton spoke to ABC News after a rally in Cleveland with former President Barack Obama.",
+    "url": "https://abcnews.go.com/Politics/amy-acton-trump-vance-facts-abuse-after-ramaswamy/story?id=137543717",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
-    "published": "2026-10-25T20:39:10-04:00",
-    "fetched": "2026-10-26T13:35:37+00:00"
+    "published": "2026-10-25T20:59:32-04:00",
+    "fetched": "2026-10-26T14:20:53+00:00"
    },
    {
     "headline": "WATCH: Man arrested near film set",
@@ -36,7 +36,7 @@
     "url": "https://abcnews.go.com/video/137559310/",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
     "published": "2026-10-26T06:35:03-04:00",
-    "fetched": "2026-10-26T13:35:37+00:00"
+    "fetched": "2026-10-26T14:20:53+00:00"
    },
    {
     "headline": "WATCH: School janitor gets special honor in tearful ceremony",
@@ -44,7 +44,7 @@
     "url": "https://abcnews.go.com/video/137564545/",
     "source_url": "https://abcnews.go.com/abcnews/topstories",
     "published": "2026-10-26T07:36:02-04:00",
-    "fetched": "2026-10-26T13:35:37+00:00"
+    "fetched": "2026-10-26T14:20:53+00:00"
    }
   ]
  }
