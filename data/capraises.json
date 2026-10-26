@@ -3,70 +3,79 @@
   {
    "key": "anz",
    "name": "ANZ",
-   "summary": "A single verifiable equity capital markets item was found for ANZ this run: Critical Minerals Group Launches $2m Capital Raising to Fund DFS for Lindfield Vanadium Project.",
-   "fresh_count": 1,
+   "summary": "A single verifiable equity capital markets item was found for ANZ this run: Vita Resources to undertake SPP to raise funds to support Ninnis gold project. No newer capital markets item has been reported for ANZ since the last edition, so the same verified item(s) are carried forward.",
+   "fresh_count": 0,
    "items": [
     {
-     "headline": "Critical Minerals Group Launches $2m Capital Raising to Fund DFS for Lindfield Vanadium Project",
-     "detail": "Critical Minerals Group launches a $2.05m capital raising to fund a definitive feasibility study at its Lindfield vanadium project.",
-     "url": "https://smallcaps.com.au/article/critical-minerals-group-launches-dollar2m-capital-raising-to-fund-dfs-for-lindfield-vanadium-project",
-     "outlet": "Small Caps",
-     "source_url": "https://smallcaps.com.au/feed",
-     "published": "2026-10-19T03:33:11+00:00",
-     "fetched": "2026-10-20T12:07:04+00:00"
+     "headline": "Vita Resources to undertake SPP to raise funds to support Ninnis gold project",
+     "detail": "Vita Resources (ASX: VTA) is preparing to undertake a share purchase plan…",
+     "url": "https://themarketonline.com.au/vita-resources-to-undertake-spp-to-raise-funds-to-support-ninnis-gold-project-2026-10-23/",
+     "outlet": "The Market Herald",
+     "source_url": "https://themarketherald.com.au/feed/",
+     "published": "2026-10-22T23:53:25+00:00",
+     "fetched": "2026-10-26T13:33:03+00:00"
     }
    ]
   },
   {
    "key": "asia",
    "name": "Asia (Japan/Singapore/Hong Kong/China)",
-   "summary": "Asia (Japan/Singapore/Hong Kong/China) equity capital markets activity captured this run runs to 4 items, led by Suzhou Dongshan’s US$1.8b Hong Kong IPO trails expectations amid US trade risk concerns. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
-   "fresh_count": 4,
+   "summary": "Asia (Japan/Singapore/Hong Kong/China) equity capital markets activity captured this run runs to 3 items, led by Dongshan Precision retail IPO undersubscribed as Hong Kong mega listing flops: sources. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources. No newer capital markets item has been reported for Asia (Japan/Singapore/Hong Kong/China) since the last edition, so the same verified item(s) are carried forward.",
+   "fresh_count": 0,
    "items": [
     {
-     "headline": "Suzhou Dongshan’s US$1.8b Hong Kong IPO trails expectations amid US trade risk concerns",
-     "detail": "Suzhou Dongshan Precision Manufacturing raised less than expected in its Hong Kong initial public offering (IPO), as investors weighed potential US trade restrictions on its optical modules business amid the city’s cautious appetite for…",
-     "url": "https://www.scmp.com/business/companies/article/3371493/suzhou-dongshans-us18b-hong-kong-ipo-trails-expectations-amid-us-trade-risk-concerns",
+     "headline": "Dongshan Precision retail IPO undersubscribed as Hong Kong mega listing flops: sources",
+     "detail": "Chinese printed circuit board maker Suzhou Dongshan Precision Manufacturing Co failed to excite retail investors in Hong Kong, making it one of the least popular mega initial public offerings (IPOs) in the city so far this year.",
+     "url": "https://www.scmp.com/business/companies/article/3371948/dongshan-precision-retail-ipo-undersubscribed-hong-kong-mega-listing-flops",
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
-     "published": "2026-10-20T08:37:13+00:00",
-     "fetched": "2026-10-20T12:08:27+00:00"
+     "published": "2026-10-23T11:01:11+00:00",
+     "fetched": "2026-10-26T13:34:20+00:00"
     },
     {
-     "headline": "New property purchase disclosure rule in Japan sparks fears it may curb foreign investment",
-     "detail": "Tokyo’s implementation of a rule that requires all property buyers to declare their nationality is raising concerns among investors, according to analysts.",
-     "url": "https://www.scmp.com/business/article/3371224/new-property-purchase-disclosure-rule-japan-sparks-fears-it-may-curb-foreign-investment",
+     "headline": "Hong Kong sees last-minute IPO cancellations amid increased regulatory checks, weak market",
+     "detail": "Hong Kong’s tougher oversight and weak investor demand have put many mainland China issuers in a dilemma, forcing many small-cap non-technology firms to delay their fundraising plans or even cancel them at the last minute, according to…",
+     "url": "https://www.scmp.com/business/banking-finance/article/3371641/hong-kong-sees-last-minute-ipo-cancellations-amid-increased-regulatory-checks-weak-market",
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
-     "published": "2026-10-18T03:00:07+00:00",
-     "fetched": "2026-10-20T12:08:27+00:00"
+     "published": "2026-10-21T09:01:10+00:00",
+     "fetched": "2026-10-26T13:34:20+00:00"
     },
     {
-     "headline": "IPO fraud, China’s export boom, US inflation: 5 figures investors are watching",
-     "detail": "Hong Kong’s market regulators cracked down on fraud with a multibillion-dollar asset freeze, while mainland trade momentum surged on robust tech demand.",
-     "url": "https://www.scmp.com/business/markets/article/3371124/ipo-fraud-chinas-export-boom-us-inflation-5-figures-investors-are-watching",
+     "headline": "The Weeknd’s ‘Hong Kong’ captures nostalgia for bygone era, video director says",
+     "detail": "A new viral song by Canadian singer The Weeknd, “Hong Kong”, is a love letter to the city, the director of the accompanying video has said, adding that he believes nostalgia for the late 1980s and early 1990s era is the secret ingredient…",
+     "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372168/weeknds-hong-kong-captures-nostalgia-bygone-era-video-director-says",
      "outlet": "South China Morning Post",
-     "source_url": "https://www.scmp.com/rss/92/feed",
-     "published": "2026-10-16T07:04:10+00:00",
-     "fetched": "2026-10-20T12:08:27+00:00"
-    },
-    {
-     "headline": "Hong Kong’s IPO fraud clampdown sends shock waves across financial sector",
-     "detail": "Hong Kong regulators’ tough action to crack down on fraudulent activity in the initial public offering market is sending ripples across the city’s financial industry, with insiders predicting short-term turbulence as some listings are…",
-     "url": "https://www.scmp.com/business/banking-finance/article/3371074/hong-kongs-ipo-fraud-clampdown-sends-shock-waves-across-financial-sector",
-     "outlet": "South China Morning Post",
-     "source_url": "https://www.scmp.com/rss/92/feed",
-     "published": "2026-10-16T01:06:30+00:00",
-     "fetched": "2026-10-20T12:08:27+00:00"
+     "source_url": "https://www.scmp.com/rss/91/feed",
+     "published": "2026-10-26T09:12:48+00:00",
+     "fetched": "2026-10-26T13:34:21+00:00"
     }
    ]
   },
   {
    "key": "us",
    "name": "US",
-   "summary": "US equity capital markets activity captured this run runs to 4 items, led by The IPO Buzz: Lycia Therapeutics (LYCA Proposed) Sets Terms for $250 Million IPO. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "summary": "US equity capital markets activity captured this run runs to 4 items, led by The IPO Buzz: OPay Ltd. (OPAY Proposed) of Nigeria Launches $320 Million IPO. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
    "fresh_count": 4,
    "items": [
+    {
+     "headline": "The IPO Buzz: OPay Ltd. (OPAY Proposed) of Nigeria Launches $320 Million IPO",
+     "detail": "OPay Ltd. (OPAY Proposed), the parent of Nigeria’s No. 1 digital banking platform, disclosed the terms for its $320 million IPO after the closing bell on Friday, Oct. 23, 2026. SoftBank-backed OPay Ltd.",
+     "url": "https://www.iposcoop.com/the-ipo-buzz-opay-ltd-opay-proposed-of-nigeria-launches-320-million-ipo/",
+     "outlet": "IPOScoop",
+     "source_url": "https://www.iposcoop.com/feed/",
+     "published": "2026-10-24T00:18:50+00:00",
+     "fetched": "2026-10-26T13:34:22+00:00"
+    },
+    {
+     "headline": "The IPO Buzz: Lycia Therapeutics (LYCA) Upsizes IPO & Prices it at $18 Top – & Stock Pops",
+     "detail": "Lycia Therapeutics (LYCA) upsized its IPO at pricing to 17.64 million shares – up from 14.7 million shares in the prospectus – and priced its IPO at $18.00 – the top of its range – to raise $317.52 million on Thursday night, Oct. 22, 2026.",
+     "url": "https://www.iposcoop.com/the-ipo-buzz-lycia-therapeutics-lyca-upsizes-ipo-prices-deal-at-18-top-of-range/",
+     "outlet": "IPOScoop",
+     "source_url": "https://www.iposcoop.com/feed/",
+     "published": "2026-10-23T00:02:05+00:00",
+     "fetched": "2026-10-26T13:34:22+00:00"
+    },
     {
      "headline": "The IPO Buzz: Lycia Therapeutics (LYCA Proposed) Sets Terms for $250 Million IPO",
      "detail": "Lycia Therapeutics (LYCA Proposed), a Phase 1 biotech targeting allergies and Graves’ disease, set the terms for its $250 million IPO early today – Tuesday, Oct. 20, 2026.",
@@ -74,43 +83,34 @@
      "outlet": "IPOScoop",
      "source_url": "https://www.iposcoop.com/feed/",
      "published": "2026-10-20T10:57:05+00:00",
-     "fetched": "2026-10-20T12:08:29+00:00"
+     "fetched": "2026-10-26T13:34:22+00:00"
     },
     {
-     "headline": "The IPO Buzz: The Waiting Game",
-     "detail": "The IPO market is playing the waiting game. IPO investors are anticipating Anthropic’s blockbuster filing – possibly by the end of the week. The IPO Calendar shows no large IPOs on tap for the week of Oct. 19, 2026.",
-     "url": "https://www.iposcoop.com/the-ipo-buzz-the-waiting-game-2/",
-     "outlet": "IPOScoop",
-     "source_url": "https://www.iposcoop.com/feed/",
-     "published": "2026-10-19T04:11:27+00:00",
-     "fetched": "2026-10-20T12:08:29+00:00"
-    },
-    {
-     "headline": "The IPO Buzz: TCGX Acquisition II (TCXB) Gains 12 Percent in its NASDAQ Debut",
-     "detail": "Jump shot: TCGX Acquisition Corp. II (TCXB) – a stock-only SPAC – opened at $11.20 – up 12 percent for a gain of $1.20 from its $10.00 price – in its NASDAQ debut today – Friday, Oct. 16, 2026.",
-     "url": "https://www.iposcoop.com/the-ipo-buzz-tcgx-acquisition-ii-tcxb-gains-12-percent-in-its-nasdaq-debut/",
-     "outlet": "IPOScoop",
-     "source_url": "https://www.iposcoop.com/feed/",
-     "published": "2026-10-16T15:34:04+00:00",
-     "fetched": "2026-10-20T12:08:29+00:00"
-    },
-    {
-     "headline": "The IPO Buzz: Iambic Therapeutics Priced at $16 – Mid-Point – & Gains 20 Percent on NASDAQ",
-     "detail": "Iambic Therapeutics(IAM) priced its IPO at $16.00 – the mid-point – and sold 9.38 million shares – the number in the prospectus – to raise $150 million on Wednesday night, Oct. 14.",
-     "url": "https://www.iposcoop.com/the-ipo-buzz-iambic-therapeutics-iam-priced-at-16-mid-point/",
-     "outlet": "IPOScoop",
-     "source_url": "https://www.iposcoop.com/feed/",
-     "published": "2026-10-14T23:55:41+00:00",
-     "fetched": "2026-10-20T12:08:29+00:00"
+     "headline": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+     "detail": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
+     "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+     "outlet": "CNBC Markets",
+     "source_url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258",
+     "published": "2026-10-16T22:33:05+00:00",
+     "fetched": "2026-10-26T13:34:25+00:00"
     }
    ]
   },
   {
    "key": "uk",
    "name": "UK",
-   "summary": "UK equity capital markets activity captured this run runs to 3 items, led by Starling founder Anne Boden offloads stake at slashed £1.7bn valuation. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "summary": "UK equity capital markets activity captured this run runs to 3 items, led by Aquis firm scraps failed Bitcoin treasury strategy after admitting ‘challenges’. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
    "fresh_count": 3,
    "items": [
+    {
+     "headline": "Aquis firm scraps failed Bitcoin treasury strategy after admitting ‘challenges’",
+     "detail": "An Aquis-listed firm will no longer allow shareholders direct exposure to Bitcoin after admitting the strategy damaged its balance sheet.",
+     "url": "https://www.cityam.com/aquis-firm-scraps-failed-bitcoin-treasury-strategy-after-admitting-challenges/",
+     "outlet": "City A.M.",
+     "source_url": "https://www.cityam.com/category/markets/feed/",
+     "published": "2026-10-23T07:46:57+00:00",
+     "fetched": "2026-10-26T13:34:28+00:00"
+    },
     {
      "headline": "Starling founder Anne Boden offloads stake at slashed £1.7bn valuation",
      "detail": "Starling founder has offloaded her remaining stake in the UK fintech at a valuation far below the price the firm was targeting in its latest secondary share sale.",
@@ -118,60 +118,42 @@
      "outlet": "City A.M.",
      "source_url": "https://www.cityam.com/category/markets/feed/",
      "published": "2026-10-20T11:58:34+00:00",
-     "fetched": "2026-10-20T12:08:32+00:00"
+     "fetched": "2026-10-26T13:34:28+00:00"
     },
     {
-     "headline": "Everyman to become the first company to ditch Aim for Pisces market",
-     "detail": "Luxury cinema chain Everyman is set to ditch its London listing for a private markets platform, after facing heavy pressure from key shareholders.",
-     "url": "https://www.cityam.com/everyman-to-become-the-first-company-to-ditch-aim-for-pisces-market/",
-     "outlet": "City A.M.",
-     "source_url": "https://www.cityam.com/category/markets/feed/",
-     "published": "2026-10-14T11:25:32+00:00",
-     "fetched": "2026-10-20T12:08:32+00:00"
-    },
-    {
-     "headline": "Cornish Metals kickstarts share sale to reopen historic tin mine",
-     "detail": "A Cornish mining company is seeking to raise £135m in an attempt to finance the reopening of the historic South Crofty tin mine and end the UK’s reliance on foreign imports.",
-     "url": "https://www.cityam.com/cornish-metals-kickstarts-share-sale-to-reopen-historic-tin-mine/",
+     "headline": "Sheikh Mansour doubles down on Manchester City with £100m injection despite legal row",
+     "detail": "Sheikh Mansour has reaffirmed his commitment to City Football Group despite Manchester City’s ongoing legal battle with the Premier League by investing a further £100m.",
+     "url": "https://www.cityam.com/sheikh-mansour-doubles-down-on-manchester-city-with-100m-injection-despite-legal-row/",
      "outlet": "City A.M.",
      "source_url": "https://www.cityam.com/feed/",
-     "published": "2026-10-20T07:07:57+00:00",
-     "fetched": "2026-10-20T12:08:34+00:00"
+     "published": "2026-10-26T13:28:14+00:00",
+     "fetched": "2026-10-26T13:34:31+00:00"
     }
    ]
   },
   {
    "key": "europe",
    "name": "Europe",
-   "summary": "Europe equity capital markets activity captured this run runs to 3 items, led by US Futures Slip as Neocloud IPO Elice Flops, SpaceX Results Loom. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
-   "fresh_count": 3,
+   "summary": "Europe equity capital markets activity captured this run runs to 2 items, led by Anthropic Is Said to Plan Public Filing for Mega-IPO Monday. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources. No newer capital markets item has been reported for Europe since the last edition, so the same verified item(s) are carried forward.",
+   "fresh_count": 0,
    "items": [
     {
-     "headline": "US Futures Slip as Neocloud IPO Elice Flops, SpaceX Results Loom",
-     "detail": "The return of artificial-intelligence angst pushed Nasdaq futures lower on Tuesday, as South Korean neocloud company Elice Inc.’s debut tanked, spurring concern about the sustainability of the global AI boom.",
-     "url": "https://www.bloomberg.com/news/articles/2026-10-20/us-futures-slip-as-neocloud-ipo-elice-flops-spacex-results-loom",
+     "headline": "Anthropic Is Said to Plan Public Filing for Mega-IPO Monday",
+     "detail": "Anthropic PBC is planning to file publicly for an initial public offering Monday at around 9 a.m.",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-is-said-to-plan-public-filing-for-mega-ipo-monday",
      "outlet": "Bloomberg",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-20T11:57:42+00:00",
-     "fetched": "2026-10-20T12:08:35+00:00"
+     "published": "2026-10-26T11:53:38+00:00",
+     "fetched": "2026-10-26T13:34:35+00:00"
     },
     {
-     "headline": "Senegal Eurobonds Fall as Budget Standoff Puts IMF Deal at Risk",
-     "detail": "Senegal’s dollar bonds weakened after opposition leader Ousmane Sonko threatened to block a revised budget for this year and 2027 spending plan, raising concern this could complicate its debt restructuring and delay a new International…",
-     "url": "https://www.bloomberg.com/news/articles/2026-10-20/senegal-eurobonds-fall-as-budget-standoff-puts-imf-deal-at-risk",
+     "headline": "Egypt’s Banque du Caire Prices IPO at Top End, Eyes $648 Million",
+     "detail": "Banque du Caire priced its initial public offering at the top end of the marketed range, signaling strong demand for one of Egypt’s biggest-ever listings, which could raise around $648 million.",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-26/banque-du-caire-says-ipo-priced-at-top-end-of-range",
      "outlet": "Bloomberg",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-20T11:05:42+00:00",
-     "fetched": "2026-10-20T12:08:35+00:00"
-    },
-    {
-     "headline": "Stocks Fall as AI Jitters Return and Oil Rallies: Markets Wrap",
-     "detail": "A rebound in the artificial intelligence trade sputtered after the dismal debut of a South Korean data center firm revived worries about whether the technology’s spending boom can last. Brent crude hit a five-month high.",
-     "url": "https://www.bloomberg.com/news/articles/2026-10-19/stock-market-today-dow-s-p-live-updates",
-     "outlet": "Bloomberg",
-     "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-19T22:09:31+00:00",
-     "fetched": "2026-10-20T12:08:35+00:00"
+     "published": "2026-10-26T07:26:47+00:00",
+     "fetched": "2026-10-26T13:34:35+00:00"
     }
    ]
   },

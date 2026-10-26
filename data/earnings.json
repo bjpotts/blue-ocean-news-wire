@@ -3,103 +3,131 @@
   {
    "key": "anz",
    "name": "ANZ",
-   "summary": "No Company earnings reports available.",
+   "summary": "ANZ earnings reporting activity captured this run runs to 2 items, led by Beforepay Posts Record Revenue as Quarterly Cash Profit Climbs 58%. The remaining items cover the rest of the region's results, guidance and reporting-season flow as reported by the linked sources. No newer earnings item has been reported for ANZ since the last edition, so the same verified item(s) are carried forward.",
    "fresh_count": 0,
-   "items": []
+   "items": [
+    {
+     "headline": "Beforepay Posts Record Revenue as Quarterly Cash Profit Climbs 58%",
+     "detail": "Beforepay posts record first-quarter revenue of $16.5m, up 45%, as cash profit jumps 58% to $5.7m.",
+     "url": "https://smallcaps.com.au/article/beforepay-group-posts-record-revenue-as-quarterly-cash-profit-climbs-58percent",
+     "outlet": "Small Caps",
+     "source_url": "https://smallcaps.com.au/feed",
+     "published": "2026-10-26T03:01:22+00:00",
+     "fetched": "2026-10-26T13:34:38+00:00"
+    },
+    {
+     "headline": "Pureprofile Posts Record Quarterly Revenue as Platform Sales Double",
+     "detail": "Pureprofile posts record $18.3m quarterly revenue, up 14%, as platform sales more than double and EBITDA jumps 27%.",
+     "url": "https://smallcaps.com.au/article/pureprofile-posts-record-quarterly-revenue-as-platform-sales-double",
+     "outlet": "Small Caps",
+     "source_url": "https://smallcaps.com.au/feed",
+     "published": "2026-10-26T02:05:56+00:00",
+     "fetched": "2026-10-26T13:34:38+00:00"
+    }
+   ]
   },
   {
    "key": "asia",
    "name": "Asia (Japan/Singapore/Hong Kong/China)",
-   "summary": "A single verifiable earnings item was found for Asia (Japan/Singapore/Hong Kong/China) this run: China’s carmakers eye record sales, luxury model hits regulatory bump: 7 EV reads.",
-   "fresh_count": 1,
+   "summary": "Asia (Japan/Singapore/Hong Kong/China) earnings reporting activity captured this run runs to 2 items, led by Chinese biotech giant WuXi AppTec raises 2026 outlook after profit surge. The remaining items cover the rest of the region's results, guidance and reporting-season flow as reported by the linked sources. No newer earnings item has been reported for Asia (Japan/Singapore/Hong Kong/China) since the last edition, so the same verified item(s) are carried forward.",
+   "fresh_count": 0,
    "items": [
     {
-     "headline": "China’s carmakers eye record sales, luxury model hits regulatory bump: 7 EV reads",
-     "detail": "We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1.",
-     "url": "https://www.scmp.com/business/china-evs/article/3370855/chinas-carmakers-eye-record-sales-luxury-model-hits-regulatory-bump-7-ev-reads",
+     "headline": "Chinese biotech giant WuXi AppTec raises 2026 outlook after profit surge",
+     "detail": "WuXi AppTec raised its full-year revenue guidance after its net profit surged 62.4 per cent in the first nine months of 2026, while revenue rose 38.6 per cent on strong demand for its drug development and manufacturing services.",
+     "url": "https://www.scmp.com/business/china-business/article/3372199/chinese-biotech-giant-wuxi-apptec-raises-2026-outlook-after-profit-surge",
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
-     "published": "2026-10-14T07:57:53+00:00",
-     "fetched": "2026-10-20T12:09:32+00:00"
+     "published": "2026-10-26T13:04:15+00:00",
+     "fetched": "2026-10-26T13:35:18+00:00"
+    },
+    {
+     "headline": "Why China’s new estimate on Greenland ice loss speed is 55% lower than America’s",
+     "detail": "Chinese researchers have created a new model to convert satellite surface elevation data for the Greenland Ice Sheet into a detailed estimate of how much ice it has lost in recent decades.",
+     "url": "https://www.scmp.com/news/china/science/article/3372129/why-chinas-new-estimate-greenland-ice-loss-speed-55-lower-americas",
+     "outlet": "South China Morning Post",
+     "source_url": "https://www.scmp.com/rss/91/feed",
+     "published": "2026-10-26T10:19:46+00:00",
+     "fetched": "2026-10-26T13:35:19+00:00"
     }
    ]
   },
   {
    "key": "us",
    "name": "US",
-   "summary": "US earnings reporting activity captured this run runs to 5 items, led by Pre-Market Earnings Report for October 19, 2026 : FITB, CLF. The remaining items cover the rest of the region's results, guidance and reporting-season flow as reported by the linked sources.",
+   "summary": "US earnings reporting activity captured this run runs to 5 items, led by Bloom Energy Just Reported—Its Biggest Order Is Still Waiting on a Pipeline. The remaining items cover the rest of the region's results, guidance and reporting-season flow as reported by the linked sources.",
    "fresh_count": 5,
    "items": [
     {
-     "headline": "Pre-Market Earnings Report for October 19, 2026 : FITB, CLF",
-     "detail": "The following companies are expected to report earnings prior to market open on 10/19/2026.",
-     "url": "https://www.nasdaq.com/articles/pre-market-earnings-report-october-19-2026-fitb-clf",
+     "headline": "Bloom Energy Just Reported—Its Biggest Order Is Still Waiting on a Pipeline",
+     "detail": "Bloom Energy’s (NYSE: BE) Q3 earnings report shows strong growth despite uncertainty surrounding Oracle’s (NASDAQ: ORCL) force majeure notice.",
+     "url": "https://www.nasdaq.com/articles/bloom-energy-just-reported-its-biggest-order-still-waiting-pipeline",
      "outlet": "Nasdaq",
      "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
-     "published": "2026-10-16T20:00:02+00:00",
-     "fetched": "2026-10-20T12:09:35+00:00"
+     "published": "2026-10-24T15:05:00+00:00",
+     "fetched": "2026-10-26T13:35:22+00:00"
     },
     {
-     "headline": "Q3 Earnings Season Preview: Revenue Beats Lag, Multi-Sector Momentum Holds",
-     "detail": "The Q3 earnings season has started off a bit mixed, with the growth pace and the revenue-beat percentage tracking lower relative to the recent past.",
-     "url": "https://www.nasdaq.com/articles/q3-earnings-season-preview-revenue-beats-lag-multi-sector-momentum-holds",
+     "headline": "What Comfort Systems USA (FIX) Said on Its Q3 Earnings Call",
+     "detail": "3 Stocks Built for Higher Rates—And 2 That Could BreakComfort Systems USA (NYSE:FIX) reported sharply higher third-quarter results, supported by strong demand in construction activity, particularly from technology and industrial customers,…",
+     "url": "https://www.nasdaq.com/articles/what-comfort-systems-usa-fix-said-its-q3-earnings-call",
      "outlet": "Nasdaq",
      "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
-     "published": "2026-10-16T19:44:00+00:00",
-     "fetched": "2026-10-20T12:09:35+00:00"
+     "published": "2026-10-23T18:04:54+00:00",
+     "fetched": "2026-10-26T13:35:22+00:00"
     },
     {
-     "headline": "Bank of America Stock Sell-Off Looks Like a Buying Opportunity",
-     "detail": "Bank of America (NYSE: BAC) is a compelling play because of its scale, value, dividend, and sensitivity to interest rates.",
-     "url": "https://www.nasdaq.com/articles/bank-america-stock-sell-looks-buying-opportunity",
+     "headline": "Byline Bancorp Q3 Earnings Call Highlights",
+     "detail": "Consumer-Driven Stocks Boost Buybacks, Including Visa's $20B PlanByline Bancorp (NYSE:BY) reported record third-quarter net income and revenue, expanded its net interest margin and increased deposits, while also announcing an agreement to…",
+     "url": "https://www.nasdaq.com/articles/byline-bancorp-q3-earnings-call-highlights",
      "outlet": "Nasdaq",
      "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
-     "published": "2026-10-16T17:30:00+00:00",
-     "fetched": "2026-10-20T12:09:35+00:00"
+     "published": "2026-10-23T18:04:52+00:00",
+     "fetched": "2026-10-26T13:35:22+00:00"
     },
     {
-     "headline": "Independent Bank Q3 Earnings Call Highlights",
-     "detail": "3 Volatile Mid-Caps to Trade This Earnings SeasonIndependent Bank (NASDAQ:INDB) reported third-quarter 2026 net income of $89.7 million, or $1.90 per diluted share, as loan and deposit growth, a stable core net interest margin and…",
-     "url": "https://www.nasdaq.com/articles/independent-bank-q3-earnings-call-highlights",
+     "headline": "Woori Bank Q3 Earnings Call Highlights",
+     "detail": "Big Banks Report Strong Earnings—So Why Are Shares Falling?Woori Financial Group said third-quarter net income rose 4.4% from the prior quarter to KRW 1.0492 trillion, marking its second consecutive quarter above KRW 1 trillion as the…",
+     "url": "https://www.nasdaq.com/articles/woori-bank-q3-earnings-call-highlights",
      "outlet": "Nasdaq",
      "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
-     "published": "2026-10-16T17:03:07+00:00",
-     "fetched": "2026-10-20T12:09:35+00:00"
+     "published": "2026-10-23T17:04:39+00:00",
+     "fetched": "2026-10-26T13:35:22+00:00"
     },
     {
-     "headline": "What Travelers Companies (TRV) Said on Its Q3 Earnings Call",
-     "detail": "Travelers Stock Surges 10% as Earnings Beat Reveals Underwriting DisciplineTravelers Companies (NYSE:TRV) reported third-quarter 2026 core income of $1.95 billion, or $9.18 per diluted share, as strong underwriting profitability across all…",
-     "url": "https://www.nasdaq.com/articles/what-travelers-companies-trv-said-its-q3-earnings-call",
+     "headline": "What SLB (SLB) Said on Its Q3 Earnings Call",
+     "detail": "SLB’s Kelvion Deal Could Change How Investors Value the Oilfield GiantSLB (NYSE:SLB) reported third-quarter 2026 revenue of $9.45 billion, up 5% sequentially, as growth in the Middle East, North America land and international deepwater…",
+     "url": "https://www.nasdaq.com/articles/what-slb-slb-said-its-q3-earnings-call",
      "outlet": "Nasdaq",
      "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
-     "published": "2026-10-16T16:03:09+00:00",
-     "fetched": "2026-10-20T12:09:35+00:00"
+     "published": "2026-10-23T17:04:38+00:00",
+     "fetched": "2026-10-26T13:35:22+00:00"
     }
    ]
   },
   {
    "key": "uk",
    "name": "UK",
-   "summary": "A single verifiable earnings item was found for UK this run: Dimon warns of risks ‘under the surface’ as JP Morgan earnings miss. No newer earnings item has been reported for UK since the last edition, so the same verified item(s) are carried forward.",
+   "summary": "No Company earnings reports available.",
    "fresh_count": 0,
-   "items": [
-    {
-     "headline": "Dimon warns of risks ‘under the surface’ as JP Morgan earnings miss",
-     "detail": "JP Morgan boss Jamie Dimon has warned of a broad set of economic risks “under the surface” as the Wall Street bank’s earnings missed expectations in the third quarter.",
-     "url": "https://www.cityam.com/dimon-warns-of-risks-under-the-surface-as-jp-morgan-earnings-miss/",
-     "outlet": "City A.M.",
-     "source_url": "https://www.cityam.com/category/markets/feed/",
-     "published": "2026-10-13T12:08:51+00:00",
-     "fetched": "2026-10-20T12:09:35+00:00"
-    }
-   ]
+   "items": []
   },
   {
    "key": "europe",
    "name": "Europe",
-   "summary": "No Company earnings reports available.",
+   "summary": "A single verifiable earnings item was found for Europe this run: Anthropic files for Nasdaq IPO as revenue jumps to $16.3 billion. No newer earnings item has been reported for Europe since the last edition, so the same verified item(s) are carried forward.",
    "fresh_count": 0,
-   "items": []
+   "items": [
+    {
+     "headline": "Anthropic files for Nasdaq IPO as revenue jumps to $16.3 billion",
+     "detail": "Anthropic files for Nasdaq IPO as revenue jumps to $16.3 billion",
+     "url": "https://www.investing.com/news/stock-market-news/anthropic-files-for-nasdaq-ipo-as-revenue-jumps-to-163-billion-4972842",
+     "outlet": "Investing.com",
+     "source_url": "https://www.investing.com/rss/news_25.rss",
+     "published": null,
+     "fetched": "2026-10-26T13:35:25+00:00"
+    }
+   ]
   },
   {
    "key": "rest",
