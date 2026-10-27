@@ -13,7 +13,7 @@
      "outlet": "Small Caps",
      "source_url": "https://smallcaps.com.au/feed",
      "published": "2026-10-26T03:01:22+00:00",
-     "fetched": "2026-10-26T14:20:35+00:00"
+     "fetched": "2026-10-26T14:26:58+00:00"
     },
     {
      "headline": "Pureprofile Posts Record Quarterly Revenue as Platform Sales Double",
@@ -22,7 +22,7 @@
      "outlet": "Small Caps",
      "source_url": "https://smallcaps.com.au/feed",
      "published": "2026-10-26T02:05:56+00:00",
-     "fetched": "2026-10-26T14:20:35+00:00"
+     "fetched": "2026-10-26T14:26:58+00:00"
     }
    ]
   },
@@ -39,7 +39,7 @@
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
      "published": "2026-10-26T13:04:15+00:00",
-     "fetched": "2026-10-26T14:20:36+00:00"
+     "fetched": "2026-10-26T14:26:59+00:00"
     },
     {
      "headline": "Anthropic’s IPO filing shows explosive growth, risks and staggering costs",
@@ -48,7 +48,7 @@
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/91/feed",
      "published": "2026-10-26T13:53:04+00:00",
-     "fetched": "2026-10-26T14:20:37+00:00"
+     "fetched": "2026-10-26T14:27:00+00:00"
     },
     {
      "headline": "Why China’s new estimate on Greenland ice loss speed is 55% lower than America’s",
@@ -57,16 +57,52 @@
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/91/feed",
      "published": "2026-10-26T10:19:46+00:00",
-     "fetched": "2026-10-26T14:20:37+00:00"
+     "fetched": "2026-10-26T14:27:00+00:00"
     }
    ]
   },
   {
    "key": "us",
    "name": "US",
-   "summary": "US earnings reporting activity captured this run runs to 5 items, led by Bloom Energy Just Reported—Its Biggest Order Is Still Waiting on a Pipeline. The remaining items cover the rest of the region's results, guidance and reporting-season flow as reported by the linked sources.",
-   "fresh_count": 5,
+   "summary": "US earnings reporting activity captured this run runs to 5 items, led by Eastern Bankshares Q3 Earnings Call Highlights. The remaining items cover the rest of the region's results, guidance and reporting-season flow as reported by the linked sources.",
+   "fresh_count": 4,
    "items": [
+    {
+     "headline": "Eastern Bankshares Q3 Earnings Call Highlights",
+     "detail": "Eastern Bankshares (NASDAQ:EBC) reported record third-quarter operating earnings as commercial lending growth, expense control and improved credit metrics supported profitability, while management said competition for deposits and…",
+     "url": "https://www.nasdaq.com/articles/eastern-bankshares-q3-earnings-call-highlights",
+     "outlet": "Nasdaq",
+     "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
+     "published": "2026-10-23T16:06:06+00:00",
+     "fetched": "2026-10-26T14:27:01+00:00"
+    },
+    {
+     "headline": "Lockheed Martin’s Record $292 Billion Backlog Comes With a Delivery Test",
+     "detail": "Lockheed Martin (NYSE: LMT) reported third-quarter results on Thursday, Oct. 22, and on paper, there was little to complain about.",
+     "url": "https://www.nasdaq.com/articles/lockheed-martins-record-292-billion-backlog-comes-delivery-test",
+     "outlet": "Nasdaq",
+     "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
+     "published": "2026-10-23T16:05:00+00:00",
+     "fetched": "2026-10-26T14:27:01+00:00"
+    },
+    {
+     "headline": "What Infosys (INFY) Said on Its Q2 Earnings Call",
+     "detail": "Infosys stock sets up for growth, supported by AIInfosys (NYSE:INFY) reported 1.5% year-over-year revenue growth in constant currency for the second quarter of fiscal 2027, while raising its emphasis on artificial intelligence services and…",
+     "url": "https://www.nasdaq.com/articles/what-infosys-infy-said-its-q2-earnings-call",
+     "outlet": "Nasdaq",
+     "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
+     "published": "2026-10-23T15:04:32+00:00",
+     "fetched": "2026-10-26T14:27:01+00:00"
+    },
+    {
+     "headline": "What Booz Allen Hamilton (BAH) Said on Its Q2 Earnings Call",
+     "detail": "The Pentagon's AI Pivot Supercharges Defense StocksBooz Allen Hamilton (NYSE:BAH) said it remained on track with its fiscal 2027 expectations after reporting second-quarter revenue that declined year over year, while profitability,…",
+     "url": "https://www.nasdaq.com/articles/what-booz-allen-hamilton-bah-said-its-q2-earnings-call",
+     "outlet": "Nasdaq",
+     "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
+     "published": "2026-10-23T15:04:30+00:00",
+     "fetched": "2026-10-26T14:27:01+00:00"
+    },
     {
      "headline": "Bloom Energy Just Reported—Its Biggest Order Is Still Waiting on a Pipeline",
      "detail": "Bloom Energy’s (NYSE: BE) Q3 earnings report shows strong growth despite uncertainty surrounding Oracle’s (NASDAQ: ORCL) force majeure notice.",
@@ -74,43 +110,7 @@
      "outlet": "Nasdaq",
      "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
      "published": "2026-10-24T15:05:00+00:00",
-     "fetched": "2026-10-26T14:20:38+00:00"
-    },
-    {
-     "headline": "What Comfort Systems USA (FIX) Said on Its Q3 Earnings Call",
-     "detail": "3 Stocks Built for Higher Rates—And 2 That Could BreakComfort Systems USA (NYSE:FIX) reported sharply higher third-quarter results, supported by strong demand in construction activity, particularly from technology and industrial customers,…",
-     "url": "https://www.nasdaq.com/articles/what-comfort-systems-usa-fix-said-its-q3-earnings-call",
-     "outlet": "Nasdaq",
-     "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
-     "published": "2026-10-23T18:04:54+00:00",
-     "fetched": "2026-10-26T14:20:38+00:00"
-    },
-    {
-     "headline": "Byline Bancorp Q3 Earnings Call Highlights",
-     "detail": "Consumer-Driven Stocks Boost Buybacks, Including Visa's $20B PlanByline Bancorp (NYSE:BY) reported record third-quarter net income and revenue, expanded its net interest margin and increased deposits, while also announcing an agreement to…",
-     "url": "https://www.nasdaq.com/articles/byline-bancorp-q3-earnings-call-highlights",
-     "outlet": "Nasdaq",
-     "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
-     "published": "2026-10-23T18:04:52+00:00",
-     "fetched": "2026-10-26T14:20:38+00:00"
-    },
-    {
-     "headline": "Woori Bank Q3 Earnings Call Highlights",
-     "detail": "Big Banks Report Strong Earnings—So Why Are Shares Falling?Woori Financial Group said third-quarter net income rose 4.4% from the prior quarter to KRW 1.0492 trillion, marking its second consecutive quarter above KRW 1 trillion as the…",
-     "url": "https://www.nasdaq.com/articles/woori-bank-q3-earnings-call-highlights",
-     "outlet": "Nasdaq",
-     "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
-     "published": "2026-10-23T17:04:39+00:00",
-     "fetched": "2026-10-26T14:20:38+00:00"
-    },
-    {
-     "headline": "What SLB (SLB) Said on Its Q3 Earnings Call",
-     "detail": "SLB’s Kelvion Deal Could Change How Investors Value the Oilfield GiantSLB (NYSE:SLB) reported third-quarter 2026 revenue of $9.45 billion, up 5% sequentially, as growth in the Middle East, North America land and international deepwater…",
-     "url": "https://www.nasdaq.com/articles/what-slb-slb-said-its-q3-earnings-call",
-     "outlet": "Nasdaq",
-     "source_url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
-     "published": "2026-10-23T17:04:38+00:00",
-     "fetched": "2026-10-26T14:20:38+00:00"
+     "fetched": "2026-10-26T14:27:01+00:00"
     }
    ]
   },
@@ -124,9 +124,28 @@
   {
    "key": "europe",
    "name": "Europe",
-   "summary": "No Company earnings reports available.",
-   "fresh_count": 0,
-   "items": []
+   "summary": "Europe earnings reporting activity captured this run runs to 2 items, led by Estee Lauder stock may move 8.5% on Nov. 2 earnings report. The remaining items cover the rest of the region's results, guidance and reporting-season flow as reported by the linked sources.",
+   "fresh_count": 2,
+   "items": [
+    {
+     "headline": "Estee Lauder stock may move 8.5% on Nov. 2 earnings report",
+     "detail": "Estee Lauder stock may move 8.5% on Nov. 2 earnings report",
+     "url": "https://www.investing.com/news/stock-market-news/estee-lauder-stock-may-move-85-on-nov-2-earnings-report-93CH-4973092",
+     "outlet": "Investing.com",
+     "source_url": "https://www.investing.com/rss/news_25.rss",
+     "published": null,
+     "fetched": "2026-10-26T14:27:03+00:00"
+    },
+    {
+     "headline": "Palantir stock may move 10% on Nov. 2 earnings report",
+     "detail": "Palantir stock may move 10% on Nov. 2 earnings report",
+     "url": "https://www.investing.com/news/stock-market-news/palantir-stock-may-move-10-on-nov-2-earnings-report-93CH-4973079",
+     "outlet": "Investing.com",
+     "source_url": "https://www.investing.com/rss/news_25.rss",
+     "published": null,
+     "fetched": "2026-10-26T14:27:03+00:00"
+    }
+   ]
   },
   {
    "key": "rest",

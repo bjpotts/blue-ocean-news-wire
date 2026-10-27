@@ -3,18 +3,18 @@
   {
    "key": "anz",
    "title": "ANZ Top Performers",
-   "caption": "Source: TradingView Australia market movers, captured Tuesday 27 October 2026 at 01:18 AEST, covering the AEST session most recently published at that time. Covers all ASX-listed stocks rather than the ASX 200 alone. Ticker links go to Market Index. New Zealand (NZX) top performers are not available from a reliable linked source.",
-   "fetched": "2026-10-27T01:18:43+11:00",
+   "caption": "Source: TradingView Australia market movers, captured Tuesday 27 October 2026 at 01:25 AEST, covering the AEST session most recently published at that time. Covers all ASX-listed stocks rather than the ASX 200 alone. Ticker links go to Market Index. New Zealand (NZX) top performers are not available from a reliable linked source.",
+   "fetched": "2026-10-27T01:25:12+11:00",
    "stale": false,
-   "gainer_note": "Australia United Mining Limited led the ANZ board for the session, up 100.00 per cent to $0.002 on reported volume of 836.55K shares. The move is reported here as captured from TradingView Australia market movers at the time of this build. No company announcement covering it could be found in the local press, so no catalyst is asserted - a common outcome for a thinly traded stock.",
+   "gainer_note": "Enova Mining Limited led the ANZ board for the session, up 100.00 per cent to $0.002 on reported volume of 274.44K shares. The move is reported here as captured from TradingView Australia market movers at the time of this build. No company announcement covering it could be found in the local press, so no catalyst is asserted - a common outcome for a thinly traded stock.",
    "gainer_note_sources": [],
-   "loser_note": "Ovanti Ltd was the steepest decliner on the ANZ board for the session, down 50.00 per cent to $0.001 on reported volume of 35.69M shares. Reported alongside the move, Sharecafe on 23 October 2026:",
+   "loser_note": "Prominence Energy Limited was the steepest decliner on the ANZ board for the session, down 50.00 per cent to $0.001 on reported volume of 354.98K shares. Reported alongside the move, Kalkine on 26 October 2026:",
    "loser_note_sources": [
     {
-     "title": "Ovanti (ASX: OVT) Completes Rights Issue Shortfall Placement - Sharecafe",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWEw1WFhHaXIwdXdDeFZndV82a1EwUGVLU1lpa3dVdFk2NUd5RlhUbW1pUnhrN2I0S0RmTzNseDFuazRIb1dNc3B6V256cHZiOHlYVnZlOUxXQmE5ejE5NHVnOGhsOGVWRno4Z3lkMlJLOUVvV292czhGWkcydjY4bFVIVy1OUTRRUUxZWFFTOGM2NktCczBRdUtoamhfYzg?oc=5",
-     "publisher": "Sharecafe",
-     "published": "2026-10-23T13:20:39+11:00"
+     "title": "Prominence Energy Issues 20 Million Unquoted Options to Employee Under Incentive Plan on 26 October 2026 - Kalkine",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVjlLSXB1djhGN3Q2ZXNwWF9TVEV3bThqYVpFaWtKM09GaDhKTmtET0U1UkF6dFpEZkxVVnpVZE5PSktPeFh1LUVncW9ablpmOUVRak1PWGVLU05sV1YzQndlUmNKN2pSQi1KY2tUTUR5TkZ3Y3luek9kRHJwZEJCVE1hTHJNR3k0SmszOU5TVmNjaHVSZk9sR1RyWnQ3UVk2UXE5MlZWWmFqT2tGaVNoYl8tbmlabU9Xa01iV25iMmV1RlVyQXo1Xzg0OENNWmE5czk0LUo0Y0ZtR0pNTnVR?oc=5",
+     "publisher": "Kalkine",
+     "published": "2026-10-26T20:09:33+11:00"
     }
    ],
    "gainers": [
@@ -165,8 +165,8 @@
   {
    "key": "japan",
    "title": "Japan Top Performers",
-   "caption": "Source: TradingView Japan market movers, captured Tuesday 27 October 2026 at 01:18 AEST, covering the JST session most recently published at that time. Share volumes as reported by TradingView.",
-   "fetched": "2026-10-27T01:18:43+11:00",
+   "caption": "Source: TradingView Japan market movers, captured Tuesday 27 October 2026 at 01:25 AEST, covering the JST session most recently published at that time. Share volumes as reported by TradingView.",
+   "fetched": "2026-10-27T01:25:12+11:00",
    "stale": false,
    "gainer_note": "circlace Inc led the Japan board for the session, up 27.27 per cent to \u00a51,400 on reported volume of 3.6K shares. The move is reported here as captured from TradingView Japan market movers at the time of this build. No company announcement covering it could be found in the local press, so no catalyst is asserted - a common outcome for a thinly traded stock.",
    "gainer_note_sources": [],
@@ -320,8 +320,8 @@
   {
    "key": "singapore",
    "title": "Singapore Top Performers",
-   "caption": "Source: TradingView Singapore market movers, captured Tuesday 27 October 2026 at 01:18 AEST, covering the SGT session most recently published at that time. Share volumes as reported by TradingView.",
-   "fetched": "2026-10-27T01:18:43+11:00",
+   "caption": "Source: TradingView Singapore market movers, captured Tuesday 27 October 2026 at 01:25 AEST, covering the SGT session most recently published at that time. Share volumes as reported by TradingView.",
+   "fetched": "2026-10-27T01:25:12+11:00",
    "stale": false,
    "gainer_note": "Envictus International Holdings Limited led the Singapore board for the session, up 28.85 per cent to S$0.335 on reported volume of 1.5K shares. The move is reported here as captured from TradingView Singapore market movers at the time of this build. No company announcement covering it could be found in the local press, so no catalyst is asserted - a common outcome for a thinly traded stock.",
    "gainer_note_sources": [],
@@ -475,8 +475,8 @@
   {
    "key": "hongkong",
    "title": "Hong Kong Top Performers",
-   "caption": "Source: TradingView Hong Kong market movers, captured Tuesday 27 October 2026 at 01:18 AEST, covering the HKT session most recently published at that time. Share volumes as reported by TradingView.",
-   "fetched": "2026-10-27T01:18:43+11:00",
+   "caption": "Source: TradingView Hong Kong market movers, captured Tuesday 27 October 2026 at 01:25 AEST, covering the HKT session most recently published at that time. Share volumes as reported by TradingView.",
+   "fetched": "2026-10-27T01:25:12+11:00",
    "stale": false,
    "gainer_note": "Leader Education Limited led the Hong Kong board for the session, up 49.38 per cent to HK$1.195 on reported volume of 5.22M shares. The move is reported here as captured from TradingView Hong Kong market movers at the time of this build. No company announcement covering it could be found in the local press, so no catalyst is asserted - a common outcome for a thinly traded stock.",
    "gainer_note_sources": [],
