@@ -30,13 +30,39 @@ PROJECTS = {
         "name": "Morning Edition",
         "project": "/Users/brandonpotts/.verdent/verdent-projects/run-the-public-news-morning",
         "weekdays": {1, 2, 3, 4, 5, 6},
-        "hour": 8,
+        "hour": 7,
         "pdf_glob": "market-wrap-up-*-am.pdf",
     },
 }
 
 
+def latest_pdf_for_date(project, glob, run_date):
+    """Return the newest PDF matching glob whose filename date == run_date and
+    whose filesystem mtime is on or after that day's scheduled run hour.
+
+    A manual early-morning run can create a -pm PDF for today, but it must not
+    count as covering the scheduled 18:00 Evening Edition. Creation-time check
+    catches that.
+    """
+    pattern = re.compile(r"market-wrap-up-(\d{4}-\d{2}-\d{2})-(am|pm)\.pdf")
+    candidates = []
+    for p in Path(project).glob(glob):
+        m = pattern.search(p.name)
+        if not m:
+            continue
+        file_date = datetime.strptime(m.group(1), "%Y-%m-%d").date()
+        if file_date != run_date:
+            continue
+        mtime = datetime.fromtimestamp(p.stat().st_mtime)
+        candidates.append((mtime, p))
+    if not candidates:
+        return None
+    candidates.sort(reverse=True)
+    return candidates[0][1]
+
+
 def latest_pdf_date(project, glob):
+    """Return the latest filename date among all matching PDFs."""
     pattern = re.compile(r"market-wrap-up-(\d{4}-\d{2}-\d{2})-(am|pm)\.pdf")
     dates = []
     for p in Path(project).glob(glob):
@@ -66,20 +92,27 @@ def needs_run(edition_cfg):
     _time.tzset()
     now_syd = datetime.fromtimestamp(_time.time())
 
-    latest = latest_pdf_date(edition_cfg["project"], edition_cfg["pdf_glob"])
     expected = expected_runs(edition_cfg, now_syd)
-
     if not expected:
         return False, "no scheduled runs have passed yet today"
 
-    if latest is None:
-        return True, "no local PDF found; at least one run is overdue"
+    # Find any scheduled run date that does not have a PDF created at/after
+    # its scheduled hour. Manual runs outside the scheduled window create a
+    # PDF with the right filename but the wrong timestamp, so they don't mask
+    # a missed scheduled run.
+    missing = []
+    for d in sorted(expected):
+        pdf = latest_pdf_for_date(edition_cfg["project"], edition_cfg["pdf_glob"], d)
+        if pdf is None:
+            missing.append(d)
+            continue
+        scheduled = datetime(d.year, d.month, d.day, edition_cfg["hour"], 0)
+        mtime = datetime.fromtimestamp(pdf.stat().st_mtime)
+        if mtime < scheduled:
+            missing.append(d)
 
-    # Find any scheduled run date that does not have a PDF on or after it.
-    # This catches gaps: if Sat is missed but a later manual run exists, we
-    # still want to backfill Saturday before moving on.
-    missing = [d for d in sorted(expected) if d > latest]
     if not missing:
+        latest = latest_pdf_date(edition_cfg["project"], edition_cfg["pdf_glob"])
         return False, "latest PDF %s covers all scheduled runs so far" % latest
 
     return True, "missed scheduled runs: %s" % ", ".join(str(d) for d in missing)
