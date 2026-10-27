@@ -4,48 +4,48 @@
    "key": "abc",
    "name": "ABC News Australia",
    "site": "abc.net.au/news",
-   "summary": "The ABC's Australian and international news file is leading with US marine charged over Japanese woman's murder; Jordan arrests three relatives over deadly church attack; Chris Brown avoids jail time over London nightclub brawl.",
+   "summary": "The ABC's Australian and international news file is leading with Fighting paused in Ukrainian city under deal announced by Melania Trump; Men charged with national security offences over incident at US base in England; AFP boss warns boys as young as 12 being radicalised at home.",
    "note": null,
    "items": [
     {
-     "headline": "US marine charged over Japanese woman's murder",
-     "detail": "US marine charged over Japanese woman's murder",
-     "url": "https://www.abc.net.au/news/2026-10-27/us-marine-charged-with-murder-in-japan/107311812",
+     "headline": "Fighting paused in Ukrainian city under deal announced by Melania Trump",
+     "detail": "Fighting paused in Ukrainian city under deal announced by Melania Trump",
+     "url": "https://www.abc.net.au/news/2026-10-27/melania-trump-russia-ukraine-oleshky-ceasefire/107316202",
      "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
-     "published": "2026-10-26T13:52:39+00:00",
-     "fetched": "2026-10-26T14:27:07+00:00"
+     "published": "2026-10-27T10:35:24+00:00",
+     "fetched": "2026-10-27T11:09:10+00:00"
     },
     {
-     "headline": "Jordan arrests three relatives over deadly church attack",
-     "detail": "Jordan arrests three relatives over deadly church attack",
-     "url": "https://www.abc.net.au/news/2026-10-27/jordan-arrests-three-relatives-over-deadly-church-attack/107311848",
+     "headline": "Men charged with national security offences over incident at US base in England",
+     "detail": "Men charged with national security offences over incident at US base in England",
+     "url": "https://www.abc.net.au/news/2026-10-27/two-men-charged-over-fairford-raf-incident/107316522",
      "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
-     "published": "2026-10-26T13:46:23+00:00",
-     "fetched": "2026-10-26T14:27:07+00:00"
+     "published": "2026-10-27T10:23:15+00:00",
+     "fetched": "2026-10-27T11:09:10+00:00"
     },
     {
-     "headline": "Chris Brown avoids jail time over London nightclub brawl",
-     "detail": "Chris Brown avoids jail time over London nightclub brawl",
-     "url": "https://www.abc.net.au/news/2026-10-27/chris-brown-sentenced-london-nightclub-brawl/107311850",
+     "headline": "AFP boss warns boys as young as 12 being radicalised at home",
+     "detail": "AFP boss warns boys as young as 12 being radicalised at home",
+     "url": "https://www.abc.net.au/news/2026-10-27/afp-data-shatters-youth-radicalisation-assumptions/107316300",
      "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
-     "published": "2026-10-26T13:40:19+00:00",
-     "fetched": "2026-10-26T14:27:07+00:00"
+     "published": "2026-10-27T10:13:56+00:00",
+     "fetched": "2026-10-27T11:09:10+00:00"
     },
     {
-     "headline": "Liberal candidate's husband allegedly assaulted over campaign sign",
-     "detail": "Liberal candidate's husband allegedly assaulted over campaign sign",
-     "url": "https://www.abc.net.au/news/2026-10-26/victorian-liberal-amanda-dow-husband-allegedly-assaulted/107311462",
+     "headline": "Greens launch $21-a-week tax cut in bid to 'replace Labor'",
+     "detail": "Greens launch $21-a-week tax cut in bid to 'replace Labor'",
+     "url": "https://www.abc.net.au/news/2026-10-27/greens-leader-proposes-tax-cut-and-welfare-boost/107315572",
      "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
-     "published": "2026-10-26T09:45:49+00:00",
-     "fetched": "2026-10-26T14:27:07+00:00"
+     "published": "2026-10-27T10:00:07+00:00",
+     "fetched": "2026-10-27T11:09:10+00:00"
     },
     {
-     "headline": "Rescuers praised after hauling young dugong to safety",
-     "detail": "Rescuers praised after hauling young dugong to safety",
-     "url": "https://www.abc.net.au/news/2026-10-26/rescuers-hoist-entangled-dugong-to-safety-exmouth-wa/107310186",
+     "headline": "Loyal back to reclaim Sydney to Hobart record",
+     "detail": "Loyal back to reclaim Sydney to Hobart record",
+     "url": "https://www.abc.net.au/news/2026-10-27/anthony-bell-sydney-to-hobart-comanche-tribeca-loyal/107316394",
      "source_url": "https://www.abc.net.au/news/feed/51120/rss.xml",
-     "published": "2026-10-26T09:04:18+00:00",
-     "fetched": "2026-10-26T14:27:07+00:00"
+     "published": "2026-10-27T09:15:10+00:00",
+     "fetched": "2026-10-27T11:09:10+00:00"
     }
    ]
   },
@@ -53,48 +53,48 @@
    "key": "sbs",
    "name": "SBS News Australia",
    "site": "sbs.com.au/news",
-   "summary": "SBS News, covering Australian affairs with a strong multicultural and world focus is leading with Israel's election is on a knife-edge. Here's what to know about the seismic vote; 'You won't hear us coming': Police surveillance is ramping up across Australia; Venezuela's most prominent opposition leader returns home from exile.",
+   "summary": "SBS News, covering Australian affairs with a strong multicultural and world focus is leading with ABC to take legal action against One Nation over 'shocking' use of Bluey in party's videos; A missing link to Australia's newest airport comes with a $55 sting; The 'growing' health threat now responsible for one in 10 Australian deaths.",
    "note": null,
    "items": [
     {
-     "headline": "Israel's election is on a knife-edge. Here's what to know about the seismic vote",
-     "detail": "Years of war, political turmoil and the fallout from October 7 have transformed Israel's political landscape.",
-     "url": "https://www.sbs.com.au/news/article/israel-election-explainer/catfi5t84",
+     "headline": "ABC to take legal action against One Nation over 'shocking' use of Bluey in party's videos",
+     "detail": "One Nation's use of Bluey was \"shocking and disrespectful to the children of Australia\", the ABC's managing director has said.",
+     "url": "https://www.sbs.com.au/news/article/abc-to-take-legal-action-against-one-nation-over-shocking-use-of-bluey-in-partys-videos/7gtrvt9h4",
      "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
-     "published": "2026-10-26T05:40:17+00:00",
-     "fetched": "2026-10-26T14:27:10+00:00"
+     "published": "2026-10-27T10:19:52+00:00",
+     "fetched": "2026-10-27T11:09:15+00:00"
     },
     {
-     "headline": "'You won't hear us coming': Police surveillance is ramping up across Australia",
-     "detail": "Police forces across the country are increasingly integrating drones into their operations, concerning rights organisations.",
-     "url": "https://www.sbs.com.au/news/article/police-surveillance-drones-australia-ramping-up/lm3i0qrgx",
+     "headline": "A missing link to Australia's newest airport comes with a $55 sting",
+     "detail": "Western Sydney International Airport is now flying passengers — the hard part is getting to and from the airport itself.",
+     "url": "https://www.sbs.com.au/news/article/western-sydney-airport-transport-bus-train-line/1nwmb85i6",
      "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
-     "published": "2026-10-26T05:16:59+00:00",
-     "fetched": "2026-10-26T14:27:10+00:00"
+     "published": "2026-10-27T06:50:12+00:00",
+     "fetched": "2026-10-27T11:09:15+00:00"
     },
     {
-     "headline": "Venezuela's most prominent opposition leader returns home from exile",
-     "detail": "Venezuelan opposition leader María Corina Machado's return puts her back at the centre of the country's notoriously stormy politics.",
-     "url": "https://www.sbs.com.au/news/article/venezuela-maria-corina-machado-returns-from-exile/juniayfsh",
+     "headline": "The 'growing' health threat now responsible for one in 10 Australian deaths",
+     "detail": "The gap between the first and second leading causes of death in Australia is increasing.",
+     "url": "https://www.sbs.com.au/news/article/the-growing-health-threat-now-responsible-for-one-in-10-australian-deaths/8navrfwx8",
      "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
-     "published": "2026-10-26T02:43:08+00:00",
-     "fetched": "2026-10-26T14:27:10+00:00"
+     "published": "2026-10-27T05:29:18+00:00",
+     "fetched": "2026-10-27T11:09:15+00:00"
     },
     {
-     "headline": "Brazil rejects Bolsonaro heir to re-elect Lula in closely fought election",
-     "detail": "Brazilian President Luiz Inácio Lula Da Silva has narrowly won a fourth term over Flávio Bolsonaro, son of former president Jair Bolsonaro.",
-     "url": "https://www.sbs.com.au/news/article/lula-de-silva-brazil-rejects-bolsonaro-heir-in-closely-fought-election-battle/rwsl7xq9p",
+     "headline": "Bolsonaro agrees to surrender passports after acknowledging loss in Brazil's presidential race",
+     "detail": "Flávio Bolsonaro said police had ordered him to surrender his passports, adding: \"I am now prohibited from leaving the country.\"",
+     "url": "https://www.sbs.com.au/news/article/bolsonaro-agrees-to-surrender-passports-after-acknowledging-loss-in-brazils-presidential-race/ypalv10c6",
      "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
-     "published": "2026-10-26T01:14:23+00:00",
-     "fetched": "2026-10-26T14:27:10+00:00"
+     "published": "2026-10-27T05:26:52+00:00",
+     "fetched": "2026-10-27T11:09:15+00:00"
     },
     {
-     "headline": "Robodebt recommendations not followed, outcomes 'unfair' under aged care algorithm",
-     "detail": "A year after its rollout, the public is in the dark on the Integrated Assessment Tool, with calls for human overrides.",
-     "url": "https://www.sbs.com.au/news/article/under-fire-aged-care-tool-offers-no-public-information-on-how-it-works-ombudsman-says/s6ev647y2",
+     "headline": "'Determined to make sure we do everything': Albanese reacts to MPs' calls for duress alarms",
+     "detail": "The prime minister has responded to a proposal for heightened safety measures sparked by the alleged attack on MP Helen Haines.",
+     "url": "https://www.sbs.com.au/news/article/anthony-albanese-reacts-to-mps-calls-for-duress-alarms/f1ojbecs9",
      "source_url": "https://www.sbs.com.au/news/topic/latest/feed",
-     "published": "2026-10-26T01:13:27+00:00",
-     "fetched": "2026-10-26T14:27:10+00:00"
+     "published": "2026-10-27T03:43:04+00:00",
+     "fetched": "2026-10-27T11:09:15+00:00"
     }
    ]
   },
@@ -102,48 +102,48 @@
    "key": "rnz",
    "name": "RNZ New Zealand",
    "site": "rnz.co.nz",
-   "summary": "Radio New Zealand's national news file is leading with Evacuations in Otago township, firefighters battle several blazes; Seriously injured person found in Christchurch, police say; Dogs learning to sniff out diseases from urine samples.",
+   "summary": "Radio New Zealand's national news file is leading with Waiouru fire spreads over 3800ha, South Island blaze contained; Police hunt for duo following reports of Upper Hutt robbery and car-jacking; Stalled opening of Waitākere Hospital intensive care unit a 'smack in the face' for community, leader says.",
    "note": null,
    "items": [
     {
-     "headline": "Evacuations in Otago township, firefighters battle several blazes",
-     "detail": "Evacuations in Otago township, firefighters battle several blazes",
-     "url": "https://www.rnz.co.nz/news/emergencies_local/2171007/evacuations-in-otago-township-firefighters-battle-several-blazes",
+     "headline": "Waiouru fire spreads over 3800ha, South Island blaze contained",
+     "detail": "Waiouru fire spreads over 3800ha, South Island blaze contained",
+     "url": "https://www.rnz.co.nz/news/weather/2173538/waiouru-fire-spreads-over-3800ha-south-island-blaze-contained",
      "source_url": "https://www.rnz.co.nz/rss/national.xml",
-     "published": "2026-10-26T22:25:10+13:00",
-     "fetched": "2026-10-26T14:27:10+00:00"
+     "published": "2026-10-27T22:30:20+13:00",
+     "fetched": "2026-10-27T11:09:15+00:00"
     },
     {
-     "headline": "Seriously injured person found in Christchurch, police say",
-     "detail": "Seriously injured person found in Christchurch, police say",
-     "url": "https://www.rnz.co.nz/news/crime-and-justice/2171811/seriously-injured-person-found-in-christchurch-police-say",
+     "headline": "Police hunt for duo following reports of Upper Hutt robbery and car-jacking",
+     "detail": "Police hunt for duo following reports of Upper Hutt robbery and car-jacking",
+     "url": "https://www.rnz.co.nz/news/crime-and-justice/2195481/police-hunt-for-duo-following-reports-of-upper-hutt-robbery-and-car-jacking",
      "source_url": "https://www.rnz.co.nz/rss/national.xml",
-     "published": "2026-10-26T21:53:11+13:00",
-     "fetched": "2026-10-26T14:27:10+00:00"
+     "published": "2026-10-27T21:35:09+13:00",
+     "fetched": "2026-10-27T11:09:15+00:00"
     },
     {
-     "headline": "Dogs learning to sniff out diseases from urine samples",
-     "detail": "Dogs learning to sniff out diseases from urine samples",
-     "url": "https://www.rnz.co.nz/news/health/2171686/dogs-learning-to-sniff-out-diseases-from-urine-samples",
+     "headline": "Stalled opening of Waitākere Hospital intensive care unit a 'smack in the face' for community, leader says",
+     "detail": "Stalled opening of Waitākere Hospital intensive care unit a 'smack in the face' for community, leader says",
+     "url": "https://www.rnz.co.nz/news/health/2194530/stalled-opening-of-waitakere-hospital-intensive-care-unit-a-smack-in-the-face-for-community-leader-says",
      "source_url": "https://www.rnz.co.nz/rss/national.xml",
-     "published": "2026-10-26T21:29:40+13:00",
-     "fetched": "2026-10-26T14:27:10+00:00"
+     "published": "2026-10-27T19:52:51+13:00",
+     "fetched": "2026-10-27T11:09:15+00:00"
     },
     {
-     "headline": "Firefighters battle blaze in Central Plateau military zone",
-     "detail": "Firefighters battle blaze in Central Plateau military zone",
-     "url": "https://www.rnz.co.nz/news/emergencies_local/2169833/firefighters-battle-blaze-in-central-plateau-military-zone",
+     "headline": "Rightful homes for more than 200 stolen garden gnomes sought by police",
+     "detail": "Rightful homes for more than 200 stolen garden gnomes sought by police",
+     "url": "https://www.rnz.co.nz/news/crime-and-justice/2194290/rightful-homes-for-more-than-200-stolen-garden-gnomes-sought-by-police",
      "source_url": "https://www.rnz.co.nz/rss/national.xml",
-     "published": "2026-10-26T20:46:26+13:00",
-     "fetched": "2026-10-26T14:27:10+00:00"
+     "published": "2026-10-27T19:49:05+13:00",
+     "fetched": "2026-10-27T11:09:15+00:00"
     },
     {
-     "headline": "Flights disrupted in Wellington, wet and windy end to long weekend for South Island",
-     "detail": "Flights disrupted in Wellington, wet and windy end to long weekend for South Island",
-     "url": "https://www.rnz.co.nz/news/weather/2164417/flights-disrupted-in-wellington-wet-and-windy-end-to-long-weekend-for-south-island",
+     "headline": "Injured Kiwis left to 'fall off the cliff' as approval of ACC claims becomes harder",
+     "detail": "Injured Kiwis left to 'fall off the cliff' as approval of ACC claims becomes harder",
+     "url": "https://www.rnz.co.nz/news/health/2193578/injured-kiwis-left-to-fall-off-the-cliff-as-approval-of-acc-claims-becomes-harder",
      "source_url": "https://www.rnz.co.nz/rss/national.xml",
-     "published": "2026-10-26T20:19:46+13:00",
-     "fetched": "2026-10-26T14:27:10+00:00"
+     "published": "2026-10-27T19:21:34+13:00",
+     "fetched": "2026-10-27T11:09:15+00:00"
     }
    ]
   },
@@ -151,48 +151,48 @@
    "key": "scmp",
    "name": "South China Morning Post",
    "site": "scmp.com",
-   "summary": "The South China Morning Post, reporting from Hong Kong across Greater China and Asia is leading with Abby Choi’s ex-husband used socialite’s money to live lavishly on mainland: court; Hong Kong proposes more homes, less office space at Hung Hom harbourfront; Anthropic’s IPO filing shows explosive growth, risks and staggering costs.",
+   "summary": "The South China Morning Post, reporting from Hong Kong across Greater China and Asia is leading with Pop Mart reports 45 to 50% revenue decline as Labubu sales weaken across major markets; ByteDance’s Zhang Yiming tops China rich list with US$99.7 billion as AI fuels fortunes; Indian court orders documentary on Modi, tycoon Adani removed.",
    "note": null,
    "items": [
     {
-     "headline": "Abby Choi’s ex-husband used socialite’s money to live lavishly on mainland: court",
-     "detail": "Slain Hong Kong socialite Abby Choi Tin-fung’s ex-husband lived an affluent lifestyle in mainland China allegedly funded by the model’s money and borrowed a car used to move equipment involved in her killing, a court has heard.",
-     "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372205/abby-chois-ex-husband-used-socialites-money-live-lavishly-mainland-court",
+     "headline": "Pop Mart reports 45 to 50% revenue decline as Labubu sales weaken across major markets",
+     "detail": "Pop Mart, the Chinese toymaker famous for Labubu collectible dolls, reported a 45 to 50 per cent year-on-year decline in third-quarter revenue, as sales weakened across its major markets, with overseas operations and online channels…",
+     "url": "https://www.scmp.com/business/china-business/article/3372313/pop-mart-reports-45-50-revenue-decline-labubu-sales-weaken-across-major-markets",
      "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-10-26T14:19:03+00:00",
-     "fetched": "2026-10-26T14:27:10+00:00"
+     "published": "2026-10-27T11:00:24+00:00",
+     "fetched": "2026-10-27T11:09:16+00:00"
     },
     {
-     "headline": "Hong Kong proposes more homes, less office space at Hung Hom harbourfront",
-     "detail": "Hong Kong authorities have proposed raising the residential share of a Hung Hom harbourfront development to more than 60 per cent by cutting commercial floor space, citing “strong doubts” over market demand for offices.",
-     "url": "https://www.scmp.com/news/hong-kong/society/article/3372204/hong-kong-proposes-more-homes-less-office-space-hung-hom-harbourfront",
+     "headline": "ByteDance’s Zhang Yiming tops China rich list with US$99.7 billion as AI fuels fortunes",
+     "detail": "ByteDance founder Zhang Yiming has reclaimed the title of China’s richest person with a nearly US$100 billion fortune, as artificial intelligence powers a surge in wealth among China’s top entrepreneurs, according to the Hurun Research…",
+     "url": "https://www.scmp.com/economy/article/3372302/bytedances-zhang-yiming-tops-china-rich-list-us997-billion-ai-fuels-fortunes",
      "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-10-26T14:04:32+00:00",
-     "fetched": "2026-10-26T14:27:10+00:00"
+     "published": "2026-10-27T11:00:11+00:00",
+     "fetched": "2026-10-27T11:09:16+00:00"
     },
     {
-     "headline": "Anthropic’s IPO filing shows explosive growth, risks and staggering costs",
-     "detail": "Anthropic disclosed steep losses and red-hot revenue growth in ⁠its US IPO filing on Monday, as it laid out its ambition to build AI systems capable of reshaping the global economy despite the high costs of developing the technology.",
-     "url": "https://www.scmp.com/news/world/united-states-canada/article/3372202/anthropics-ipo-filing-shows-explosive-growth-risks-and-staggering-costs",
+     "headline": "Indian court orders documentary on Modi, tycoon Adani removed",
+     "detail": "A court in India has ordered the ⁠takedown of an online documentary posted by Hotmail co-founder Sabeer Bhatia accusing Prime Minister Narendra Modi and billionaire Gautam Adani of cronyism, after Adani Enterprises sued, calling it…",
+     "url": "https://www.scmp.com/news/asia/south-asia/article/3372312/indian-court-orders-documentary-modi-tycoon-adani-removed",
      "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-10-26T13:53:04+00:00",
-     "fetched": "2026-10-26T14:27:10+00:00"
+     "published": "2026-10-27T10:55:27+00:00",
+     "fetched": "2026-10-27T11:09:16+00:00"
     },
     {
-     "headline": "France’s Macron promises ‘strong measures’ to ease protests",
-     "detail": "French President Emmanuel Macron promised on Monday that his government would announce a package of measures in response to weeks of street protests over a broad set of grievances, while acknowledging the risk of more unrest ahead.",
-     "url": "https://www.scmp.com/news/world/europe/article/3372201/frances-macron-promises-strong-measures-ease-protests",
+     "headline": "Indonesia’s 4-nation defence pact: strategic coup or paper tiger?",
+     "detail": "Indonesia could gain critical defence technology, investment and export opportunities through a new multi-nation defence pact with Turkey, Qatar and Pakistan, but analysts warn its success hinges on turning high-level ambition into…",
+     "url": "https://www.scmp.com/week-asia/politics/article/3372306/indonesias-4-nation-defence-pact-strategic-coup-or-paper-tiger",
      "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-10-26T13:33:11+00:00",
-     "fetched": "2026-10-26T14:27:10+00:00"
+     "published": "2026-10-27T10:30:06+00:00",
+     "fetched": "2026-10-27T11:09:16+00:00"
     },
     {
-     "headline": "Chinese biotech giant WuXi AppTec raises 2026 outlook after profit surge",
-     "detail": "WuXi AppTec raised its full-year revenue guidance after its net profit surged 62.4 per cent in the first nine months of 2026, while revenue rose 38.6 per cent on strong demand for its drug development and manufacturing services.",
-     "url": "https://www.scmp.com/business/china-business/article/3372199/chinese-biotech-giant-wuxi-apptec-raises-2026-outlook-after-profit-surge",
+     "headline": "US ends Pacific visa waiver over birth tourism, people smuggling allegations",
+     "detail": "Washington has suspended visa-free entry for Chinese visitors to the Northern Mariana Islands amid allegations of birth tourism and people smuggling in the US territory.",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3372309/us-ends-pacific-visa-waiver-over-birth-tourism-people-smuggling-allegations",
      "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-10-26T13:04:15+00:00",
-     "fetched": "2026-10-26T14:27:10+00:00"
+     "published": "2026-10-27T10:25:59+00:00",
+     "fetched": "2026-10-27T11:09:16+00:00"
     }
    ]
   },
@@ -200,48 +200,48 @@
    "key": "cnn",
    "name": "CNN",
    "site": "cnn.com",
-   "summary": "CNN's international edition is leading with Trump will campaign in deep-red Mississippi in latest sign of GOP midterm worries; Student-led movement topples Serbia’s longtime ruling party; The Odds: Why Democrats May Beat The Polls.",
+   "summary": "CNN's international edition is leading with Israel election kicks off as Netanyahu fights for his political survival; Two British men charged with helping Iran over Fairford airbase incident; Parents need to talk to their college kids about campus sexual assault. An expert provides a script.",
    "note": null,
    "items": [
     {
-     "headline": "Trump will campaign in deep-red Mississippi in latest sign of GOP midterm worries",
-     "detail": "Trump will campaign in deep-red Mississippi in latest sign of GOP midterm worries",
-     "url": "https://www.cnn.com/2026/10/26/politics/live-news/midterm-election-congress",
+     "headline": "Israel election kicks off as Netanyahu fights for his political survival",
+     "detail": "Israel election kicks off as Netanyahu fights for his political survival",
+     "url": "https://www.cnn.com/2026/10/27/world/live-news/israel-elections-live-results-latest-votes-intl",
      "source_url": "https://www.cnn.com/sitemap/news.xml",
-     "published": "2026-10-26T11:55:58+00:00",
-     "fetched": "2026-10-26T14:27:11+00:00"
+     "published": "2026-10-27T08:58:40+00:00",
+     "fetched": "2026-10-27T11:09:16+00:00"
     },
     {
-     "headline": "Student-led movement topples Serbia’s longtime ruling party",
-     "detail": "Student-led movement topples Serbia’s longtime ruling party",
-     "url": "https://www.cnn.com/2026/10/26/world/video/serbia-elections-shukla-live-102609aseg1-cnni-world-fast",
+     "headline": "Two British men charged with helping Iran over Fairford airbase incident",
+     "detail": "Two British men charged with helping Iran over Fairford airbase incident",
+     "url": "https://www.cnn.com/2026/10/27/uk/fairford-incident-charges-iran-intl",
      "source_url": "https://www.cnn.com/sitemap/news.xml",
-     "published": "2026-10-26T14:20:18+00:00",
-     "fetched": "2026-10-26T14:27:11+00:00"
+     "published": "2026-10-27T10:30:42+00:00",
+     "fetched": "2026-10-27T11:09:16+00:00"
     },
     {
-     "headline": "The Odds: Why Democrats May Beat The Polls",
-     "detail": "The Odds: Why Democrats May Beat The Polls",
-     "url": "https://www.cnn.com/2026/10/26/politics/video/why-democrats-may-beat-the-polls-cnc-kalshi",
+     "headline": "Parents need to talk to their college kids about campus sexual assault. An expert provides a script",
+     "detail": "Parents need to talk to their college kids about campus sexual assault. An expert provides a script",
+     "url": "https://www.cnn.com/2026/10/27/health/campus-sexual-assault-script-wellness",
      "source_url": "https://www.cnn.com/sitemap/news.xml",
-     "published": "2026-10-26T14:07:43+00:00",
-     "fetched": "2026-10-26T14:27:11+00:00"
+     "published": "2026-10-27T11:00:15+00:00",
+     "fetched": "2026-10-27T11:09:16+00:00"
     },
     {
-     "headline": "UN panel: Russia is committing crimes against humanity by targeting civilians in Ukraine",
-     "detail": "UN panel: Russia is committing crimes against humanity by targeting civilians in Ukraine",
-     "url": "https://www.cnn.com/2026/10/26/europe/un-report-russia-ukraine-intl",
+     "headline": "More than 30 million votes already cast in midterm elections",
+     "detail": "More than 30 million votes already cast in midterm elections",
+     "url": "https://www.cnn.com/2026/10/27/politics/live-news/midterm-election-congress",
      "source_url": "https://www.cnn.com/sitemap/news.xml",
-     "published": "2026-10-26T14:04:11+00:00",
-     "fetched": "2026-10-26T14:27:11+00:00"
+     "published": "2026-10-27T08:59:12+00:00",
+     "fetched": "2026-10-27T11:09:16+00:00"
     },
     {
-     "headline": "Israel is holding its most important election in years. Here’s what’s at stake",
-     "detail": "Israel is holding its most important election in years. Here’s what’s at stake",
-     "url": "https://www.cnn.com/2026/10/25/middleeast/israel-election-2026-whats-at-stake-intl",
+     "headline": "Convicted murderer escapes Tennessee prison, officials say",
+     "detail": "Convicted murderer escapes Tennessee prison, officials say",
+     "url": "https://www.cnn.com/2026/10/27/us/video/convicted-murderer-escapes-tennessee-prison-jacob-morley-ldn-digvid",
      "source_url": "https://www.cnn.com/sitemap/news.xml",
-     "published": "2026-10-25T16:01:15+00:00",
-     "fetched": "2026-10-26T14:27:11+00:00"
+     "published": "2026-10-27T10:47:02+00:00",
+     "fetched": "2026-10-27T11:09:16+00:00"
     }
    ]
   },
@@ -249,48 +249,48 @@
    "key": "fox",
    "name": "Fox News",
    "site": "foxnews.com",
-   "summary": "Fox News, covering US politics and national affairs is leading with Mamdani message to residents on how to deal with ICE results in viral internet backlash: 'Treason'; Christian singer Natalie Grant urges fans not to 'ignore your body' after fall led to emergency surgery; Riley Green's acoustic version of 'Bartender in Destin' goes viral on YouTube with fans loving it.",
+   "summary": "Fox News, covering US politics and national affairs is leading with Speaker Johnson predicts Democrats' far-left shift will ‘juice enthusiasm’ for GOP in midterms; Meghan Markle's acting comeback suffers major blow as Netflix 'safety net' disappears: expert; Blood sugar spikes may be tied to everyday habits you can control, expert says.",
    "note": null,
    "items": [
     {
-     "headline": "Mamdani message to residents on how to deal with ICE results in viral internet backlash: 'Treason'",
-     "detail": "Zohran Mamdani's Spanish-language video on handling ICE encounters drew over 7 million views and fierce backlash from conservative lawmakers.",
-     "url": "https://www.foxnews.com/politics/mamdani-message-residents-how-deal-ice-results-viral-internet-backlash-treason",
+     "headline": "Speaker Johnson predicts Democrats' far-left shift will ‘juice enthusiasm’ for GOP in midterms",
+     "detail": "House Speaker Mike Johnson claims polls grossly underestimate Republican enthusiasm, warning the Democratic Party has taken a dangerous lurch left.",
+     "url": "https://www.foxnews.com/media/speaker-johnson-predicts-democrats-far-left-shift-juice-enthusiasm-gop-midterms",
      "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
-     "published": "2026-10-26T10:12:53-04:00",
-     "fetched": "2026-10-26T14:27:11+00:00"
+     "published": "2026-10-27T07:00:47-04:00",
+     "fetched": "2026-10-27T11:09:17+00:00"
     },
     {
-     "headline": "Christian singer Natalie Grant urges fans not to 'ignore your body' after fall led to emergency surgery",
-     "detail": "Natalie Grant reveals how a fall outside a restaurant led to kidney bleeding, an ICU stay and emergency surgery that could have ruptured her bladder.",
-     "url": "https://www.foxnews.com/entertainment/christian-singer-natalie-grant-urges-fans-not-ignore-your-body-after-fall-led-emergency-surgery",
+     "headline": "Meghan Markle's acting comeback suffers major blow as Netflix 'safety net' disappears: expert",
+     "detail": "Meghan Markle is no longer in talks to join \"The Gentlemen\" as sources allege Netflix leaked casting news to boost the show's publicity online.",
+     "url": "https://www.foxnews.com/entertainment/meghan-markle-acting-comeback-suffers-major-blow-netflix-safety-net-disappears-expert",
      "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
-     "published": "2026-10-26T10:00:09-04:00",
-     "fetched": "2026-10-26T14:27:11+00:00"
+     "published": "2026-10-27T07:00:37-04:00",
+     "fetched": "2026-10-27T11:09:17+00:00"
     },
     {
-     "headline": "Riley Green's acoustic version of 'Bartender in Destin' goes viral on YouTube with fans loving it",
-     "detail": "Riley Green's acoustic version of \"Bartender in Destin\" is going viral on YouTube, with fans flooding the comments to praise the stripped-back take.",
-     "url": "https://www.foxnews.com/outkick-culture/riley-green-acoustic-version-bartender-destin-goes-viral-youtube-fans-loving",
+     "headline": "Blood sugar spikes may be tied to everyday habits you can control, expert says",
+     "detail": "Jim LaValle reveals how post-meal glucose spikes, insulin resistance and sleep apnea are deeply connected, plus the 10-minute walking habit.",
+     "url": "https://www.foxnews.com/health/blood-sugar-spikes-tied-everyday-habits-you-can-control-expert-says",
      "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
-     "published": "2026-10-26T09:33:41-04:00",
-     "fetched": "2026-10-26T14:27:11+00:00"
+     "published": "2026-10-27T07:00:36-04:00",
+     "fetched": "2026-10-27T11:09:17+00:00"
     },
     {
-     "headline": "NASCAR should be fuming over embarrassing 'Dega race, drivers are livid & controversial finish raises doubt",
-     "detail": "Kyle Larson surged from 11th to first at Talladega, but a yellow line controversy and an embarrassing fuel-saving Stage I stole the spotlight.",
-     "url": "https://www.foxnews.com/outkick-sports/nascar-fuming-embarrassing-dega-race-drivers-livid-controversial-finish-raises-doubt",
+     "headline": "Sen. Slotkin threatened students like me. Senate needs an ethics probe",
+     "detail": "Sen. Elissa Slotkin faces ethics complaints after University of Chicago remarks about deterring young conservatives from government service.",
+     "url": "https://www.foxnews.com/opinion/sen-slotkin-threatened-students-like-me-senate-needs-ethics-probe",
      "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
-     "published": "2026-10-26T09:19:55-04:00",
-     "fetched": "2026-10-26T14:27:11+00:00"
+     "published": "2026-10-27T07:00:31-04:00",
+     "fetched": "2026-10-27T11:09:17+00:00"
     },
     {
-     "headline": "Kylie Cantrall's World Series national anthem being called best since Whitney by some, NFL memes & Ric update",
-     "detail": "Screencaps highlights Kylie Cantrall's World Series national anthem in Milwaukee, where fans are comparing her voice to Whitney Houston's iconic rendition.",
-     "url": "https://www.foxnews.com/outkick-sports/kylie-cantrall-world-series-national-anthem-called-best-since-whitney-nfl-memes-ric-update",
+     "headline": "Inside the Somali mall safe haven where Ilhan Omar reappeared after feds raided her DC home",
+     "detail": "Ilhan Omar dined at Karmel Mall, the world's largest Somali mall, alongside Kieth Ellison on her first public outing since the raid on her D.C. home.",
+     "url": "https://www.foxnews.com/politics/inside-somali-mall-safe-haven-ilhan-omar-reappeared-feds-raided-dc-home",
      "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
-     "published": "2026-10-26T09:16:14-04:00",
-     "fetched": "2026-10-26T14:27:11+00:00"
+     "published": "2026-10-27T06:29:03-04:00",
+     "fetched": "2026-10-27T11:09:17+00:00"
     }
    ]
   },
@@ -298,48 +298,48 @@
    "key": "wsj",
    "name": "The Wall Street Journal",
    "site": "wsj.com",
-   "summary": "The Wall Street Journal's world news wire is leading with These Maps Show Why It’s So Hard to Recover the World’s Lost Fuel Supplies; The 31-Year-Old Ukrainian Detective Hunting Russian Mass Killers; Death Threats, Lawsuits and Billions in Play: The Battle Over Moving Russian Oil.",
+   "summary": "The Wall Street Journal's world news wire is leading with Xi Wants to Play Peacemaker. Trump Has Other Ideas for a Historic Summit.; Ceasefire Brokered by Melania Trump Begins in Starving Ukrainian City; Netanyahu and His Main Opponent Disagree on Many Things—but Not Israel’s Security.",
    "note": null,
    "items": [
     {
-     "headline": "These Maps Show Why It’s So Hard to Recover the World’s Lost Fuel Supplies",
-     "detail": "President Trump is grasping for ways to lower fuel prices ahead of the midterms, but refinery attacks have limited his options.",
-     "url": "https://www.wsj.com/business/energy-oil/these-maps-show-why-its-so-hard-to-recover-the-worlds-lost-fuel-supplies-11dd7a7c?mod=rss_worldnews",
+     "headline": "Xi Wants to Play Peacemaker. Trump Has Other Ideas for a Historic Summit.",
+     "detail": "Plus, Xinjiang goes from blacklisted to global trade hub, Xi’s purges echo Stalin’s, and Kim Jong Un makes a surprise trip to China.",
+     "url": "https://www.wsj.com/world/china/xi-wants-to-play-peacemaker-trump-has-other-ideas-for-a-historic-summit-2c3e0be9?mod=rss_worldnews",
      "source_url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
-     "published": "2026-10-26T14:23:00+00:00",
-     "fetched": "2026-10-26T14:27:12+00:00"
+     "published": "2026-10-27T10:55:00+00:00",
+     "fetched": "2026-10-27T11:09:18+00:00"
     },
     {
-     "headline": "The 31-Year-Old Ukrainian Detective Hunting Russian Mass Killers",
-     "detail": "Ukraine’s police is following evidence up the Russian chain of command for around 300 murders in the Kyiv suburb of Bucha.",
-     "url": "https://www.wsj.com/world/europe/the-31-year-old-ukrainian-detective-hunting-russian-mass-killers-1a1f76e1?mod=rss_worldnews",
+     "headline": "Ceasefire Brokered by Melania Trump Begins in Starving Ukrainian City",
+     "detail": "The pause in fighting is designed to allow humanitarian aid into the city and evacuate those who want to go.",
+     "url": "https://www.wsj.com/world/europe/ceasefire-brokered-by-melania-trump-begins-in-starving-ukrainian-city-2130ae47?mod=rss_worldnews",
      "source_url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
-     "published": "2026-10-26T14:13:00+00:00",
-     "fetched": "2026-10-26T14:27:12+00:00"
+     "published": "2026-10-27T10:20:00+00:00",
+     "fetched": "2026-10-27T11:09:18+00:00"
     },
     {
-     "headline": "Death Threats, Lawsuits and Billions in Play: The Battle Over Moving Russian Oil",
-     "detail": "A former Deutsche Bank executive got into business with the kingpins of Russia’s shadow fleet. Then it all went south.",
-     "url": "https://www.wsj.com/world/russia/death-threats-lawsuits-and-billions-in-play-the-battle-over-moving-russian-oil-1daea5ce?mod=rss_worldnews",
+     "headline": "Netanyahu and His Main Opponent Disagree on Many Things—but Not Israel’s Security",
+     "detail": "The electorate’s move to the right on security issues leaves candidates little room to maneuver on Gaza, Iran and a Palestinian state.",
+     "url": "https://www.wsj.com/world/middle-east/netanyahu-and-his-main-opponent-disagree-on-many-thingsbut-not-israels-security-b6c9b23d?mod=rss_worldnews",
      "source_url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
-     "published": "2026-10-26T03:00:00+00:00",
-     "fetched": "2026-10-26T14:27:12+00:00"
+     "published": "2026-10-27T02:00:00+00:00",
+     "fetched": "2026-10-27T11:09:18+00:00"
     },
     {
-     "headline": "Lula Wins Fourth Term in Brazil Election Upset",
-     "detail": "The 80-year-old president defeated Flávio Bolsonaro to extend one of Latin America’s longest political careers.",
-     "url": "https://www.wsj.com/world/americas/lula-clings-to-power-in-brazil-election-upset-dba88f6c?mod=rss_worldnews",
+     "headline": "How Brazil’s Lula Pulled Off an Upset No One Saw Coming",
+     "detail": "Three weeks ago, even his allies expected defeat. Grassroots mobilization and fears of lost benefits fueled his stunning reversal.",
+     "url": "https://www.wsj.com/world/americas/how-brazils-lula-pulled-off-an-upset-no-one-saw-coming-c6b7885a?mod=rss_worldnews",
      "source_url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
-     "published": "2026-10-26T02:13:00+00:00",
-     "fetched": "2026-10-26T14:27:12+00:00"
+     "published": "2026-10-27T00:00:00+00:00",
+     "fetched": "2026-10-27T11:09:18+00:00"
     },
     {
-     "headline": "France’s Nuclear Forces Bring In Neighbors to Keep Russia in Check",
-     "detail": "As confidence in the U.S. nuclear umbrella wanes, 10 European nations have started working with Paris on deterrence.",
-     "url": "https://www.wsj.com/world/europe/frances-nuclear-forces-bring-in-neighbors-to-keep-russia-in-check-58b0967d?mod=rss_worldnews",
+     "headline": "What María Corina Machado’s Return Means for Venezuela",
+     "detail": "The opposition leader wants to revive a political movement and persuade Washington that Venezuela needs a change of government.",
+     "url": "https://www.wsj.com/world/americas/what-maria-corina-machados-return-means-for-venezuela-7fa2f02f?mod=rss_worldnews",
      "source_url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
-     "published": "2026-10-26T02:00:00+00:00",
-     "fetched": "2026-10-26T14:27:12+00:00"
+     "published": "2026-10-26T21:03:00+00:00",
+     "fetched": "2026-10-27T11:09:18+00:00"
     }
    ]
   }

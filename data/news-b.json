@@ -4,48 +4,48 @@
    "key": "nbc",
    "name": "NBC News",
    "site": "nbcnews.com",
-   "summary": "NBC News, covering US national news and politics is leading with Anthropic releases IPO filing ahead of highly-anticipated stock debut; Brazilian President Lula wins a historic fourth term; Send your questions for Steve Kornacki on the midterm elections.",
+   "summary": "NBC News, covering US national news and politics is leading with AI startup Anthropic unveils its public IPO filing for the first time; Amid 2028 speculation, Wes Moore urges Marylanders to back him on redistricting; Texas redistricting confused these Latino voters, but will it affect the midterm vote?.",
    "note": null,
    "items": [
     {
-     "headline": "Anthropic releases IPO filing ahead of highly-anticipated stock debut",
-     "detail": "Artificial intelligence startup Anthropic unveils its first public IPO filing ahead of what is expected to be one of the largest stock debuts in history.",
-     "url": "https://www.nbcnews.com/business/markets/anthropic-releases-ipo-filing-ahead-highly-anticipated-stock-debut-rcna605676",
+     "headline": "AI startup Anthropic unveils its public IPO filing for the first time",
+     "detail": "Artificial intelligence startup Anthropic unveiled its public IPO filing for the first time ahead of what is expected to be one of the largest stock debuts in history.",
+     "url": "https://www.nbcnews.com/video/ai-startup-anthropic-unveils-its-public-ipo-filing-for-the-first-time-272224837929",
      "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
-     "published": "2026-10-26T13:12:04+00:00",
-     "fetched": "2026-10-26T14:27:13+00:00"
+     "published": "2026-10-26T14:57:29+00:00",
+     "fetched": "2026-10-27T11:09:19+00:00"
     },
     {
-     "headline": "Brazilian President Lula wins a historic fourth term",
-     "detail": "Brazilian President Luiz Inacio Lula da Silva was re-elected for a historic fourth term in office.",
-     "url": "https://www.nbcnews.com/video/brazilian-president-lula-wins-a-historic-fourth-term-272213573962",
+     "headline": "Amid 2028 speculation, Wes Moore urges Marylanders to back him on redistricting",
+     "detail": "Maryland’s Democratic governor is fighting a tough campaign in his state — and it’s not his re-election effort.",
+     "url": "https://www.nbcnews.com/politics/2026-election/2028-speculation-wes-moore-urges-marylanders-back-redistricting-rcna605085",
      "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
-     "published": "2026-10-26T09:35:12+00:00",
-     "fetched": "2026-10-26T14:27:13+00:00"
+     "published": "2026-10-27T09:00:00+00:00",
+     "fetched": "2026-10-27T11:09:19+00:00"
     },
     {
-     "headline": "Send your questions for Steve Kornacki on the midterm elections",
-     "detail": "Election Day is quickly approaching and, with just over a week to go, Steve Kornacki is ready to answer your questions.",
-     "url": "https://www.nbcnews.com/politics/elections/send-questions-steve-kornacki-midterm-elections-rcna605264",
+     "headline": "Texas redistricting confused these Latino voters, but will it affect the midterm vote?",
+     "detail": "The electoral map Texas redrew at President Donald Trump’s request left voters in Houston and southern Texas with unfamiliar candidates.",
+     "url": "https://www.nbcnews.com/politics/2026-election/texas-redistricting-left-latino-voters-confused-will-impact-midterm-vo-rcna605709",
      "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
-     "published": "2026-10-23T22:17:39+00:00",
-     "fetched": "2026-10-26T14:27:13+00:00"
+     "published": "2026-10-26T20:21:41+00:00",
+     "fetched": "2026-10-27T11:09:19+00:00"
     },
     {
-     "headline": "Police arrest a 15-year-old in shooting near Florida A&M stadium",
-     "detail": "Police have arrested a 15-year-old boy in connection with the mass shooting near Florida A&M University’s Bragg Memorial Stadium. NBC News' George Solis reports the latest updates on the investigation and the charges against the suspect.",
-     "url": "https://www.nbcnews.com/now/video/police-arrest-suspect-in-shooting-near-florida-a-m-stadium-272217669952",
+     "headline": "Melania-brokered ceasefire goes into effect in Russian-occupied town ‘on brink of disaster’",
+     "detail": "The agreement would “temporarily stop all military action in Oleshky to allow for humanitarian aid to enter and to prepare a civilian evacuation,” the White House said.",
+     "url": "https://www.nbcnews.com/world/ukraine/ceasefire-brokered-melania-trump-comes-effect-russian-occupied-town-br-rcna605667",
      "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
-     "published": "2026-10-26T12:37:48+00:00",
-     "fetched": "2026-10-26T14:27:13+00:00"
+     "published": "2026-10-27T01:42:33+00:00",
+     "fetched": "2026-10-27T11:09:19+00:00"
     },
     {
-     "headline": "Police arrest a 15-year-old in shooting near Florida A&M stadium that injured 12",
-     "detail": "A 15-year-old male has been arrested in connection with a shooting close to Florida A&M University’s Bragg Memorial Stadium over the weekend that injured 12 people, according to police.",
-     "url": "https://www.nbcnews.com/news/us-news/police-arrest-teenager-shooting-florida-stadium-rcna605677",
+     "headline": "Jay-Z to headline Super Bowl halftime show",
+     "detail": "Jay-Z has helped select artists for the last several Super Bowl halftime shows.",
+     "url": "https://www.nbcnews.com/pop-culture/music/jay-z-headline-super-bowl-halftime-show-rcna605847",
      "source_url": "https://feeds.nbcnews.com/nbcnews/public/news",
-     "published": "2026-10-26T12:10:38+00:00",
-     "fetched": "2026-10-26T14:27:13+00:00"
+     "published": "2026-10-27T02:14:21+00:00",
+     "fetched": "2026-10-27T11:09:19+00:00"
     }
    ]
   },
@@ -53,48 +53,48 @@
    "key": "thehill",
    "name": "The Hill",
    "site": "thehill.com",
-   "summary": "The Hill, reporting on Congress, the White House and US policy is leading with The problem with 'woke' businesses: Good intentions don't pay the bills.; Jeffries: Democrats will deal with Hegseth if Trump doesn't; AI giant Anthropic files to make stock market debut.",
+   "summary": "The Hill, reporting on Congress, the White House and US policy is leading with Democrats poised to go big on affordable childcare; Frustrated farmers could become a midterm problem for Republicans; Senate braces for nasty fight over seating Peltola in Alaska Senate seat.",
    "note": null,
    "items": [
     {
-     "headline": "The problem with 'woke' businesses: Good intentions don't pay the bills.",
-     "detail": "Starting a business to advance a cause is perfectly fine. But expecting that cause to keep the business alive is another matter entirely.",
-     "url": "https://thehill.com/opinion/finance/6169207-progressive-ideology-financial-strain/",
+     "headline": "Democrats poised to go big on affordable childcare",
+     "detail": "Heading into a potential new political era, Democratic candidates, policymakers and outside groups all agree on one thing: Something needs to be done on childcare.",
+     "url": "https://thehill.com/homenews/campaign/6172670-democrats-push-childcare-agenda/",
      "source_url": "https://thehill.com/news/feed/",
-     "published": "2026-10-26T14:00:00+00:00",
-     "fetched": "2026-10-26T14:27:14+00:00"
+     "published": "2026-10-27T10:00:00+00:00",
+     "fetched": "2026-10-27T11:09:20+00:00"
     },
     {
-     "headline": "Jeffries: Democrats will deal with Hegseth if Trump doesn't",
-     "detail": "Democratic House Leader Hakeem Jeffries (D-N.Y.) said Democrats will run Defense Secretary Pete Hegseth “out of town” if they take the majority in the November midterms.",
-     "url": "https://thehill.com/homenews/house/6172006-jeffries-democrats-hegseth-impeachment/",
+     "headline": "Frustrated farmers could become a midterm problem for Republicans",
+     "detail": "Farmers are a key voting group for Republicans, but their votes could be on the line, with the Iran war and President Trump’s tariff and trade wars driving up production costs along with diesel and fertilizer prices.",
+     "url": "https://thehill.com/homenews/state-watch/6173571-trump-farmers-rural-voters-costs-midterm-elections/",
      "source_url": "https://thehill.com/news/feed/",
-     "published": "2026-10-26T13:57:23+00:00",
-     "fetched": "2026-10-26T14:27:14+00:00"
+     "published": "2026-10-27T10:00:00+00:00",
+     "fetched": "2026-10-27T11:09:20+00:00"
     },
     {
-     "headline": "AI giant Anthropic files to make stock market debut",
-     "detail": "Anthropic publicly filed for an initial public offering (IPO) on Monday morning in what is expected to be a historic stock market debut.",
-     "url": "https://thehill.com/policy/technology/6171816-anthropic-files-for-ai-ipo/",
+     "headline": "Senate braces for nasty fight over seating Peltola in Alaska Senate seat",
+     "detail": "Senators are bracing for a potential floor fight over accepting the results of the Alaska Senate race between incumbent Sen. Dan Sullivan (R) and former Rep.",
+     "url": "https://thehill.com/homenews/state-watch/6173822-alaska-senate-race-peltola-sullivan-thune/",
      "source_url": "https://thehill.com/news/feed/",
-     "published": "2026-10-26T13:47:35+00:00",
-     "fetched": "2026-10-26T14:27:14+00:00"
+     "published": "2026-10-27T10:00:00+00:00",
+     "fetched": "2026-10-27T11:09:20+00:00"
     },
     {
-     "headline": "Trump praises 'proud, resilient' Libyan people after labeling country 'terror-infested'",
-     "detail": "President Trump on Sunday praised Libya's \"proud, resilient\" people after calling the African country \"terror-infested\" at a rally in Georgia.",
-     "url": "https://thehill.com/homenews/administration/6171751-trump-praises-libyan-people/",
+     "headline": "Inside Trump's red state blitz to stave off a Democratic midterm sweep",
+     "detail": "Republicans are working to salvage the House and Senate maps one week before Election Day as the chance of a Democratic sweep becomes more likely.",
+     "url": "https://thehill.com/homenews/state-watch/6173510-trump-red-states-turnout-midterms/",
      "source_url": "https://thehill.com/news/feed/",
-     "published": "2026-10-26T13:30:41+00:00",
-     "fetched": "2026-10-26T14:27:14+00:00"
+     "published": "2026-10-27T10:00:00+00:00",
+     "fetched": "2026-10-27T11:09:20+00:00"
     },
     {
-     "headline": "Trump and Vance accelerate downward political spiral",
-     "detail": "Senior political analyst Juan Williams criticizes several candidates in the 2026 midterm elections for employing increasingly unethical and deceptive political advertising tactics.",
-     "url": "https://thehill.com/opinion/campaign/6170572-scummy-political-advertising-lies/",
+     "headline": "Another change election and a whipsawed America",
+     "detail": "The most likely scenario for next week’s election is ... that no one will learn anything.",
+     "url": "https://thehill.com/homenews/analysis/6173390-midterm-elections-divided-government/",
      "source_url": "https://thehill.com/news/feed/",
-     "published": "2026-10-26T13:30:00+00:00",
-     "fetched": "2026-10-26T14:27:14+00:00"
+     "published": "2026-10-27T10:00:00+00:00",
+     "fetched": "2026-10-27T11:09:20+00:00"
     }
    ]
   },
@@ -102,48 +102,48 @@
    "key": "time",
    "name": "Time",
    "site": "time.com",
-   "summary": "Time magazine, covering US and world affairs is leading with TIME Is Looking For the World’s Top GreenTech Companies of 2027; How Japan's Reforms on Imperial Succession Affect Its Monarchy; AI Colonies Are Coming.",
+   "summary": "Time magazine, covering US and world affairs is leading with Polls Point to a Blue Wave. Here's Why Republicans Say They're Wrong; ICE Does Not Belong at the Polls; Remote Work Was Supposed to Make Parenting Easier. Why Are Parents Still Struggling?.",
    "note": null,
    "items": [
     {
-     "headline": "TIME Is Looking For the World’s Top GreenTech Companies of 2027",
-     "detail": "—Mike Mareen—Getty Images In 2027, TIME will publish its third annual ranking of the World's Top GreenTech Companies in partnership with Statista, a leading international provider of market and consumer data and rankings.",
-     "url": "https://time.com/article/2026/10/26/worlds-top-greentech-companies-2027-search/",
+     "headline": "Polls Point to a Blue Wave. Here's Why Republicans Say They're Wrong",
+     "detail": "Republicans argue that pollsters are undercounting their voters. That's happened in past elections in the Trump era.",
+     "url": "https://time.com/article/2026/10/27/republicans-say-the-polls-are-wrong-could-that-be-true-/",
      "source_url": "https://time.com/feed/",
-     "published": "2026-10-26T13:49:02+00:00",
-     "fetched": "2026-10-26T14:27:15+00:00"
+     "published": "2026-10-27T11:00:00+00:00",
+     "fetched": "2026-10-27T11:09:20+00:00"
     },
     {
-     "headline": "How Japan's Reforms on Imperial Succession Affect Its Monarchy",
-     "detail": "New policies expand the pool of eligible successors to the throne but maintain that they must be male.",
-     "url": "https://time.com/article/2026/10/26/japan-imperial-succession-new-policies-monarchy-hisahito-aiko/",
+     "headline": "ICE Does Not Belong at the Polls",
+     "detail": "\"Barring extreme circumstances, sending ICE or FBI agents to the polls would be flatly illegal,\" write Wendy Weiser and Jasleen Singh.",
+     "url": "https://time.com/article/2026/10/27/ice-does-not-belong-at-the-polls/",
      "source_url": "https://time.com/feed/",
-     "published": "2026-10-26T12:06:55+00:00",
-     "fetched": "2026-10-26T14:27:15+00:00"
+     "published": "2026-10-27T10:30:02+00:00",
+     "fetched": "2026-10-27T11:09:20+00:00"
     },
     {
-     "headline": "AI Colonies Are Coming",
-     "detail": "\"The AI frontier isn’t what each model can do in isolation—it is what a colony of them can accomplish together,\" argues Noah Giansiracusa.",
-     "url": "https://time.com/article/2026/10/26/ai-colonies-are-coming/",
+     "headline": "Remote Work Was Supposed to Make Parenting Easier. Why Are Parents Still Struggling?",
+     "detail": "We need remote work with boundaries and human-to-human connection with colleagues, write Natalia Emanuel and Emma Harrington.",
+     "url": "https://time.com/article/2026/10/27/remote-work-was-supposed-to-make-parenting-easier-why-are-parents-still-struggling-/",
      "source_url": "https://time.com/feed/",
-     "published": "2026-10-26T11:00:04+00:00",
-     "fetched": "2026-10-26T14:27:15+00:00"
+     "published": "2026-10-27T10:00:03+00:00",
+     "fetched": "2026-10-27T11:09:20+00:00"
     },
     {
-     "headline": "Israel's Choice",
-     "detail": "'This election is about the identity of Israel'",
-     "url": "https://time.com/article/2026/10/26/israel-election/",
+     "headline": "Justice Department Files More Charges Against James Comey",
+     "detail": "The former FBI director was charged twice before in investigations he has described as politically motivated.",
+     "url": "https://time.com/article/2026/10/27/james-comey-justice-department-charges-media-leaks/",
      "source_url": "https://time.com/feed/",
-     "published": "2026-10-26T11:00:04+00:00",
-     "fetched": "2026-10-26T14:27:15+00:00"
+     "published": "2026-10-27T09:45:00+00:00",
+     "fetched": "2026-10-27T11:09:20+00:00"
     },
     {
-     "headline": "In Maine, a Toss-Up Senate Race Is About the Incumbent and Not Much Else",
-     "detail": "\"We can't eat road salt,\" Troy Jackson told Susan Collins in a debate moment that went viral.",
-     "url": "https://time.com/article/2026/10/26/in-maine-a-toss-up-senate-race-is-about-the-incumbent-and-not-much-else/",
+     "headline": "Flavio Bolsonaro Barred From Travel Amid Money Laundering Investigation",
+     "detail": "The escalation comes a day after Bolsonaro lost what Trump called a “rigged” election.",
+     "url": "https://time.com/article/2026/10/27/brazil-flavio-bolsonaro-money-laundering-supreme-court-lula/",
      "source_url": "https://time.com/feed/",
-     "published": "2026-10-26T11:00:00+00:00",
-     "fetched": "2026-10-26T14:27:15+00:00"
+     "published": "2026-10-27T09:45:00+00:00",
+     "fetched": "2026-10-27T11:09:20+00:00"
     }
    ]
   },
@@ -151,48 +151,48 @@
    "key": "variety",
    "name": "Variety",
    "site": "variety.com",
-   "summary": "Variety, on the business of entertainment is leading with Elvis Presley’s Music Owners Sue Anthropic for Copyright Infringement, Demand Nearly $50 Million in Damages; Robert Pattinson Praises Steven Soderbergh for Stepping in to Finish ‘Batman 2′ Filming After Matt Reeves’ Exit: ‘Completely Selfless’; Juno Temple, Joey King and James McAvoy to Star in Sci-Fi Comedy Film ‘Almost You’ From ‘Ted Lasso’ Director Matt Lipsey (EXCLUSIVE).",
+   "summary": "Variety, on the business of entertainment is leading with David Bowie Immersive Concert Experience ‘Stage’ From Brett Morgen to World Premiere at Berlin Film Festival; Noah Wyle Named People’s 2026 Sexiest Man Alive; ‘Tokyo Vice’ Producer, Netflix Executive Urge Changes to Japan’s Production Incentive at MPA Seminar as Government Readies Unified Content Body.",
    "note": null,
    "items": [
     {
-     "headline": "Elvis Presley’s Music Owners Sue Anthropic for Copyright Infringement, Demand Nearly $50 Million in Damages",
-     "detail": "A collection of stakeholders and music companies that control the rights to Elvis Presley’s music sued Anthropic for copyright infringement, telling a federal court the AI company prioritized a potential multitrillion-dollar stock opening…",
-     "url": "https://variety.com/2026/music/news/elvis-presley-music-sue-anthropic-copyright-infringement-1236931149/",
+     "headline": "David Bowie Immersive Concert Experience ‘Stage’ From Brett Morgen to World Premiere at Berlin Film Festival",
+     "detail": "The world premiere of the David Bowie immersive concert experience, “Stage,” has been set for Feb. 14 at Berlin’s Uber Arena, presented in association with the Berlin Film Festival.",
+     "url": "https://variety.com/2026/film/global/david-bowie-immersive-concert-experience-stage-berlin-1236931930/",
      "source_url": "https://variety.com/feed/",
-     "published": "2026-10-26T14:26:17+00:00",
-     "fetched": "2026-10-26T14:27:19+00:00"
+     "published": "2026-10-27T11:00:00+00:00",
+     "fetched": "2026-10-27T11:09:21+00:00"
     },
     {
-     "headline": "Robert Pattinson Praises Steven Soderbergh for Stepping in to Finish ‘Batman 2′ Filming After Matt Reeves’ Exit: ‘Completely Selfless’",
-     "detail": "Robert Pattinson recently told GamesRadar+ that he is looking forward to finishing production on “The Batman Part II” with Steven Soderbergh taking over principal photography from Matt Reeves, who exited production earlier this month due…",
-     "url": "https://variety.com/2026/film/news/robert-pattinson-soderbergh-batman-2-filming-matt-reeves-exit-1236931146/",
+     "headline": "Noah Wyle Named People’s 2026 Sexiest Man Alive",
+     "detail": "After heating up emergency rooms since 1994, Noah Wyle has officially been named People’s Sexiest Man Alive for the first time. In his People interview for the prize, “The Pitt” star said he was in disbelief when he got the news.",
+     "url": "https://variety.com/2026/tv/news/noah-wyle-people-2026-sexiest-man-alive-1236931645/",
      "source_url": "https://variety.com/feed/",
-     "published": "2026-10-26T14:22:39+00:00",
-     "fetched": "2026-10-26T14:27:19+00:00"
+     "published": "2026-10-27T10:08:39+00:00",
+     "fetched": "2026-10-27T11:09:21+00:00"
     },
     {
-     "headline": "Juno Temple, Joey King and James McAvoy to Star in Sci-Fi Comedy Film ‘Almost You’ From ‘Ted Lasso’ Director Matt Lipsey (EXCLUSIVE)",
-     "detail": "Juno Temple (“Ted Lasso,” “Fargo”), Joey King (“We Were the Lucky Ones,” “The Act”) and James McAvoy (“The Last King of Scotland,” “Atonement”) are set to star in the upcoming — and somewhat timely — sci-fi AI comedy movie “Almost You.”…",
-     "url": "https://variety.com/2026/film/global/juno-temple-joey-king-james-mcavoy-sci-fi-comedy-almost-you-1236931063/",
+     "headline": "‘Tokyo Vice’ Producer, Netflix Executive Urge Changes to Japan’s Production Incentive at MPA Seminar as Government Readies Unified Content Body",
+     "detail": "“Tokyo Vice” producer Alex Boden and Netflix production policy director Deb Richards urged changes to Japan’s international production incentive at the Motion Picture Association’s annual seminar at the Tokyo International Film Festival,…",
+     "url": "https://variety.com/2026/film/festivals/tokyo-vice-producer-netflix-exec-urge-japan-incentive-reform-mpa-1236931907/",
      "source_url": "https://variety.com/feed/",
-     "published": "2026-10-26T14:00:00+00:00",
-     "fetched": "2026-10-26T14:27:19+00:00"
+     "published": "2026-10-27T08:45:36+00:00",
+     "fetched": "2026-10-27T11:09:21+00:00"
     },
     {
-     "headline": "Stefan Djordjevic’s ‘Wind, Talk to Me’ Wins Best Film, Best Director and Best Debut at Adriatic Film & TV Awards",
-     "detail": "Serbian filmmaker Stefan Djordjevic’s documentary-drama “Wind, Talk to Me” won best film at the Adriatic Film & TV Awards on Saturday evening in Porto Montenegro, Tivat, Montenegro.",
-     "url": "https://variety.com/2026/film/global/stefan-djordjevic-wind-talk-to-me-adriatic-film-tv-awards-1236931100/",
+     "headline": "Netflix Docuseries ‘The One About Matthew Perry’ Is a Tragic, Mournful Portrait of Addiction: TV Review",
+     "detail": "There are not a lot of famous people in “The One About Matthew Perry.” None of the late actor’s “Friends” castmates sat for an interview for the three-part Netflix docuseries; neither did Perry’s longtime friend and “Simpsons” star Hank…",
+     "url": "https://variety.com/2026/tv/reviews/the-one-about-matthew-perry-review-netflix-1236931448/",
      "source_url": "https://variety.com/feed/",
-     "published": "2026-10-26T13:05:27+00:00",
-     "fetched": "2026-10-26T14:27:19+00:00"
+     "published": "2026-10-27T07:01:00+00:00",
+     "fetched": "2026-10-27T11:09:21+00:00"
     },
     {
-     "headline": "As His Doc ‘Rather’ Starts Streaming for Free on YouTube, Dan Rather Is More Concerned Than Ever About the Future of Journalism, Especially at CBS News: ‘The Wreckage Is Everywhere’ (EXCLUSIVE)",
-     "detail": "As Dan Rather turns 95 this Saturday — just days before the 2026 midterm elections — the recent documentary “Rather,” about both the newsman’s life and the modern state of journalism, couldn’t be more timely.",
-     "url": "https://variety.com/2026/tv/news/dan-rather-streaming-journalism-future-cbs-news-1236930962/",
+     "headline": "Donnie Iris, Pittsburgh’s Favorite Rocker, Who Scored Hits With the Jaggerz and as a Solo Artist, Dies at 83",
+     "detail": "Donnie Iris, regarded as Pittsburgh’s biggest hometown rock hero for a six-decade career that included hit singles in the 1960s and ’80s, died Monday at 83. He had been fighting bladder cancer for three years.",
+     "url": "https://variety.com/2026/music/obituaries-people-news/donnie-iris-dead-pittsburgh-rocker-jaggerz-rapper-ah-leah-1236931843/",
      "source_url": "https://variety.com/feed/",
-     "published": "2026-10-26T13:00:00+00:00",
-     "fetched": "2026-10-26T14:27:19+00:00"
+     "published": "2026-10-27T04:30:55+00:00",
+     "fetched": "2026-10-27T11:09:21+00:00"
     }
    ]
   },
@@ -200,48 +200,48 @@
    "key": "bloomberg",
    "name": "Bloomberg",
    "site": "bloomberg.com",
-   "summary": "Bloomberg's markets and business file is leading with Soybeans and Coffee Slump as Brazilian Election Hits Currency; Latest Oil Market News and Analysis for Oct. 26; US Natural Gas Plunges to Six-Month Low on Warm Weather Forecast.",
+   "summary": "Bloomberg's markets and business file is leading with Indonesia Bond Yield Hits Four-Year High as MSCI Risk, Oil Weigh; European Stocks Erase Losses as Iran Comments Feed Peace Hopes; Quebec’s La Caisse to Buy BCE Towers Stake for $1.7 Billion.",
    "note": null,
    "items": [
     {
-     "headline": "Soybeans and Coffee Slump as Brazilian Election Hits Currency",
-     "detail": "Major agricultural commodities slumped as President Luiz Inácio Lula da Silva’s surprise election win in Brazil hit the nation’s currency, boosting export prospects for the crop trading giant.",
-     "url": "https://www.bloomberg.com/news/articles/2026-10-26/soybeans-hit-2-month-low-as-lula-s-win-lifts-china-trade-outlook",
+     "headline": "Indonesia Bond Yield Hits Four-Year High as MSCI Risk, Oil Weigh",
+     "detail": "Indonesia’s 10-year government bond yield climbed to a four-year high and the rupiah weakened toward a record low as elevated oil prices and MSCI Inc.’s threat of a stocks downgrade hurt investor sentiment.",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-27/indonesia-10-year-yield-at-four-year-high-on-msci-risk-oil",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-26T03:18:39+00:00",
-     "fetched": "2026-10-26T14:27:20+00:00"
+     "published": "2026-10-27T06:52:38+00:00",
+     "fetched": "2026-10-27T11:09:21+00:00"
     },
     {
-     "headline": "Latest Oil Market News and Analysis for Oct. 26",
-     "detail": "Oil fell as top regional security officials flew to Tehran in a bid to defuse tensions and revive talks aimed at preventing a broader flare-up in the Middle East.",
-     "url": "https://www.bloomberg.com/news/articles/2026-10-25/latest-oil-market-news-and-analysis-for-oct-26",
+     "headline": "European Stocks Erase Losses as Iran Comments Feed Peace Hopes",
+     "detail": "European stocks erased earlier losses as hopes of renewed negotiations between the US and Iran to end their war offset disappointing earnings from benchmark heavyweight HSBC Holdings Plc.",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-27/european-stocks-pulled-lower-by-banks-as-hsbc-results-disappoint",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-25T22:04:00+00:00",
-     "fetched": "2026-10-26T14:27:20+00:00"
+     "published": "2026-10-27T08:18:07+00:00",
+     "fetched": "2026-10-27T11:09:21+00:00"
     },
     {
-     "headline": "US Natural Gas Plunges to Six-Month Low on Warm Weather Forecast",
-     "detail": "US natural gas futures plummeted as much as 5.4% to the lowest since April as forecasts shifted significantly warmer over the weekend, indicating lower demand for the furnace and power-plant fuel during the early weeks of the winter…",
-     "url": "https://www.bloomberg.com/news/articles/2026-10-26/us-natural-gas-plunges-to-six-month-low-on-warm-weather-forecast",
+     "headline": "Quebec’s La Caisse to Buy BCE Towers Stake for $1.7 Billion",
+     "detail": "Quebec’s public pension manager will buy a 49.9% interest in wireless towers owned by BCE Inc., a deal that will help the telecommunications firm pare its debt.",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-27/quebec-s-la-caisse-to-buy-bce-towers-stake-for-1-7-billion",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-26T13:58:39+00:00",
-     "fetched": "2026-10-26T14:27:20+00:00"
+     "published": "2026-10-27T10:47:35+00:00",
+     "fetched": "2026-10-27T11:09:21+00:00"
     },
     {
-     "headline": "CoreWeave Rout Sends Warning Sign to Rest of Stock Market",
-     "detail": "Wall Street strategists are warning that declines in shares of AI cloud-computing providers will spill into other corners of the tech trade, potentially dragging the US stock market down to its June lows.",
-     "url": "https://www.bloomberg.com/news/articles/2026-10-26/coreweave-rout-sends-warning-sign-to-rest-of-the-stock-market",
+     "headline": "GM to Move Stock Listing to Tech-Focused Nasdaq, Leaving NYSE",
+     "detail": "General Motors Co. plans to shift its stock listing to the Nasdaq Global Select Market from the New York Stock Exchange, positioning the old-school automaker as a tech-forward company as it embraces automated driving and electric vehicles.",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-27/gm-to-move-stock-listing-to-tech-focused-nasdaq-leaving-nyse",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-26T09:24:43+00:00",
-     "fetched": "2026-10-26T14:27:20+00:00"
+     "published": "2026-10-27T10:45:04+00:00",
+     "fetched": "2026-10-27T11:09:21+00:00"
     },
     {
-     "headline": "Belgian Deputy Prime Minister Open to BNP Paribas Stake Sale",
-     "detail": "Belgian Deputy Prime Minister David Clarinval sees the country’s 5.7% stake in BNP Paribas SA as non-strategic and suggested he would be open selling some or all of the holding.",
-     "url": "https://www.bloomberg.com/news/articles/2026-10-26/belgian-deputy-prime-minister-open-to-bnp-paribas-stake-sale",
+     "headline": "Guptas’ Johannesburg Homes on Sale as ‘Stigma’ Dampens Interest",
+     "detail": "Two multi million rand South African mansions owned by the Gupta brothers, a trio of India-born businessmen at the center of a corruption scandal that triggered the nation’s worst political and economic crisis since apartheid, are back on…",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-27/guptas-johannesburg-homes-on-sale-as-stigma-dampens-interest",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-26T13:56:56+00:00",
-     "fetched": "2026-10-26T14:27:20+00:00"
+     "published": "2026-10-27T10:36:25+00:00",
+     "fetched": "2026-10-27T11:09:21+00:00"
     }
    ]
   },
@@ -249,48 +249,48 @@
    "key": "bbc",
    "name": "BBC",
    "site": "bbc.com",
-   "summary": "The BBC's world news service is leading with Lula wins fourth term in dramatic Brazil election comeback; Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement; Anthropic warns of AI's 'risks to humanity' ahead of blockbuster share listing.",
+   "summary": "The BBC's world news service is leading with Turnout highest since 1981 as Israelis vote in pivotal election; Lula's comeback in Brazil dents Trump's ambitions for Latin America; Truce begins in Ukraine city where residents ate weeds to survive.",
    "note": null,
    "items": [
     {
-     "headline": "Lula wins fourth term in dramatic Brazil election comeback",
-     "detail": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
-     "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+     "headline": "Turnout highest since 1981 as Israelis vote in pivotal election",
+     "detail": "Many fear neither of the leading political blocs will win enough seats for a majority - meaning weeks or months of political wrangling may lie ahead.",
+     "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-     "published": "2026-10-26T13:54:21+00:00",
-     "fetched": "2026-10-26T14:27:20+00:00"
+     "published": "2026-10-27T10:14:00+00:00",
+     "fetched": "2026-10-27T11:09:22+00:00"
     },
     {
-     "headline": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-     "detail": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-     "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+     "headline": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
+     "detail": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
+     "url": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-     "published": "2026-10-26T12:52:16+00:00",
-     "fetched": "2026-10-26T14:27:20+00:00"
+     "published": "2026-10-27T01:46:38+00:00",
+     "fetched": "2026-10-27T11:09:22+00:00"
     },
     {
-     "headline": "Anthropic warns of AI's 'risks to humanity' ahead of blockbuster share listing",
-     "detail": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
-     "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+     "headline": "Truce begins in Ukraine city where residents ate weeds to survive",
+     "detail": "The ceasefire in Oleshky, secured by US First Lady Melania Trump, is meant to allow aid deliveries and the evacuation of civilians.",
+     "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-     "published": "2026-10-26T14:15:01+00:00",
-     "fetched": "2026-10-26T14:27:20+00:00"
+     "published": "2026-10-27T09:18:44+00:00",
+     "fetched": "2026-10-27T11:09:22+00:00"
     },
     {
-     "headline": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
-     "detail": "The R&B star previously pleaded guilty to affray, after attacking a music producer with a glass bottle.",
-     "url": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
+     "headline": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+     "detail": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
+     "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-     "published": "2026-10-26T14:16:09+00:00",
-     "fetched": "2026-10-26T14:27:20+00:00"
+     "published": "2026-10-27T02:40:17+00:00",
+     "fetched": "2026-10-27T11:09:22+00:00"
     },
     {
-     "headline": "US Marine indicted for murder and robbery of woman in Japan",
-     "detail": "Prosecutors have indicted Devin Jacob Ballard for a killing that has caused outrage in Japan, local media reports.",
-     "url": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
+     "headline": "Ex-FBI chief James Comey faces federal charges for third time",
+     "detail": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
+     "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
      "source_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-     "published": "2026-10-26T14:13:18+00:00",
-     "fetched": "2026-10-26T14:27:20+00:00"
+     "published": "2026-10-27T02:01:27+00:00",
+     "fetched": "2026-10-27T11:09:22+00:00"
     }
    ]
   },
@@ -298,48 +298,48 @@
    "key": "france24",
    "name": "France 24",
    "site": "france24.com",
-   "summary": "France 24's English service, reporting from Paris on Europe, Africa and the Middle East is leading with Tens of thousands of Israelis living abroad expected to fly in for pivotal vote; Serbia's Vucic concedes defeat to the student-led movement: What's next?; Lula wins fourth term: What are the reactions in Brazil?.",
+   "summary": "France 24's English service, reporting from Paris on Europe, Africa and the Middle East is leading with Syria slams deadly Jordan strikes as ‘unacceptable’ breach of airspace; Jordan launches airstrikes in Syria after church attack; Palestinians in West Bank fear further escalation of violence if Netanyahu remains PM.",
    "note": null,
    "items": [
     {
-     "headline": "Tens of thousands of Israelis living abroad expected to fly in for pivotal vote",
-     "detail": "Israelis are preparing to head to the polls on Tuesday (October 27). Unable to vote from abroad, tens of thousands of expatriate citizens have been flying in from across the world to cast their ballots.",
-     "url": "https://www.france24.com/en/tens-of-thousands-of-israelis-living-abroad-expected-to-fly-in-for-pivotal-vote",
+     "headline": "Syria slams deadly Jordan strikes as ‘unacceptable’ breach of airspace",
+     "detail": "Syria's foreign ministry on Tuesday condemned Jordanian strikes in southern Syria in retaliation for a deadly church attack in the kingdom last week that Amman linked to militants operating across the border.",
+     "url": "https://www.france24.com/en/middle-east/20261027-syria-slams-deadly-jordan-strikes-as-unacceptable-breach-of-airspace",
      "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-10-26T14:20:51+00:00",
-     "fetched": "2026-10-26T14:27:20+00:00"
+     "published": "2026-10-27T11:02:18+00:00",
+     "fetched": "2026-10-27T11:09:22+00:00"
     },
     {
-     "headline": "Serbia's Vucic concedes defeat to the student-led movement: What's next?",
-     "detail": "Serbia's student-led protest movement won a historic victory in parliamentary ⁠election, ending the ​long rule of Aleksandar Vucic and sparking mass celebrations. But their yet-to-be named leaders face a long list of issues.",
-     "url": "https://www.france24.com/en/serbia-s-vucic-concedes-defeat-to-the-student-led-movement-what-s-next",
+     "headline": "Jordan launches airstrikes in Syria after church attack",
+     "detail": "Jordan carried out airstrikes Monday (October 27) evening against armed groups in Syria in retaliation for Friday’s attack on a Greek Orthodox Church in the southern Jordanian city of Karak that killed nine people, the Jordanian air force…",
+     "url": "https://www.france24.com/en/jordan-launches-airstrikes-in-syria-after-church-attack",
      "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-10-26T14:12:08+00:00",
-     "fetched": "2026-10-26T14:27:20+00:00"
+     "published": "2026-10-27T10:59:14+00:00",
+     "fetched": "2026-10-27T11:09:22+00:00"
     },
     {
-     "headline": "Lula wins fourth term: What are the reactions in Brazil?",
-     "detail": "Brazil's leftist President Luiz Inacio Lula da Silva was re-elected against all expectations on Sunday (October 25), but his conservative rival Flavio Bolsonaro refused to accept the loss and said he would seek to have the vote annulled.",
-     "url": "https://www.france24.com/en/lula-wins-fourth-term-what-are-the-reactions-in-brazil",
+     "headline": "Palestinians in West Bank fear further escalation of violence if Netanyahu remains PM",
+     "detail": "Ramallah residents say they hope to see Israeli Prime Minister Benjamin Netanyahu lose power in elections.",
+     "url": "https://www.france24.com/en/palestinians-in-west-bank-fear-further-escalation-of-violence-if-netanyahu-remains-pm",
      "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-10-26T14:04:39+00:00",
-     "fetched": "2026-10-26T14:27:20+00:00"
+     "published": "2026-10-27T10:50:46+00:00",
+     "fetched": "2026-10-27T11:09:22+00:00"
     },
     {
-     "headline": "Bolsonaro's refusal to concede underscores ‘serious’ challenges to Brazil's democratic institutions",
-     "detail": "Annette Young is pleased to welcome Dr Pedro Perfeito da Silva, Latin American specialist at the University of Exeter.",
-     "url": "https://www.france24.com/en/bolsonaro-s-refusal-to-concede-underscores-serious-challenges-to-brazil-s-democratic-institutions",
+     "headline": "Israelis vote in first national election since October 7 attack",
+     "detail": "Israelis are voting in a pivotal election Tuesday (October 27) as their country wrestles with unresolved wars, continues to reel from Hamas' 2023 attack and is deeply divided over the character of the state and the right person to lead it.",
+     "url": "https://www.france24.com/en/israelis-vote-in-first-national-election-since-october-7-attack",
      "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-10-26T13:53:15+00:00",
-     "fetched": "2026-10-26T14:27:20+00:00"
+     "published": "2026-10-27T10:41:42+00:00",
+     "fetched": "2026-10-27T11:09:22+00:00"
     },
     {
-     "headline": "Will Netanyahu's security promise win him this election?",
-     "detail": "Since the beginning of his political career, Benjamin Netanyahu, Israel's longest-serving prime minister, has campaigned on a promise that he is the only one who will keep the Jewish state safe.",
-     "url": "https://www.france24.com/en/video/20261026-will-netanyahu-s-security-promise-win-him-this-election",
+     "headline": "Anthropic files for mammoth IPO as revenues and losses mount",
+     "detail": "US artificial intelligence giant Anthropic files public regulatory paperwork as it gets set to launch on the stock market.",
+     "url": "https://www.france24.com/en/tv-shows/business/20261027-anthropic-files-for-mammoth-ipo-as-revenues-and-losses-mount",
      "source_url": "https://www.france24.com/en/rss",
-     "published": "2026-10-26T13:52:32+00:00",
-     "fetched": "2026-10-26T14:27:20+00:00"
+     "published": "2026-10-27T10:20:34+00:00",
+     "fetched": "2026-10-27T11:09:22+00:00"
     }
    ]
   },
@@ -347,48 +347,48 @@
    "key": "aljazeera",
    "name": "Al Jazeera",
    "site": "aljazeera.com",
-   "summary": "Al Jazeera English, with strong Middle East and Africa coverage is leading with The Price of Protest; US foreign aid to Israel highlighted in campaign ad in support of El-Sayed; Israel expands expulsions in occupied West Bank to cement control.",
+   "summary": "Al Jazeera English, with strong Middle East and Africa coverage is leading with Robert F Kennedy Jr. says Arabs don’t produce science or literature; Media groups challenge India’s privacy law at top court; Families of victims killed in Jordanian strike deny links to church attack.",
    "note": null,
    "items": [
     {
-     "headline": "The Price of Protest",
-     "detail": "What does it cost an athlete to take a stand?",
-     "url": "https://www.aljazeera.com/video/game-theory/2026/10/26/the-price-of-protest?traffic_source=rss",
+     "headline": "Robert F Kennedy Jr. says Arabs don’t produce science or literature",
+     "detail": "US Secretary of Health Robert F Kennedy Jr. has said that Arabs don’t produce science, literature, or win Nobel prizes.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/robert-f-kennedy-jr-says-arabs-dont-produce-science-or-literature?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
-     "published": "2026-10-26T14:01:08+00:00",
-     "fetched": "2026-10-26T14:27:20+00:00"
+     "published": "2026-10-27T10:56:38+00:00",
+     "fetched": "2026-10-27T11:09:22+00:00"
     },
     {
-     "headline": "US foreign aid to Israel highlighted in campaign ad in support of El-Sayed",
-     "detail": "A new political campaign ad in support of US Senate candidate Abdul El-Sayed is generating conversation online.",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/us-foreign-aid-to-israel-highlighted-in-campaign-ad-in-support-of-el-sayed?traffic_source=rss",
+     "headline": "Media groups challenge India’s privacy law at top court",
+     "detail": "News organisations are challenging the law, arguing it could hamper investigative journalism and endanger sources.",
+     "url": "https://www.aljazeera.com/news/2026/10/27/media-groups-challenge-indias-privacy-law-at-top-court?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
-     "published": "2026-10-26T13:20:23+00:00",
-     "fetched": "2026-10-26T14:27:20+00:00"
+     "published": "2026-10-27T10:56:22+00:00",
+     "fetched": "2026-10-27T11:09:22+00:00"
     },
     {
-     "headline": "Israel expands expulsions in occupied West Bank to cement control",
-     "detail": "Israel escalates forced expulsions and infrastructure destruction with the goal of imposing 'new reality', analysts say.",
-     "url": "https://www.aljazeera.com/news/2026/10/26/israel-expands-occupied-west-bank-expulsions-to-cement-control?traffic_source=rss",
+     "headline": "Families of victims killed in Jordanian strike deny links to church attack",
+     "detail": "Jordan said it targeted ‘terrorist hideouts’ in Syria, but relatives of those killed deny any link to last week’s church",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/families-of-victims-killed-in-jordanian-strike-deny-links-to-church-attack?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
-     "published": "2026-10-26T13:11:08+00:00",
-     "fetched": "2026-10-26T14:27:20+00:00"
+     "published": "2026-10-27T10:52:48+00:00",
+     "fetched": "2026-10-27T11:09:22+00:00"
     },
     {
-     "headline": "Who are the Israeli candidates trying to unseat Netanyahu?",
-     "detail": "Who are the Israeli candidates trying to unseat Netanyahu?",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/who-are-the-israeli-candidates-trying-to-unseat-netanyahu?traffic_source=rss",
+     "headline": "Why Jordan has struck Syria: What we know",
+     "detail": "Syria says Jordan did not coordinate with Damascus before launching operation in rural Deraa and Suwayda.",
+     "url": "https://www.aljazeera.com/news/2026/10/27/why-jordan-has-struck-syria-what-we-know?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
-     "published": "2026-10-26T13:02:29+00:00",
-     "fetched": "2026-10-26T14:27:20+00:00"
+     "published": "2026-10-27T10:46:53+00:00",
+     "fetched": "2026-10-27T11:09:22+00:00"
     },
     {
-     "headline": "How did Lula beat Bolsonaro after losing Brazil’s first-round election?",
-     "detail": "Brazil's president secured a historic fourth term after overturning a first-round defeat.",
-     "url": "https://www.aljazeera.com/news/2026/10/26/how-did-lula-beat-bolsonaro-after-losing-brazils-first-round-election?traffic_source=rss",
+     "headline": "Iran says US ‘not serious’ about talks amid Tehran meeting",
+     "detail": "Officials from Iran, Pakistan, Turkiye and Saudi Arabia held talks in Tehran in an effort to stop further escalation.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iran-says-us-not-serious-about-talks-amid-tehran-meeting?traffic_source=rss",
      "source_url": "https://www.aljazeera.com/xml/rss/all.xml",
-     "published": "2026-10-26T13:02:22+00:00",
-     "fetched": "2026-10-26T14:27:20+00:00"
+     "published": "2026-10-27T10:36:54+00:00",
+     "fetched": "2026-10-27T11:09:22+00:00"
     }
    ]
   }
@@ -397,5 +397,5 @@
   "news.com.au",
   "theaustralian.com.au"
  ],
- "blocked_checked_at": "2026-10-26T14:27:22+00:00"
+ "blocked_checked_at": "2026-10-27T11:09:24+00:00"
 }

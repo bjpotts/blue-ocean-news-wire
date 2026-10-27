@@ -3,61 +3,70 @@
   {
    "key": "anz",
    "name": "ANZ",
-   "summary": "ANZ equity capital markets activity captured this run runs to 4 items, led by Wiluna Mining Corporation LimitedWMC — A$180M IPO. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "summary": "ANZ equity capital markets activity captured this run runs to 4 items, led by StockTake: Jacaranda Natural Resources prepares for ASX debut. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
    "fresh_count": 4,
    "items": [
     {
-     "headline": "Wiluna Mining Corporation LimitedWMC — A$180M IPO",
-     "detail": "Upcoming Mineral exploration, development, and production IPO raising A$180M at $0.650, expected to list Thursday, October 22, 2026 (stage: OPEN).",
-     "url": "https://www.wilunamining.com.au/",
-     "outlet": "Small Caps",
-     "source_url": "https://smallcaps.com.au/",
-     "published": "2026-10-27T01:26:45.732382",
-     "fetched": "2026-10-26T14:26:45+00:00"
+     "headline": "StockTake: Jacaranda Natural Resources prepares for ASX debut",
+     "detail": "Tylah Tully looks at Jacaranda Natural Resources and its copper-gold portfolio as the company prepares for its first day of ... Read More",
+     "url": "https://stockhead.com.au/stockhead-tv/stocktake/stocktake-jacaranda-natural-resources-prepares-for-asx-debut/",
+     "outlet": "Stockhead",
+     "source_url": "https://stockhead.com.au/feed/",
+     "published": "2026-10-27T04:23:49+00:00",
+     "fetched": "2026-10-27T11:08:00+00:00"
     },
     {
-     "headline": "Jacaranda Natural Resources LimitedJRL — A$10M IPO",
-     "detail": "Upcoming Jacaranda is a mineral exploration company engaged in the acquisition, exploration and development of gold and copper projects. Upon listing, Jacaranda will hold a 100% interest in the White Cockatoo Project in Queensland, Australia and in the Globe, Nkwe and Motloutse Projects in Botswana. IPO raising A$10M at $0.200, expected to list Wednesday, October 28, 2026 (stage: OPEN).",
-     "url": "https://jacarandaresources.com/",
-     "outlet": "Small Caps",
-     "source_url": "https://smallcaps.com.au/",
-     "published": "2026-10-27T01:26:45.732428",
-     "fetched": "2026-10-26T14:26:45+00:00"
+     "headline": "StockTake: Victory secures spot in Australia’s critical minerals prospectus",
+     "detail": "Victory Metals’ North Stanmore project lands a spot in Australia’s critical minerals prospectus, opening doors to international investors. ... Read More",
+     "url": "https://stockhead.com.au/stockhead-tv/stocktake/stocktake-victory-secures-spot-in-australias-critical-minerals-prospectus/",
+     "outlet": "Stockhead",
+     "source_url": "https://stockhead.com.au/feed/",
+     "published": "2026-10-27T01:46:04+00:00",
+     "fetched": "2026-10-27T11:08:00+00:00"
     },
     {
-     "headline": "Capability X LimitedCX8 — A$12M IPO",
-     "detail": "Upcoming Development of remote and autonomous technology solutions designed to improve risk management, safety and operational efficiency across marine, ports, rail and industrial environments. IPO raising A$12M at $0.200, expected to list Thursday, November 12, 2026 (stage: OPEN).",
-     "url": "https://www.capabilityx.com/",
-     "outlet": "Small Caps",
-     "source_url": "https://smallcaps.com.au/",
-     "published": "2026-10-27T01:26:45.732451",
-     "fetched": "2026-10-26T14:26:45+00:00"
+     "headline": "Codeifai opens AWS Marketplace sales channel for ProtectCode QR generator",
+     "detail": "The company says customers can discover the listing, subscribe through an existing Amazon Web Services account and gain access to ... Read More",
+     "url": "https://stockhead.com.au/tech/codeifai-opens-aws-marketplace-sales-channel-for-protectcode-qr-generator/",
+     "outlet": "Stockhead",
+     "source_url": "https://stockhead.com.au/feed/",
+     "published": "2026-10-27T00:08:50+00:00",
+     "fetched": "2026-10-27T11:08:00+00:00"
     },
     {
-     "headline": "Maverick Uranium LimitedMAV — A$8M IPO",
-     "detail": "Upcoming Mining exploration (uranium) IPO raising A$8M at $0.200, expected to list Thursday, November 12, 2026 (stage: OPEN).",
-     "url": "https://www.maverickuranium.com.au/",
+     "headline": "NGX Raising $3.6m to Fund Acquisition of Namibian Gold and Copper Licences",
+     "detail": "NGX completes $3.6m placement to fund a Namibian push, with agreements to acquire stakes in seven gold licences and a copper project.",
+     "url": "https://smallcaps.com.au/article/ngx-raising-dollar36m-to-fund-acquisition-of-namibian-gold-and-copper-licences",
      "outlet": "Small Caps",
-     "source_url": "https://smallcaps.com.au/",
-     "published": "2026-10-27T01:26:45.732466",
-     "fetched": "2026-10-26T14:26:45+00:00"
+     "source_url": "https://smallcaps.com.au/feed",
+     "published": "2026-10-27T03:46:53+00:00",
+     "fetched": "2026-10-27T11:08:00+00:00"
     }
    ]
   },
   {
    "key": "asia",
    "name": "Asia (Japan/Singapore/Hong Kong/China)",
-   "summary": "Asia (Japan/Singapore/Hong Kong/China) equity capital markets activity captured this run runs to 4 items, led by The Weeknd’s ‘Hong Kong’ captures nostalgia for bygone era, video director says. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
-   "fresh_count": 1,
+   "summary": "Asia (Japan/Singapore/Hong Kong/China) equity capital markets activity captured this run runs to 3 items, led by Rental income prospects boost grade A office market in Hong Kong’s core districts. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "fresh_count": 2,
    "items": [
     {
-     "headline": "The Weeknd’s ‘Hong Kong’ captures nostalgia for bygone era, video director says",
-     "detail": "A new viral song by Canadian singer The Weeknd, “Hong Kong”, is a love letter to the city, the director of the accompanying video has said, adding that he believes nostalgia for the late 1980s and early 1990s era is the secret ingredient…",
-     "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372168/weeknds-hong-kong-captures-nostalgia-bygone-era-video-director-says",
+     "headline": "Rental income prospects boost grade A office market in Hong Kong’s core districts",
+     "detail": "The relatively swift recovery of Hong Kong’s grade A office market has spurred some owners of properties in prime locations to accelerate the listing of their assets, analysts said.",
+     "url": "https://www.scmp.com/business/article/3372289/rental-income-prospects-boost-grade-office-market-hong-kongs-core-districts",
      "outlet": "South China Morning Post",
-     "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-10-26T09:12:48+00:00",
-     "fetched": "2026-10-26T14:26:46+00:00"
+     "source_url": "https://www.scmp.com/rss/92/feed",
+     "published": "2026-10-27T09:00:08+00:00",
+     "fetched": "2026-10-27T11:08:39+00:00"
+    },
+    {
+     "headline": "Hong Kong market faces fundraising test after fourth IPO pulled since midyear",
+     "detail": "Hong Kong’s fundraising market is now facing a severe test, as the last-minute halt of two initial public offerings (IPOs) within a week raises concerns over investor appetite amid market volatility and stricter regulation, analysts say.",
+     "url": "https://www.scmp.com/business/banking-finance/article/3372196/hong-kong-market-faces-fundraising-test-after-fourth-ipo-pulled-midyear",
+     "outlet": "South China Morning Post",
+     "source_url": "https://www.scmp.com/rss/92/feed",
+     "published": "2026-10-27T02:00:09+00:00",
+     "fetched": "2026-10-27T11:08:39+00:00"
     },
     {
      "headline": "Dongshan Precision retail IPO undersubscribed as Hong Kong mega listing flops: sources",
@@ -66,121 +75,121 @@
      "outlet": "South China Morning Post",
      "source_url": "https://www.scmp.com/rss/92/feed",
      "published": "2026-10-23T11:01:11+00:00",
-     "fetched": "2026-10-26T14:26:46+00:00"
-    },
-    {
-     "headline": "Hong Kong sees last-minute IPO cancellations amid increased regulatory checks, weak market",
-     "detail": "Hong Kong’s tougher oversight and weak investor demand have put many mainland China issuers in a dilemma, forcing many small-cap non-technology firms to delay their fundraising plans or even cancel them at the last minute, according to…",
-     "url": "https://www.scmp.com/business/banking-finance/article/3371641/hong-kong-sees-last-minute-ipo-cancellations-amid-increased-regulatory-checks-weak-market",
-     "outlet": "South China Morning Post",
-     "source_url": "https://www.scmp.com/rss/92/feed",
-     "published": "2026-10-21T09:01:10+00:00",
-     "fetched": "2026-10-26T14:26:46+00:00"
-    },
-    {
-     "headline": "Hong Kong proposes more homes, less office space at Hung Hom harbourfront",
-     "detail": "Hong Kong authorities have proposed raising the residential share of a Hung Hom harbourfront development to more than 60 per cent by cutting commercial floor space, citing “strong doubts” over market demand for offices.",
-     "url": "https://www.scmp.com/news/hong-kong/society/article/3372204/hong-kong-proposes-more-homes-less-office-space-hung-hom-harbourfront",
-     "outlet": "South China Morning Post",
-     "source_url": "https://www.scmp.com/rss/91/feed",
-     "published": "2026-10-26T14:04:32+00:00",
-     "fetched": "2026-10-26T14:26:46+00:00"
+     "fetched": "2026-10-27T11:08:39+00:00"
     }
    ]
   },
   {
    "key": "us",
    "name": "US",
-   "summary": "US equity capital markets activity captured this run runs to 4 items, led by The IPO Buzz: Aspen Neuroscience (ASPE Proposed) Sets Terms for $150 Million IPO. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "summary": "US equity capital markets activity captured this run runs to 4 items, led by The IPO Buzz: Anthropic (ANT Proposed) Files its S-1. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
    "fresh_count": 4,
    "items": [
     {
-     "headline": "The IPO Buzz: Aspen Neuroscience (ASPE Proposed) Sets Terms for $150 Million IPO",
-     "detail": "Aspen Neuroscience, Inc. (ASPE Proposed), a Phase 1/2a biotech targeting Parkinson’s Disease, unveiled the terms for its $150 million IPO early today – Monday, Oct. 26, 2026.",
-     "url": "https://www.iposcoop.com/the-ipo-buzz-aspen-neuroscience-aspe-proposed-sets-terms-for-150-million-ipo/",
+     "headline": "The IPO Buzz: Anthropic (ANT Proposed) Files its S-1",
+     "detail": "Anthropic (ANT Proposed) pulled back the curtain on its IPO by filing its long-awaited S-1 this morning – Monday, Oct. 26, 2026.",
+     "url": "https://www.iposcoop.com/the-ipo-buzz-anthropic-ant-proposed-files-its-s-1/",
      "outlet": "IPOScoop",
      "source_url": "https://www.iposcoop.com/feed/",
-     "published": "2026-10-26T13:20:54+00:00",
-     "fetched": "2026-10-26T14:26:48+00:00"
+     "published": "2026-10-26T15:36:45+00:00",
+     "fetched": "2026-10-27T11:08:41+00:00"
     },
     {
-     "headline": "The IPO Buzz: Bambusa Therapeutics (BBTX Proposed) Launches $150 Million IPO",
-     "detail": "Bambusa Therapeutics (BBTX Proposed), a clinical biotech developing drugs to treat atopic dermatitis (“AD”) and COPD, set the terms and launched its $150 million IPO early today – Monday, Oct.",
-     "url": "https://www.iposcoop.com/the-ipo-buzz-bambusa-therapeutics-bbtx-proposed-launches-150-million-ipo/",
+     "headline": "The IPO Buzz: OPay Ltd. (OPAY Proposed) of Nigeria Launches $320 Million IPO",
+     "detail": "OPay Ltd. (OPAY Proposed), the parent of Nigeria’s No. 1 digital banking platform, disclosed the terms for its $320 million IPO after the closing bell on Friday, Oct. 23, 2026. SoftBank-backed OPay Ltd.",
+     "url": "https://www.iposcoop.com/the-ipo-buzz-opay-ltd-opay-proposed-of-nigeria-launches-320-million-ipo/",
      "outlet": "IPOScoop",
      "source_url": "https://www.iposcoop.com/feed/",
-     "published": "2026-10-26T12:01:19+00:00",
-     "fetched": "2026-10-26T14:26:48+00:00"
+     "published": "2026-10-24T00:18:50+00:00",
+     "fetched": "2026-10-27T11:08:41+00:00"
     },
     {
-     "headline": "The IPO Buzz: The Waiting Game",
-     "detail": "The IPO market is playing the waiting game. IPO investors are anticipating Anthropic’s blockbuster filing – possibly by the end of the week. The IPO Calendar shows no large IPOs on tap for the week of Oct. 19, 2026.",
-     "url": "https://www.iposcoop.com/the-ipo-buzz-the-waiting-game-2/",
+     "headline": "The IPO Buzz: Lycia Therapeutics (LYCA) Upsizes IPO & Prices it at $18 Top – & Stock Pops",
+     "detail": "Lycia Therapeutics (LYCA) upsized its IPO at pricing to 17.64 million shares – up from 14.7 million shares in the prospectus – and priced its IPO at $18.00 – the top of its range – to raise $317.52 million on Thursday night, Oct. 22, 2026.",
+     "url": "https://www.iposcoop.com/the-ipo-buzz-lycia-therapeutics-lyca-upsizes-ipo-prices-deal-at-18-top-of-range/",
      "outlet": "IPOScoop",
      "source_url": "https://www.iposcoop.com/feed/",
-     "published": "2026-10-19T04:11:27+00:00",
-     "fetched": "2026-10-26T14:26:48+00:00"
+     "published": "2026-10-23T00:02:05+00:00",
+     "fetched": "2026-10-27T11:08:41+00:00"
     },
     {
-     "headline": "The IPO Buzz: TCGX Acquisition II (TCXB) Gains 12 Percent in its NASDAQ Debut",
-     "detail": "Jump shot: TCGX Acquisition Corp. II (TCXB) – a stock-only SPAC – opened at $11.20 – up 12 percent for a gain of $1.20 from its $10.00 price – in its NASDAQ debut today – Friday, Oct. 16, 2026.",
-     "url": "https://www.iposcoop.com/the-ipo-buzz-tcgx-acquisition-ii-tcxb-gains-12-percent-in-its-nasdaq-debut/",
+     "headline": "The IPO Buzz: Lycia Therapeutics (LYCA Proposed) Sets Terms for $250 Million IPO",
+     "detail": "Lycia Therapeutics (LYCA Proposed), a Phase 1 biotech targeting allergies and Graves’ disease, set the terms for its $250 million IPO early today – Tuesday, Oct. 20, 2026.",
+     "url": "https://www.iposcoop.com/the-ipo-buzz-lycia-therapeutics-lyca-proposed-sets-terms-for-250-million-ipo/",
      "outlet": "IPOScoop",
      "source_url": "https://www.iposcoop.com/feed/",
-     "published": "2026-10-16T15:34:04+00:00",
-     "fetched": "2026-10-26T14:26:48+00:00"
+     "published": "2026-10-20T10:57:05+00:00",
+     "fetched": "2026-10-27T11:08:41+00:00"
     }
    ]
   },
   {
    "key": "uk",
    "name": "UK",
-   "summary": "UK equity capital markets activity captured this run runs to 3 items, led by Sheikh Mansour doubles down on Manchester City with £100m injection despite legal row. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "summary": "UK equity capital markets activity captured this run runs to 3 items, led by Aquis firm scraps failed Bitcoin treasury strategy after admitting ‘challenges’. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
    "fresh_count": 3,
    "items": [
     {
-     "headline": "Sheikh Mansour doubles down on Manchester City with £100m injection despite legal row",
-     "detail": "Sheikh Mansour has reaffirmed his commitment to City Football Group despite Manchester City’s ongoing legal battle with the Premier League by investing a further £100m.",
-     "url": "https://www.cityam.com/sheikh-mansour-doubles-down-on-manchester-city-with-100m-injection-despite-legal-row/",
+     "headline": "Aquis firm scraps failed Bitcoin treasury strategy after admitting ‘challenges’",
+     "detail": "An Aquis-listed firm will no longer allow shareholders direct exposure to Bitcoin after admitting the strategy damaged its balance sheet.",
+     "url": "https://www.cityam.com/aquis-firm-scraps-failed-bitcoin-treasury-strategy-after-admitting-challenges/",
      "outlet": "City A.M.",
-     "source_url": "https://www.cityam.com/feed/",
-     "published": "2026-10-26T13:28:14+00:00",
-     "fetched": "2026-10-26T14:26:54+00:00"
+     "source_url": "https://www.cityam.com/category/markets/feed/",
+     "published": "2026-10-23T07:46:57+00:00",
+     "fetched": "2026-10-27T11:08:47+00:00"
     },
     {
-     "headline": "Plus500 finance chief says US listing ‘always on table’",
-     "detail": "The finance boss of Plus500 has said a US listing is “always on the table” as the fintech firm turns to North America for its next phase of growth.",
-     "url": "https://www.cityam.com/plus500-finance-chief-says-us-listing-always-on-table/",
+     "headline": "Starling founder Anne Boden offloads stake at slashed £1.7bn valuation",
+     "detail": "Starling founder has offloaded her remaining stake in the UK fintech at a valuation far below the price the firm was targeting in its latest secondary share sale.",
+     "url": "https://www.cityam.com/starling-founder-anne-boden-offloads-stake-at-slashed-1-7bn-valuation/",
      "outlet": "City A.M.",
-     "source_url": "https://www.cityam.com/feed/",
-     "published": "2026-10-26T11:51:55+00:00",
-     "fetched": "2026-10-26T14:26:54+00:00"
+     "source_url": "https://www.cityam.com/category/markets/feed/",
+     "published": "2026-10-20T11:58:34+00:00",
+     "fetched": "2026-10-27T11:08:47+00:00"
     },
     {
-     "headline": "Healey must beware the ripple effects of Britain’s messy tax system",
-     "detail": "A good tax system isn’t just about raising revenue, it's about encouraging the behaviours (working, saving, investing) that create a prosperous economy.",
-     "url": "https://www.cityam.com/healey-must-beware-the-ripple-effects-of-britains-messy-tax-system/",
+     "headline": "Meta unveils $95bn share sale as AI spending drains cash reserves",
+     "detail": "Meta has announced plans to raise up to $95bn (£71bn) through share sales to fund its AI expansion, as soaring infrastructure costs put pressure on the Facebook owner’s cash flow.",
+     "url": "https://www.cityam.com/meta-unveils-95bn-share-sale-as-ai-spending-drains-cash-reserves/",
      "outlet": "City A.M.",
      "source_url": "https://www.cityam.com/feed/",
-     "published": "2026-10-26T10:24:26+00:00",
-     "fetched": "2026-10-26T14:26:54+00:00"
+     "published": "2026-10-26T18:01:35+00:00",
+     "fetched": "2026-10-27T11:08:50+00:00"
     }
    ]
   },
   {
    "key": "europe",
    "name": "Europe",
-   "summary": "A single verifiable equity capital markets item was found for Europe this run: US Stocks Gain as Investors Parse Anthropic IPO Filing. No newer capital markets item has been reported for Europe since the last edition, so the same verified item(s) are carried forward.",
-   "fresh_count": 0,
+   "summary": "Europe equity capital markets activity captured this run runs to 3 items, led by GM to Move Stock Listing to Tech-Focused Nasdaq, Leaving NYSE. The remaining items cover the rest of the region's placement, offering and new listing flow as reported by the linked sources.",
+   "fresh_count": 3,
    "items": [
     {
-     "headline": "US Stocks Gain as Investors Parse Anthropic IPO Filing",
-     "detail": "US stocks gained on Monday as investors digest Anthropic PBC’s filing for its initial public offering and look forward to key big tech earnings this week as well as the Federal Reserve’s next decision on Wednesday.",
-     "url": "https://www.bloomberg.com/news/articles/2026-10-26/us-stock-futures-gain-ahead-of-big-tech-earnings-fed-decision",
+     "headline": "GM to Move Stock Listing to Tech-Focused Nasdaq, Leaving NYSE",
+     "detail": "General Motors Co. plans to shift its stock listing to the Nasdaq Global Select Market from the New York Stock Exchange, positioning the old-school automaker as a tech-forward company as it embraces automated driving and electric vehicles.",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-27/gm-to-move-stock-listing-to-tech-focused-nasdaq-leaving-nyse",
      "outlet": "Bloomberg",
      "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-     "published": "2026-10-26T12:38:56+00:00",
-     "fetched": "2026-10-26T14:26:55+00:00"
+     "published": "2026-10-27T10:45:04+00:00",
+     "fetched": "2026-10-27T11:08:54+00:00"
+    },
+    {
+     "headline": "Anthropic Gives Traders a Pure-Play Bet on Frontier AI",
+     "detail": "The mega IPO is the talk of Wall Street.",
+     "url": "https://www.bloomberg.com/news/newsletters/2026-10-27/anthropic-gives-traders-a-pure-play-bet-on-frontier-ai",
+     "outlet": "Bloomberg",
+     "source_url": "https://feeds.bloomberg.com/markets/news.rss",
+     "published": "2026-10-27T10:35:19+00:00",
+     "fetched": "2026-10-27T11:08:54+00:00"
+    },
+    {
+     "headline": "US Futures Waver as AI Optimism Wanes Before Fed: Markets Wrap",
+     "detail": "The burst of enthusiasm that followed Anthropic PBC’s filing for an initial public offering lost some momentum on Tuesday, with US equity futures stalling as traders turned their attention back to a busy earnings slate, the upcoming…",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-26/stock-market-today-dow-s-p-live-updates",
+     "outlet": "Bloomberg",
+     "source_url": "https://feeds.bloomberg.com/markets/news.rss",
+     "published": "2026-10-26T22:03:56+00:00",
+     "fetched": "2026-10-27T11:08:54+00:00"
     }
    ]
   },
